@@ -16,8 +16,8 @@ export default function Sidebar() {
 
   const navItems = [
     { icon: "✦", label: "精选", href: "/", active: true },
-    { icon: "☰", label: "全部动态", href: "/all" },
-    { icon: "⊞", label: "信源管理", href: "/sources" },
+    // { icon: "☰", label: "全部动态", href: "/all" },
+    // { icon: "⊞", label: "信源管理", href: "/sources" },
   ];
 
   return (
