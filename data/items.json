@@ -1,5 +1,1302 @@
 [
   {
+    "id": "b11rclpkeusq4lxukif28o7t",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917348.html",
+    "title": "没想到，腾讯这款自走棋还在“颠覆”自己",
+    "titleZh": "腾讯自走棋新赛季颠覆自我",
+    "summaryZh": "腾讯旗下自走棋游戏新赛季更新带来颠覆性改动，让资深玩家感叹“还能这样改？”，展现了游戏持续创新的决心。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.443Z",
+    "fetchedAt": "2026-05-16T15:55:41.387Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "自走棋品类创新案例，对研发和运营有启发",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "goes1plnmoweoibkiodr938u",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917339.html",
+    "title": "武侠或许是都市大世界题材游戏的另一种选择？",
+    "titleZh": "武侠或成都市大世界新选择",
+    "summaryZh": "《剑隐侠踪录》封测体验引发思考：武侠题材能否为都市大世界游戏提供差异化路径？探讨其市场潜力与设计创新。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.443Z",
+    "fetchedAt": "2026-05-16T15:55:43.973Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "视角独特，为都市大世界品类提供武侠融合新思路，对研发有启发",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "mvlkkv3dzjz5k8j06prng4ep",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917332.html",
+    "title": "48小时大卖50万份：海盗题材《风启之旅》凭什么能行？",
+    "titleZh": "《风启之旅》48小时大卖50万份",
+    "summaryZh": "海盗题材游戏《风启之旅》融合生存模拟建造系统，48小时内销量突破50万份，引发行业关注。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.443Z",
+    "fetchedAt": "2026-05-16T15:55:46.178Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "销量数据亮眼，玩法创新值得关注",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "relp331mfzbui0r4zqhmcl9k",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917306.html",
+    "title": "4月20日—4月26日共有18款游戏开测｜GameRes",
+    "titleZh": "4月20日-26日18款游戏开测",
+    "summaryZh": "GameRes统计2026年4月20日至26日最新手游开测信息，共18款游戏，为从业者提供测试动态参考。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.443Z",
+    "fetchedAt": "2026-05-16T15:55:48.468Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 8,
+      "uniqueness": 4,
+      "usefulness": 7,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "开测信息对研发和发行有直接参考价值，时效性强，实用度高。",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ukf1ey7cbkz368th3kvz6is1",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917304.html",
+    "title": "“联合开发+自研”双业务结构有发展优势吗？我们跟吴棣聊了聊",
+    "titleZh": "联合开发与自研双业务模式探讨",
+    "summaryZh": "文章探讨了“联合开发+自研”双业务结构的优势，通过品牌分工实现与优秀团队合作及自主创意表达，为游戏公司提供发展新思路。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.443Z",
+    "fetchedAt": "2026-05-16T15:55:51.068Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 5,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 29,
+      "finalScore": 29,
+      "reason": "双业务结构分析对研发和发行有实操参考，值得一读。",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "g4mcr7wkv5ppj1dvthjhgu9i",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917447.html",
+    "title": "挺过风波后，《尘白禁区》迎来了“新生”",
+    "titleZh": "尘白禁区风波后重生",
+    "summaryZh": "《尘白禁区》宣布将于5月8日14:00开放服务器，并同步开启限时活动「暖风拂境」，标志着游戏在经历风波后迎来新生。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.442Z",
+    "fetchedAt": "2026-05-16T15:55:26.110Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 3,
+      "totalScore": 25,
+      "finalScore": 27,
+      "reason": "产品动态有参考价值，但信息较简略",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "o9xhhkvvunt6ezfn7amfwywu",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917440.html",
+    "title": "少女前线十周年与散爆的“二次元射击”野心",
+    "titleZh": "少女前线十周年与散爆射击野心",
+    "summaryZh": "少女前线十周年音乐嘉年华上，玩家高呼CEO羽中，散爆展示二次元射击新作野心，引发行业关注。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.442Z",
+    "fetchedAt": "2026-05-16T15:55:28.754Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "二次元射击赛道新动向，从业者值得关注",
+      "tags": [
+        "公司",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "amgzfxdj19688t04jswteg8e",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917439.html",
+    "title": "手握IP价值为何钟情独游市场？这些大版权方打的什么主意",
+    "titleZh": "大IP方为何青睐独游",
+    "summaryZh": "日本IP版权方正积极进军游戏产业，并重点发力独立游戏市场，意图通过独游挖掘IP价值。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.442Z",
+    "fetchedAt": "2026-05-16T15:55:31.185Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 36,
+      "finalScore": 34,
+      "reason": "独游市场成IP新战场，从业者需关注合作机会",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "4myy0nfys5y5hkksrs1opmia",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917390.html",
+    "title": "PC与主机游戏收益破局：解锁厂商收入增长新密码",
+    "titleZh": "PC与主机游戏收益破局",
+    "summaryZh": "本文探讨在利润承压趋势下，如何打破平台壁垒实现收入多元化，为游戏厂商提供增长新思路。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.442Z",
+    "fetchedAt": "2026-05-16T15:55:33.761Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "行业趋势分析，实用性强",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "a3my68w1n4k4q03cckozcyuv",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917382.html",
+    "title": "第七年，《和平精英》真的“越打越年轻”了",
+    "titleZh": "和平精英七年长青秘诀",
+    "summaryZh": "《和平精英》上线七年，通过不断更新内容、保持新鲜感，实现“越打越年轻”的发展，为长线运营游戏提供了持续吸引用户的范例。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.442Z",
+    "fetchedAt": "2026-05-16T15:55:36.561Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 35,
+      "finalScore": 33,
+      "reason": "七年长线运营案例对从业者有直接参考价值，内容扎实。",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "qybmn6ovpt21hnzcxm0c83r7",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917359.html",
+    "title": "《异环》造了座城，顺手修了条通往未来的路",
+    "titleZh": "《异环》造城，铺路未来",
+    "summaryZh": "《异环》通过打造都市题材游戏，为游戏行业开辟了更广阔的发展空间，展示了都市题材的包容性和未来潜力。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.442Z",
+    "fetchedAt": "2026-05-16T15:55:38.975Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "都市题材创新，值得从业者关注",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "nmrg5dx2mk1adhj7g7bkogov",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=d9c248aa0caa19446ad7fcdc41ac67d2",
+    "title": "《生化危机9》凭什么吓人？15分钟流程暗藏情绪套路",
+    "titleZh": "《生化危机9》吓人套路揭秘",
+    "summaryZh": "文章分析《生化危机9》如何通过双主角双线设计，在15分钟流程中实现生存恐怖与动作爽感的精准切割，平衡新老玩家需求，展现系列成熟设计思路。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.440Z",
+    "fetchedAt": "2026-05-16T15:55:01.638Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 8,
+      "timeliness": 6,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "深度剖析恐怖游戏设计方法论，对动作与恐怖平衡有实操参考",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "mxd4hhnn451iesmxttivjmiv",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=01468a831fea1179357d042e6dda6784",
+    "title": "不会写代码没有美术的游戏策划，用 Codex+Godot 半天开发了一个动作肉鸽",
+    "titleZh": "策划零代码AI开发动作肉鸽",
+    "summaryZh": "一位游戏策划利用Codex和Godot引擎，在半天内开发了一款动作肉鸽游戏，全程无需编写代码或制作美术资源，展示了AI辅助游戏开发的潜力。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.440Z",
+    "fetchedAt": "2026-05-16T15:55:04.321Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 36,
+      "finalScore": 34,
+      "reason": "策划亲测AI开发流程，实操性强，对独立开发者有启发",
+      "tags": [
+        "干货",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "gagbxq09wbkc0622wb1mxo24",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917463.html",
+    "title": "5月4日—5月17日共有38款游戏开测｜GameRes",
+    "titleZh": "两周38款游戏开测汇总",
+    "summaryZh": "2026年5月4日至17日，共有38款游戏开启测试，涵盖多种类型，为从业者提供近期产品动态与市场热度参考。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.440Z",
+    "fetchedAt": "2026-05-16T15:55:06.666Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 8,
+      "uniqueness": 3,
+      "usefulness": 7,
+      "totalScore": 29,
+      "finalScore": 29,
+      "reason": "开测数据对发行和运营有直接参考价值",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "cb4rylwqr2w9n8x8ut0y4myq",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917460.html",
+    "title": "新作销量突破两百万 连续口碑爆表的Capcom如何成为行业领头羊？",
+    "titleZh": "卡普空新作销量破两百万",
+    "summaryZh": "卡普空新作《识质存在》销量突破两百万，口碑持续爆表，分析其如何成为行业领头羊，对游戏研发与发行有参考价值。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.440Z",
+    "fetchedAt": "2026-05-16T15:55:08.967Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "卡普空成功案例值得从业者学习，数据扎实，时效性强。",
+      "tags": [
+        "公司",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "lbbvw07jpprtma444vz660y0",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917457.html",
+    "title": "肉鸽爽游怎么做？前作坐拥2700万玩家后他带来了新的版本解答",
+    "titleZh": "肉鸽爽游新版本解答",
+    "summaryZh": "前作拥有2700万玩家的开发者，带来肉鸽爽游新版本解答，引发玩家和开发者热议，探讨如何打造爽快体验。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.440Z",
+    "fetchedAt": "2026-05-16T15:55:11.357Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 36,
+      "finalScore": 34,
+      "reason": "对肉鸽品类研发有直接参考价值，数据亮眼，观点新颖",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ghr5pfgkj154k34rh03gzqos",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917456.html",
+    "title": "“涟漪效应”——聊聊游戏角色/故事任务设计",
+    "titleZh": "涟漪效应：角色故事设计",
+    "summaryZh": "文章探讨了通过创建固有印象、事件论证、小事强化到形成结果的角色故事设计方法，为游戏开发者提供了系统化的叙事思路。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.440Z",
+    "fetchedAt": "2026-05-16T15:55:13.722Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 8,
+      "timeliness": 6,
+      "uniqueness": 7,
+      "usefulness": 8,
+      "totalScore": 36,
+      "finalScore": 34,
+      "reason": "设计方法论实用，适合策划和编剧参考。",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "rc8ijbhbrukpfnxbswqlrylk",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=0ca1fff60cebf28417e5b082c0c7649d",
+    "title": "ai native时代",
+    "titleZh": "AI原生时代来临",
+    "summaryZh": "本文面向产品、设计、内容、管理岗，探讨AI原生时代的实践方法，强调动手应用AI技术，为游戏行业从业者提供转型思路。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.440Z",
+    "fetchedAt": "2026-05-16T15:55:16.039Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 7,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "AI原生时代对游戏从业者有实操启发，值得一读。",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "u9ccz86cjplkzgg2riiekmws",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=2177c8e91b8123fa04fb83877418f4ba",
+    "title": "AI实践思考（2）",
+    "titleZh": "AI实践思考：认知与优化",
+    "summaryZh": "文章探讨AI需明确自身定位，同时开发者需实时掌握系统状态以进行优化，强调人机协作中信息透明的重要性。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.440Z",
+    "fetchedAt": "2026-05-16T15:55:18.565Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 5,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 25,
+      "finalScore": 27,
+      "reason": "AI在游戏开发中的应用是热点，观点有实操启发",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "9gazvzx6v3qd34nttdq9isvv",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=a18e93eb9849e117b7687e8b7531ecd3",
+    "title": "AI时代如何避免与AI共同陷入信息茧房",
+    "titleZh": "AI时代的信息茧房风险",
+    "summaryZh": "文章探讨AI可能强化用户既有信念，导致信息茧房问题，对游戏行业内容创作与用户运营有警示意义，强调需警惕算法偏见。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.440Z",
+    "fetchedAt": "2026-05-16T15:55:21.258Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 5,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 29,
+      "finalScore": 29,
+      "reason": "AI对游戏行业影响深远，此文提醒从业者关注算法伦理，实用性强。",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "dznwoqp1t2sjjmiezvqb5j4r",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917449.html",
+    "title": "记「2026音律联觉」：看不过来，听得很震撼，情绪被拉爆！",
+    "titleZh": "2026音律联觉：震撼体验与仪式感",
+    "summaryZh": "《明日方舟》2026音律联觉活动，为博士们带来年度仪式感聚会，视听震撼，情绪拉满，展现游戏IP运营的成功案例。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.440Z",
+    "fetchedAt": "2026-05-16T15:55:23.875Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "活动运营案例值得关注，但内容偏体验报道，实用度有限。",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "m9ztidwupnloi9avlrr75zkd",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917480.html",
+    "title": "打造出更具人文特色的家园经营建设游戏",
+    "titleZh": "人文特色家园经营游戏",
+    "summaryZh": "本文介绍一款家园经营游戏，通过建设框架构建世界观叙事，并注重NPC角色与玩家角色的养成及人物小传，突出人文特色。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.439Z",
+    "fetchedAt": "2026-05-16T15:54:51.786Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 5,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 27,
+      "finalScore": 28,
+      "reason": "人文叙事+角色养成，对中小团队有借鉴价值",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "umxrvbket601yhvmghz7dcx4",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917479.html",
+    "title": "当游戏玩法和叙事相冲突时，你更在意哪一个？",
+    "titleZh": "玩法叙事冲突如何选",
+    "summaryZh": "文章探讨游戏玩法与叙事冲突时，开发者应如何权衡，强调最终体验决定取舍，为从业者提供设计思路参考。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.439Z",
+    "fetchedAt": "2026-05-16T15:54:54.252Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 5,
+      "uniqueness": 4,
+      "usefulness": 6,
+      "totalScore": 28,
+      "finalScore": 29,
+      "reason": "经典话题，实用设计思路，适合策划参考。",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "mzgwf6v143e0ak7g03gvf06b",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=d6cb7a3f3b9c0ec24d2cac54f25c3f99",
+    "title": "《代号：长生计划》：我们想做一个由玩家关系驱动的修仙社会",
+    "titleZh": "玩家关系驱动的修仙社会",
+    "summaryZh": "《代号：长生计划》旨在打造一个由玩家关系驱动的修仙社会，强调修仙本质是逆天改命，赋予玩家对命运的解释权，探索社交驱动的游戏体验。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.439Z",
+    "fetchedAt": "2026-05-16T15:54:56.788Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 8,
+      "timeliness": 6,
+      "uniqueness": 8,
+      "usefulness": 6,
+      "totalScore": 35,
+      "finalScore": 33,
+      "reason": "独特视角解析修仙游戏社交设计，对研发和运营有启发",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "05gn9fk9mdfgxc84kpywffys",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917471.html",
+    "title": "又有数款国产单机新作公布 这个领域为何总有新的惊喜？",
+    "titleZh": "国产单机新作集中公布",
+    "summaryZh": "4月底，《烽沙》《斩业人》《吉时已到》《鲲歌》等多款国产单机新作公布，引发行业关注，展现国产单机领域的持续活力与创新。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.439Z",
+    "fetchedAt": "2026-05-16T15:54:59.049Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 8,
+      "uniqueness": 4,
+      "usefulness": 3,
+      "totalScore": 26,
+      "finalScore": 28,
+      "reason": "新作集中发布，反映国产单机趋势，值得关注。",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "gwn4e7i3at7n378u2rzz6nam",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917487.html",
+    "title": "2026 indiePlay中国独立游戏大赛报名开始！",
+    "titleZh": "2026 indiePlay大赛报名启动",
+    "summaryZh": "2026 indiePlay中国独立游戏大赛报名已开始，面向独立游戏开发者开放，提供展示与交流平台，助力创新作品脱颖而出。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.438Z",
+    "fetchedAt": "2026-05-16T15:54:41.527Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 4,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 5,
+      "totalScore": 27,
+      "finalScore": 28,
+      "reason": "独立游戏大赛是行业重要活动，开发者可关注报名机会。",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "doqnrc4gxqrc2cjcbaap3wn7",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=1ca3ffd6ca62c10add47007de4c4116e",
+    "title": "每款Supercell游戏背后的引擎",
+    "titleZh": "Supercell自研Titan引擎",
+    "summaryZh": "Supercell自研的Titan引擎每月为3亿玩家提供服务，支撑旗下多款热门游戏运行，展现了其技术实力与规模化运营能力。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.438Z",
+    "fetchedAt": "2026-05-16T15:54:44.005Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 7,
+      "uniqueness": 8,
+      "usefulness": 6,
+      "totalScore": 36,
+      "finalScore": 34,
+      "reason": "技术干货，揭秘头部公司自研引擎细节",
+      "tags": [
+        "干货",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "2o2c0yrpxfqefkwaxnsnheqe",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=1eefe2495c83dec255a58f6539e2f8ea",
+    "title": "家乡互动新游曝光，SLG+模拟经营+派对社交+休闲全缝了",
+    "titleZh": "家乡互动新游融合多玩法",
+    "summaryZh": "家乡互动曝光一款创新SLG游戏，深度融合策略、养成、建设与休闲玩法，并加入派对社交元素，试图打破品类界限，为SLG市场带来新思路。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.438Z",
+    "fetchedAt": "2026-05-16T15:54:46.784Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "多玩法融合尝试值得关注，但深度待验证",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ywaqwj9coud35o8w55t43a23",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917486.html",
+    "title": "全链路AI深度赋能 抖音IAA小游戏开启确定性增长新周期",
+    "titleZh": "AI赋能抖音小游戏增长",
+    "summaryZh": "游戏行业AI落地普及度高，头部厂商AI应用率超八成。抖音IAA小游戏借助全链路AI深度赋能，开启确定性增长新周期，为从业者提供新思路。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.438Z",
+    "fetchedAt": "2026-05-16T15:54:49.436Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 37,
+      "finalScore": 34,
+      "reason": "AI+小游戏趋势明确，数据扎实，对研发和发行有直接参考价值。",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "smm8x0ftg552nrvs5v8n1t91",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917493.html",
+    "title": "「报名启动」2026小游戏开发者大会，在「浙」里等你起「杭」",
+    "titleZh": "2026小游戏大会杭州启动",
+    "summaryZh": "2026微信小游戏开发者大会将于杭州滨江白马湖国际会展中心举办，现已开放报名，聚焦小游戏行业趋势与开发经验。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.437Z",
+    "fetchedAt": "2026-05-16T15:54:19.288Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 27,
+      "finalScore": 28,
+      "reason": "小游戏赛道持续火热，大会提供一手行业动态和社交机会",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "lkwjf9mfn0pydaqj4ayc7f6e",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=da695dc940068d248b5e212daa7d06fc",
+    "title": "赛博仓鼠笼的终极形态：《朋友收集：梦想生活》大测评",
+    "titleZh": "《朋友收集：梦想生活》大测评",
+    "summaryZh": "玩家扮演岛屿管理员，以上帝视角捏人、建岛、看戏，体验赛博仓鼠笼式模拟经营玩法。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.437Z",
+    "fetchedAt": "2026-05-16T15:54:21.381Z",
+    "isSelected": false,
+    "score": {
+      "importance": 5,
+      "articleQuality": 6,
+      "timeliness": 5,
+      "uniqueness": 4,
+      "usefulness": 3,
+      "totalScore": 23,
+      "finalScore": 26,
+      "reason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ogcn4yy5eb0i7k3xu6m5zurj",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=069fbb8781cc3f95346633c759834881",
+    "title": "这款游戏只有两个人开发，但入选了北京国际电影节",
+    "titleZh": "两人开发游戏入选北影节",
+    "summaryZh": "金迪与合伙人Bru创立图南工作室，仅两人开发的《花城秘事》入选北京国际电影节，这是他们的第二部作品，展现小团队创作潜力。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.437Z",
+    "fetchedAt": "2026-05-16T15:54:23.932Z",
+    "isSelected": true,
+    "score": {
+      "importance": 5,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 8,
+      "usefulness": 4,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "小团队作品入选电影节，展示独立游戏跨界潜力，值得关注。",
+      "tags": [
+        "游戏",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "4vxnxgg3hlhpk7luzbujq53w",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=b267b6b90e8b56e5c57d255967c03d37",
+    "title": "单人开发拿下97%好评率，这款国产游戏靠Bug逆天改命",
+    "titleZh": "单人开发Bug逆袭，好评97%",
+    "summaryZh": "一款同步回合制肉鸽游戏，由单人开发，凭借Bug实现逆袭，获得97%好评率，核心卖点为无需反应力。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.437Z",
+    "fetchedAt": "2026-05-16T15:54:26.506Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 8,
+      "timeliness": 8,
+      "uniqueness": 9,
+      "usefulness": 6,
+      "totalScore": 38,
+      "finalScore": 35,
+      "reason": "单人开发逆袭案例，Bug变亮点，对独立开发者有启发",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "68hdqzzp3j6nlm82sg6q30ri",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=9b80aa6cb10bef5635a10ef8d876afd7",
+    "title": "红海肉鸽塔防都快卷死了，《我的防线》凭什么还能活下来？",
+    "titleZh": "红海肉鸽塔防生存之道",
+    "summaryZh": "本文分析《我的防线》如何在竞争激烈的肉鸽塔防市场中存活，玩家通过肉鸽机制升级角色和防御塔，对抗怪物和陨石，探讨其成功因素。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.437Z",
+    "fetchedAt": "2026-05-16T15:54:29.034Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "分析红海品类生存策略，对研发和发行有参考价值",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "z6s7hk1er2tt7ezy0t0rfy7q",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=7c773fb212f4b16c0d75d7a2db156940",
+    "title": "SayGames的发行新逻辑：不赌爆款，把游戏做成长期生意",
+    "titleZh": "SayGames发行新策略：长期生意",
+    "summaryZh": "SayGames调整发行逻辑，减少测试数量、延长验证周期、强化数据分析，并与合作工作室建立长期关系，旨在将游戏做成长期生意。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.437Z",
+    "fetchedAt": "2026-05-16T15:54:31.437Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 7,
+      "uniqueness": 8,
+      "usefulness": 8,
+      "totalScore": 38,
+      "finalScore": 35,
+      "reason": "从赌爆款转向长期运营，提供了可落地的发行方法论，对从业者很有启发。",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "qqu012p5xfx6f7ydim8aoaxj",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=37d66f0e26a319d7ef5654535c65306b",
+    "title": "《ARIE：月咏》：不拯救世界的末日旅人，与一个偏科的独立游戏",
+    "titleZh": "《ARIE：月咏》：末日旅人与偏科独立游戏",
+    "summaryZh": "月球陨落，世界走向灭亡。游戏采用东方“物哀”哲学，讲述告别与传承的故事，探讨独立游戏在叙事与玩法上的偏科现象。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.437Z",
+    "fetchedAt": "2026-05-16T15:54:34.105Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 5,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "文章对独立游戏的哲学与设计偏科有独特分析，适合从业者反思叙事与玩法平衡。",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "00kxag7oo589sjhu7y1rh53t",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917490.html",
+    "title": "行业热门的AI+NPC，怎么米哈游她就不一样？",
+    "titleZh": "米哈游AI+NPC独特之处",
+    "summaryZh": "米哈游通过AI技术让NPC娜洛展现丰富表情与肢体动作，塑造出落落大方、体贴细致的人设，区别于行业常见做法。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.437Z",
+    "fetchedAt": "2026-05-16T15:54:36.696Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 9,
+      "usefulness": 6,
+      "totalScore": 38,
+      "finalScore": 35,
+      "reason": "米哈游AI+NPC玩法有独家视角，对研发和策划有启发。",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "o5ckmy0519okj6eoyx94q05t",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917489.html",
+    "title": "腾讯Q1《王者荣耀》等长青游戏流水创新高，新品《洛克王国：世界》首月DAU1300万",
+    "titleZh": "腾讯Q1游戏收入增6%",
+    "summaryZh": "腾讯2026年Q1财报显示，本土游戏收入454亿元，同比增长6%，《王者荣耀》等长青游戏流水创新高，新品《洛克王国：世界》首月DAU达1300万。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:53:59.437Z",
+    "fetchedAt": "2026-05-16T15:54:39.052Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 37,
+      "finalScore": 34,
+      "reason": "数据亮眼，长青游戏与新品双增长，对行业有参考价值。",
+      "tags": [
+        "公司",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "jnmho1oab5l0wr5fb5npo5vy",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0516/6925.html",
+    "title": "卖掉沐瞳后，字节跳动端上来了今年第一款游戏",
+    "titleZh": "字节出售沐瞳后首款游戏上线",
+    "summaryZh": "字节跳动在出售沐瞳科技后，推出了今年首款游戏，该游戏尚需市场验证。此举显示字节在游戏业务调整后的新动向，引发行业关注。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:46:03.019Z",
+    "fetchedAt": "2026-05-16T15:53:05.317Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 5,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 4,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "字节游戏战略调整后的首个产品，值得关注",
+      "tags": [
+        "公司",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "8oho7yiz3qzp6rb61k3i8pn1",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917502.html",
+    "title": "当搜打撤碰上搬砖祖师爷，《梦幻西游》手游打开MMO新格局",
+    "titleZh": "梦幻西游手游搜打撤新玩法",
+    "summaryZh": "《梦幻西游》手游推出融合“搜打撤”基因的“轮回境”玩法，引发玩家搞钱热潮，为MMO品类带来创新格局。",
+    "author": null,
+    "publishedAt": "2026-05-16T15:42:59.436Z",
+    "fetchedAt": "2026-05-16T15:54:01.423Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "结合经典IP与新兴玩法，对MMO设计有参考价值",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "jg7hgd454bvksoiavadofn9u",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917496.html",
+    "title": "\"金海豚×好游快爆游戏开发大赛\"正式启动！八大奖项&百万奖金静候佳作，等你用创意打造动人的作品",
+    "titleZh": "金海豚游戏开发大赛启动",
+    "summaryZh": "金海豚与好游快爆联合举办游戏开发大赛，设立八大奖项和百万奖金，鼓励开发者用创意打造动人作品，活动已正式启动。",
+    "author": null,
+    "publishedAt": "2026-05-16T10:53:59.436Z",
+    "fetchedAt": "2026-05-16T15:54:04.120Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 27,
+      "finalScore": 28,
+      "reason": "奖金丰厚，对独立开发者有吸引力，但信息较常规。",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "htznbnqbp3gsg8u0gx38dyjp",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=1d4860a364175f9d467f973ee6fa0d4d",
+    "title": "战车对冲竞技《爆裂守卫》单月收入超350万美金，真能跑通？",
+    "titleZh": "《爆裂守卫》月入350万美金",
+    "summaryZh": "《爆裂守卫》单月收入超350万美金，但严苛的城堡资源产出导致玩家对战斗失败容忍度低，引发对其商业模式可持续性的探讨。",
+    "author": null,
+    "publishedAt": "2026-05-16T07:53:59.436Z",
+    "fetchedAt": "2026-05-16T15:54:06.504Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "收入数据亮眼，但玩家体验痛点值得关注",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "twkc90y3t2jpleywgoa70q35",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=31e571b44fb21a5a9596b9ede3c278df",
+    "title": "“搏一搏”成独立游戏“新财富密码”！连续多款成功背后，正酝酿新危机？",
+    "titleZh": "博彩+Roguelike成独立游戏新密码",
+    "summaryZh": "近年来，多款融合博彩与Roguelike元素的独立游戏获得成功，引发行业关注。但热潮背后，市场饱和与玩家审美疲劳等潜在危机正在酝酿。",
+    "author": null,
+    "publishedAt": "2026-05-16T06:53:59.437Z",
+    "fetchedAt": "2026-05-16T15:54:12.019Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 37,
+      "finalScore": 34,
+      "reason": "紧跟独立游戏变现热点，对研发方向有警示价值",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ssjxwdjhbhuaxri8s12kxe30",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=dc7408b9fe11635c24ece164fdc54087",
+    "title": "人偶奇观，傀儡术真的是靠傀儡输出的吗？",
+    "titleZh": "人偶奇观与傀儡术解析",
+    "summaryZh": "本文探讨ACG中人偶与傀儡术元素，分析其作为秘技或奇观的表现形式，揭示傀儡术是否依赖傀儡输出的核心问题，提供独特视角。",
+    "author": null,
+    "publishedAt": "2026-05-16T06:53:59.437Z",
+    "fetchedAt": "2026-05-16T15:54:14.346Z",
+    "isSelected": false,
+    "score": {
+      "importance": 3,
+      "articleQuality": 4,
+      "timeliness": 2,
+      "uniqueness": 5,
+      "usefulness": 2,
+      "totalScore": 16,
+      "finalScore": 22,
+      "reason": "",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "54i8s7oacckj50zn4ez9mu2k",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=a830d65533b69691efd38122986b0209",
+    "title": "“地雷女”狂扁众情敌！日本三学生的脑洞“动作二游”火了...",
+    "titleZh": "地雷女狂扁情敌，日本学生脑洞二游",
+    "summaryZh": "日本三名学生开发的脑洞动作二游，玩家操控地雷系女孩用连击系统击倒前任和情敌，因独特设定和自由连击系统在社交媒体走红，引发行业对创意玩法的关注。",
+    "author": null,
+    "publishedAt": "2026-05-16T06:53:59.436Z",
+    "fetchedAt": "2026-05-16T15:54:09.415Z",
+    "isSelected": true,
+    "score": {
+      "importance": 4,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 8,
+      "usefulness": 3,
+      "totalScore": 27,
+      "finalScore": 28,
+      "reason": "创意玩法独特，对中小团队有启发",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "scjrncvjttic98uz2r7vapbq",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917494.html",
+    "title": "11天卖出20W份《梦幻魔法公主》：“男女通吃”的游戏产品方法论",
+    "titleZh": "梦幻公主11天售20万份",
+    "summaryZh": "《梦幻魔法公主》凭借一流视听效果和平稳操作体验，11天卖出20万份，总结出“男女通吃”的产品方法论，对游戏研发与发行有参考价值。",
+    "author": null,
+    "publishedAt": "2026-05-16T05:53:59.437Z",
+    "fetchedAt": "2026-05-16T15:54:16.778Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 37,
+      "finalScore": 34,
+      "reason": "数据亮眼，方法论实用，值得从业者借鉴",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "3r1g86pmb3ca26mujz8jo43j",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0514/6915.html",
+    "title": "比算力先爆炸的，是米哈游AI的口碑",
+    "titleZh": "米哈游AI口碑崩塌",
+    "summaryZh": "米哈游AI项目引发争议，口碑迅速下滑，玩家调侃“领养帕姆”。事件反映AI在游戏行业应用中的挑战与公众期待落差，值得从业者关注。",
+    "author": null,
+    "publishedAt": "2026-05-15T15:53:03.019Z",
+    "fetchedAt": "2026-05-16T15:53:08.108Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "AI口碑翻车案例，对游戏公司技术落地有警示意义",
+      "tags": [
+        "公司",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "y7us43gjfu7mge0f3hry5dgx",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
@@ -751,6 +2048,34 @@
     }
   },
   {
+    "id": "4qtw6goektiiyo04povxsj0j",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0509/6896.html",
+    "title": "4月SLG预估流水TOP20：海外老大哥遇冷，世纪华通四线攀升",
+    "titleZh": "4月SLG流水TOP20：海外遇冷，世纪华通攀升",
+    "summaryZh": "4月SLG预估流水TOP20榜单显示，海外老大哥表现遇冷，而世纪华通旗下多款游戏排名持续上升，反映出SLG市场格局变化。",
+    "author": null,
+    "publishedAt": "2026-05-09T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:10.953Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 7,
+      "usefulness": 8,
+      "totalScore": 39,
+      "finalScore": 35,
+      "reason": "SLG品类数据对研发发行有直接参考，世纪华通逆势增长值得关注。",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "hi4u2w4tcxadq1x4h0r7s2lh",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
@@ -774,6 +2099,34 @@
       "tags": [
         "行业",
         "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "4xt9njl25qoromglpps7i2l2",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0508/6890.html",
+    "title": "最懂三国的，不一定是复刻历史的游戏",
+    "titleZh": "三国游戏新解：不唯复刻",
+    "summaryZh": "本文探讨三国题材游戏如何超越历史复刻，通过创新视角和玩法设计，更深刻地诠释三国文化，为游戏开发者提供差异化思路。",
+    "author": null,
+    "publishedAt": "2026-05-08T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:13.527Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 5,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "观点新颖，启发三国游戏创新设计",
+      "tags": [
+        "游戏",
+        "干货"
       ],
       "relatedItems": []
     }
@@ -862,6 +2215,88 @@
     }
   },
   {
+    "id": "w91cbc4qyghltmmm6ibglxd0",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0506/6880.html",
+    "title": "57款游戏公布年度流水收入：30款吸金过亿，一款SLG营销推广砸了4亿",
+    "titleZh": "57款游戏年流水曝光，30款过亿",
+    "summaryZh": "57款游戏公布年度流水，30款收入过亿，其中一款SLG营销推广费用高达4亿元，揭示了游戏行业高投入与高回报并存的现状。",
+    "author": null,
+    "publishedAt": "2026-05-06T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:16.164Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 8,
+      "totalScore": 38,
+      "finalScore": 35,
+      "reason": "数据详实，对从业者营销策略有直接参考价值",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "jwnfub7g53mi8hjcttqoeqeu",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0506/6879.html",
+    "title": "鹰角，“太够劲了”",
+    "titleZh": "鹰角新作延期一年",
+    "summaryZh": "鹰角网络新游戏宣布延期，玩家需再等一年。游戏日报报道了这一消息，引发行业关注。",
+    "author": null,
+    "publishedAt": "2026-05-06T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:18.993Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 3,
+      "totalScore": 25,
+      "finalScore": 27,
+      "reason": "延期信息对行业有参考价值，但内容深度一般",
+      "tags": [
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "lfzey9qik6m1wwobdsb0m7e7",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0506/6877.html",
+    "title": "上线8个月DAU破千万，这扇“窄门”被瓦手撞开了",
+    "titleZh": "瓦手DAU破千万",
+    "summaryZh": "一款游戏上线8个月后日活跃用户突破千万，展示了在竞争激烈的市场中通过精准定位和运营实现快速增长的成功案例。",
+    "author": null,
+    "publishedAt": "2026-05-06T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:21.281Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 37,
+      "finalScore": 34,
+      "reason": "DAU破千万的案例对从业者有启发",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "843a8p3lgnvbjof2tmi4up3j",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
@@ -945,6 +2380,89 @@
     }
   },
   {
+    "id": "bt6zu6hzyqzs0t57evci1qlu",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0502/6873.html",
+    "title": "当了八年第一，腾讯还在卷？",
+    "titleZh": "腾讯八年第一仍内卷",
+    "summaryZh": "腾讯连续八年位居游戏行业榜首，但仍在激烈竞争中不断自我加压，持续投入资源以保持领先地位，引发行业对巨头发展策略的思考。",
+    "author": null,
+    "publishedAt": "2026-05-02T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:24.152Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "腾讯的持续内卷策略值得从业者关注",
+      "tags": [
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "e9ek0s8a89bu0nvp9kesjv50",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0501/6872.html",
+    "title": "爆了！王者荣耀和哪吒2这波联动属于是“天仙配”",
+    "titleZh": "王者荣耀×哪吒2联动分析",
+    "summaryZh": "王者荣耀与哪吒2的联动被视为行业标杆案例，分析其突破固化标签和情绪高峰的难点，探讨现象级作品联动的价值与挑战。",
+    "author": null,
+    "publishedAt": "2026-05-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:26.921Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 39,
+      "finalScore": 35,
+      "reason": "深度剖析了现象级联动的难点与价值，对从业者策划合作有直接启发。",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "3mi3l5cpz94kbn66ua6akane",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0501/6871.html",
+    "title": "中国游戏开发者必须闯过这一关",
+    "titleZh": "Unity合规下架事件",
+    "summaryZh": "《排球少年！！FLY HIGH》因未合规使用Unity被GooglePlay下架，该游戏曾多地区登顶免费榜，事件引发对Unity版权合规的行业关注。",
+    "author": null,
+    "publishedAt": "2026-05-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:29.504Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 39,
+      "finalScore": 35,
+      "reason": "Unity合规问题成行业警钟，开发者必看",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "e3wtuod7p7autov0jjcjzuiy",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
@@ -967,6 +2485,282 @@
       "reason": "经典IP复兴案例，对开发者有长期运营和社区维护的启发。",
       "tags": [
         "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "9eqiax2iswm58zpz1t0zbahv",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0427/6842.html",
+    "title": "新一代网赚战场：有人半年赚4块钱，有人月入2000万",
+    "titleZh": "网赚战场：有人半年赚4块，有人月入2000万",
+    "summaryZh": "文章揭示网赚游戏市场两极分化现象，头部产品月入2000万，而多数从业者收益微薄，半年仅赚4元，行业竞争激烈且模式待优化。",
+    "author": null,
+    "publishedAt": "2026-04-27T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:32.217Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 29,
+      "finalScore": 29,
+      "reason": "数据反差大，揭示行业真实生态，对从业者有警示和启发。",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "d8quvajf6fr2lpyt3c6vzs5v",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0424/6829.html",
+    "title": "米哈游的AI，正面向千万玩家落地",
+    "titleZh": "米哈游AI落地千万玩家",
+    "summaryZh": "米哈游将AI技术应用于旗下游戏，面向千万级玩家落地，探索AI在游戏交互与内容生成中的实际应用，为行业提供AI落地的参考案例。",
+    "author": null,
+    "publishedAt": "2026-04-24T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:34.507Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 39,
+      "finalScore": 35,
+      "reason": "AI落地千万玩家，米哈游又走在了前面",
+      "tags": [
+        "公司",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "9qgwb0vknwhy3deiddev5gmd",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0422/6814.html",
+    "title": "鹰角不信二游的“2选1”",
+    "titleZh": "鹰角不信二游“2选1”",
+    "summaryZh": "游戏日报报道，鹰角网络认为二次元游戏行业不应陷入“二选一”的竞争思维，强调多元化发展。文章探讨了鹰角在游戏设计、市场策略上的独特视角，引发行业对品类创新的思考。",
+    "author": null,
+    "publishedAt": "2026-04-22T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:37.855Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "观点独特，挑战行业常规思维，对研发和发行有启发。",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "t3gqwn5tp0ylpso1g3fnij0a",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0421/6808.html",
+    "title": "对话《异环》两大负责人：熬出黑眼圈，只为再进步0.1分",
+    "titleZh": "《异环》负责人谈开发细节",
+    "summaryZh": "《异环》两大负责人透露，团队为提升游戏品质熬夜加班，追求0.1分的进步。对话聚焦开发挑战与细节打磨，展现行业匠心。",
+    "author": null,
+    "publishedAt": "2026-04-21T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:40.511Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 8,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 36,
+      "finalScore": 34,
+      "reason": "揭秘开发幕后，对研发团队有启发",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "2mxejfh2hkpfeit6cj6713x6",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0417/6793.html",
+    "title": "一场“事故”过后，《洛克王国世界》更火了",
+    "titleZh": "洛克王国世界漏洞风波",
+    "summaryZh": "B站UP主曝光《洛克王国世界》异色精灵速刷漏洞，引发玩家争议，游戏热度反升。",
+    "author": null,
+    "publishedAt": "2026-04-17T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:43.421Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "漏洞事件对运营和玩家生态有参考价值，热度反升值得关注。",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "k5qbjx19cbi27gaqq8t7wdee",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0413/6767.html",
+    "title": "大伟哥回答了14个问题，建议大家“活在当下”",
+    "titleZh": "大伟哥谈AI时代：活在当下",
+    "summaryZh": "游戏日报报道，大伟哥回应14个问题，强调AI时代想象力至关重要，建议从业者“活在当下”，聚焦创意与适应变化。",
+    "author": null,
+    "publishedAt": "2026-04-13T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:46.258Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "大佬观点有启发，但实操性一般，适合行业思考。",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "fuwwrbfcr7yhcb425rgy4qmd",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0412/6761.html",
+    "title": "“5000万”之后，三角洲有了新思路",
+    "titleZh": "三角洲新思路：稳体验扩边界",
+    "summaryZh": "《三角洲行动》在用户量突破5000万后，提出“稳体验，扩边界”新策略，聚焦优化核心体验与拓展玩法边界，为游戏长线运营提供新方向。",
+    "author": null,
+    "publishedAt": "2026-04-12T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:48.845Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "对射击品类运营策略有参考价值，数据驱动决策思路值得关注。",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "yita7gdl076s9g3qvg9nasub",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0410/6753.html",
+    "title": "2026年首个莫名其妙刷屏朋友圈的“游戏”出现了",
+    "titleZh": "SBTI测试刷屏朋友圈",
+    "summaryZh": "一款名为SBTI的MBTI变体测试在游戏群和朋友圈迅速传播，引发腾讯等企业高管参与，成为2026年初的社交热点。",
+    "author": null,
+    "publishedAt": "2026-04-10T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:51.187Z",
+    "isSelected": false,
+    "score": {
+      "importance": 3,
+      "articleQuality": 4,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 2,
+      "totalScore": 23,
+      "finalScore": 26,
+      "reason": "",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "rk8y7wgon1f5dkxm6b7wh466",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0409/6748.html",
+    "title": "米哈游终于要把“Hoyoland”从商标变成地标了",
+    "titleZh": "米哈游主题乐园要来了",
+    "summaryZh": "米哈游计划将旗下“Hoyoland”商标转化为实体主题乐园，这一动向表明公司正从游戏IP向线下文旅延伸，可能为行业探索IP多元化运营提供新案例。",
+    "author": null,
+    "publishedAt": "2026-04-09T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:53.855Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "米哈游IP落地主题乐园，对从业者探索IP变现和跨界运营有启发",
+      "tags": [
+        "公司",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "nqzpg4ydg322s7mgqu28wzn6",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0408/6745.html",
+    "title": "31国登顶，但育碧没能打出“翻身仗”",
+    "titleZh": "全境封锁手游全球登顶",
+    "summaryZh": "育碧《全境封锁：曙光》手游全球上线，登顶31国，但制作人称腾讯未参与开发，国服无动静，开局不甚理想，反映育碧动荡中未能翻身。",
+    "author": null,
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "fetchedAt": "2026-05-16T15:53:56.591Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "IP手游全球表现与公司困境对比，对行业有参考价值",
+      "tags": [
+        "公司",
         "游戏"
       ],
       "relatedItems": []
