@@ -1,0 +1,27 @@
+{
+  "name": "gamehot",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "fetch": "npx tsx scripts/fetch.ts"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "iconv-lite": "^0.7.2",
+    "next": "16.2.6",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/iconv-lite": "^0.0.1",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "tsx": "^4.22.0",
+    "typescript": "^5"
+  }
+}

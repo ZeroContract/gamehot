@@ -1,0 +1,50 @@
+[
+  {
+    "id": "youxichaguan",
+    "name": "游戏茶馆",
+    "url": "https://www.youxichaguan.com/",
+    "feedUrl": "",
+    "type": "web",
+    "tier": 2,
+    "weight": 60,
+    "listSelector": ".post-loop li.item",
+    "titleSelector": ".item-title a",
+    "linkSelector": ".item-title a",
+    "snippetSelector": ".item-excerpt p",
+    "dateSelector": ".item-meta-li.date",
+    "baseUrl": "https://www.youxichaguan.com/",
+    "encoding": "utf-8"
+  },
+  {
+    "id": "tencent-gi-web",
+    "name": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/",
+    "feedUrl": "",
+    "type": "web",
+    "tier": 3,
+    "weight": 50,
+    "listSelector": ".news__item",
+    "titleSelector": ".news__title",
+    "linkSelector": ".news__title",
+    "snippetSelector": ".news__desc",
+    "dateSelector": ".news__time",
+    "baseUrl": "https://gameinstitute.qq.com/",
+    "encoding": "utf-8"
+  },
+  {
+    "id": "youxituoluo",
+    "name": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/",
+    "feedUrl": "",
+    "type": "web",
+    "tier": 2,
+    "weight": 65,
+    "listSelector": ".article_list li .item",
+    "titleSelector": ".title",
+    "linkSelector": ".title",
+    "snippetSelector": ".desc",
+    "dateSelector": ".otherInfo",
+    "baseUrl": "https://www.youxituoluo.com/",
+    "encoding": "utf-8"
+  }
+]
