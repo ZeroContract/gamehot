@@ -46,5 +46,37 @@
     "dateSelector": ".otherInfo",
     "baseUrl": "https://www.youxituoluo.com/",
     "encoding": "utf-8"
+  },
+  {
+    "id": "youxiribao",
+    "name": "游戏日报",
+    "url": "https://news.yxrb.net/",
+    "feedUrl": "",
+    "type": "web",
+    "tier": 2,
+    "weight": 60,
+    "listSelector": ".news-list-module article.item",
+    "titleSelector": ".title a",
+    "linkSelector": ".title a",
+    "snippetSelector": ".desc",
+    "dateSelector": ".time",
+    "baseUrl": "https://news.yxrb.net/",
+    "encoding": "utf-8"
+  },
+  {
+    "id": "gameres",
+    "name": "游资网",
+    "url": "https://www.gameres.com/",
+    "feedUrl": "",
+    "type": "web",
+    "tier": 2,
+    "weight": 60,
+    "listSelector": "article.feed-item",
+    "titleSelector": ".feed-item-title-a",
+    "linkSelector": ".feed-item-title-a",
+    "snippetSelector": ".feed-item-right p",
+    "dateSelector": ".mark-info",
+    "baseUrl": "https://www.gameres.com/",
+    "encoding": "utf-8"
   }
 ]
