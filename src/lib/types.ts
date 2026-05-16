@@ -32,8 +32,8 @@ export interface RelatedItem {
 }
 
 export interface AiScore {
-  importance: number; // 重要性：对游戏开发者的参考价值
-  techDepth: number; // 技术深度
+  importance: number; // 重要性：对游戏行业从业者的参考价值
+  articleQuality: number; // 文章质量
   timeliness: number; // 时效性
   uniqueness: number; // 独特性
   usefulness: number; // 实用度

@@ -34,11 +34,11 @@ const SCORE_PROMPT = `你是游戏行业的资深编辑。请对以下游戏开�
 1. 翻译标题为中文（简洁，20 字以内）
 2. 写一段中文摘要（50-80 字，包含关键信息）
 3. 从 1-10 打分（5 个维度）：
-   - 重要性：对游戏开发者的参考价值
-   - 技术深度：是否有实质技术内容
-   - 时效性：是否新鲜
-   - 独特性：是否独家/独特视角
-   - 实用度：开发者能否直接应用
+   - 重要性：对游戏行业从业者（研发、发行、市场、运营等）的参考价值
+   - 文章质量：内容深度、论据充分性、信息密度、行文水平
+   - 时效性：信息新鲜度、是否紧跟行业动态
+   - 独特性：是否独家视角、差异化观点、一手信息
+   - 实用度：从业者能否直接应用到实际工作中
 4. 计算总分（5 维加总，满分 50），如果总分 >= 25 分则判定为精选
 5. 如果精选，写一句话推荐理由（30 字以内，口语化、有信息量）
 6. 打标签（从以下选 1-2 个最合适的，标签值严格等于"行业""公司""游戏""干货"这四个词之一）：
@@ -48,7 +48,7 @@ const SCORE_PROMPT = `你是游戏行业的资深编辑。请对以下游戏开�
    干货（技术分享、开发经验、设计方法论、实用工具）
 
 请严格以 JSON 格式返回（不要 markdown 代码块包裹）：
-{"titleZh":"...","summaryZh":"...","importance":0,"techDepth":0,"timeliness":0,"uniqueness":0,"usefulness":0,"totalScore":0,"isSelected":false,"reason":"","tags":[]}`;
+{"titleZh":"...","summaryZh":"...","importance":0,"articleQuality":0,"timeliness":0,"uniqueness":0,"usefulness":0,"totalScore":0,"isSelected":false,"reason":"","tags":[]}`;
 
 // ---- Types ----
 interface Source {
@@ -73,7 +73,7 @@ interface Source {
 
 interface AiScore {
   importance: number;
-  techDepth: number;
+  articleQuality: number;
   timeliness: number;
   uniqueness: number;
   usefulness: number;
@@ -344,7 +344,7 @@ async function scoreItem(
       summaryZh: result.summaryZh || "",
       score: {
         importance: result.importance || 0,
-        techDepth: result.techDepth || 0,
+        articleQuality: result.articleQuality || 0,
         timeliness: result.timeliness || 0,
         uniqueness: result.uniqueness || 0,
         usefulness: result.usefulness || 0,
@@ -362,7 +362,7 @@ async function scoreItem(
       summaryZh: "",
       score: {
         importance: 0,
-        techDepth: 0,
+        articleQuality: 0,
         timeliness: 0,
         uniqueness: 0,
         usefulness: 0,
