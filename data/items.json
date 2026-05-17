@@ -1,5 +1,32 @@
 [
   {
+    "id": "454h9k054bec5r65x0wpabkg",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917504.html",
+    "title": "6支顶尖战队决战五棵松，《三角洲行动》职业电竞“第一冠”正式落定",
+    "titleZh": "三角洲行动职业电竞首冠落定",
+    "summaryZh": "2026年5月16日，三角洲行动烽火职业联赛春季赛总决赛在北京五棵松落幕，TEC等6支战队角逐，最终决出首个职业冠军，标志该游戏电竞生态正式起步。",
+    "author": null,
+    "publishedAt": "2026-05-17T08:04:33.566Z",
+    "fetchedAt": "2026-05-17T10:04:35.763Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 3,
+      "totalScore": 25,
+      "finalScore": 27,
+      "reason": "电竞生态起步对从业者有参考价值，但内容偏赛事报道，深度一般。",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "b11rclpkeusq4lxukif28o7t",
     "sourceId": "gameres",
     "sourceName": "游资网",
