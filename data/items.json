@@ -1,5 +1,116 @@
 [
   {
+    "id": "wzfhmm0u24fskfg4exp98nl7",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=be06e9caaa2816748882c572b33b50da",
+    "title": "2026首款上线女性向重磅游戏，到底踩中了什么新需求？",
+    "titleZh": "《夜幕之下》新需求解析",
+    "summaryZh": "《夜幕之下》作为2026年首款女性向重磅游戏，以“欲望与权力”为叙事核心，突破主流类型，精准捕捉女性玩家新需求，为行业提供差异化开发思路。",
+    "author": null,
+    "publishedAt": "2026-05-17T12:55:17.469Z",
+    "fetchedAt": "2026-05-17T12:55:19.469Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 39,
+      "finalScore": 35,
+      "reason": "女性向游戏新方向，值得从业者关注",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "a40ixck0i0mts7n2b4tft9s1",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=d41c71dc4009d383b112b9a0391a5bbf",
+    "title": "仅一小时宣布破1亿：坎坷研发5年，今年最火SOC杀出来了",
+    "titleZh": "《深海迷航2》坎坷五年终爆发",
+    "summaryZh": "《深海迷航2》历经五年坎坷研发，上线仅一小时即宣布突破1亿销售额，成为今年最火的SOC游戏，引发行业广泛关注。",
+    "author": null,
+    "publishedAt": "2026-05-17T12:54:17.469Z",
+    "fetchedAt": "2026-05-17T12:55:21.885Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 37,
+      "finalScore": 34,
+      "reason": "数据亮眼，研发历程有参考价值，适合从业者关注爆款案例。",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "2j4a14vmi00iqjvunuefisqx",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=551e59049c0a7061b8bbe952edec5e0d",
+    "title": "狂揽2亿美元的“分类解谜”赛道，三款头部产品背后的底层博弈",
+    "titleZh": "分类解谜赛道年入2亿美元",
+    "summaryZh": "《Magic Sort》《Knit Out》《Pixel Flow》三款头部产品推动分类解谜品类年净收入近2亿美元，揭示该赛道底层博弈与增长逻辑。",
+    "author": null,
+    "publishedAt": "2026-05-17T12:50:17.469Z",
+    "fetchedAt": "2026-05-17T12:55:24.185Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 35,
+      "finalScore": 33,
+      "reason": "数据亮眼，赛道分析对研发发行有直接参考价值",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "sayssr6mfqrciq2aawtpi80v",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=b1145510661dd3e7d60eec14302d5483",
+    "title": "起底游戏研发圈：费用砍半，裁员三千，190 款新品只卷这四大赛道",
+    "titleZh": "游戏研发圈费用砍半裁员三千",
+    "summaryZh": "游戏研发圈费用砍半、裁员三千，190款新品集中于SLG、RPG、卡牌、模拟经营四大赛道，行业竞争加剧。",
+    "author": null,
+    "publishedAt": "2026-05-17T12:48:17.470Z",
+    "fetchedAt": "2026-05-17T12:55:26.840Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 7,
+      "usefulness": 8,
+      "totalScore": 39,
+      "finalScore": 35,
+      "reason": "数据详实，直击研发痛点，对从业者选赛道有直接参考。",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "454h9k054bec5r65x0wpabkg",
     "sourceId": "gameres",
     "sourceName": "游资网",
