@@ -1,5 +1,284 @@
 [
   {
+    "id": "in8paow01863hcr8ff1ovxgw",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=80e747554de4191bc27110be1dad9e8e",
+    "title": "原鸣铁绝XP炼成阵",
+    "titleZh": "二游角色卖点新趋势",
+    "summaryZh": "文章探讨二次元游戏角色营销从人设、剧情、强度转向“XP炼成阵”，即精准捕捉玩家特定偏好，为行业提供角色设计新思路。",
+    "author": null,
+    "publishedAt": "2026-05-18T14:27:45.015Z",
+    "fetchedAt": "2026-05-18T14:27:48.056Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "观点新颖，直击二游角色设计痛点，对从业者有启发。",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ijrtvq0jixh79tbvt68913p5",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=eb658fe16a7a4b9d4898e2d656f3634c",
+    "title": "女性向小游戏，能成为新增长点吗？",
+    "titleZh": "女性向小游戏或成新增长点",
+    "summaryZh": "《熹妃传》《杜拉拉升职记》《凌云诺》三款女性向小游戏在微信平台表现稳定，引发行业对女性向游戏市场潜力的关注，为从业者提供品类拓展思路。",
+    "author": null,
+    "publishedAt": "2026-05-18T14:25:45.016Z",
+    "fetchedAt": "2026-05-18T14:27:50.782Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "女性向细分赛道数据扎实，值得关注",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "3y3y5n0oybon5rz99jijfym7",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=9e580880492296d86838022f42405afa",
+    "title": "巨人网络投资初创公司，后者在研SLG新品",
+    "titleZh": "巨人投资SLG新锐火人互娱",
+    "summaryZh": "巨人网络投资北京火人互娱，后者专注SLG手游研发并深度应用AI技术于全流程，旨在提升研发效率与创新。",
+    "author": null,
+    "publishedAt": "2026-05-18T14:21:45.016Z",
+    "fetchedAt": "2026-05-18T14:27:53.365Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "SLG+AI结合是当前热点，对研发和投资有参考价值。",
+      "tags": [
+        "公司",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "4k1lgnk6iat6s1n4lav6vli8",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=cedaf57bfa20acbcffee5bfbc9b3b3fa",
+    "title": "大伟哥聊大模型：3年投入1000亿，如果没成就算放一个大烟花",
+    "titleZh": "米哈游谈AI：千亿投入如放烟花",
+    "summaryZh": "米哈游创始人刘伟在招聘会上分享AI业务愿景，称3年投入1000亿，若不成则视为放烟花，引发行业对AI投资风险的讨论。",
+    "author": null,
+    "publishedAt": "2026-05-18T14:19:45.016Z",
+    "fetchedAt": "2026-05-18T14:27:56.306Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 8,
+      "usefulness": 6,
+      "totalScore": 38,
+      "finalScore": 35,
+      "reason": "大佬豪言+千亿投入，AI与游戏结合的前沿话题，值得关注。",
+      "tags": [
+        "公司",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "06njo08uvueb8841weq43nwi",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=203367f4fd33feba05854e0f66b7ac20",
+    "title": "又一爆款登顶畅销榜，广州小游戏咋这么猛？",
+    "titleZh": "广州小游戏再出爆款",
+    "summaryZh": "一款名为《掌上谈兵》的三国题材卡牌小游戏异军突起，登顶畅销榜，引发行业对广州小游戏研发实力的关注。",
+    "author": null,
+    "publishedAt": "2026-05-18T14:17:45.016Z",
+    "fetchedAt": "2026-05-18T14:27:58.720Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "小游戏赛道持续火热，广州团队表现突出，值得关注。",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "3hvvifloflqra6jw85ljkqbs",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=c920b822bb41cf178c90c2afe642af40",
+    "title": "曾靠卖洗发水出圈，如今靠游戏赚大头：这家上市公司转型大成功！",
+    "titleZh": "洗发水公司转型游戏成功",
+    "summaryZh": "一家曾靠卖洗发水出圈的上市公司，凭借Q版国风靶心like小游戏《城主别慌张》成功转型，游戏业务成为主要收入来源。",
+    "author": null,
+    "publishedAt": "2026-05-18T14:16:45.016Z",
+    "fetchedAt": "2026-05-18T14:28:01.200Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "转型案例有启发，小游戏赛道值得关注",
+      "tags": [
+        "公司",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "87t3ntty7m9v3v5dyxklic88",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=1054d2677c56a1c81c8b0bbb4f19a66d",
+    "title": "从停运风波，到新作预约近1000万：对话广州最坎坷的女性向大厂",
+    "titleZh": "百奥女性向大厂坎坷重生",
+    "summaryZh": "百奥从停运风波中走出，新作预约近1000万，展现新精神面貌。对话揭示其转型历程，对女性向游戏从业者有重要参考价值。",
+    "author": null,
+    "publishedAt": "2026-05-18T14:15:45.016Z",
+    "fetchedAt": "2026-05-18T14:28:04.212Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 39,
+      "finalScore": 35,
+      "reason": "女性向赛道逆袭案例，值得关注",
+      "tags": [
+        "公司",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ycwnffbu6vegey2rnc6o6151",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=5c0edf53701eed0f9d034110d42f63b0",
+    "title": "从三周流水破亿到多次裁员：被朝夕光年收购后，他们能翻盘吗？",
+    "titleZh": "《镭明闪击》公测，心光流美能否翻盘",
+    "summaryZh": "心光流美研发的即时策略RPG《镭明闪击》公测，此前该工作室经历从三周流水破亿到多次裁员，被朝夕光年收购后寻求翻盘。",
+    "author": null,
+    "publishedAt": "2026-05-18T14:13:45.017Z",
+    "fetchedAt": "2026-05-18T14:28:07.019Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "行业案例有参考价值，但信息密度一般",
+      "tags": [
+        "游戏",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "encs5iz0erzyq7df1j4dc0v9",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=3f8ea263cdd89b607d7a7efda2911d46",
+    "title": "腾讯投资超1亿卢比，支持印度游戏产业",
+    "titleZh": "腾讯投资1亿卢比扶持印度游戏产业",
+    "summaryZh": "腾讯宣布向印度「橙色经济」项目投资至少1亿卢比，支持当地游戏产业发展。此举显示腾讯对印度市场的重视，但具体扶持细节尚未披露。",
+    "author": null,
+    "publishedAt": "2026-05-18T14:12:45.017Z",
+    "fetchedAt": "2026-05-18T14:28:09.450Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 4,
+      "totalScore": 28,
+      "finalScore": 29,
+      "reason": "腾讯海外投资动态对行业有参考价值",
+      "tags": [
+        "公司",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "k77w5c9gspxszmjcamzg5wlm",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917517.html",
+    "title": "欧风森系精灵碰撞东方玄凰神女！《以闪亮之名》新版本双五星惊艳出场",
+    "titleZh": "《以闪亮之名》新版本双五星登场",
+    "summaryZh": "《以闪亮之名》5月19日更新“幻灵古卷”版本，推出欧风森系与东方玄凰双五星套装，展现美学与技术突破，巩固女性向时尚生活赛道标杆地位。",
+    "author": null,
+    "publishedAt": "2026-05-18T10:27:45.017Z",
+    "fetchedAt": "2026-05-18T14:28:12.057Z",
+    "isSelected": false,
+    "score": {
+      "importance": 4,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 3,
+      "usefulness": 3,
+      "totalScore": 22,
+      "finalScore": 25,
+      "reason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "kyqmyb0s03kc4ma0kbh8i9pu",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
@@ -116,6 +395,33 @@
       "tags": [
         "游戏",
         "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "neqcidr22c5fg5r7rkkqlm0g",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917516.html",
+    "title": "沐瞳全球设计大赛开幕  行业大牛齐聚助阵",
+    "titleZh": "沐瞳全球皮肤设计赛开幕",
+    "summaryZh": "5月18日，沐瞳宣布启动2026全球皮肤设计挑战赛，面向全球艺术家征集MLBB皮肤设计，行业大牛助阵，旨在激发创意并连接玩家社区。",
+    "author": null,
+    "publishedAt": "2026-05-18T07:27:45.017Z",
+    "fetchedAt": "2026-05-18T14:28:14.704Z",
+    "isSelected": false,
+    "score": {
+      "importance": 5,
+      "articleQuality": 4,
+      "timeliness": 3,
+      "uniqueness": 3,
+      "usefulness": 2,
+      "totalScore": 17,
+      "finalScore": 22,
+      "reason": "",
+      "tags": [
+        "游戏"
       ],
       "relatedItems": []
     }
