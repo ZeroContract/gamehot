@@ -1,5 +1,143 @@
 [
   {
+    "id": "68fz2cl3e1suyf3gzevgrmda",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917509.html",
+    "title": "诡道修仙！用全新的视角重塑修仙MMO",
+    "titleZh": "诡道修仙重塑MMO",
+    "summaryZh": "游资网报道，一款修仙MMO通过全新视角重塑传统玩法，强调精怪与角色的细节交互，为玩家带来差异化体验。",
+    "author": null,
+    "publishedAt": "2026-05-18T01:57:28.668Z",
+    "fetchedAt": "2026-05-18T02:12:30.574Z",
+    "isSelected": false,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 5,
+      "uniqueness": 4,
+      "usefulness": 3,
+      "totalScore": 23,
+      "finalScore": 26,
+      "reason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "4rqh3pwhzfzjpohjykis7pk8",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917508.html",
+    "title": "5月18日—5月24日共有19款游戏开测｜GameRes",
+    "titleZh": "5月18-24日19款游戏开测",
+    "summaryZh": "GameRes统计2026年5月18日至24日最新手游开测信息，共19款游戏将开启测试，为从业者提供市场动态参考。",
+    "author": null,
+    "publishedAt": "2026-05-18T01:52:28.668Z",
+    "fetchedAt": "2026-05-18T02:12:32.713Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 8,
+      "uniqueness": 4,
+      "usefulness": 7,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "开测信息汇总，方便从业者快速了解市场动态",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "m6ss679hbi1659qik4wji85a",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196296",
+    "title": "不是所有二游都能走到第十年",
+    "titleZh": "碧蓝航线十年启示录",
+    "summaryZh": "《碧蓝航线》自2017年公测至今，完整经历了二次元游戏从小众到大众的周期，其十年运营经验对行业具有重要参考价值。",
+    "author": null,
+    "publishedAt": "2026-05-18T01:52:13.271Z",
+    "fetchedAt": "2026-05-18T02:12:15.361Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 6,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "深度复盘长线运营案例，对二游从业者很有启发",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "osqncokx1repsnkzl36k41le",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917507.html",
+    "title": "Annapurna出品热门新作《混音青春》的开发故事",
+    "titleZh": "《混音青春》开发幕后故事",
+    "summaryZh": "Annapurna出品的热门新作《混音青春》开发故事曝光，聚焦配乐与光影效果如何塑造游戏节奏感与独特魅力，展现开发团队的艺术追求。",
+    "author": null,
+    "publishedAt": "2026-05-18T01:45:28.668Z",
+    "fetchedAt": "2026-05-18T02:12:35.174Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "揭秘热门游戏开发细节，对游戏设计有启发",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "6lf4ffd4cpy9hu8ma4gvs19b",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196289",
+    "title": "动辄上千字！游戏角色的技能说明，是考我语文阅读吗？",
+    "titleZh": "二游技能说明考语文",
+    "summaryZh": "《绝区零》新角色南宫羽技能说明长达上千字，引发玩家对二游技能文本复杂度的吐槽，反映游戏设计在信息传达与用户体验间的矛盾。",
+    "author": null,
+    "publishedAt": "2026-05-18T01:36:13.271Z",
+    "fetchedAt": "2026-05-18T02:12:17.860Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "切中二游设计痛点，对策划和文案有警示价值",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "wzfhmm0u24fskfg4exp98nl7",
     "sourceId": "gameres",
     "sourceName": "游资网",
