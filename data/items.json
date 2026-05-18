@@ -1,5 +1,154 @@
 [
   {
+    "id": "kyqmyb0s03kc4ma0kbh8i9pu",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534493.html",
+    "title": "游戏资讯狂揽2亿美元的“分类解谜”赛道，三款头部产品背后的底层博弈",
+    "titleZh": "分类解谜赛道狂揽2亿美元",
+    "summaryZh": "过去两年，分类解谜游戏崛起为移动游戏高商业价值赛道，三款头部产品揭示底层博弈，为从业者提供品类分析。",
+    "author": null,
+    "publishedAt": "2026-05-18T09:57:26.138Z",
+    "fetchedAt": "2026-05-18T10:57:27.909Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 7,
+      "totalScore": 37,
+      "finalScore": 35,
+      "reason": "深度解析热门品类，数据与博弈视角实用",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": [
+        {
+          "sourceId": "gameres",
+          "sourceName": "游资网",
+          "url": "https://www.gameres.com/wl?m=551e59049c0a7061b8bbe952edec5e0d",
+          "title": "狂揽2亿美元的“分类解谜”赛道，三款头部产品背后的底层博弈",
+          "titleZh": "分类解谜赛道年入2亿美元",
+          "publishedAt": "2026-05-17T12:50:17.469Z",
+          "totalScore": 35
+        }
+      ]
+    }
+  },
+  {
+    "id": "3srbetyajmgrwxnmhiof64b2",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196400",
+    "title": "游戏圈大佬14.52亿入主A股上市公司 承诺36个月“不碰游戏”",
+    "titleZh": "大佬14.52亿入主A股",
+    "summaryZh": "游戏圈大佬斥资14.52亿收购金海高科控制权，承诺36个月不碰游戏，引发行业对资本运作与主业转型的关注。",
+    "author": null,
+    "publishedAt": "2026-05-18T09:57:14.841Z",
+    "fetchedAt": "2026-05-18T10:57:19.111Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "资本动向影响行业格局，值得从业者关注",
+      "tags": [
+        "公司",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "84goxgatj7gzym3ny1z8imtp",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196401",
+    "title": "东北独游展向您发送来自里世界的邀请函",
+    "titleZh": "东北独游展邀请函",
+    "summaryZh": "东北独游展邀请函发布，展出超70款电子游戏和桌游，提供试玩、周边礼品及开发者交流机会，活动丰富。",
+    "author": null,
+    "publishedAt": "2026-05-18T09:57:14.840Z",
+    "fetchedAt": "2026-05-18T10:57:16.736Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 29,
+      "finalScore": 29,
+      "reason": "展会信息对独立游戏开发者有参考价值",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "qgj4miuwkuox2vhi6sqkzaj6",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534492.html",
+    "title": "游戏资讯又一爆款登顶畅销榜，广州小游戏咋这么猛？",
+    "titleZh": "广州小游戏《掌上谈兵》登顶畅销榜",
+    "summaryZh": "广州小游戏《掌上谈兵》凭借三国题材卡牌玩法异军突起，登顶畅销榜，引发行业对广州小游戏研发实力的关注。",
+    "author": null,
+    "publishedAt": "2026-05-18T08:57:26.138Z",
+    "fetchedAt": "2026-05-18T10:57:30.243Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 32,
+      "finalScore": 32,
+      "reason": "小游戏爆款案例对研发和发行有直接参考价值",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "vs8b7455i4pv8qsajoyoz91w",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534491.html",
+    "title": "游戏资讯《洛克王国》DAU达1300万，《三谋》团队再出新作，恺英1亿砸AI漫剧 | 陀螺周报",
+    "titleZh": "洛克王国DAU达1300万，恺英砸1亿AI漫剧",
+    "summaryZh": "本周游戏产业要点：洛克王国DAU达1300万，《三谋》团队推出新作，恺英网络投资1亿元布局AI漫剧，反映行业在经典IP运营与AI技术应用上的新动向。",
+    "author": null,
+    "publishedAt": "2026-05-18T06:57:26.138Z",
+    "fetchedAt": "2026-05-18T10:57:32.638Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 37,
+      "finalScore": 35,
+      "reason": "数据亮眼，AI投资风向值得关注",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "r1j75p63lekzsa02mf0ta7yn",
     "sourceId": "gameres",
     "sourceName": "游资网",
@@ -380,7 +529,7 @@
     "author": null,
     "publishedAt": "2026-05-17T12:50:17.469Z",
     "fetchedAt": "2026-05-17T12:55:24.185Z",
-    "isSelected": true,
+    "isSelected": false,
     "score": {
       "importance": 8,
       "articleQuality": 7,
