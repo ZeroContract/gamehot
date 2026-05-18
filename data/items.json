@@ -1,5 +1,182 @@
 [
   {
+    "id": "r1j75p63lekzsa02mf0ta7yn",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=dff4ab1c6f95c7be572484a644df59d5",
+    "title": "速览！2026微信小游戏开发者大会议程来了",
+    "titleZh": "2026微信小游戏开发者大会议程",
+    "summaryZh": "2026年微信小游戏开发者大会将于5月27日在杭州白马湖举行，上午聚焦行业方向，下午分享开发方法，为从业者提供前沿洞察与实战经验。",
+    "author": null,
+    "publishedAt": "2026-05-18T04:36:43.987Z",
+    "fetchedAt": "2026-05-18T06:36:46.183Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 5,
+      "timeliness": 8,
+      "uniqueness": 4,
+      "usefulness": 6,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "议程信息及时，对开发者有实用参考价值",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "xmkxolfe9ykh05sg64vsm76y",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534490.html",
+    "title": "游戏资讯4月出海收入榜：《明日方舟》暴增240%，三七SLG新游月收破亿",
+    "titleZh": "4月出海收入榜：明日方舟暴增240%",
+    "summaryZh": "Sensor Tower发布2026年4月中国手游海外收入榜，《明日方舟》收入暴增240%，三七互娱SLG新游月收入破亿，显示出海市场强劲增长。",
+    "author": null,
+    "publishedAt": "2026-05-18T03:36:32.934Z",
+    "fetchedAt": "2026-05-18T06:36:35.214Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 37,
+      "finalScore": 35,
+      "reason": "出海收入榜是行业风向标，数据直接指导发行策略",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "0emy9y9v8fxrauxhslxu1ftv",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196369",
+    "title": "一群台湾年轻人，把学生作品做到Steam售出3万份",
+    "titleZh": "台湾学生作品《炎姬》Steam售3万份",
+    "summaryZh": "2018年，台湾静宜大学学生何祥禄在放视大赏展示ACT游戏《炎姬》，用Unity3D制作，最终在Steam售出3万份，展现学生团队的开发潜力。",
+    "author": null,
+    "publishedAt": "2026-05-18T03:36:17.771Z",
+    "fetchedAt": "2026-05-18T06:36:20.402Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 5,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "学生作品逆袭Steam，给独立开发者打鸡血",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "qarszh5m2zf1zxzxfknx8y8d",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534489.html",
+    "title": "游戏资讯起底游戏研发圈：费用砍半，裁员三千，190 款新品只卷这四大赛道",
+    "titleZh": "游戏研发圈：费用砍半裁员三千",
+    "summaryZh": "2026年游戏行业降本增效余波未平，研发费用砍半、裁员三千，190款新品聚焦四大赛道，行业竞争加剧。",
+    "author": null,
+    "publishedAt": "2026-05-18T02:36:32.934Z",
+    "fetchedAt": "2026-05-18T06:36:37.950Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 37,
+      "finalScore": 35,
+      "reason": "数据详实，直击行业痛点，对研发和发行决策有参考价值",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": [
+        {
+          "sourceId": "gameres",
+          "sourceName": "游资网",
+          "url": "https://www.gameres.com/wl?m=b1145510661dd3e7d60eec14302d5483",
+          "title": "起底游戏研发圈：费用砍半，裁员三千，190 款新品只卷这四大赛道",
+          "titleZh": "游戏研发圈费用砍半裁员三千",
+          "publishedAt": "2026-05-17T12:48:17.470Z",
+          "totalScore": 39
+        }
+      ]
+    }
+  },
+  {
+    "id": "6qysj7xbdggv5k5lpt0zzw4d",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196356",
+    "title": "愿望单大破500万，《Subnautica 2：异星水域》能否延续系列的孤独与探索灵魂？",
+    "titleZh": "《深海迷航2》愿望单破500万",
+    "summaryZh": "《Subnautica 2：异星水域》愿望单突破500万，游戏延续系列孤独探索核心，以深海生存为特色，区别于传统战斗征服型生存游戏，引发行业关注。",
+    "author": null,
+    "publishedAt": "2026-05-18T02:36:17.773Z",
+    "fetchedAt": "2026-05-18T06:36:23.326Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "数据亮眼，对生存游戏品类差异化设计有参考价值",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "x9mnyxp3pmh03bro0onl3gaa",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196337",
+    "title": "一款百万玩家期待的“阴间”游戏，要在2026解构MMO赛道？",
+    "titleZh": "2026年MMO赛道分化，阴间游戏解构",
+    "summaryZh": "GDC 2026上，NC America CEO表示MMO迎来机会之年，一款百万玩家期待的“阴间”游戏计划在2026年解构MMO赛道，引发行业对品类分化的关注。",
+    "author": null,
+    "publishedAt": "2026-05-18T02:36:17.773Z",
+    "fetchedAt": "2026-05-18T06:36:26.320Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "MMO赛道分化趋势值得关注，但实用度一般。",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "68fz2cl3e1suyf3gzevgrmda",
     "sourceId": "gameres",
     "sourceName": "游资网",
@@ -231,7 +408,7 @@
     "author": null,
     "publishedAt": "2026-05-17T12:48:17.470Z",
     "fetchedAt": "2026-05-17T12:55:26.840Z",
-    "isSelected": true,
+    "isSelected": false,
     "score": {
       "importance": 8,
       "articleQuality": 7,
