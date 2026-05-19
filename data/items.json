@@ -1,5 +1,32 @@
 [
   {
+    "id": "88zx1yr5726pvho32f7j5w9b",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0519/6939.html",
+    "title": "三角洲不信搜打撤做不出“好电竞”",
+    "titleZh": "三角洲行动电竞化探索",
+    "summaryZh": "游戏日报报道，三角洲行动正式启动电竞化，探讨如何将搜打撤玩法转化为电竞项目，引发行业对非传统射击游戏电竞化的关注。",
+    "author": null,
+    "publishedAt": "2026-05-19T17:29:34.391Z",
+    "fetchedAt": "2026-05-19T17:33:36.072Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "电竞化新思路，值得从业者关注",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "0r34b99cyz69qtry6rwik5hr",
     "sourceId": "youxiribao",
     "sourceName": "游戏日报",
