@@ -1,5 +1,70 @@
 [
   {
+    "id": "vdvszhzlohfafqr8i1teuisf",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534496.html",
+    "title": "游戏资讯巨人网络第二大股东拟减持套现17亿元，用于还债",
+    "titleZh": "巨人网络二股东拟减持17亿还债",
+    "summaryZh": "巨人网络第二大股东上海腾澎投资计划三个月内减持不超过5680万股，占总股本2.99%，套现约17亿元用于偿还债务，引发市场关注。",
+    "author": null,
+    "publishedAt": "2026-05-19T07:20:35.117Z",
+    "fetchedAt": "2026-05-19T08:20:37.941Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 30,
+      "finalScore": 31,
+      "reason": "大股东减持套现还债，反映公司资金压力，对行业从业者了解资本动向有参考价值。",
+      "tags": [
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "eihdxa09bac7jbx8jt0t059l",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534495.html",
+    "title": "行业活动RuStore在广州举办中国开发者交流活动，解读俄罗斯游戏市场增长与商业化路径",
+    "titleZh": "RuStore广州活动解读俄游戏市场",
+    "summaryZh": "2026年5月14日，俄罗斯应用商店RuStore在广州举办中国开发者交流活动，解读俄罗斯游戏市场增长与商业化路径，为出海提供参考。",
+    "author": null,
+    "publishedAt": "2026-05-19T06:20:35.117Z",
+    "fetchedAt": "2026-05-19T08:20:40.802Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 34,
+      "finalScore": 33,
+      "reason": "俄罗斯市场增长与商业化路径对出海开发者有直接参考价值",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": [
+        {
+          "sourceId": "gameres",
+          "sourceName": "游资网",
+          "url": "https://www.gameres.com/917519.html",
+          "title": "RuStore在广州举办中国开发者交流活动，解读俄罗斯游戏市场增长与商业化路径",
+          "titleZh": "RuStore广州交流活动解读俄市场",
+          "publishedAt": "2026-05-19T04:22:11.306Z",
+          "totalScore": 34
+        }
+      ]
+    }
+  },
+  {
     "id": "bmo4bx4zlohdipekff3roc5f",
     "sourceId": "gameres",
     "sourceName": "游资网",
@@ -37,7 +102,7 @@
     "author": null,
     "publishedAt": "2026-05-19T04:22:11.306Z",
     "fetchedAt": "2026-05-19T04:39:15.784Z",
-    "isSelected": true,
+    "isSelected": false,
     "score": {
       "importance": 7,
       "articleQuality": 6,
