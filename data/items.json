@@ -1,5 +1,116 @@
 [
   {
+    "id": "bmo4bx4zlohdipekff3roc5f",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917520.html",
+    "title": "让玩家开服就打到爽，这款国战SLG还真做成了？",
+    "titleZh": "《天下归心》公测数据亮眼",
+    "summaryZh": "国战SLG《天下归心》公测新增用户突破500万，DAU峰值超100万，验证了爽快战斗体验对SLG用户的吸引力，为行业提供新思路。",
+    "author": null,
+    "publishedAt": "2026-05-19T04:32:11.306Z",
+    "fetchedAt": "2026-05-19T04:39:13.330Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "数据亮眼，对SLG品类运营有参考价值",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "th31f27s66fxfzeck6r1spnw",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917519.html",
+    "title": "RuStore在广州举办中国开发者交流活动，解读俄罗斯游戏市场增长与商业化路径",
+    "titleZh": "RuStore广州交流活动解读俄市场",
+    "summaryZh": "RuStore在广州举办中国开发者交流活动，透露其月活跃用户达6800万，并解读俄罗斯游戏市场增长与商业化路径，为中国开发者提供出海参考。",
+    "author": null,
+    "publishedAt": "2026-05-19T04:22:11.306Z",
+    "fetchedAt": "2026-05-19T04:39:15.784Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "俄罗斯市场数据新鲜，对出海开发者有直接参考价值",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "4xcmtsk30iavkie73i2quqcg",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534494.html",
+    "title": "游戏资讯曾靠卖洗发水出圈，如今靠游戏赚大头：这家上市公司转型大成功！",
+    "titleZh": "《城主别慌张》小游戏跑出",
+    "summaryZh": "《城主别慌张》是一款Q版国风靶心like小游戏，近期表现突出。该游戏来自一家曾靠卖洗发水出圈的公司，如今转型成功，游戏业务成为主要收入来源。",
+    "author": null,
+    "publishedAt": "2026-05-19T03:39:02.748Z",
+    "fetchedAt": "2026-05-19T04:39:04.761Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 32,
+      "finalScore": 32,
+      "reason": "转型案例有参考价值，小游戏品类分析到位",
+      "tags": [
+        "游戏",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "n4h2cqdn4fzvrspy1kiemnd1",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196412",
+    "title": "年流水过亿的爆款游戏制作人，创业3年花几百万做了款“小游戏”",
+    "titleZh": "爆款制作人创业做小游戏",
+    "summaryZh": "离相科技7人团队，由年流水过亿爆款制作人创立，创业3年花几百万开发一款“小游戏”，核心成员经验丰富，低调研发。",
+    "author": null,
+    "publishedAt": "2026-05-19T01:38:54.810Z",
+    "fetchedAt": "2026-05-19T04:38:56.799Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 6,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "爆款制作人转型小游戏，对中小团队有启发",
+      "tags": [
+        "公司",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "in8paow01863hcr8ff1ovxgw",
     "sourceId": "gameres",
     "sourceName": "游资网",
