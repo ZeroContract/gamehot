@@ -1,5 +1,33 @@
 [
   {
+    "id": "0r34b99cyz69qtry6rwik5hr",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0519/6936.html",
+    "title": "B站Q1游戏收入15亿，陈睿放话今年再上一款SLG",
+    "titleZh": "B站Q1游戏收入15亿，陈睿称再推SLG",
+    "summaryZh": "B站Q1游戏收入达15亿元，CEO陈睿宣布今年将再推出一款SLG游戏，显示其持续加码游戏业务，尤其聚焦SLG品类。",
+    "author": null,
+    "publishedAt": "2026-05-19T13:36:52.104Z",
+    "fetchedAt": "2026-05-19T14:34:54.676Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "B站财报透露SLG新品计划，对关注SLG赛道和B站动态的从业者有参考价值。",
+      "tags": [
+        "公司",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "wskto1u8manka8uo0r70qgtc",
     "sourceId": "gameres",
     "sourceName": "游资网",
