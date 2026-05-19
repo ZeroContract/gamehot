@@ -1,5 +1,141 @@
 [
   {
+    "id": "wskto1u8manka8uo0r70qgtc",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=94556ac288352d8bfd3ace177fa3fda0",
+    "title": "史上最贵的“独立游戏”，是怎么用十年烧掉2700万美元的？",
+    "titleZh": "十年烧2700万，史上最贵独立游戏",
+    "summaryZh": "独立游戏《沉星之序》核心玩法为“推箱子”，开发成本超2700万美元，即将上市。其高成本与简单玩法形成反差，引发行业对独立游戏投入与回报的讨论。",
+    "author": null,
+    "publishedAt": "2026-05-19T11:36:47.428Z",
+    "fetchedAt": "2026-05-19T11:36:49.783Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 8,
+      "usefulness": 6,
+      "totalScore": 38,
+      "finalScore": 35,
+      "reason": "高成本独立游戏案例对研发和发行有警示与启发，信息新鲜且视角独特。",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "5vy1pxcxl1op6lcx917bzv6b",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=2a39e08e054a1f53fb5fccbf82ad9e08",
+    "title": "砍光武器宠物抽卡，这款千万预约的新游不甘心只做“饥荒移植”",
+    "titleZh": "千万预约新游取消抽卡",
+    "summaryZh": "一款千万预约的新游大改，取消武器池和宠物池抽卡，改为兑换商店免费获取，不甘心只做“饥荒移植”。",
+    "author": null,
+    "publishedAt": "2026-05-19T11:35:47.429Z",
+    "fetchedAt": "2026-05-19T11:36:52.065Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 36,
+      "finalScore": 34,
+      "reason": "取消抽卡模式，对行业付费设计有参考价值",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "dig69t0j4qfbrdmzo1egevtm",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=87525f3dc2663f31f71fa193605262e6",
+    "title": "抽卡体验设计：关于盲盒、抽卡、开箱的一切",
+    "titleZh": "抽卡体验设计全解析",
+    "summaryZh": "本文深入探讨抽卡流程中的体验设计，涵盖盲盒、抽卡、开箱机制，分析玩家心理与设计策略，为游戏从业者提供实用参考。",
+    "author": null,
+    "publishedAt": "2026-05-19T11:34:47.429Z",
+    "fetchedAt": "2026-05-19T11:36:54.387Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 8,
+      "timeliness": 7,
+      "uniqueness": 7,
+      "usefulness": 9,
+      "totalScore": 39,
+      "finalScore": 35,
+      "reason": "干货满满，直接指导抽卡设计优化",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "snoqfq9equwemoce06srt318",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=048b196cdfd996a64ec8a51a93ff8d2b",
+    "title": "我来世界这个游乐园，我要尽兴：从 GAIN 学到的“玩”感",
+    "titleZh": "从GAIN学到的“玩”感",
+    "summaryZh": "文章探讨了从GAIN支持活动中获得的“玩”感，强调世界如游乐园，为游戏开发者提供设计理念参考。",
+    "author": null,
+    "publishedAt": "2026-05-19T11:25:47.429Z",
+    "fetchedAt": "2026-05-19T11:36:56.734Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 5,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 29,
+      "finalScore": 29,
+      "reason": "独特视角，启发游戏设计理念",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "jd619fvfpzcgu5eolysp4yi3",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917523.html",
+    "title": "《桌上谈兵》——RTS 的战场，Roguelike 的灵魂，6月11日等你来战",
+    "titleZh": "《桌上谈兵》6月11日发售",
+    "summaryZh": "独立开发者TJ制作的Roguelike即时战略游戏《桌上谈兵》将于6月11日登陆Steam，由Frostbloom和GamirrorGames联合发行。游戏强调数百种协同可能、严酷取舍与变化世界，每局体验独特。",
+    "author": null,
+    "publishedAt": "2026-05-19T10:50:47.429Z",
+    "fetchedAt": "2026-05-19T11:36:59.274Z",
+    "isSelected": true,
+    "score": {
+      "importance": 5,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 27,
+      "finalScore": 28,
+      "reason": "Roguelike+RTS创新玩法，对独立游戏开发者有参考价值",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "vdvszhzlohfafqr8i1teuisf",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
