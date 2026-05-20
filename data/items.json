@@ -1,5 +1,33 @@
 [
   {
+    "id": "hzbmiglwms70xcsxxcvbjqf4",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0520/6946.html",
+    "title": "腾讯又一张王牌压上了这个新兴赛道",
+    "titleZh": "腾讯押注新兴赛道",
+    "summaryZh": "腾讯布局新兴游戏赛道，该领域发展迅速，遍地开花。此举显示腾讯正积极拓展新市场，对行业竞争格局可能产生重要影响。",
+    "author": null,
+    "publishedAt": "2026-05-20T12:36:32.262Z",
+    "fetchedAt": "2026-05-20T12:41:34.090Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 37,
+      "finalScore": 34,
+      "reason": "腾讯大厂动向，赛道分析有参考价值",
+      "tags": [
+        "公司",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "4y5rg1y5qhn3ys7g5o3jayxg",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
