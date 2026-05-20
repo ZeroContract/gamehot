@@ -1,5 +1,88 @@
 [
   {
+    "id": "553nmru6gdgtpib0h41tswwh",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917531.html",
+    "title": "《遥遥西土》一周销量即突破50万 四人合作PVE时代来临了？",
+    "titleZh": "《遥遥西土》首周销量破50万",
+    "summaryZh": "四人合作PVE游戏《遥遥西土》一周销量突破50万，其搞笑风格引发破圈效应，或预示此类游戏迎来新机遇。",
+    "author": null,
+    "publishedAt": "2026-05-20T02:08:34.861Z",
+    "fetchedAt": "2026-05-20T02:10:36.558Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "销量数据亮眼，四人合作PVE趋势值得关注",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "pn3ajylhum1x3y354li7l9tm",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196576",
+    "title": "“搜打撤”怎么做比赛？《三角洲行动》回答了你",
+    "titleZh": "三角洲行动比赛解析",
+    "summaryZh": "文章以《三角洲行动》为例，通过威龙雕塑场景引入，分析其“搜打撤”比赛模式的设计思路与执行细节，为游戏赛事策划提供参考。",
+    "author": null,
+    "publishedAt": "2026-05-20T01:10:17.707Z",
+    "fetchedAt": "2026-05-20T02:10:22.635Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "案例具体，对赛事策划有实操启发",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "06pzy0donitna3etbxu7uxe4",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196587",
+    "title": "玩家嫌弃，资本抢着要，500万爆款开发商的魔幻生存之道",
+    "titleZh": "玩家嫌弃资本追捧的魔幻生存",
+    "summaryZh": "一款500万爆款游戏开发商面临玩家嫌弃但资本争抢的奇特局面，揭示了游戏行业在开发周期长、AI工具介入下的生存悖论与资本逻辑。",
+    "author": null,
+    "publishedAt": "2026-05-20T01:10:17.706Z",
+    "fetchedAt": "2026-05-20T02:10:20.207Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 7,
+      "uniqueness": 8,
+      "usefulness": 6,
+      "totalScore": 36,
+      "finalScore": 34,
+      "reason": "资本与口碑的撕裂，从业者必读的行业魔幻现实",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "88zx1yr5726pvho32f7j5w9b",
     "sourceId": "youxiribao",
     "sourceName": "游戏日报",
