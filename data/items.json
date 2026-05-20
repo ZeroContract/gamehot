@@ -1,5 +1,60 @@
 [
   {
+    "id": "4y5rg1y5qhn3ys7g5o3jayxg",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534499.html",
+    "title": "游戏资讯任天堂「最强手游团队」再出新作：把本地相册做成游戏？",
+    "titleZh": "任天堂新作将相册变游戏",
+    "summaryZh": "任天堂官宣移动端新作《Pictonico!》，该产品将本地相册内容转化为游戏玩法，引发行业对创新交互模式的关注。",
+    "author": null,
+    "publishedAt": "2026-05-20T06:22:31.130Z",
+    "fetchedAt": "2026-05-20T06:31:33.326Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 33,
+      "reason": "任天堂手游创新玩法值得关注",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "wnywoa2gdwn3hlqev48zhdq7",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534498.html",
+    "title": "游戏资讯给游戏行业疯狂提速的AI，正在被海外玩家“绞杀”？",
+    "titleZh": "AI提速游戏遭海外玩家抵制",
+    "summaryZh": "《猛兽派对》因AI相关争议口碑暴跌，引发对AI在游戏行业应用的反思。海外玩家对AI提速游戏的态度趋于激烈，行业面临信任危机。",
+    "author": null,
+    "publishedAt": "2026-05-20T03:31:31.130Z",
+    "fetchedAt": "2026-05-20T06:31:36.180Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 33,
+      "reason": "AI争议影响游戏口碑，从业者需警惕玩家情绪。",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "553nmru6gdgtpib0h41tswwh",
     "sourceId": "gameres",
     "sourceName": "游资网",
