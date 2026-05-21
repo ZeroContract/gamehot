@@ -1,5 +1,238 @@
 [
   {
+    "id": "rvjmeqjg1nal5k5rdzlhs7i7",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=8542c47f2a371d11ccb36486736eeac7",
+    "title": "割草塔防玩法又出新爆款，小游戏《城主别慌张》产品玩法拆解",
+    "titleZh": "《城主别慌张》割草塔防玩法拆解",
+    "summaryZh": "本文拆解小游戏《城主别慌张》的玩法设计，围绕出怪、对战、肉鸽构筑和技能四大板块，分析其核心机制与创新点。",
+    "author": null,
+    "publishedAt": "2026-05-21T06:31:38.705Z",
+    "fetchedAt": "2026-05-21T06:33:41.398Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 35,
+      "finalScore": 33,
+      "reason": "爆款玩法拆解，对研发和运营有直接参考价值",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "2bfzofo1cdst3594dffyv72v",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=f4e49e5ff92922fe98d6d7c13081b219",
+    "title": "2026年了，韩厂还在费大劲做这样的“类原神”游戏？",
+    "titleZh": "韩厂再推类原神新游",
+    "summaryZh": "韩国网石于4月15日推出二次元游戏《魔御：STAR DIVE》，被指效仿《原神》模式，引发行业对韩厂创新乏力的讨论。",
+    "author": null,
+    "publishedAt": "2026-05-21T06:30:38.705Z",
+    "fetchedAt": "2026-05-21T06:33:43.990Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "分析韩厂跟风现象，对研发方向有警示",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "snztw6djtcn3aoono4b7zzfz",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=0b548c05ca7a19b164c87a291a20d408",
+    "title": "陈睿意气风发：B站要建“三国宇宙”、“AI能带来10倍增长！”",
+    "titleZh": "B站建三国宇宙，AI促10倍增长",
+    "summaryZh": "陈睿宣布B站将打造“三国宇宙”，并称AI能带来10倍增长；多款新游年内上线，《逃离鸭科夫》销量破400万。",
+    "author": null,
+    "publishedAt": "2026-05-21T06:28:38.705Z",
+    "fetchedAt": "2026-05-21T06:33:46.756Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "B站战略布局与AI应用前景值得关注",
+      "tags": [
+        "公司",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "la6ux2ev8ny829rfwhw63oft",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=c5ab980b8a471c80a91f33d5c4e4dd11",
+    "title": "赛博朋克+武侠题材？又一款独游放出实机首曝PV",
+    "titleZh": "《燎原劫火录》实机PV首曝",
+    "summaryZh": "全速向前工作室开发的赛博朋克+武侠题材独游《燎原劫火录》发布首支实机PV，展示街区探索、Boss战斗及武学构筑玩法，引发关注。",
+    "author": null,
+    "publishedAt": "2026-05-21T06:27:38.706Z",
+    "fetchedAt": "2026-05-21T06:33:49.837Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 4,
+      "totalScore": 28,
+      "finalScore": 29,
+      "reason": "题材融合新颖，实机演示有参考价值，适合关注独立游戏趋势的从业者。",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "b77s52h8d28hdo15vimpf42f",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=854be9e0fd99d2041fb23b0bcfbbba74",
+    "title": "超70款，多位知名制作人操刀：游戏圈将面临一大批SLG冲入",
+    "titleZh": "超70款SLG新游来袭",
+    "summaryZh": "SLG游戏迎来爆发，超70款新作由知名制作人操刀，玩法分化出模拟经营、RTS-SLG及帕鲁SLG等支线，行业竞争加剧。",
+    "author": null,
+    "publishedAt": "2026-05-21T06:26:38.706Z",
+    "fetchedAt": "2026-05-21T06:33:52.563Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 37,
+      "finalScore": 34,
+      "reason": "SLG品类爆发趋势明显，从业者需关注玩法分化与竞争格局",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "v4b03x0mc6e5twpscc6683ga",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534501.html",
+    "title": "游戏资讯少即是多？网易游戏在打什么算盘",
+    "titleZh": "网易520发布会策略解析",
+    "summaryZh": "2026年网易520线上发布会举行，游戏陀螺分析其“少即是多”策略，探讨网易在游戏资讯发布上的新思路与行业影响。",
+    "author": null,
+    "publishedAt": "2026-05-21T03:33:27.056Z",
+    "fetchedAt": "2026-05-21T06:33:29.201Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 33,
+      "reason": "解读网易发布会策略，对从业者有参考价值",
+      "tags": [
+        "公司",
+        "行业"
+      ],
+      "relatedItems": [
+        {
+          "sourceId": "gameres",
+          "sourceName": "游资网",
+          "url": "https://www.gameres.com/917542.html",
+          "title": "热爱100%加载 网易游戏520爆料新品进展、版本更新......",
+          "titleZh": "网易520发布会新品动态",
+          "publishedAt": "2026-05-21T02:04:32.773Z",
+          "totalScore": 27
+        }
+      ]
+    }
+  },
+  {
+    "id": "3uhcdenu4e08ipacsuzj21hb",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196698",
+    "title": "网易游戏今年是一个蛰伏的新品小年吗?",
+    "titleZh": "网易蛰伏新品小年",
+    "summaryZh": "网易520发布会缺少《无限大》《归唐》等重磅新游，引发玩家猜测。分析认为网易今年可能处于蛰伏期，新品储备不足，但后续或有惊喜。",
+    "author": null,
+    "publishedAt": "2026-05-21T03:33:12.249Z",
+    "fetchedAt": "2026-05-21T06:33:18.210Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "行业风向标，网易动态影响研发发行策略，值得关注。",
+      "tags": [
+        "公司",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "izxyk5hwpum3d4f6n92aaefs",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196708",
+    "title": "冲上畅销榜TOP 2，这款低调的腾讯游戏迎来“新生”",
+    "titleZh": "腾讯DNF手游冲上畅销榜TOP2",
+    "summaryZh": "5月16日，DNF手游在深圳举办线下活动，吸引大量玩家，游戏冲上畅销榜TOP2，展现强劲复苏势头。",
+    "author": null,
+    "publishedAt": "2026-05-21T03:33:12.248Z",
+    "fetchedAt": "2026-05-21T06:33:15.030Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 37,
+      "finalScore": 34,
+      "reason": "DNF手游逆袭案例，对运营和发行有参考价值",
+      "tags": [
+        "游戏",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "svzg9hp8qxv37luckiucv57k",
     "sourceId": "gameres",
     "sourceName": "游资网",
@@ -10,7 +243,7 @@
     "author": null,
     "publishedAt": "2026-05-21T02:04:32.773Z",
     "fetchedAt": "2026-05-21T02:09:34.640Z",
-    "isSelected": true,
+    "isSelected": false,
     "score": {
       "importance": 6,
       "articleQuality": 5,
