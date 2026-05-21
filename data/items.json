@@ -1,5 +1,60 @@
 [
   {
+    "id": "svzg9hp8qxv37luckiucv57k",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917542.html",
+    "title": "热爱100%加载 网易游戏520爆料新品进展、版本更新......",
+    "titleZh": "网易520发布会新品动态",
+    "summaryZh": "网易520发布会集中展示了多款热门游戏、IP及平台产品的最新进展，包括新品爆料和版本更新，为行业提供了产品动态参考。",
+    "author": null,
+    "publishedAt": "2026-05-21T02:04:32.773Z",
+    "fetchedAt": "2026-05-21T02:09:34.640Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 27,
+      "finalScore": 28,
+      "reason": "信息量大，紧跟行业热点，对从业者有参考价值",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "8zoc566ehd61tlsalmxhg4ev",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917541.html",
+    "title": "真能熬，这家捷克工作室一款冒险解谜游戏做了10年+",
+    "titleZh": "捷克工作室十年磨一剑",
+    "summaryZh": "捷克工作室耗时10年+开发手绘3D解谜游戏《喇叭之城》，以纸板风格呈现独特世界，展现长期研发的毅力与创新。",
+    "author": null,
+    "publishedAt": "2026-05-21T01:53:32.773Z",
+    "fetchedAt": "2026-05-21T02:09:36.978Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 8,
+      "timeliness": 6,
+      "uniqueness": 8,
+      "usefulness": 5,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "十年开发周期和手绘纸板风格在行业中罕见，对研发团队有启发意义。",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "fgwxwx53ts4wvlgcmsbiebf3",
     "sourceId": "gameres",
     "sourceName": "游资网",
