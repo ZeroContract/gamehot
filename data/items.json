@@ -1,5 +1,61 @@
 [
   {
+    "id": "9wxsc4etye80ite0jhuqm6tr",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534503.html",
+    "title": "数据报告4 月海外收入增30%，《洛克王国》月收环比增4亿，新游流水破亿艰难",
+    "titleZh": "4月海外收入增30%，洛克王国月收增4亿",
+    "summaryZh": "伽马数据报告显示，2026年4月中国游戏海外收入环比增长30%，《洛克王国》月收入环比增加4亿元，新游流水破亿难度加大。",
+    "author": null,
+    "publishedAt": "2026-05-21T09:30:58.605Z",
+    "fetchedAt": "2026-05-21T10:31:00.388Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 37,
+      "finalScore": 35,
+      "reason": "数据详实，反映市场趋势，对从业者决策有参考价值",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "4a0t06tjlwq90vugcmqykxg2",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534502.html",
+    "title": "行业活动5000万DAU后，腾讯新长青游戏79天做了一件别人没做成的事",
+    "titleZh": "腾讯新游79天破5000万DAU",
+    "summaryZh": "《三角洲行动》在79天内实现5000万DAU，成为腾讯新长青游戏，成功走通了一条行业公认最难的路，为游戏研发与运营提供了重要参考。",
+    "author": null,
+    "publishedAt": "2026-05-21T07:30:58.606Z",
+    "fetchedAt": "2026-05-21T10:31:02.829Z",
+    "isSelected": true,
+    "score": {
+      "importance": 9,
+      "articleQuality": 8,
+      "timeliness": 9,
+      "uniqueness": 8,
+      "usefulness": 8,
+      "totalScore": 42,
+      "finalScore": 38,
+      "reason": "数据亮眼，案例稀缺，对从业者极具启发",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "rvjmeqjg1nal5k5rdzlhs7i7",
     "sourceId": "gameres",
     "sourceName": "游资网",
