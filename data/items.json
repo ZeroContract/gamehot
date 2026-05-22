@@ -1,5 +1,30 @@
 [
   {
+    "id": "8eu4zfwb2933cb51lgplz3ej",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0522/6952.html",
+    "title": "二游主角什么时候才能有一个健全的脑子？",
+    "titleZh": "二游主角什么时候才能有一个健全的脑子？",
+    "summaryZh": "",
+    "author": null,
+    "publishedAt": "2026-05-22T01:22:42.032Z",
+    "fetchedAt": "2026-05-22T01:27:42.716Z",
+    "isSelected": false,
+    "score": {
+      "importance": 0,
+      "articleQuality": 0,
+      "timeliness": 0,
+      "uniqueness": 0,
+      "usefulness": 0,
+      "totalScore": 0,
+      "finalScore": 0,
+      "reason": "",
+      "tags": [],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "9wxsc4etye80ite0jhuqm6tr",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
