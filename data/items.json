@@ -1,5 +1,364 @@
 [
   {
+    "id": "lvbf6bkk5ftyk75hoi5uteqe",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=6c6d341c9a07a8bcb2258bdd7630e972",
+    "title": "这家出海厂商把二合做成“无底洞”后，在海外一年赚40亿",
+    "titleZh": "出海厂商二合玩法年赚40亿",
+    "summaryZh": "一家出海厂商将二合玩法做成“无底洞”式系统，结合海量内容与粗暴买量策略，在海外市场年收入达40亿元，展现了复杂系统与高效获客的盈利模式。",
+    "author": null,
+    "publishedAt": "2026-05-25T05:52:27.087Z",
+    "fetchedAt": "2026-05-25T06:52:32.769Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 39,
+      "finalScore": 35,
+      "reason": "二合玩法结合买量策略的暴利案例，值得从业者借鉴",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "1g80xzkpaioksqp1kan13z8j",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=77f01bb88610ab81c0d659ac57f332d2",
+    "title": "2人开发收入1200万，低调的小众黑马，藏着三个以小博大的机会",
+    "titleZh": "2人开发收入1200万，小众黑马机会",
+    "summaryZh": "《图书管理员》以整理书架为核心玩法，由2人团队开发，收入达1200万。文章分析其成功背后的三个以小博大机会，为从业者提供低成本创意开发参考。",
+    "author": null,
+    "publishedAt": "2026-05-25T05:52:27.087Z",
+    "fetchedAt": "2026-05-25T06:52:35.715Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 7,
+      "uniqueness": 8,
+      "usefulness": 8,
+      "totalScore": 38,
+      "finalScore": 35,
+      "reason": "小众产品高回报案例，实操性强",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "778szj55e22td9gptz3py1yh",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=d7647437d949a9fdbfaf51e21aaea08e",
+    "title": "字节游戏首曝修仙RPG，AI味儿贼冲，制作人：已经是第四款",
+    "titleZh": "字节修仙RPG首曝",
+    "summaryZh": "字节游戏新作《不问凡尘》发布首曝PV，主打影视化演出与回合制RPG，制作人称已是团队第四款修仙题材游戏，AI元素显著。",
+    "author": null,
+    "publishedAt": "2026-05-25T05:52:27.087Z",
+    "fetchedAt": "2026-05-25T06:52:38.355Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "字节入局修仙RPG，AI应用值得关注",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "g5pz6n4ytgekqznp79bbhb6l",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917565.html",
+    "title": "从游戏到泛娱乐互联网：AI Agent 进入业务深水区",
+    "titleZh": "AI Agent深入游戏泛娱乐",
+    "summaryZh": "数字业务复杂度提升，AI Agent从游戏向泛娱乐互联网深水区迈进，探讨技术应用与行业变革。",
+    "author": null,
+    "publishedAt": "2026-05-25T05:52:27.087Z",
+    "fetchedAt": "2026-05-25T06:52:41.156Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "AI Agent落地趋势值得关注，对研发和运营有启发。",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "gv6wkjo93lkl20igc7u72cb2",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=3e86077e9c173e3ec221a02d40591176",
+    "title": "把“副玩法”做成 2 亿美元大生意，这三个爆款给混休团队上了一堂设计课",
+    "titleZh": "副玩法爆款设计课",
+    "summaryZh": "《Magic Sort》《Knit Out》《Pixel Flow》三款混休游戏通过售卖舒适感、掌控感、紧张感，将副玩法做成2亿美元生意，为团队提供设计新思路。",
+    "author": null,
+    "publishedAt": "2026-05-25T05:52:27.086Z",
+    "fetchedAt": "2026-05-25T06:52:29.600Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 8,
+      "timeliness": 7,
+      "uniqueness": 7,
+      "usefulness": 8,
+      "totalScore": 38,
+      "finalScore": 35,
+      "reason": "副玩法变现案例实用，设计方法论直接可学",
+      "tags": [
+        "干货",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "c197fvigte3of83v9l5sn72u",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196919",
+    "title": "《欢乐斗地主》“欢乐中国行”首站落地柳州，电竞加非遗焕发古镇新活力",
+    "titleZh": "欢乐斗地主电竞非遗柳州行",
+    "summaryZh": "《欢乐斗地主》20周年全国巡礼「欢乐中国行」首站落地柳州，将电竞与非遗结合，为古镇注入新活力，探索游戏文化融合新路径。",
+    "author": null,
+    "publishedAt": "2026-05-25T04:51:58.023Z",
+    "fetchedAt": "2026-05-25T06:52:00.265Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "电竞+非遗创新模式，对游戏跨界营销有参考价值",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "1ojgwjr5nxmwlycgz5a923g1",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=74e6da1f2471d980d52b0b54854328d0",
+    "title": "《游戏项目系统工程手册》合订本vol.4",
+    "titleZh": "游戏项目系统工程手册合订本4",
+    "summaryZh": "本文出自《游戏项目系统工程手册》第三章，由鸿杰撰写，深入探讨游戏项目系统工程的实践方法，为从业者提供系统化开发经验与理论指导。",
+    "author": null,
+    "publishedAt": "2026-05-25T03:52:27.088Z",
+    "fetchedAt": "2026-05-25T06:52:44.089Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 8,
+      "timeliness": 5,
+      "uniqueness": 6,
+      "usefulness": 8,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "系统化工程手册，实用性强，适合研发团队参考",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "0qr36gllajr6w77xenlnsfmt",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917561.html",
+    "title": "5月25日—5月31日共有28款游戏开测｜GameRes",
+    "titleZh": "5月25-31日28款游戏开测",
+    "summaryZh": "据游资网报道，5月25日至5月31日期间共有28款游戏开测，其中腾讯发行的卡牌游戏《卡厄思梦境》于5月28日上线，为本周重点产品。",
+    "author": null,
+    "publishedAt": "2026-05-25T03:52:27.088Z",
+    "fetchedAt": "2026-05-25T06:52:46.619Z",
+    "isSelected": false,
+    "score": {
+      "importance": 5,
+      "articleQuality": 3,
+      "timeliness": 7,
+      "uniqueness": 2,
+      "usefulness": 4,
+      "totalScore": 21,
+      "finalScore": 25,
+      "reason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "4isoqxhxh31q1dpmld7f9mhm",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917560.html",
+    "title": "游戏负重与背包格子该如何处理设计关系？",
+    "titleZh": "负重与格子：背包设计关系解析",
+    "summaryZh": "本文探讨游戏背包管理中负重与格子两种维度的设计逻辑，分析不同路线对玩家体验的影响，为开发者提供设计参考。",
+    "author": null,
+    "publishedAt": "2026-05-25T03:52:27.088Z",
+    "fetchedAt": "2026-05-25T06:52:49.456Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 8,
+      "timeliness": 6,
+      "uniqueness": 7,
+      "usefulness": 8,
+      "totalScore": 36,
+      "finalScore": 34,
+      "reason": "干货满满，背包设计是RPG和生存类游戏痛点，直接指导开发实践。",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "al0a8oln2oly3irwr8m6rs21",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534509.html",
+    "title": "游戏资讯《代号：神不言》向左，《EVE》向右：AI，正在重塑女性向赛道吗？",
+    "titleZh": "AI重塑女性向游戏赛道",
+    "summaryZh": "祖龙旗下VVANNA事业部曝光UE5高沉浸幻想都市恋爱互动游戏《代号：神不言》，探讨AI技术如何改变女性向游戏市场格局，引发行业对AI与品类融合的思考。",
+    "author": null,
+    "publishedAt": "2026-05-25T03:52:17.705Z",
+    "fetchedAt": "2026-05-25T06:52:20.343Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 33,
+      "reason": "AI与女性向赛道结合是当前热点，文章提供了具体案例和趋势分析，对研发和发行有参考价值。",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "vcyw45x1jpc5lkvakh4j7lrg",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196891",
+    "title": "半个月稳坐畅销榜TOP3，新的爆款原型出现了？",
+    "titleZh": "新爆款原型稳坐畅销榜TOP3",
+    "summaryZh": "小游戏赚钱已成常态，中重度品类如RPG、卡牌、SLG凭借强吸金能力稳居畅销榜前列，催生多款亿级流水爆款，但高收益赛道需资金和资源支撑。",
+    "author": null,
+    "publishedAt": "2026-05-25T02:51:58.025Z",
+    "fetchedAt": "2026-05-25T06:52:09.002Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 36,
+      "finalScore": 34,
+      "reason": "分析爆款原型和行业趋势，对研发和发行有直接参考价值",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "o26g1nab2nsauslo06b7se2p",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196911",
+    "title": "销量超100万后，《盛世天下》女帝篇刚刚公布上线时间",
+    "titleZh": "《盛世天下》女帝篇6月9日上线",
+    "summaryZh": "《盛世天下》销量破百万后，官方宣布女帝篇将于6月9日上线。该作是New One Studio出品的宫廷互动影视作品，新篇章引发玩家期待。",
+    "author": null,
+    "publishedAt": "2026-05-25T02:51:58.024Z",
+    "fetchedAt": "2026-05-25T06:52:03.243Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 28,
+      "finalScore": 29,
+      "reason": "销量破百万后新篇章上线，对互动影视品类有参考价值",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "xmikn508frjbymzz037obl4u",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196906",
+    "title": "与前拳头CEO 的炉边谈话",
+    "titleZh": "与拳头前CEO炉边对话",
+    "summaryZh": "拳头游戏凭借免费游戏《英雄联盟》切入西方市场，十年专注运营一款产品，其独特模式引发行业思考。前CEO分享公司战略与行业洞察。",
+    "author": null,
+    "publishedAt": "2026-05-25T02:51:58.024Z",
+    "fetchedAt": "2026-05-25T06:52:05.897Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 8,
+      "timeliness": 6,
+      "uniqueness": 8,
+      "usefulness": 6,
+      "totalScore": 35,
+      "finalScore": 33,
+      "reason": "前CEO一手经验，对游戏公司战略有启发",
+      "tags": [
+        "公司",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "loxocjoko7i0jvcbxwayn444",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
