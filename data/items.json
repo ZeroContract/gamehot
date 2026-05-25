@@ -1,5 +1,60 @@
 [
   {
+    "id": "255fc307d5e3a7yc1lol31wv",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=7b0d92e0b09bfd02ff93e04048949846",
+    "title": "这个在Steam闷声发财的新兴赛道，可以让很多小游戏“叫爸爸”",
+    "titleZh": "Steam闷声发财新赛道",
+    "summaryZh": "该品类在Steam上已有多款销量10万级以上的小爆款，为小游戏开发者提供了“叫爸爸”的赚钱机会，值得关注。",
+    "author": null,
+    "publishedAt": "2026-05-25T13:50:59.138Z",
+    "fetchedAt": "2026-05-25T14:20:01.109Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 8,
+      "totalScore": 38,
+      "finalScore": 35,
+      "reason": "赛道潜力大，数据支撑强，实用参考价值高",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "fp5arc124br1wx15sf6a2769",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=948e56a0816f3df5a80261049361610f",
+    "title": "当腾讯登上企鹅岛",
+    "titleZh": "腾讯员工登企鹅岛",
+    "summaryZh": "2025年底起，腾讯IEG员工陆续迁入新总部“企鹅岛”，标志着腾讯游戏业务进入新阶段，或影响办公协作与战略布局。",
+    "author": null,
+    "publishedAt": "2026-05-25T13:19:59.139Z",
+    "fetchedAt": "2026-05-25T14:20:03.661Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "腾讯游戏大本营搬迁，透露公司战略动向，值得关注。",
+      "tags": [
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "lga18f6xa3uye1lybi71aahy",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
