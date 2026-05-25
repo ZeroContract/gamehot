@@ -1,5 +1,61 @@
 [
   {
+    "id": "loxocjoko7i0jvcbxwayn444",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196888",
+    "title": "游戏行业的公关，会更难做吗？",
+    "titleZh": "游戏公关更难做了？",
+    "summaryZh": "近期游戏行业舆情频发，导致厂商品牌、团队声誉及产品受损。文章探讨了公关岗位在危机中的响应机制与挑战，分析行业公关难度上升的原因。",
+    "author": null,
+    "publishedAt": "2026-05-25T02:16:43.333Z",
+    "fetchedAt": "2026-05-25T02:27:45.689Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 6,
+      "usefulness": 8,
+      "totalScore": 38,
+      "finalScore": 35,
+      "reason": "舆情危机是行业痛点，分析到位，实操性强。",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "140ttlhti62ej8qds8ejs0hc",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196866",
+    "title": "大作“下饺子”的年代，网易下水一艘航母?",
+    "titleZh": "网易下水一艘航母？",
+    "summaryZh": "2026年中国游戏市场大作云集，玩家期待值高，但厂商竞争激烈。网易推出一款重磅产品，可能成为行业新标杆。",
+    "author": null,
+    "publishedAt": "2026-05-25T01:48:43.334Z",
+    "fetchedAt": "2026-05-25T02:27:48.081Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 8,
+      "usefulness": 6,
+      "totalScore": 38,
+      "finalScore": 35,
+      "reason": "行业趋势分析到位，对从业者有启发，值得关注。",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "mecb99vt7dq65o6asv93afc0",
     "sourceId": "gameres",
     "sourceName": "游资网",
