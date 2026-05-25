@@ -1,5 +1,61 @@
 [
   {
+    "id": "lga18f6xa3uye1lybi71aahy",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534511.html",
+    "title": "数据报告米哈游前技术负责人离职做射击，上海大厂争先布局宠物+CM Like赛道丨陀螺周报",
+    "titleZh": "米哈游前技术负责人离职做射击游戏",
+    "summaryZh": "本周游戏陀螺周报聚焦米哈游前技术负责人离职创业，投身射击游戏赛道，同时上海大厂争相布局宠物+CM Like赛道，反映行业新动向。",
+    "author": null,
+    "publishedAt": "2026-05-25T10:04:26.667Z",
+    "fetchedAt": "2026-05-25T11:04:28.725Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 37,
+      "finalScore": 35,
+      "reason": "米哈游前技术负责人动向和大厂布局新赛道，对从业者有启发。",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "vqdeu5lsmymilwlycessh2ml",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534510.html",
+    "title": "游戏资讯高管19年零流失！Take-Two掌门人痛批大厂盲目裁员",
+    "titleZh": "Take-Two高管零流失，痛批盲目裁员",
+    "summaryZh": "Take-Two CEO批评游戏大厂盲目裁员，其公司高管19年零流失，成为行业稳定典范，引发对裁员潮的反思。",
+    "author": null,
+    "publishedAt": "2026-05-25T09:04:26.667Z",
+    "fetchedAt": "2026-05-25T11:04:31.080Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 8,
+      "usefulness": 6,
+      "totalScore": 38,
+      "finalScore": 36,
+      "reason": "高管零流失案例值得行业反思裁员策略",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "lvbf6bkk5ftyk75hoi5uteqe",
     "sourceId": "gameres",
     "sourceName": "游资网",
