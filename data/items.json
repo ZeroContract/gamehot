@@ -1,5 +1,281 @@
 [
   {
+    "id": "lgcacrhgha4g5lg12pk2e590",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0526/6980.html",
+    "title": "又一款二游没能挺过1年",
+    "titleZh": "又一款二游未满一年停运",
+    "summaryZh": "游戏日报报道，又一款二次元游戏在运营不到一年后宣布停服，反映出二游市场竞争激烈、产品生命周期缩短的趋势，从业者需关注用户留存与内容迭代。",
+    "author": null,
+    "publishedAt": "2026-05-26T13:38:12.964Z",
+    "fetchedAt": "2026-05-26T13:47:15.288Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 3,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 25,
+      "finalScore": 27,
+      "reason": "二游短命案例警示行业，运营和研发可参考避坑。",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "7aljxkks6i9dyqpyv8rexp8q",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=50a9e1fd99a1f607c383740ee3b9db49",
+    "title": "《遥遥西土》快评：机器人牛仔会梦到西部死灵吗？",
+    "titleZh": "《遥遥西土》快评：机器人牛仔与西部死灵",
+    "summaryZh": "《遥遥西土》是Evil Raptor开发的科幻西部题材英雄射击FPS，主打多人合作PvE玩法，融合机器人牛仔与西部死灵元素，提供独特射击体验。",
+    "author": null,
+    "publishedAt": "2026-05-26T13:36:20.466Z",
+    "fetchedAt": "2026-05-26T13:47:22.078Z",
+    "isSelected": false,
+    "score": {
+      "importance": 5,
+      "articleQuality": 4,
+      "timeliness": 6,
+      "uniqueness": 5,
+      "usefulness": 3,
+      "totalScore": 23,
+      "finalScore": 26,
+      "reason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "p53x9d8xz256vhg8ciyupm8x",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=e18ea724ddd25374602cf388138d7a3b",
+    "title": "抖音「游戏特色人群」白皮书：6成流水来自老游",
+    "titleZh": "抖音白皮书：老游贡献6成流水",
+    "summaryZh": "2025年新游下载或回流用户中，超6成受平台因素影响，抖音白皮书揭示老游戏仍占流水主导，平台对用户决策影响显著。",
+    "author": null,
+    "publishedAt": "2026-05-26T13:34:20.466Z",
+    "fetchedAt": "2026-05-26T13:47:24.894Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 7,
+      "usefulness": 8,
+      "totalScore": 39,
+      "finalScore": 35,
+      "reason": "老游流水占比数据对发行策略有直接参考价值",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "0fajw46dkveataeugrlcw9n4",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=30b35b384bf2b838372d4073df3b31b4",
+    "title": "裁员实锤？19家游戏公司，五年共减员超26000人",
+    "titleZh": "19家游戏公司五年减员超2.6万",
+    "summaryZh": "2025年报告显示，82%游戏公司薪酬成本上升，吉比特和腾讯人均薪酬超110万，五年内19家公司共减员超26000人，反映行业降本增效趋势。",
+    "author": null,
+    "publishedAt": "2026-05-26T13:31:20.466Z",
+    "fetchedAt": "2026-05-26T13:47:27.375Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 37,
+      "finalScore": 34,
+      "reason": "数据详实，揭示行业裁员与薪酬分化趋势，对从业者决策有参考价值。",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "5x5izoozo0jz8dcoyi03l77m",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=f910256c1e6fe5ea65f96c77c674b542",
+    "title": "游戏动画设计 | 系统拆解动画的本质与核心原理",
+    "titleZh": "动画设计核心原理拆解",
+    "summaryZh": "文章系统拆解动画本质，将动画分为逐帧与补间两类，阐述中间帧生成方式差异，为游戏动画设计提供基础理论支撑。",
+    "author": null,
+    "publishedAt": "2026-05-26T13:27:20.466Z",
+    "fetchedAt": "2026-05-26T13:47:29.610Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 5,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "基础理论扎实，对动画设计有实用参考",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "gdoxsdzu6me6yre4zpuzlpbr",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=3e1e224717a781afd47087f777674036",
+    "title": "一位学经济的大学生，成了《天国：拯救》工作室的创意总监",
+    "titleZh": "经济学生成《天国：拯救》创意总监",
+    "summaryZh": "一位学经济的大学生，凭借对游戏的热爱和独特视角，成为《天国：拯救》工作室的创意总监，其经历揭示了游戏行业人才多元化的可能性。",
+    "author": null,
+    "publishedAt": "2026-05-26T13:25:20.467Z",
+    "fetchedAt": "2026-05-26T13:47:32.077Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 5,
+      "uniqueness": 8,
+      "usefulness": 4,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "非典型人才成长路径，给行业招聘和团队建设带来启发",
+      "tags": [
+        "公司",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "184ojeqi6wkmd2cym19i4t78",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0526/6978.html",
+    "title": "汇量科技引入股东淡马锡，长期价值获认可",
+    "titleZh": "汇量科技获淡马锡投资",
+    "summaryZh": "汇量科技引入淡马锡作为股东，其长期价值获认可，此举可能影响游戏行业广告技术及出海服务格局。",
+    "author": null,
+    "publishedAt": "2026-05-26T13:18:12.964Z",
+    "fetchedAt": "2026-05-26T13:47:17.698Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 27,
+      "finalScore": 28,
+      "reason": "淡马锡入股，对游戏出海广告技术公司有信号意义。",
+      "tags": [
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "eyc20mhofbq0tfel0ug91jh1",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=f552ed33a5c657a044394ea94a35f926",
+    "title": "成本1千万，1个月大赚10亿，游戏大厂为啥还没跟？",
+    "titleZh": "低成本高回报，大厂为何不跟？",
+    "summaryZh": "文章探讨一款成本仅1千万的游戏，一个月内赚取10亿，分析游戏大厂为何未跟进此类项目，聚焦被忽视的日常、历史、民俗等题材。",
+    "author": null,
+    "publishedAt": "2026-05-26T13:16:20.467Z",
+    "fetchedAt": "2026-05-26T13:47:34.514Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 8,
+      "usefulness": 6,
+      "totalScore": 38,
+      "finalScore": 35,
+      "reason": "独特视角揭示市场空白，对从业者有启发，值得一读。",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "kua5wv0vldd5koozc7jbhgkg",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=00da5ecb9f7013dcce810bff1f830162",
+    "title": "知名VC坦白局：为什么不再迷信“行业老将”？",
+    "titleZh": "VC不再迷信行业老将",
+    "summaryZh": "风险投资人在评估游戏项目时，不再只看重创始人的光鲜履历，而是更关注实际能力与市场匹配度，这一趋势对从业者融资有重要启示。",
+    "author": null,
+    "publishedAt": "2026-05-26T13:11:20.467Z",
+    "fetchedAt": "2026-05-26T13:47:36.909Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 38,
+      "finalScore": 35,
+      "reason": "颠覆传统认知，给游戏创业者敲响警钟",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "bzf0qpxyp1umfgbqzhs73id6",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917576.html",
+    "title": "两人开发新作销量突破38万 整理图书的游戏居然也能成爆款?",
+    "titleZh": "两人开发游戏销量38万",
+    "summaryZh": "《图书管理员》由两人团队开发，销量突破38万份，其成功反映了玩家对独特游戏体验的追求，为小团队创新提供了市场验证案例。",
+    "author": null,
+    "publishedAt": "2026-05-26T12:47:20.467Z",
+    "fetchedAt": "2026-05-26T13:47:39.296Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "小团队创新案例，市场验证了差异化需求",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "trtimoov5e7c0umcox07exzi",
     "sourceId": "gameres",
     "sourceName": "游资网",
