@@ -1,5 +1,32 @@
 [
   {
+    "id": "trtimoov5e7c0umcox07exzi",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917575.html",
+    "title": "【2026年5月】154款国产网络游戏、4款进口网络游戏获批",
+    "titleZh": "5月154款国产游戏获批",
+    "summaryZh": "5月27日，国家新闻出版署发布2026年5月国产网络游戏审批信息，共154款游戏过审，同日还有4款进口游戏获批版号。",
+    "author": null,
+    "publishedAt": "2026-05-26T10:08:24.649Z",
+    "fetchedAt": "2026-05-26T10:34:26.226Z",
+    "isSelected": true,
+    "score": {
+      "importance": 9,
+      "articleQuality": 6,
+      "timeliness": 10,
+      "uniqueness": 5,
+      "usefulness": 8,
+      "totalScore": 38,
+      "finalScore": 35,
+      "reason": "版号发放数量大，对行业有直接指导意义",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "tsi1z4ji4el3lzxyqfkg4gf1",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
@@ -1959,6 +1986,34 @@
       "reason": "十年开发周期和手绘纸板风格在行业中罕见，对研发团队有启发意义。",
       "tags": [
         "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "vdw5de4vu3h532q8jx3j2pea",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/detail/310",
+    "title": "2026届清华-腾讯互动媒体设计与技术项目（IMDT）毕业展启幕",
+    "titleZh": "清华-腾讯IMDT毕业展启幕",
+    "summaryZh": "5月18日，2026届清华-腾讯IMDT毕业展在深圳开幕，展出28件作品，涵盖AI技术、教育科普、医疗心理及独立游戏四大主题，展示互动媒体技术多元探索。",
+    "author": null,
+    "publishedAt": "2026-05-21T00:00:00.000Z",
+    "fetchedAt": "2026-05-26T10:34:16.232Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 31,
+      "finalScore": 29,
+      "reason": "展示高校与产业结合的最新成果，对游戏研发和跨学科应用有启发",
+      "tags": [
+        "行业",
         "干货"
       ],
       "relatedItems": []
