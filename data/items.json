@@ -1,5 +1,364 @@
 [
   {
+    "id": "nmsyh80qj2prt8xjyuyjuxln",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917571.html",
+    "title": "集中爆发！这些游戏为什么让年轻的玩家们有了养女儿的冲动",
+    "titleZh": "年轻玩家为何爱“养女儿”",
+    "summaryZh": "文章探讨了游戏如何通过机制与玩法，让年轻玩家产生“养女儿”的观感，分析了外表之外的设计支持，揭示了这一趋势背后的行业现象。",
+    "author": null,
+    "publishedAt": "2026-05-26T02:10:44.374Z",
+    "fetchedAt": "2026-05-26T02:12:46.327Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "对游戏设计趋势有洞察，适合研发和策划参考",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ojgukhcgs5ve7acqapez6bfy",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=2c62f4ea30e091e3bec678bda7386c80",
+    "title": "IGN《罗马拓荒录》前瞻：种田，打僵尸，复兴罗马",
+    "titleZh": "《罗马拓荒录》前瞻：种田打僵尸",
+    "summaryZh": "IGN前瞻介绍《罗马拓荒录》，一款结合温馨城镇建造与类魂黑暗奇幻元素的游戏，玩家需在复兴罗马的同时对抗僵尸，风格独特。",
+    "author": null,
+    "publishedAt": "2026-05-26T02:02:44.374Z",
+    "fetchedAt": "2026-05-26T02:12:48.560Z",
+    "isSelected": true,
+    "score": {
+      "importance": 5,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 7,
+      "usefulness": 4,
+      "totalScore": 29,
+      "finalScore": 29,
+      "reason": "品类融合有新意，适合关注玩法创新的从业者",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "x3fva8x7m22i3jrsotk4mnr2",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=b052c5ce526e6bc4d8eddd118f0ff157",
+    "title": "想做游戏特效？初级入门小课堂开课啦",
+    "titleZh": "游戏特效入门小课堂",
+    "summaryZh": "本文介绍游戏特效的定义，即游戏中人物、场景外的动态视觉炫酷效果，适合初级从业者了解基础概念。",
+    "author": null,
+    "publishedAt": "2026-05-26T02:00:44.375Z",
+    "fetchedAt": "2026-05-26T02:12:50.723Z",
+    "isSelected": false,
+    "score": {
+      "importance": 3,
+      "articleQuality": 4,
+      "timeliness": 3,
+      "uniqueness": 2,
+      "usefulness": 4,
+      "totalScore": 16,
+      "finalScore": 22,
+      "reason": "",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "jm4zgbvawxasq4p5egtpts33",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=614102879fc913254336c275174e3e5e",
+    "title": "近期slg和休闲puzzle测试产品汇总",
+    "titleZh": "SLG与休闲Puzzle测试产品汇总",
+    "summaryZh": "近期SLG和休闲Puzzle测试产品中，Kingshot换皮版（写实风格）引发关注，体现了厂商自我迭代的方法论，为行业提供产品策略参考。",
+    "author": null,
+    "publishedAt": "2026-05-26T01:59:44.375Z",
+    "fetchedAt": "2026-05-26T02:12:53.004Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 29,
+      "finalScore": 29,
+      "reason": "产品换皮方法论有实操参考价值",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "hptd9u36k83f6p1rfn93t9v5",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=a38c644b61296c81796bc5d05dd7c390",
+    "title": "“虚幻6引擎亮相、有啥绝活儿”？Epic强卖的“公司护城河\"真是游戏未来？",
+    "titleZh": "虚幻6引擎亮相，绝活何在？",
+    "summaryZh": "Epic发布虚幻6引擎，引发开发者“UE5未熟，UE6又来”的讨论。文章探讨其作为“公司护城河”的策略，分析对游戏行业未来的影响。",
+    "author": null,
+    "publishedAt": "2026-05-26T01:56:44.375Z",
+    "fetchedAt": "2026-05-26T02:12:55.545Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "深度剖析引擎迭代与商业策略，对从业者理解行业趋势有参考价值。",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "hth1fxe5vz1lg03272y9nve0",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=458675862f2ed29fb4296220fe3cbda1",
+    "title": "我用 AI 历时四天完成了一款视觉小说游戏，但......",
+    "titleZh": "AI四天完成视觉小说游戏",
+    "summaryZh": "文章记录作者使用AI工具在四天内完成视觉小说游戏的实操过程，重点分享剧本改编和配置环节的经验，探讨AI在游戏开发中的应用与局限。",
+    "author": null,
+    "publishedAt": "2026-05-26T01:56:44.375Z",
+    "fetchedAt": "2026-05-26T02:12:57.674Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 7,
+      "totalScore": 35,
+      "finalScore": 33,
+      "reason": "AI辅助开发实操案例，对独立开发者有直接参考价值",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "z3bkc65xxelko9zfzshpde2v",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=d9f6ad46621e77c5010a00631817d5e8",
+    "title": "空降小游戏畅销榜Top3，这款“黑马”品类休闲RTS凭什么？",
+    "titleZh": "占城大师：休闲RTS黑马登顶",
+    "summaryZh": "《占城大师》凭借随机性与策略性的巧妙结合，空降小游戏畅销榜Top3，成为休闲RTS品类黑马，为行业提供了新的品类突破思路。",
+    "author": null,
+    "publishedAt": "2026-05-26T01:54:44.375Z",
+    "fetchedAt": "2026-05-26T02:12:59.985Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 39,
+      "finalScore": 35,
+      "reason": "休闲RTS品类突破，值得研发关注",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "8o4wd0gpxv0lw90fkfz5sha5",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=0c7e441eb310eaa38359fe64e8d4d678",
+    "title": "翻车？第一款AI游戏仅剩54%好评，制作人：烧Token的成本太高了！",
+    "titleZh": "AI游戏好评仅54%，成本太高",
+    "summaryZh": "首款AI游戏因定价和商业模式遭差评，好评率仅54%。制作人称烧Token成本过高，引发行业对AI游戏盈利模式的讨论。",
+    "author": null,
+    "publishedAt": "2026-05-26T01:53:44.376Z",
+    "fetchedAt": "2026-05-26T02:13:02.268Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "AI游戏成本与定价问题对从业者有直接参考价值，话题新颖且时效性强。",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "tqc8i4acio1yblxe6bui99ko",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=4044504c93089d17d1c08b415cb551e3",
+    "title": "前BioWare设计师：我不擅长管理工作室，是个外行",
+    "titleZh": "前BioWare设计师自认管理外行",
+    "summaryZh": "前BioWare设计师坦言不擅长管理工作室，身兼两职令其心力交瘁，反思自身在管理角色上的不足，引发行业对开发者转型管理的讨论。",
+    "author": null,
+    "publishedAt": "2026-05-26T01:52:44.376Z",
+    "fetchedAt": "2026-05-26T02:13:04.506Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 7,
+      "usefulness": 4,
+      "totalScore": 29,
+      "finalScore": 29,
+      "reason": "大佬自曝短板，管理转型的活教材",
+      "tags": [
+        "公司",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "mtlr45yuv5q4f9ao3g33l9pg",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=5dbe38d91fafe197d6cb922569537686",
+    "title": "现代肉鸽探索史：从《以撒的结合》到《喵喵的结合》",
+    "titleZh": "肉鸽游戏发展史回顾",
+    "summaryZh": "文章探讨了从《以撒的结合》到《喵喵的结合》的肉鸽游戏演变，指出《超级肉肉哥》偏保守，而《以撒》系列更具个性化，对行业有历史参考价值。",
+    "author": null,
+    "publishedAt": "2026-05-26T01:48:44.376Z",
+    "fetchedAt": "2026-05-26T02:13:06.995Z",
+    "isSelected": false,
+    "score": {
+      "importance": 5,
+      "articleQuality": 4,
+      "timeliness": 3,
+      "uniqueness": 4,
+      "usefulness": 3,
+      "totalScore": 19,
+      "finalScore": 23,
+      "reason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ufm9k6f6rmal2uk8g04bx84g",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0526/6970.html",
+    "title": "黄一孟转发金瓶梅后，最终幻想之父也“为它站台”了",
+    "titleZh": "FF之父点赞AI重制版FF6",
+    "summaryZh": "玩家自制《最终幻想6》AI重制视频获坂口博信转发，浏览量破500万，引发行业对AI重制经典游戏的关注与讨论。",
+    "author": null,
+    "publishedAt": "2026-05-26T01:31:39.661Z",
+    "fetchedAt": "2026-05-26T02:12:41.665Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "AI重制经典游戏引发行业大佬关注，对游戏研发和IP运营有启发。",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "bnyncyn2zqffr7jmxe69ws0q",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=0e85f18cc096ce4d54cc85774c804da7",
+    "title": "《洛克王国：世界》全面分析：精灵主导的开放世界",
+    "titleZh": "《洛克王国：世界》精灵开放世界分析",
+    "summaryZh": "文章深入分析《洛克王国：世界》以精灵为核心，构建“收集-养成-战斗-探索”闭环体验，探讨其开放世界设计对IP游戏化的启示，为从业者提供品类融合参考。",
+    "author": null,
+    "publishedAt": "2026-05-26T01:28:44.376Z",
+    "fetchedAt": "2026-05-26T02:13:09.419Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 8,
+      "timeliness": 6,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "深度解析精灵驱动开放世界设计，对IP改编和品类融合有实操参考价值。",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "t95fgaef71iuqtfvlm3dgawz",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196938",
+    "title": "两年之后，我们重新认识了《鸣潮》",
+    "titleZh": "《鸣潮》两年后重新认识",
+    "summaryZh": "文章以科幻故事比喻《鸣潮》两年来的变化，探讨游戏在开放世界、战斗系统、角色设计等方面的迭代与玩家认知的转变，揭示产品从争议到成熟的进化历程。",
+    "author": null,
+    "publishedAt": "2026-05-26T01:12:27.721Z",
+    "fetchedAt": "2026-05-26T02:12:29.884Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 8,
+      "timeliness": 6,
+      "uniqueness": 8,
+      "usefulness": 5,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "深度复盘产品迭代，对研发和运营有启发",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "255fc307d5e3a7yc1lol31wv",
     "sourceId": "gameres",
     "sourceName": "游资网",
