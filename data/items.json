@@ -276,6 +276,88 @@
     }
   },
   {
+    "id": "10a6fijjvmnlwixxdy0t7sqa",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://www.youxichaguan.com/archives/197005",
+    "title": "《超自然行动组》海外版《Tomb Busters》登陆美日韩市场",
+    "titleZh": "《Tomb Busters》登美日韩",
+    "summaryZh": "巨人网络旗下《超自然行动组》海外版《Tomb Busters》于5月27日正式登陆美国、日本、韩国市场。这是该游戏首次大规模进入海外主流市场，标志着其全球化布局迈出重要一步。",
+    "author": null,
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:47:59.410Z",
+    "isSelected": false,
+    "score": {
+      "importance": 5,
+      "articleQuality": 4,
+      "timeliness": 8,
+      "uniqueness": 3,
+      "usefulness": 4,
+      "totalScore": 24,
+      "finalScore": 26,
+      "reason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "muncp5svilhl4ecs24mv5fk1",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://www.youxichaguan.com/archives/196983",
+    "title": "这个赛道，或许是游戏厂商最靠谱的底牌？",
+    "titleZh": "战棋赛道：厂商的秘密底牌",
+    "summaryZh": "战棋赛道正成为头部游戏厂商的布局重点。经过多年市场整合，大厂已在该领域形成各自沉淀，行业竞争格局趋于稳定，未来增长空间值得关注。",
+    "author": null,
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:48:10.756Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 6,
+      "timeliness": 5,
+      "uniqueness": 5,
+      "usefulness": 5,
+      "totalScore": 27,
+      "finalScore": 28,
+      "reason": "战棋赛道布局分析，直击行业趋势变化",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ftfenpse2xc2iglkguztd238",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://www.youxichaguan.com/archives/196938",
+    "title": "两年之后，我们重新认识了《鸣潮》",
+    "titleZh": "两年之后，我们重新认识了《鸣潮》",
+    "summaryZh": "文章以科幻作家莱姆的经典作品《从群星归来》为引，探讨《鸣潮》经过两年发展后的变化与成长，深入分析游戏在内容迭代、玩家社区运营、市场表现等方面的演进，为从业者提供产品长线运营的参考视角。",
+    "author": null,
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:48:19.603Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 5,
+      "uniqueness": 5,
+      "usefulness": 5,
+      "totalScore": 28,
+      "finalScore": 29,
+      "reason": "从文学视角切入游戏回顾，分析有深度，对理解产品长线运营有参考价值",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "e71z6nqwwp75s9itd0ugl404",
     "sourceId": "tencent-gi-web",
     "sourceName": "腾讯游戏学堂",
@@ -601,6 +683,172 @@
       "reason": "深度复盘产品迭代，对研发和运营有启发",
       "tags": [
         "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "24b8cugqccohlzcqdm8s9q7r",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://www.youxichaguan.com/archives/196919",
+    "title": "《欢乐斗地主》\"欢乐中国行\"首站落地柳州，电竞加非遗焕发古镇新活力",
+    "titleZh": "《欢乐斗地主》欢乐中国行首站落地柳州",
+    "summaryZh": "腾讯《欢乐斗地主》20周年全国巡礼活动首站在广西柳州启动，通过电竞比赛与非遗文化结合的形式，为古镇注入新活力。该活动旨在以地方特色文化赋能游戏IP，实现传统文化与年轻受众的有效连接。",
+    "author": null,
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:48:27.377Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "游戏+非遗跨界营销案例，对市场运营有参考价值",
+      "tags": [
+        "公司",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "5c8i62wqffifqpu7ors6qg36",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://www.youxichaguan.com/archives/196911",
+    "title": "销量超100万后，《盛世天下》女帝篇刚刚公布上线时间",
+    "titleZh": "《盛世天下》女帝篇6月9日上线",
+    "summaryZh": "游戏茶馆消息，《盛世天下》销量突破100万后，官方发布女帝篇预告PV，宣布该DLC将于6月9日正式上线。此次更新是继游戏取得百万销量里程碑后的首次大型内容扩展。",
+    "author": null,
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:48:33.775Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 4,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 26,
+      "finalScore": 28,
+      "reason": "产品销量破百万后的新版本动态，发布时间明确可参考",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "r4w4kx3jysaqywqhfmyndyhs",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://www.youxichaguan.com/archives/196906",
+    "title": "与前拳头CEO 的炉边谈话",
+    "titleZh": "前拳头CEO炉边谈话",
+    "summaryZh": "游戏茶馆对话前拳头游戏CEO，深入探讨这家靠《英雄联盟》崛起的公司如何保持创新与文化独特性。作为行业标杆企业，其管理理念与发展战略对从业者有重要参考价值。",
+    "author": null,
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:48:44.103Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 6,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "拳头CEO亲述创业经验，行业大佬一手分享",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "1csjhlvioxsevdokfkm77ato",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://www.youxichaguan.com/archives/196891",
+    "title": "半个月稳坐畅销榜TOP3，新的爆款原型出现了？",
+    "titleZh": "小游戏新爆款？半个月稳坐畅销榜TOP3",
+    "summaryZh": "小游戏吸金能力持续显现，RPG、卡牌、SLG等中重度品类长期稳居畅销榜前列。近期某款小游戏凭借创新玩法和商业化设计，上线半个月稳居榜单TOP3，为行业带来新的爆款参考原型。",
+    "author": null,
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:48:48.835Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "小游戏爆款案例，研发和发行都值得参考借鉴",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "3kvo6bi1towr2m5dsren6786",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://www.youxichaguan.com/archives/196888",
+    "title": "游戏行业的公关，会更难做吗？",
+    "titleZh": "游戏行业的公关，会更难做吗？",
+    "summaryZh": "近期游戏行业舆情事件频发，多家厂商和团队因公关危机导致口碑下滑、声誉受损。文章探讨游戏公关面临的挑战升级，以及行业如何应对日益复杂的舆论环境。",
+    "author": null,
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:49:05.956Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 6,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "实战导向，深度解析游戏公关困境与破局思路",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "fv6t6kyqwowboo4zc5xhnidn",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://www.youxichaguan.com/archives/196866",
+    "title": "大作\"下饺子\"的年代，网易下水一艘航母?",
+    "titleZh": "大作\"下饺子\"的年代，网易下水一艘航母?",
+    "summaryZh": "2026年中国游戏市场竞争白热化，多款大作密集发布。网易作为头部厂商，在游戏大年中面临怎样的战略布局与市场挑战？本文深入分析行业格局变化与头部企业的应对策略。",
+    "author": null,
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:49:12.714Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "头部厂商年度战略分析，揭示2026游戏大年竞争格局",
+      "tags": [
+        "行业",
+        "公司"
       ],
       "relatedItems": []
     }
@@ -1077,6 +1325,61 @@
     }
   },
   {
+    "id": "8awe3mofee2te66zgj2n2r6g",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://www.youxichaguan.com/archives/196768",
+    "title": "网易又一海外工作室砍项目裁员，新作上线仅三月",
+    "titleZh": "网易法国工作室裁员取消项目 上线仅三月",
+    "summaryZh": "网易旗下法国工作室Quantic Dream宣布取消服务型游戏《Spellcaster》，该游戏上线仅三个月即被砍，同时伴随着裁员。此次调整反映了网易对海外工作室项目的收紧，也折射出当前游戏行业对服务型游戏的谨慎态度。",
+    "author": null,
+    "publishedAt": "2026-05-23T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:49:20.402Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "网易海外工作室再次裁员，服务型游戏风险值得从业者关注",
+      "tags": [
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "6pnd4feacr9skjxydgd6lz5k",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://www.youxichaguan.com/archives/196752",
+    "title": "第一批离职大厂做AI游戏的人，轮番交卷",
+    "titleZh": "首批大厂离职者AI游戏交卷",
+    "summaryZh": "2023年，多名腾讯离职员工投身AI游戏领域，均选择AI NPC作为切入点。刘寒作为代表人物，与同行们不约而同聚焦该赛道，率先交出成果。",
+    "author": null,
+    "publishedAt": "2026-05-23T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:49:30.214Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 6,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "AI NPC赛道风向标，离职创业者参考样本",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "mecb99vt7dq65o6asv93afc0",
     "sourceId": "gameres",
     "sourceName": "游资网",
@@ -1423,6 +1726,62 @@
       "finalScore": 0,
       "reason": "",
       "tags": [],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "gdhzabylolgkl37stbizw3yc",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://www.youxichaguan.com/archives/196708",
+    "title": "冲上畅销榜TOP 2，这款低调的腾讯游戏迎来\"新生\"",
+    "titleZh": "腾讯游戏冲上畅销榜TOP2迎来新生",
+    "summaryZh": "游戏茶馆报道，一款低调的腾讯游戏近期冲上畅销榜TOP2，在深圳华侨城文化园B10馆举行的活动吸引众多关注，或伴随重大更新实现商业突破，具体策略待详情披露。",
+    "author": null,
+    "publishedAt": "2026-05-22T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:49:46.804Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 6,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "腾讯游戏低调逆袭畅销榜TOP2，成功经验值得市场运营参考",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "suzt8oui37ujptnikh0d5rdn",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://www.youxichaguan.com/archives/196698",
+    "title": "网易游戏今年是一个蛰伏的新品小年吗?",
+    "titleZh": "网易游戏今年是新品小年？",
+    "summaryZh": "网易游戏520发布会预热PV中缺少了《无限大》《归唐》等备受期待的产品，引发业内对网易今年是否为新品小年的讨论。作为头部厂商的产品发布策略变化，值得关注。",
+    "author": null,
+    "publishedAt": "2026-05-22T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:49:50.580Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 5,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "头部厂商产品节奏变化，研判行业趋势的参考依据",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
       "relatedItems": []
     }
   },
@@ -1929,6 +2288,59 @@
         "行业",
         "公司"
       ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "1fb4nmr3g59br1qm44e3qtxa",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://www.youxichaguan.com/archives/196587",
+    "title": "玩家嫌弃，资本抢着要，500万爆款开发商的魔幻生存之道",
+    "titleZh": "500万爆款开发商的魔幻生存之道",
+    "summaryZh": "聚焦小团队游戏开发模式，500万成本打造爆款产品。商业游戏开发周期通常需两到三年，而该开发商另辟蹊径，实现快速产出。玩家口碑与资本态度形成反差，探讨中小团队的生存策略与融资逻辑。",
+    "author": null,
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:50:04.299Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 6,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "小团队低投入高产出案例，对独立开发者和小公司有参考价值",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "6thn8jp5lq6lk2in3wcv04zx",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://www.youxichaguan.com/archives/196576",
+    "title": "\"搜打撤\"怎么做比赛？《三角洲行动》回答了你",
+    "titleZh": "\"搜打撤\"怎么做比赛？《三角洲行动》回答了你",
+    "summaryZh": "",
+    "author": null,
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:50:10.362Z",
+    "isSelected": false,
+    "score": {
+      "importance": 0,
+      "articleQuality": 0,
+      "timeliness": 0,
+      "uniqueness": 0,
+      "usefulness": 0,
+      "totalScore": 0,
+      "finalScore": 0,
+      "reason": "",
+      "tags": [],
       "relatedItems": []
     }
   },
