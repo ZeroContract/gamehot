@@ -713,6 +713,33 @@
     }
   },
   {
+    "id": "7dqrxadmjm7k81r005z6khpp",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917564.html",
+    "title": "百万奖金等你来战！「金海豚奖×好游快爆」游戏GameJam大赛火热报名中",
+    "titleZh": "金海豚奖×好游快爆 GameJam大赛报名开启",
+    "summaryZh": "「金海豚奖×好游快爆」游戏GameJam大赛正式开启报名，设立百万奖金池。赛事面向全球开发者，个人和团队均可参与，零门槛参赛，为游戏开发者提供竞技与交流平台。",
+    "author": null,
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "fetchedAt": "2026-05-27T18:13:04.743Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 7,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "高奖金+零门槛的GameJam赛事，为开发者提供实战练兵机会",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "qcuznnxhpiooywfddiapiwz7",
     "sourceId": "gameres",
     "sourceName": "游资网",
