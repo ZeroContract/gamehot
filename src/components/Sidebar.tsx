@@ -53,12 +53,7 @@ export default function Sidebar() {
         </nav>
 
         <div className="sidebar-footer">
-          <div className="theme-toggle">
-            <span style={{ fontSize: 14 }}>{themeDark ? "🌙" : "☀️"}</span>
-            <span>{themeDark ? "深色" : "浅色"}</span>
-          </div>
-          <div>数据来源: 20+ 游戏开发信源</div>
-          <div>AI 翻译评分: DeepSeek</div>
+          公众号：芝麻的游戏圈
         </div>
       </aside>
     </>
