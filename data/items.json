@@ -1,5 +1,99 @@
 [
   {
+    "id": "66ly8zkimm74e5hr2rjmm6li",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534520.html",
+    "title": "游戏资讯5月158款游戏版号下发，网易中式搜打撤首曝 、字节《托托比亚》过审",
+    "titleZh": "5月158款游戏版号下发",
+    "summaryZh": "5月26日，国家新闻出版署发布5月新一批游戏版号，共158款。其中网易中式搜打撤首曝，字节《托托比亚》过审，引发行业关注。",
+    "author": null,
+    "publishedAt": "2026-05-27T09:41:18.503Z",
+    "fetchedAt": "2026-05-27T10:02:20.759Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 37,
+      "finalScore": 35,
+      "reason": "版号动态直接影响产品上线节奏，信息及时且含重点公司动态",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "g114p0nsf0i7x9bh4uud97rz",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534519.html",
+    "title": "游戏资讯知名VC坦白局：为什么不再迷信“行业老将”？",
+    "titleZh": "VC不再迷信行业老将",
+    "summaryZh": "游戏创投圈风向转变，知名VC坦言不再盲目信任“行业老将”，更看重项目本身与团队执行力，引发从业者对投资逻辑的反思。",
+    "author": null,
+    "publishedAt": "2026-05-27T09:02:18.504Z",
+    "fetchedAt": "2026-05-27T10:02:23.473Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 38,
+      "finalScore": 36,
+      "reason": "投资风向变了，老将光环不再，值得细读",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": [
+        {
+          "sourceId": "gameres",
+          "sourceName": "游资网",
+          "url": "https://www.gameres.com/wl?m=00da5ecb9f7013dcce810bff1f830162",
+          "title": "知名VC坦白局：为什么不再迷信“行业老将”？",
+          "titleZh": "VC不再迷信行业老将",
+          "publishedAt": "2026-05-26T13:11:20.467Z",
+          "totalScore": 38
+        }
+      ]
+    }
+  },
+  {
+    "id": "8dn9thkypbzle6c6fd55bigh",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917582.html",
+    "title": "抖音「游戏特色人群」洞察：亿级用户画像提炼，9大细分人群如何获取？",
+    "titleZh": "抖音游戏人群洞察白皮书",
+    "summaryZh": "伽马数据与巨量引擎联合发布白皮书，聚焦抖音九大游戏特色人群，提炼亿级用户画像，为游戏行业提供精准获客策略。",
+    "author": null,
+    "publishedAt": "2026-05-27T08:02:28.804Z",
+    "fetchedAt": "2026-05-27T10:02:30.844Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 8,
+      "totalScore": 38,
+      "finalScore": 35,
+      "reason": "亿级用户画像，精准获客指南",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "eeha1rlmikdgk888vbpamkh2",
     "sourceId": "youxiribao",
     "sourceName": "游戏日报",
@@ -342,7 +436,7 @@
     "author": null,
     "publishedAt": "2026-05-26T13:11:20.467Z",
     "fetchedAt": "2026-05-26T13:47:36.909Z",
-    "isSelected": true,
+    "isSelected": false,
     "score": {
       "importance": 8,
       "articleQuality": 7,
