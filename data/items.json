@@ -768,6 +768,33 @@
     }
   },
   {
+    "id": "3amyupo7tw8bvhynux6nt99e",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917568.html",
+    "title": "夯！ 2026 小游戏开发者大会多模块亮点，都在这！",
+    "titleZh": "2026小游戏开发者大会亮点前瞻",
+    "summaryZh": "2026小游戏开发者大会将于5月27日开幕，设置多个模块分享新游戏实战经验，为小游戏开发者提供交流学习平台。",
+    "author": null,
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "fetchedAt": "2026-05-27T19:27:05.788Z",
+    "isSelected": false,
+    "score": {
+      "importance": 5,
+      "articleQuality": 4,
+      "timeliness": 6,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 24,
+      "finalScore": 26,
+      "reason": "",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "7dqrxadmjm7k81r005z6khpp",
     "sourceId": "gameres",
     "sourceName": "游资网",
