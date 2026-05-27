@@ -331,6 +331,33 @@
     }
   },
   {
+    "id": "z85o19ewv5kmqjc1ev0utfiv",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0527/6988.html",
+    "title": "该给《异环》“验牌”了",
+    "titleZh": "该给《异环》验牌了",
+    "summaryZh": "文章对《异环》这款游戏进行深入评估，从产品品质、市场表现、玩家反馈等多维度检验其是否具备市场竞争力，为行业从业者提供参考依据。",
+    "author": null,
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "fetchedAt": "2026-05-27T20:38:37.103Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 7,
+      "timeliness": 6,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "针对具体游戏产品的全面评估，提供行业参考视角",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "10a6fijjvmnlwixxdy0t7sqa",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
@@ -762,6 +789,62 @@
       "finalScore": 32,
       "reason": "深度复盘产品迭代，对研发和运营有启发",
       "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "v6ay2xu0gmp01fjvdh64dsbp",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917559.html",
+    "title": "夯！ 2026 小游戏开发者大会多模块亮点，都在这！",
+    "titleZh": "2026小游戏开发者大会亮点抢先看",
+    "summaryZh": "2026小游戏开发者大会将于5月27日举办，聚焦新游戏实战经验分享，涵盖多模块精彩内容。活动汇聚行业开发者，探讨小游戏开发趋势与实战案例，为从业者提供交流学习平台。",
+    "author": null,
+    "publishedAt": "2026-05-26",
+    "fetchedAt": "2026-05-27T20:40:01.684Z",
+    "isSelected": false,
+    "score": {
+      "importance": 6,
+      "articleQuality": 3,
+      "timeliness": 5,
+      "uniqueness": 3,
+      "usefulness": 4,
+      "totalScore": 21,
+      "finalScore": 25,
+      "reason": "",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "96l5nrdjqxtg553n8rk1y3uz",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917558.html",
+    "title": "百万奖金等你来战！「金海豚奖×好游快爆」游戏GameJam大赛火热报名中",
+    "titleZh": "金海豚奖×好游快爆 GameJam大赛报名启动",
+    "summaryZh": "「金海豚奖×好游快爆」游戏GameJam大赛已开放报名，面向全球开发者，个人或团队均可参加，设置百万奖金池，零门槛参与，为独立游戏开发者和爱好者提供竞技与展示平台。",
+    "author": null,
+    "publishedAt": "2026-05-26",
+    "fetchedAt": "2026-05-27T20:40:06.968Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 6,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 26,
+      "finalScore": 28,
+      "reason": "GameJam赛事低门槛高奖金，适合独立开发者练手和获奖",
+      "tags": [
+        "行业",
         "游戏"
       ],
       "relatedItems": []
