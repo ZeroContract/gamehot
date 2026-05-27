@@ -210,10 +210,67 @@ function bigramSimilarity(a: string, b: string): number {
   return intersection.size / union.size;
 }
 
+function normalizeHostname(url: string): string {
+  try {
+    return new URL(url).hostname.replace(/^www\./, "");
+  } catch {
+    return "";
+  }
+}
+
+let _sourcesCache: Source[] | null = null;
+function getSources(): Source[] {
+  if (!_sourcesCache) {
+    _sourcesCache = JSON.parse(fs.readFileSync(SOURCES_FILE, "utf-8")) as Source[];
+  }
+  return _sourcesCache!;
+}
+
+function lookupSourceByUrl(url: string): { sourceId: string; sourceName: string } | null {
+  const entryHost = normalizeHostname(url);
+  if (!entryHost) return null;
+  for (const source of getSources()) {
+    if (normalizeHostname(source.url) === entryHost) {
+      return { sourceId: source.id, sourceName: source.name };
+    }
+  }
+  return null;
+}
+
+function isExternalUrl(url: string, sourceUrl: string): boolean {
+  const entryHost = normalizeHostname(url);
+  const sourceHost = normalizeHostname(sourceUrl);
+  return entryHost !== "" && sourceHost !== "" && entryHost !== sourceHost;
+}
+
+function fixupItemSource(item: Item): void {
+  const sourceInfo = lookupSourceByUrl(item.url);
+  if (sourceInfo && (item.sourceId !== sourceInfo.sourceId || item.sourceName !== sourceInfo.sourceName)) {
+    console.log(`  🔧 修正来源: "${item.sourceName}" → "${sourceInfo.sourceName}" (${item.url.slice(0, 60)}...)`);
+    item.sourceId = sourceInfo.sourceId;
+    item.sourceName = sourceInfo.sourceName;
+  }
+}
+
+async function resolveFinalUrl(url: string): Promise<string> {
+  try {
+    const resp = await fetch(url, {
+      method: "HEAD",
+      redirect: "follow",
+      signal: AbortSignal.timeout(8000),
+      headers: { "User-Agent": "GameHot/1.0" },
+    });
+    return resp.url;
+  } catch {
+    return url;
+  }
+}
+
 function buildRelatedItem(item: Item): RelatedItem {
+  const sourceInfo = lookupSourceByUrl(item.url);
   return {
-    sourceId: item.sourceId,
-    sourceName: item.sourceName,
+    sourceId: sourceInfo?.sourceId || item.sourceId,
+    sourceName: sourceInfo?.sourceName || item.sourceName,
     url: item.url,
     title: item.title,
     titleZh: item.titleZh,
@@ -394,8 +451,19 @@ async function processEntries(
 
   for (const entry of entries) {
     if (!entry.url) continue;
+    if (isExternalUrl(entry.url, source.url)) {
+      console.log(`  ⏭️ 跳过外部链接: ${entry.url}`);
+      continue;
+    }
 
-    const key = deDupeKey(source.id, entry.url);
+    // 解析重定向，过滤跨站跳转（如游资网 /wl?m= 外链跳转）
+    const finalUrl = await resolveFinalUrl(entry.url);
+    if (isExternalUrl(finalUrl, source.url)) {
+      console.log(`  ⏭️ 跳过跨站跳转: ${entry.url} → ${finalUrl}`);
+      continue;
+    }
+
+    const key = deDupeKey(source.id, finalUrl);
     if (existingKeys.has(key)) continue;
     existingKeys.add(key);
 
@@ -417,7 +485,7 @@ async function processEntries(
       id: generateId(),
       sourceId: source.id,
       sourceName: source.name,
-      url: entry.url,
+      url: finalUrl,
       title,
       titleZh,
       summaryZh,
@@ -815,6 +883,13 @@ async function main() {
 
   // 读取已有条目，构建去重集合
   const existingItems: Item[] = JSON.parse(fs.readFileSync(ITEMS_FILE, "utf-8"));
+
+  // 修正已有数据中来源与 URL 不匹配的条目
+  _sourcesCache = sources; // 预填缓存
+  for (const item of existingItems) {
+    fixupItemSource(item);
+  }
+
   const existingKeys = new Set<string>(
     existingItems.map((i) => deDupeKey(i.sourceId, i.url))
   );
