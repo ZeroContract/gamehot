@@ -413,6 +413,31 @@
     }
   },
   {
+    "id": "s6qqte7obvb7rx0h4z3frf69",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0527/6986.html",
+    "title": "该给《异环》“验牌”了",
+    "titleZh": "该给《异环》“验牌”了",
+    "summaryZh": "",
+    "author": null,
+    "publishedAt": "2026-05-27T00:00:00+08:00",
+    "fetchedAt": "2026-05-27T17:34:42.455Z",
+    "isSelected": false,
+    "score": {
+      "importance": 0,
+      "articleQuality": 0,
+      "timeliness": 0,
+      "uniqueness": 0,
+      "usefulness": 0,
+      "totalScore": 0,
+      "finalScore": 0,
+      "reason": "",
+      "tags": [],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "lgcacrhgha4g5lg12pk2e590",
     "sourceId": "youxiribao",
     "sourceName": "游戏日报",
@@ -688,6 +713,33 @@
     }
   },
   {
+    "id": "qcuznnxhpiooywfddiapiwz7",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917557.html",
+    "title": "夯！ 2026 小游戏开发者大会多模块亮点，都在这！",
+    "titleZh": "2026小游戏开发者大会亮点抢先看",
+    "summaryZh": "2026小游戏开发者大会将于5月27日举行，活动聚焦小游戏开发实战案例分享，涵盖多模块精彩内容，为开发者提供交流学习与行业洞察的平台。",
+    "author": null,
+    "publishedAt": "2026-05-26",
+    "fetchedAt": "2026-05-27T17:36:04.832Z",
+    "isSelected": false,
+    "score": {
+      "importance": 5,
+      "articleQuality": 3,
+      "timeliness": 6,
+      "uniqueness": 3,
+      "usefulness": 4,
+      "totalScore": 21,
+      "finalScore": 25,
+      "reason": "",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "24b8cugqccohlzcqdm8s9q7r",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
@@ -932,6 +984,34 @@
       "reason": "揭示游戏内容创作者生态，对运营和社区管理有参考价值",
       "tags": [
         "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "fw1jmc781on66zy48p5b0kxb",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0526/6975.html",
+    "title": "靠攻略改变二游的大学生博主：月入过万，不考虑全职",
+    "titleZh": "大学生博主靠二游攻略月入过万，不考虑全职",
+    "summaryZh": "一位大学生通过制作二次元游戏攻略实现月收入过万，分享了内容创作与流量变现的经验之谈。他选择将攻略创作作为副业而非全职工作，为游戏内容创作者提供了一种可行的变现思路。",
+    "author": null,
+    "publishedAt": "2026-05-26T00:00:00+08:00",
+    "fetchedAt": "2026-05-27T17:34:13.576Z",
+    "isSelected": true,
+    "score": {
+      "importance": 5,
+      "articleQuality": 5,
+      "timeliness": 4,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 25,
+      "finalScore": 27,
+      "reason": "真实案例展示内容变现路径，可供创作者参考借鉴",
+      "tags": [
+        "行业",
+        "干货"
       ],
       "relatedItems": []
     }
@@ -1265,6 +1345,34 @@
       "tags": [
         "行业",
         "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "4grwvj9xi26xazbuhzpxhdur",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917537.html",
+    "title": "游戏负重与背包格子该如何处理设计关系？",
+    "titleZh": "背包设计：负重与格子的关系探讨",
+    "summaryZh": "探讨游戏中背包管理的两种核心逻辑——负重系统和格子限制的区别与联系，分析负重与格子作为不同维度在背包设计中的应用策略，为游戏系统设计提供理论参考。",
+    "author": null,
+    "publishedAt": "2026-05-25",
+    "fetchedAt": "2026-05-27T17:36:09.787Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 7,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 8,
+      "totalScore": 35,
+      "finalScore": 33,
+      "reason": "背包设计方法论，干货实用，策划必读",
+      "tags": [
+        "干货",
+        "游戏"
       ],
       "relatedItems": []
     }
@@ -1730,6 +1838,34 @@
     }
   },
   {
+    "id": "vt890qj5sx99cwl02d948ou5",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917533.html",
+    "title": "长青基本盘稳固、全球化持续突破，网易Q1游戏收入257亿元",
+    "titleZh": "网易Q1游戏收入257亿，全球化布局持续突破",
+    "summaryZh": "网易发布Q1财报，游戏业务收入达257亿元，多款长青产品表现稳健，全球化战略取得新进展。旗下《遗忘之海》即将上线，有望为后续增长提供动能。",
+    "author": null,
+    "publishedAt": "2026-05-22",
+    "fetchedAt": "2026-05-27T17:36:16.160Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 6,
+      "timeliness": 9,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "头部厂商最新财报数据，257亿收入验证长青策略有效性，行业风向标",
+      "tags": [
+        "公司",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "gdhzabylolgkl37stbizw3yc",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
@@ -2035,6 +2171,62 @@
       "totalScore": 34,
       "finalScore": 32,
       "reason": "十年开发周期和手绘纸板风格在行业中罕见，对研发团队有启发意义。",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "dpshgnuzcuvbuxb9q25k2qez",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917511.html",
+    "title": "热爱100%加载 网易游戏520爆料新品进展、版本更新......",
+    "titleZh": "网易520发布会新品进展与版本更新",
+    "summaryZh": "网易520发布会集中曝光多款热门游戏、IP及平台产品的新动态，包括新品研发进展和已有游戏版本更新，为行业从业者提供头部厂商产品布局参考。",
+    "author": null,
+    "publishedAt": "2026-05-21",
+    "fetchedAt": "2026-05-27T17:36:25.150Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "网易520发布会年度重磅，了解头部厂商产品线布局的窗口",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "osjl4gftprxpddvs2br300az",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917503.html",
+    "title": "真能熬，这家捷克工作室一款冒险解谜游戏做了10年+",
+    "titleZh": "捷克工作室10年打造纸板风解谜游戏",
+    "summaryZh": "捷克工作室耗时超过10年开发冒险解谜游戏《喇叭之城》，呈现由纸板材质构建的手绘3D世界，展现独特的艺术风格与漫长的开发历程，为独立游戏的长周期创作提供参考案例。",
+    "author": null,
+    "publishedAt": "2026-05-21",
+    "fetchedAt": "2026-05-27T17:36:29.871Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 5,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "纸板风视觉独特，10年匠心制作值得借鉴",
       "tags": [
         "游戏",
         "干货"
@@ -2426,6 +2618,33 @@
     }
   },
   {
+    "id": "bc5suhlk4ik13mtqtp72ddv2",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0520/6943.html",
+    "title": "一想到被喷了四年，米哈游都笑出声了",
+    "titleZh": "被喷四年，米哈游笑看争议",
+    "summaryZh": "米哈游在过去四年持续受到玩家社区批评，但产品表现与市场成绩显示其并未受舆论影响，反而笑看争议。",
+    "author": null,
+    "publishedAt": "2026-05-20T00:00:00+08:00",
+    "fetchedAt": "2026-05-27T17:34:22.008Z",
+    "isSelected": false,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 5,
+      "uniqueness": 4,
+      "usefulness": 4,
+      "totalScore": 24,
+      "finalScore": 26,
+      "reason": "",
+      "tags": [
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "0r34b99cyz69qtry6rwik5hr",
     "sourceId": "youxiribao",
     "sourceName": "游戏日报",
@@ -2706,6 +2925,34 @@
       "reason": "小红书数据对游戏营销有参考价值，但需警惕流量泡沫。",
       "tags": [
         "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "z9dcvmiuush9gj14h073a8z4",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0519/6938.html",
+    "title": "小红书16亿背后：是机遇，还是“被看见”的幻觉？",
+    "titleZh": "小红书16亿融资：游戏营销渠道格局生变？",
+    "summaryZh": "小红书获16亿投资，分析其对内容生态与商业化路径的影响。平台资金实力增强后，将如何重塑游戏营销策略？本文探讨融资背后的机遇与挑战。",
+    "author": null,
+    "publishedAt": "2026-05-19T00:00:00+08:00",
+    "fetchedAt": "2026-05-27T17:34:30.490Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 4,
+      "totalScore": 26,
+      "finalScore": 28,
+      "reason": "平台融资分析对市场推广策略制定有参考价值",
+      "tags": [
+        "行业",
+        "公司"
       ],
       "relatedItems": []
     }
@@ -3229,6 +3476,34 @@
       "totalScore": 35,
       "finalScore": 33,
       "reason": "大厂重注AI，行业风向标",
+      "tags": [
+        "公司",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "uf8vkbvgpiom4pug2dkdx374",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0518/6949.html",
+    "title": "要砸1000亿！米哈游准备认真做AI",
+    "titleZh": "要砸1000亿！米哈游准备认真做AI",
+    "summaryZh": "米哈游宣布将投入1000亿资金布局AI领域，计划将AI技术全面应用于游戏研发与产品运营。此举标志着这家以《原神》闻名的头部游戏公司正在加速AI转型，意图在生成式AI浪潮中保持竞争优势。",
+    "author": null,
+    "publishedAt": "2026-05-18T00:00:00+08:00",
+    "fetchedAt": "2026-05-27T17:34:36.740Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 35,
+      "finalScore": 33,
+      "reason": "头部大厂百亿级AI投入，行业趋势风向标",
       "tags": [
         "公司",
         "行业"
@@ -5583,6 +5858,33 @@
       "tags": [
         "公司",
         "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "f3pwgcbj9dq80h5noifndftx",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/detail/306",
+    "title": "\"IM Infinity\"腾讯游戏开放日圆满结束",
+    "titleZh": "腾讯游戏开放日IM Infinity圆满落幕",
+    "summaryZh": "2025年3月7日，腾讯游戏开放日活动圆满结束，面向清华大学深圳国际研究生院IMDT学生。作为腾讯游戏学堂品牌活动，展示其在游戏人才培养、校企合作方面的持续投入，旨在搭建行业与高校的沟通桥梁。",
+    "author": null,
+    "publishedAt": "2025-03-20T00:00:00Z",
+    "fetchedAt": "2026-05-27T17:29:47.744Z",
+    "isSelected": true,
+    "score": {
+      "importance": 5,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 4,
+      "usefulness": 4,
+      "totalScore": 27,
+      "finalScore": 26,
+      "reason": "",
+      "tags": [
+        "行业"
       ],
       "relatedItems": []
     }
