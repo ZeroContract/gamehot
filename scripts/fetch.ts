@@ -467,13 +467,15 @@ const HERMES_BIN = "/Users/zhima/.local/bin/hermes";
 const USE_HERMES = process.env.USE_HERMES === "true" ||
   (process.env.USE_HERMES !== "false" && fs.existsSync(HERMES_BIN));
 
-function callHermes(prompt: string, timeoutMs: number = 120000): Promise<string> {
+function callHermes(prompt: string, timeoutMs: number = 180000): Promise<string> {
   return new Promise((resolve, reject) => {
     const child = spawn(HERMES_BIN, [
       "chat", "-q", prompt,
       "--quiet",
+      "--toolsets", "browser",
       "--model", "MiniMax-M2.7",
-      "--max-turns", "5",
+      "--accept-hooks",
+      "--max-turns", "12",
     ], {
       timeout: timeoutMs,
       env: process.env,
@@ -585,16 +587,13 @@ function repairJsonString(str: string): string {
   });
 }
 
-const HERMES_EXTRACT_PROMPT = `分析以下网页 HTML，提取最新的游戏行业新闻列表。
+const HERMES_EXTRACT_PROMPT = `打开以下网址，用浏览器实际访问页面，提取最新的游戏行业新闻列表。
 
 网址：{url}
 
-HTML 内容（截取前 80KB）：
-{html}
-
 提取字段：
 - title: 新闻标题（原文）
-- url: 完整新闻链接（相对路径需拼接 base URL: {url}）
+- url: 完整新闻链接（相对路径需拼接 base URL）
 - snippet: 摘要（50字内）
 - publishedAt: 发布日期（ISO 8601 或 null）
 最多 15 条，跳过广告和非新闻内容。
@@ -603,18 +602,10 @@ HTML 内容（截取前 80KB）：
 [{"title":"标题","url":"https://...","snippet":"摘要","publishedAt":"2026-05-27T00:00:00Z"}]`;
 
 async function fetchWebWithHermes(source: Source, existingKeys: Set<string>): Promise<Item[]> {
-  console.log("  🌐 抓取页面 HTML...");
-  const html = await fetchHtml(source.url, source.encoding);
-
-  // 截取前 80KB 避免 token 溢出
-  const truncatedHtml = html.slice(0, 80000);
-
-  const prompt = HERMES_EXTRACT_PROMPT
-    .replace(/\{url\}/g, source.url)
-    .replace("{html}", truncatedHtml);
+  const prompt = HERMES_EXTRACT_PROMPT.replace("{url}", source.url);
 
   console.log("  🤖 Hermes AI 解析页面...");
-  const stdout = await callHermes(prompt, 120000);
+  const stdout = await callHermes(prompt, 180000);
 
   const entries = parseHermesOutput(stdout);
   console.log(`  📄 解析到 ${entries.length} 条条目`);

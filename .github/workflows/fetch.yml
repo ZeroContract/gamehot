@@ -1,10 +1,10 @@
 name: Fetch Game News
 
 on:
-  schedule:
-    # 每 30 分钟运行一次 (UTC 时间)
-    - cron: "*/30 * * * *"
-  # 也支持手动触发
+  # 定时已改由本地 Mac mini (launchd) 负责，Hermes browser 需要本地环境
+  # schedule:
+  #   - cron: "*/30 * * * *"
+  # 保留手动触发作为备用（CI 无 Hermes，走 cheerio 降级模式）
   workflow_dispatch:
 
 permissions:
