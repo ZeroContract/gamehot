@@ -1,28 +1,53 @@
 [
   {
-    "id": "2ah6abg6z39mi6tl8k1hk7lk",
-    "sourceId": "youxituoluo",
-    "sourceName": "游戏陀螺",
-    "url": "https://www.youxituoluo.com/534521.html",
-    "title": "行业活动微信公开课释放重磅信号：5亿月活、80款百万日活、300款千万流水",
-    "titleZh": "微信小游戏数据大公开",
-    "summaryZh": "微信小游戏开发者大会披露关键数据：5亿月活、80款百万日活、300款千万流水，为行业从业者提供重要市场参考。",
+    "id": "6c6na4nesqbveo4h670bsq1a",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/awards2026",
+    "title": "2026腾讯游戏创作大赛",
+    "titleZh": "2026腾讯游戏创作大赛",
+    "summaryZh": "",
     "author": null,
-    "publishedAt": "2026-05-27T10:04:16.231Z",
-    "fetchedAt": "2026-05-27T10:46:18.079Z",
+    "publishedAt": "2026-05-27T11:11:32.151Z",
+    "fetchedAt": "2026-05-27T11:11:43.889Z",
+    "isSelected": false,
+    "score": {
+      "importance": 0,
+      "articleQuality": 0,
+      "timeliness": 0,
+      "uniqueness": 0,
+      "usefulness": 0,
+      "totalScore": 0,
+      "finalScore": 0,
+      "reason": "",
+      "tags": [],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "nkrukb3xdk8c5gspx5too0b5",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/",
+    "title": "2026腾讯游戏创作大赛",
+    "titleZh": "腾讯游戏创作大赛2026启动",
+    "summaryZh": "腾讯游戏学堂宣布2026赛季游戏创作大赛启动，面向全球开发者征集作品，旨在挖掘创新游戏项目，推动行业创意发展。",
+    "author": null,
+    "publishedAt": "2026-05-27T10:51:40.614Z",
+    "fetchedAt": "2026-05-27T10:51:42.363Z",
     "isSelected": true,
     "score": {
-      "importance": 9,
-      "articleQuality": 8,
-      "timeliness": 9,
-      "uniqueness": 7,
-      "usefulness": 9,
-      "totalScore": 42,
-      "finalScore": 38,
-      "reason": "数据硬核，直接指导研发和发行策略",
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 27,
+      "finalScore": 26,
+      "reason": "大赛为开发者提供展示机会，值得关注。",
       "tags": [
         "行业",
-        "干货"
+        "游戏"
       ],
       "relatedItems": []
     }
@@ -227,6 +252,89 @@
       "reason": "洞察行业趋势，对厂商布局有参考价值",
       "tags": [
         "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "hc2jlfy0j9bazlxg43zp1pv5",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534521.html",
+    "title": "微信公开课释放重磅信号：5亿月活、80款百万日活、300款千万流水",
+    "titleZh": "微信小游戏月活破5亿",
+    "summaryZh": "微信小游戏月活突破5亿，开发者超50万，八成是30人以下小团队，释放行业重磅信号。",
+    "author": null,
+    "publishedAt": "2026-05-27T09:12:00+08:00",
+    "fetchedAt": "2026-05-27T10:54:05.585Z",
+    "isSelected": true,
+    "score": {
+      "importance": 9,
+      "articleQuality": 8,
+      "timeliness": 9,
+      "uniqueness": 7,
+      "usefulness": 8,
+      "totalScore": 41,
+      "finalScore": 38,
+      "reason": "小团队机会来了，数据很硬核",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "e71z6nqwwp75s9itd0ugl404",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/detail/311",
+    "title": "「从画板到代码」：AI 游戏创作走进清华美院",
+    "titleZh": "AI游戏创作走进清华美院",
+    "summaryZh": "腾讯游戏学堂在清华美院举办AI×游戏创作工作坊，讲师围绕AI原生游戏设计与美术生用AI做游戏展开教学，探索AI与艺术融合。",
+    "author": null,
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "fetchedAt": "2026-05-27T10:40:14.580Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 8,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 36,
+      "finalScore": 32,
+      "reason": "AI+游戏教育前沿实践，对研发和设计有启发，但实用度稍低。",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ozxxpk2qtviev06wol454nab",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0527/6987.html",
+    "title": "该给《异环》\"验牌\"了",
+    "titleZh": "《异环》验牌评估",
+    "summaryZh": "游戏日报对《异环》进行深度分析，探讨其市场潜力与风险，为从业者提供产品评估参考。",
+    "author": null,
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "fetchedAt": "2026-05-27T10:44:47.362Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "分析产品市场前景，对研发和发行有参考价值",
+      "tags": [
         "游戏"
       ],
       "relatedItems": []
@@ -978,6 +1086,33 @@
     }
   },
   {
+    "id": "a2nnk8qa663i1i8wciqnt5gg",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0526/6979.html",
+    "title": "靠攻略改变二游的大学生博主：月入过万，不考虑全职",
+    "titleZh": "大学生博主靠攻略月入过万",
+    "summaryZh": "一位大学生博主通过制作二次元游戏攻略内容实现月入过万，但表示不会全职投入，反映了游戏内容创作者的经济现状与职业选择。",
+    "author": null,
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "fetchedAt": "2026-05-27T10:44:49.574Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "揭示游戏内容创作者生态，对运营和社区管理有参考价值",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "b367adbhogwhnf3p51r6gjq4",
     "sourceId": "gameres",
     "sourceName": "游资网",
@@ -1532,6 +1667,34 @@
     }
   },
   {
+    "id": "9a2wdqihimj0chs1gso82uxo",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0525/6975.html",
+    "title": "靠攻略改变二游的大学生博主：月入过万，不考虑全职",
+    "titleZh": "大学生攻略博主月入过万，暂无全职意",
+    "summaryZh": "一位大学生通过制作二次元游戏攻略内容实现月收入过万元，展现了游戏内容创作者的商业潜力。该博主表示暂不考虑全职投入，主要将其作为副业经营，反映了当前游戏攻略博主的生存状态。",
+    "author": null,
+    "publishedAt": "2026-05-25T00:00:00Z",
+    "fetchedAt": "2026-05-27T15:23:32.384Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 6,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 28,
+      "finalScore": 29,
+      "reason": "展示了游戏内容创作者的商业模式和数据，对制定KOL策略有参考价值",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "mecb99vt7dq65o6asv93afc0",
     "sourceId": "gameres",
     "sourceName": "游资网",
@@ -2057,6 +2220,33 @@
     }
   },
   {
+    "id": "wsmi4uot17cr48otz32z6y2r",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0522/6955.html",
+    "title": "刚刚定档：它或许真有资格挑战\"再定义MMORPG\"",
+    "titleZh": "《诡秘之主》定档，挑战MMO定义",
+    "summaryZh": "《诡秘之主》游戏正式定档，引发行业关注。该作基于热门IP改编，宣称有潜力重新定义MMORPG品类，其创新玩法和世界观设计成为焦点。",
+    "author": null,
+    "publishedAt": "2026-05-22T00:00:00Z",
+    "fetchedAt": "2026-05-27T10:44:52.161Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "IP热度高，定档信息对MMO从业者有参考价值",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "hcxyblogqi7ykp6aooxfu237",
     "sourceId": "tencent-gi-web",
     "sourceName": "腾讯游戏学堂",
@@ -2501,6 +2691,34 @@
     }
   },
   {
+    "id": "1lmzqe4i7laxoogyly19238u",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichguan.com/archives/196698",
+    "title": "网易游戏今年是一个蛰伏的新品小年吗?",
+    "titleZh": "网易游戏今年是蛰伏的新品小年吗",
+    "summaryZh": "网易游戏520发布会预热PV中，缺少《无限大》《归唐》等备受期待的产品身影，引发玩家对今年新品数量的关注。作为游戏行业重要厂商，网易新品节奏的调整对行业产品线布局具有参考价值。",
+    "author": null,
+    "publishedAt": "2026-05-21T00:00:00Z",
+    "fetchedAt": "2026-05-27T11:20:54.391Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 5,
+      "totalScore": 29,
+      "finalScore": 29,
+      "reason": "观察网易新品缺席，可了解大厂今年产品策略调整",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "vdw5de4vu3h532q8jx3j2pea",
     "sourceId": "tencent-gi-web",
     "sourceName": "腾讯游戏学堂",
@@ -2716,6 +2934,60 @@
       "reason": "资本与口碑的撕裂，从业者必读的行业魔幻现实",
       "tags": [
         "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "0oke9zx3f25zw63cnt605h4f",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0520/6948.html",
+    "title": "一想到被喷了四年，米哈游都笑出声了",
+    "titleZh": "米哈游被喷四年反笑出声",
+    "summaryZh": "米哈游旗下产品虽长期面临玩家批评与争议，但其商业成绩持续攀升。本文探讨其如何将负面舆情转化为发展动力，分析在舆论压力下实现用户与营收双增长的运营策略，对行业处理玩家反馈具有借鉴意义。",
+    "author": null,
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "fetchedAt": "2026-05-27T15:23:41.553Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 6,
+      "uniqueness": 6,
+      "usefulness": 4,
+      "totalScore": 27,
+      "finalScore": 28,
+      "reason": "米哈游化批评为动力的案例值得行业参考",
+      "tags": [
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "59m7fpmsiz7awy2oyzbe3kjq",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0520/6947.html",
+    "title": "一想到被喷了四年，米哈游都笑出声了",
+    "titleZh": "米哈游被喷四年笑出声",
+    "summaryZh": "游戏日报报道，米哈游面对长达四年的负面评价，反而从中获益，公司业绩和用户增长显著，引发行业对舆论与商业成功关系的思考。",
+    "author": null,
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "fetchedAt": "2026-05-27T10:44:54.697Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "揭示舆论压力与商业成功的反差，值得从业者反思",
+      "tags": [
         "公司"
       ],
       "relatedItems": []
@@ -3084,6 +3356,60 @@
       "tags": [
         "公司",
         "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "brlvabi8wtbgq3svwlambal8",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0519/6940.html",
+    "title": "小红书16亿背后：是机遇，还是“被看见”的幻觉？",
+    "titleZh": "小红书16亿：机遇还是幻觉？",
+    "summaryZh": "聚焦小红书平台16亿估值或融资动态，分析其对游戏行业营销推广的影响，探讨平台红利真实性与游戏厂商的获客机遇。",
+    "author": null,
+    "publishedAt": "2026-05-19T00:00:00Z",
+    "fetchedAt": "2026-05-27T15:23:46.995Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 5,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 5,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "小红书成游戏营销新阵地，值得关注平台红利真实性",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ozg03ba6mmmczheducv5jk8d",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0519/6935.html",
+    "title": "小红书16亿背后：是机遇，还是\"被看见\"的幻觉？",
+    "titleZh": "小红书16亿：机遇还是幻觉",
+    "summaryZh": "游戏日报分析小红书16亿背后的机遇与挑战，探讨其是否为游戏行业带来真实价值，还是仅制造“被看见”的幻觉，引发从业者思考。",
+    "author": null,
+    "publishedAt": "2026-05-19T00:00:00Z",
+    "fetchedAt": "2026-05-27T10:44:56.992Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 29,
+      "finalScore": 29,
+      "reason": "小红书数据对游戏营销有参考价值，但需警惕流量泡沫。",
+      "tags": [
+        "行业"
       ],
       "relatedItems": []
     }
@@ -3854,6 +4180,34 @@
       "tags": [
         "游戏",
         "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "s4z7f4572hqgkfmsn8a33a5l",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0518/6931.html",
+    "title": "要砸1000亿！米哈游准备认真做AI",
+    "titleZh": "米哈游千亿砸AI",
+    "summaryZh": "米哈游计划投入1000亿元用于AI研发，旨在提升游戏开发效率和体验，引发行业对游戏与AI融合趋势的关注。",
+    "author": null,
+    "publishedAt": "2026-05-18T00:00:00Z",
+    "fetchedAt": "2026-05-27T10:44:59.247Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 6,
+      "timeliness": 9,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 35,
+      "finalScore": 33,
+      "reason": "大厂重注AI，行业风向标",
+      "tags": [
+        "公司",
+        "行业"
       ],
       "relatedItems": []
     }
@@ -6791,6 +7145,34 @@
     }
   },
   {
+    "id": "eg63td1b9ufwi8l75so0yhse",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/detail/307",
+    "title": "燃动十年 创意不息！2025腾讯游戏创作大赛正式启幕",
+    "titleZh": "腾讯游戏创作大赛2025启幕",
+    "summaryZh": "腾讯互娱副总裁夏琳宣布2025腾讯游戏创作大赛正式启动，期待与武汉合作，激发更多游戏创作灵感，推动行业创新。",
+    "author": null,
+    "publishedAt": "2025-04-17T00:00:00Z",
+    "fetchedAt": "2026-05-27T10:40:16.748Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 30,
+      "finalScore": 28,
+      "reason": "大赛启动为开发者提供新机会，值得关注。",
+      "tags": [
+        "公司",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "ve0ns4wy2xfxxyrefas01nsf",
     "sourceId": "tencent-gi-web",
     "sourceName": "腾讯游戏学堂",
@@ -6840,6 +7222,226 @@
       "reason": "云烘焙方案能大幅缩短光照处理时间，对中小团队尤其实用。",
       "tags": [
         "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "r2rrwg35gwvpmw706jb28083",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/detail/303",
+    "title": "报名启动！2023腾讯游戏客户端开发高校公开课正式来袭",
+    "titleZh": "腾讯游戏客户端开发公开课报名启动",
+    "summaryZh": "腾讯游戏学堂联合四大自研工作室，推出面向高校学生的游戏客户端开发公开课，提供职前学习与实践平台，助力游戏开发人才培养。",
+    "author": null,
+    "publishedAt": "2023-07-25T00:00:00Z",
+    "fetchedAt": "2026-05-27T10:40:18.997Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 32,
+      "finalScore": 29,
+      "reason": "为游戏行业储备人才，提供一线开发经验，值得关注。",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "kfgz6ch2i2rdn13b90i1rb2z",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/detail/302",
+    "title": "腾讯游戏携重磅论坛及AI+游戏科技案例亮相WAIC 2023",
+    "titleZh": "腾讯游戏AI+案例亮相WAIC",
+    "summaryZh": "腾讯游戏在WAIC 2023举办分论坛，展示AI+游戏科技在多个应用场景的拓展案例，体现AI与游戏融合的前沿趋势。",
+    "author": null,
+    "publishedAt": "2023-06-29T00:00:00Z",
+    "fetchedAt": "2026-05-27T10:40:20.853Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 5,
+      "totalScore": 31,
+      "finalScore": 29,
+      "reason": "AI+游戏是当前热点，案例有参考价值",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "bvv6lieea4k9l66z0rq3x1u9",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/detail/301",
+    "title": "2023腾讯游戏高校策划公开课空中宣讲，不见不散！",
+    "titleZh": "腾讯游戏高校策划公开课宣讲",
+    "summaryZh": "腾讯游戏高校策划公开课火热报名中，空中宣讲会将分享课题导师经验，为游戏行业培养新人才。",
+    "author": null,
+    "publishedAt": "2023-06-13T00:00:00Z",
+    "fetchedAt": "2026-05-27T10:40:22.749Z",
+    "isSelected": false,
+    "score": {
+      "importance": 5,
+      "articleQuality": 4,
+      "timeliness": 6,
+      "uniqueness": 3,
+      "usefulness": 4,
+      "totalScore": 22,
+      "finalScore": 23,
+      "reason": "",
+      "tags": [
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "48p4ap6sxy0u6ro1l27e6cs9",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/detail/300",
+    "title": "2023年清华互动媒体设计与技术中心夏令营火热报名中",
+    "titleZh": "清华游戏夏令营报名启动",
+    "summaryZh": "2023年清华互动媒体设计与技术中心夏令营面向本科生开放，为2024级推荐免试研究生提前遴选，由腾讯游戏学堂支持。",
+    "author": null,
+    "publishedAt": "2023-06-08T00:00:00Z",
+    "fetchedAt": "2026-05-27T10:40:24.631Z",
+    "isSelected": false,
+    "score": {
+      "importance": 5,
+      "articleQuality": 4,
+      "timeliness": 3,
+      "uniqueness": 4,
+      "usefulness": 3,
+      "totalScore": 19,
+      "finalScore": 21,
+      "reason": "",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "yi2v7sall89xcstz9jt7l28y",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/detail/299",
+    "title": "报名启动！2023腾讯游戏高校策划公开课正式来袭",
+    "titleZh": "腾讯游戏高校策划公开课报名",
+    "summaryZh": "2023腾讯游戏高校策划公开课升级为启航理论精品课与星跃实战训练营，旨在提升学生游戏策划实战技能，报名已启动。",
+    "author": null,
+    "publishedAt": "2023-05-30T00:00:00Z",
+    "fetchedAt": "2026-05-27T10:40:26.827Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 27,
+      "finalScore": 26,
+      "reason": "对游戏行业人才培养有参考价值，但内容偏教育向。",
+      "tags": [
+        "干货",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "a0rhuae6poxliiaurbkjq0rx",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/detail/298",
+    "title": "对话腾讯马晓轶：没有外界认为的「焦虑」，不走人海战术，游戏可以干一辈子",
+    "titleZh": "腾讯马晓轶谈游戏行业认知",
+    "summaryZh": "腾讯高级副总裁马晓轶分享对研发发行定位、AI探索及全球布局的见解，强调游戏可干一辈子，不走人海战术，并反思游戏本质。",
+    "author": null,
+    "publishedAt": "2023-05-17T00:00:00Z",
+    "fetchedAt": "2026-05-27T10:40:29.224Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 9,
+      "timeliness": 7,
+      "uniqueness": 8,
+      "usefulness": 6,
+      "totalScore": 38,
+      "finalScore": 33,
+      "reason": "大佬亲述战略思考，行业风向标",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "z7o8i00dm2ia1p3i8pcbey8j",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/detail/297",
+    "title": "2023腾讯开悟公开赛启动报名，一文搞懂你需要知道的一切",
+    "titleZh": "腾讯开悟公开赛启动报名",
+    "summaryZh": "2023腾讯开悟公开赛依托腾讯开悟AI平台启动，旨在通过竞赛促进高校AI人才培养，推动产学研合作，为游戏行业储备AI人才。",
+    "author": null,
+    "publishedAt": "2023-05-16T00:00:00Z",
+    "fetchedAt": "2026-05-27T10:40:31.389Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 30,
+      "finalScore": 28,
+      "reason": "AI人才培养赛事，对行业人才储备有参考价值",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "don9gl6sppimzh8yw70carsp",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/detail/296",
+    "title": "腾讯游戏学堂2023最新成果发布，加速推进人才培养和科研创新",
+    "titleZh": "腾讯游戏学堂2023成果发布",
+    "summaryZh": "腾讯游戏学堂发布2023年阶段性成果，聚焦游戏科技发展与高质量人才培养，推动行业创新与人才储备。",
+    "author": null,
+    "publishedAt": "2023-05-15T00:00:00Z",
+    "fetchedAt": "2026-05-27T10:40:33.386Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 31,
+      "finalScore": 29,
+      "reason": "腾讯人才培养动态，对行业人才发展有参考价值。",
+      "tags": [
+        "公司"
       ],
       "relatedItems": []
     }

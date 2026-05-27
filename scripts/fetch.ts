@@ -10,7 +10,7 @@
  *   npx tsx scripts/fetch.ts
  *
  * 环境变量:
- *   DEEPSEEK_API_KEY - DeepSeek API 密钥
+ *   DEEPSEEK_API_KEY - AI API 密钥 (MiniMax / DeepSeek 等 OpenAI 兼容接口)
  */
 
 import * as fs from "fs";
@@ -18,12 +18,18 @@ import * as path from "path";
 import Parser from "rss-parser";
 import * as cheerio from "cheerio";
 import iconv from "iconv-lite";
+import { spawn } from "node:child_process";
 
 const DATA_DIR = path.join(__dirname, "..", "data");
 const SOURCES_FILE = path.join(DATA_DIR, "sources.json");
 const ITEMS_FILE = path.join(DATA_DIR, "items.json");
 
-const DEEPSEEK_API_KEY = process.env.DEEPSEEK_API_KEY || "";
+const AI_API_KEY = process.env.DEEPSEEK_API_KEY || "";
+const AI_API_BASE = process.env.AI_API_BASE || "https://api.minimax.chat/v1";
+const AI_MODEL = process.env.AI_MODEL || "MiniMax-M2.7";
+
+// ---- 抓取模式: 环境变量 USE_HERMES 控制，默认自动检测 ----
+// (常量定义见下方 HERMES_BIN 之后)
 
 const SCORE_PROMPT = `你是游戏行业的资深编辑。请对以下游戏开发相关新闻进行评估。
 
@@ -290,15 +296,15 @@ async function fetchHtml(url: string, encoding?: string): Promise<string> {
   return buf.toString("utf-8");
 }
 
-async function callDeepSeek(prompt: string): Promise<any> {
-  const res = await fetch("https://api.deepseek.com/v1/chat/completions", {
+async function callAI(prompt: string): Promise<any> {
+  const res = await fetch(`${AI_API_BASE}/chat/completions`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      Authorization: `Bearer ${DEEPSEEK_API_KEY}`,
+      Authorization: `Bearer ${AI_API_KEY}`,
     },
     body: JSON.stringify({
-      model: "deepseek-chat",
+      model: AI_MODEL,
       messages: [
         { role: "system", content: "你是一个专业的游戏行业编辑，回复必须是合法 JSON。" },
         { role: "user", content: prompt },
@@ -309,13 +315,16 @@ async function callDeepSeek(prompt: string): Promise<any> {
   });
 
   if (!res.ok) {
-    throw new Error(`DeepSeek API error: ${res.status} ${res.statusText}`);
+    throw new Error(`AI API error: ${res.status} ${res.statusText}`);
   }
 
   const data = await res.json();
   const content = data.choices[0].message.content.trim();
 
-  const jsonStr = content.replace(/^```json?\s*/i, "").replace(/```\s*$/, "").trim();
+  // MiniMax-M2.7 等推理模型会输出 <think>...</think> 标签，先去掉
+  const cleaned = content.replace(/<think>[\s\S]*?<\/think>/gi, "").trim();
+
+  const jsonStr = cleaned.replace(/^```json?\s*/i, "").replace(/```\s*$/, "").trim();
 
   return JSON.parse(jsonStr);
 }
@@ -331,7 +340,7 @@ async function scoreItem(
       .replace("{snippet}", snippet || title)
       .replace("{sourceName}", sourceName);
 
-    const result = await callDeepSeek(prompt);
+    const result = await callAI(prompt);
 
     const totalScore = result.totalScore || 0;
     const isSelected = result.isSelected ?? totalScore >= 25;
@@ -449,9 +458,175 @@ async function fetchRSS(source: Source, existingKeys: Set<string>): Promise<Item
 }
 
 // ============================================================
-//  Web 爬虫 (cheerio)
+//  Web 爬虫 - Hermes AI 版本 (智能解析页面)
 // ============================================================
-async function fetchWeb(source: Source, existingKeys: Set<string>): Promise<Item[]> {
+
+const HERMES_BIN = "/Users/zhima/.local/bin/hermes";
+
+// 自动检测：Hermes 二进制存在则启用，也可通过环境变量 USE_HERMES=true/false 强制
+const USE_HERMES = process.env.USE_HERMES === "true" ||
+  (process.env.USE_HERMES !== "false" && fs.existsSync(HERMES_BIN));
+
+function callHermes(prompt: string, timeoutMs: number = 120000): Promise<string> {
+  return new Promise((resolve, reject) => {
+    const child = spawn(HERMES_BIN, [
+      "chat", "-q", prompt,
+      "--quiet",
+      "--model", "MiniMax-M2.7",
+      "--max-turns", "5",
+    ], {
+      timeout: timeoutMs,
+      env: process.env,
+    });
+
+    let stdout = "";
+    let stderr = "";
+
+    child.stdout.on("data", (data: Buffer) => { stdout += data.toString(); });
+    child.stderr.on("data", (data: Buffer) => { stderr += data.toString(); });
+
+    child.on("close", (code: number | null) => {
+      if (code !== 0) {
+        reject(new Error(`hermes exited with code ${code}: ${stderr.slice(0, 500)}`));
+      } else {
+        resolve(stdout);
+      }
+    });
+
+    child.on("error", (err: Error) => {
+      reject(new Error(`hermes spawn failed: ${err.message}`));
+    });
+  });
+}
+
+function parseHermesOutput(stdout: string): RawEntry[] {
+  const text = stdout.trim();
+
+  // 提取 JSON 数组
+  const patterns = [
+    /```json\s*([\s\S]*?)\s*```/,
+    /```\s*([\s\S]*?)\s*```/,
+    /\[\s*\{[\s\S]*\}\s*\]/,
+  ];
+
+  let jsonStr = "";
+  for (const pattern of patterns) {
+    const match = text.match(pattern);
+    if (match) {
+      jsonStr = (match[1] || match[0]).trim();
+      break;
+    }
+  }
+
+  if (!jsonStr) {
+    throw new Error(`No JSON array found in Hermes output: ${text.slice(0, 300)}`);
+  }
+
+  // 尝试直接解析
+  try {
+    const parsed = JSON.parse(jsonStr);
+    if (Array.isArray(parsed)) {
+      return parsed.map(normalizeEntry);
+    }
+  } catch {
+    // JSON 有格式问题，尝试逐对象修复解析
+  }
+
+  // 逐对象提取：用 },{ 分割，分别解析每个对象
+  const innerMatch = jsonStr.match(/^\s*\[\s*([\s\S]*?)\s*\]\s*$/);
+  const inner = innerMatch ? innerMatch[1] : jsonStr.replace(/^\[|\]$/g, "");
+  const entries: RawEntry[] = [];
+
+  // 按 },{ 或 }\n{ 分割
+  const chunks = inner.split(/},\s*\{/);
+  for (let i = 0; i < chunks.length; i++) {
+    let chunk = chunks[i];
+    if (i === 0 && !chunk.startsWith("{")) chunk = "{" + chunk;
+    if (i === chunks.length - 1 && !chunk.endsWith("}")) chunk = chunk + "}";
+    if (i > 0 && i < chunks.length - 1) chunk = "{" + chunk + "}";
+
+    // 尝试修复未转义的双引号
+    try {
+      entries.push(normalizeEntry(JSON.parse(chunk)));
+    } catch {
+      try {
+        const repaired = repairJsonString(chunk);
+        entries.push(normalizeEntry(JSON.parse(repaired)));
+      } catch {
+        // 跳过解析失败的单条
+      }
+    }
+  }
+
+  if (entries.length === 0) {
+    throw new Error(`Failed to parse any JSON objects from Hermes output`);
+  }
+
+  return entries;
+}
+
+function normalizeEntry(item: any): RawEntry {
+  return {
+    title: String(item.title || ""),
+    url: String(item.url || item.link || ""),
+    snippet: String(item.snippet || item.summary || item.description || "").slice(0, 500),
+    author: item.author || null,
+    publishedAt: item.publishedAt || item.date || new Date().toISOString(),
+  };
+}
+
+function repairJsonString(str: string): string {
+  // 修复字符串值中未转义的双引号：
+  // 匹配 "key":"value" 中的 value 部分，转义其中的裸双引号
+  return str.replace(/(":\s*")(.*?)(")/g, (_match, prefix: string, value: string, suffix: string) => {
+    // 将 value 中的未转义双引号替换为转义双引号
+    const escaped = value.replace(/(?<!\\)"/g, '\\"');
+    return prefix + escaped + suffix;
+  });
+}
+
+const HERMES_EXTRACT_PROMPT = `分析以下网页 HTML，提取最新的游戏行业新闻列表。
+
+网址：{url}
+
+HTML 内容（截取前 80KB）：
+{html}
+
+提取字段：
+- title: 新闻标题（原文）
+- url: 完整新闻链接（相对路径需拼接 base URL: {url}）
+- snippet: 摘要（50字内）
+- publishedAt: 发布日期（ISO 8601 或 null）
+最多 15 条，跳过广告和非新闻内容。
+
+严格输出 JSON 数组（title/snippet 中的双引号必须反斜杠转义）：
+[{"title":"标题","url":"https://...","snippet":"摘要","publishedAt":"2026-05-27T00:00:00Z"}]`;
+
+async function fetchWebWithHermes(source: Source, existingKeys: Set<string>): Promise<Item[]> {
+  console.log("  🌐 抓取页面 HTML...");
+  const html = await fetchHtml(source.url, source.encoding);
+
+  // 截取前 80KB 避免 token 溢出
+  const truncatedHtml = html.slice(0, 80000);
+
+  const prompt = HERMES_EXTRACT_PROMPT
+    .replace(/\{url\}/g, source.url)
+    .replace("{html}", truncatedHtml);
+
+  console.log("  🤖 Hermes AI 解析页面...");
+  const stdout = await callHermes(prompt, 120000);
+
+  const entries = parseHermesOutput(stdout);
+  console.log(`  📄 解析到 ${entries.length} 条条目`);
+
+  return processEntries(source, entries, existingKeys);
+}
+
+// ============================================================
+//  Web 爬虫 - cheerio 版本 (CSS 选择器，保留作为 fallback)
+// ============================================================
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+async function fetchWebLegacy(source: Source, existingKeys: Set<string>): Promise<Item[]> {
   const html = await fetchHtml(source.url, source.encoding);
   const $ = cheerio.load(html);
 
@@ -629,7 +804,7 @@ async function fetchApi(source: Source, existingKeys: Set<string>): Promise<Item
 // ============================================================
 
 async function main() {
-  if (!DEEPSEEK_API_KEY) {
+  if (!AI_API_KEY) {
     console.error("❌ 请设置 DEEPSEEK_API_KEY 环境变量");
     console.error("   export DEEPSEEK_API_KEY=sk-...");
     process.exit(1);
@@ -653,41 +828,73 @@ async function main() {
     existingItems.map((i) => deDupeKey(i.sourceId, i.url))
   );
 
+  // 并行抓取（限制并发数，避免同时开太多浏览器 OOM）
+  const CONCURRENCY = 1; // 串行避免同时开多个浏览器 OOM
   const newItems: Item[] = [];
 
-  for (const source of activeSources) {
-    const typeLabel = { rss: "📡 RSS", web: "🕷️  Web", api: "🔌 API" }[source.type] || "📡";
-    console.log(`${typeLabel} 抓取: ${source.name} (${source.url})`);
+  for (let i = 0; i < activeSources.length; i += CONCURRENCY) {
+    const batch = activeSources.slice(i, i + CONCURRENCY);
+    const batchResults = await Promise.allSettled(
+      batch.map(async (source) => {
+        const typeLabel = { rss: "📡 RSS", web: "🕷️  Web", api: "🔌 API" }[source.type] || "📡";
+        console.log(`${typeLabel} 抓取: ${source.name} (${source.url})`);
 
-    try {
-      let items: Item[];
+        const maxRetries = source.type === "web" ? 2 : 1;
+        let lastError: Error | null = null;
 
-      switch (source.type) {
-        case "rss":
-          items = await fetchRSS(source, existingKeys);
-          break;
-        case "web":
-          items = await fetchWeb(source, existingKeys);
-          break;
-        case "api":
-          items = await fetchApi(source, existingKeys);
-          break;
-        default:
-          console.log(`  ⚠️ 未知类型: ${source.type}，跳过`);
-          continue;
+        for (let attempt = 1; attempt <= maxRetries; attempt++) {
+          try {
+            let items: Item[];
+
+            switch (source.type) {
+              case "rss":
+                items = await fetchRSS(source, existingKeys);
+                break;
+              case "web":
+                if (USE_HERMES) {
+                  try {
+                    items = await fetchWebWithHermes(source, existingKeys);
+                  } catch (hermesErr) {
+                    // Hermes 失败降级到 cheerio（MiniMax 不支持 vision，browser 模式偶发崩溃）
+                    console.log(`  ⚠️ Hermes 失败，降级 cheerio: ${String(hermesErr).slice(0, 80)}`);
+                    items = await fetchWebLegacy(source, existingKeys);
+                  }
+                } else {
+                  items = await fetchWebLegacy(source, existingKeys);
+                }
+                break;
+              case "api":
+                items = await fetchApi(source, existingKeys);
+                break;
+              default:
+                console.log(`  ⚠️ 未知类型: ${source.type}，跳过`);
+                return [];
+            }
+
+            console.log(`  ✅ ${source.name}: +${items.length} 条新内容`);
+            return items;
+          } catch (error) {
+            lastError = error instanceof Error ? error : new Error(String(error));
+            if (attempt < maxRetries) {
+              console.log(`  🔄 ${source.name} 重试 (${attempt}/${maxRetries})...`);
+              await new Promise((r) => setTimeout(r, 3000));
+            }
+          }
+        }
+
+        console.error(`  ❌ ${source.name}: ${lastError!.message}`);
+        return [];
+      })
+    );
+
+    for (const result of batchResults) {
+      if (result.status === "fulfilled") {
+        newItems.push(...result.value);
       }
-
-      newItems.push(...items);
-      console.log(`  ✅ ${source.name}: +${items.length} 条新内容\n`);
-
-    } catch (error) {
-      const msg = error instanceof Error ? error.message : String(error);
-      console.error(`  ❌ ${source.name}: ${msg}\n`);
     }
-
-    // 信源间限速
-    await new Promise((r) => setTimeout(r, 1000));
   }
+
+  console.log();
 
   // 合并新旧数据
   const allItems = [...newItems, ...existingItems]
