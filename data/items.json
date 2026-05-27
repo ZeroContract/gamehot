@@ -1,5 +1,33 @@
 [
   {
+    "id": "rz7zstkt4w657618qlq2ixn0",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/wp-content/uploads/2026/05/2026052617193946722.001.png",
+    "title": "不是所有二游都能走到第十年",
+    "titleZh": "不是所有二游都能走到第十年",
+    "summaryZh": "二次元手游市场竞争激烈，生命周期管理成为关键课题。本地化、用户运营、长线内容更新等环节决定产品能否持续盈利。行业面临同质化严重、用户获取成本上升等挑战，能真正运营十年以上的二次元游戏屈指可数。",
+    "author": null,
+    "publishedAt": "2026-05-27T21:47:47.007Z",
+    "fetchedAt": "2026-05-27T21:48:04.734Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 6,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "揭示二游行业生存现状，提供长线运营思路",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "an72m60za5wtdm0yen6x8kcw",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
@@ -790,6 +818,34 @@
       "reason": "深度复盘产品迭代，对研发和运营有启发",
       "tags": [
         "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "kwii3wyf7djiakobv65lxikt",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/wp-content/uploads/2026/05/get-25.png",
+    "title": "大作\"下饺子\"的年代，网易下水一艘航母?",
+    "titleZh": "大作扎堆年代，网易下水航母",
+    "summaryZh": "2026年中国游戏市场迎来大年，多款大厂大作排队等待上线，市场竞争激烈。网易作为头部厂商，在这场\"游戏大年\"中推出重磅产品，被比作\"下水一艘航母\"，引发行业关注。",
+    "author": null,
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "fetchedAt": "2026-05-27T21:47:54.353Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "网易大动作预告，2026游戏大年必读",
+      "tags": [
+        "行业",
+        "公司"
       ],
       "relatedItems": []
     }
