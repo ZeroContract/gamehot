@@ -442,6 +442,33 @@
     }
   },
   {
+    "id": "atkj0oj30xd6mavb4ll3h3ry",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/105786",
+    "title": "「从画板到代码」：AI 游戏创作走进清华美院",
+    "titleZh": "从画板到代码：AI游戏创作走进清华美院",
+    "summaryZh": "5月21日，清华大学美术学院信息艺术设计系举办「AI×游戏创作工作坊」，探索AI技术在游戏美术与设计领域的应用实践，推动AI与游戏创作的教育融合与创新探索。",
+    "author": null,
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "fetchedAt": "2026-05-27T23:36:34.156Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 4,
+      "totalScore": 28,
+      "finalScore": 27,
+      "reason": "聚焦AI游戏创作前沿趋势，高校探索实践案例值得关注",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "z85o19ewv5kmqjc1ev0utfiv",
     "sourceId": "youxiribao",
     "sourceName": "游戏日报",
@@ -901,6 +928,88 @@
       "reason": "深度复盘产品迭代，对研发和运营有启发",
       "tags": [
         "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "njvgylq237gn79mh9wuuq5os",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917572.html",
+    "title": "《洛克王国：世界》全面分析：精灵主导的开放世界",
+    "titleZh": "《洛克王国：世界》分析：精灵主导的开放世界",
+    "summaryZh": "游戏以精灵为核心锚点，构建收集-养成-战斗-探索的闭环体验。作为经典IP的开放世界衍生作，该分析深入探讨了精灵系统的设计思路与开放世界的融合方式，为同类游戏研发提供参考。",
+    "author": null,
+    "publishedAt": "2026-05-26",
+    "fetchedAt": "2026-05-27T23:41:13.021Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 6,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "精灵+开放世界设计思路有借鉴价值",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "7gw3w8tpdb8wiewn5wwj9pc6",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917573.html",
+    "title": "夯！ 2026 小游戏开发者大会多模块亮点，都在这！",
+    "titleZh": "2026小游戏开发者大会亮点抢先看",
+    "summaryZh": "2026小游戏开发者大会将于5月27日举行，汇聚多个模块亮点。活动聚焦新游戏实战经验分享，为开发者提供交流平台，涵盖前沿技术和市场趋势解读。",
+    "author": null,
+    "publishedAt": "2026-05-26",
+    "fetchedAt": "2026-05-27T23:41:18.379Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 6,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 26,
+      "finalScore": 28,
+      "reason": "小游戏开发者大会是行业重要交流平台，了解前沿趋势和实战经验",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "peqp9v4py5tgrx1v4bp7a2z5",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917574.html",
+    "title": "百万奖金等你来战！「金海豚奖×好游快爆」游戏GameJam大赛火热报名中",
+    "titleZh": "金海豚奖×好游快爆 GameJam大赛百万奖金开启",
+    "summaryZh": "「金海豚奖×好游快爆」GameJam大赛正式开启报名，设立百万级奖金池。赛事面向全球开发者开放，个人和团队均可参赛，零门槛参与，为游戏开发者提供展示创意与实力的舞台。",
+    "author": null,
+    "publishedAt": "2026-05-26",
+    "fetchedAt": "2026-05-27T23:41:22.768Z",
+    "isSelected": true,
+    "score": {
+      "importance": 5,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 28,
+      "finalScore": 29,
+      "reason": "高奖金GameJam赛事，个人/团队可参与，适合开发者实战练手",
+      "tags": [
+        "行业"
       ],
       "relatedItems": []
     }
@@ -1708,6 +1817,34 @@
     }
   },
   {
+    "id": "nsbl9mph43wkg8uy8yfnixeb",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917570.html",
+    "title": "《游戏项目系统工程手册》合订本vol.4",
+    "titleZh": "游戏项目系统工程手册合订本第四卷",
+    "summaryZh": "鸿杰系统梳理游戏项目开发全流程的管理方法论，涵盖项目规划、团队协作、进度控制等关键环节，为从业者提供可复用的系统性工程框架与实操指南。",
+    "author": null,
+    "publishedAt": "2026-05-25",
+    "fetchedAt": "2026-05-27T23:41:30.077Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 5,
+      "uniqueness": 7,
+      "usefulness": 7,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "系统化工程方法论，实用性强，适合项目管理者参考",
+      "tags": [
+        "干货",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "4grwvj9xi26xazbuhzpxhdur",
     "sourceId": "gameres",
     "sourceName": "游资网",
@@ -2196,6 +2333,34 @@
     }
   },
   {
+    "id": "sb3z3c8q4w3xun16ogxdnff0",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/105768",
+    "title": "「探索AI游戏 · 开发新可能」AI游戏工作坊-清华大学站圆满举办",
+    "titleZh": "探索AI游戏工作坊清华站落幕",
+    "summaryZh": "5月14日，「探索AI游戏·开发新可能」AI游戏工作坊在清华大学成功举办，聚焦AI技术与游戏开发的融合创新，为行业从业者提供交流学习平台，推动AI在游戏领域的应用探索。",
+    "author": null,
+    "publishedAt": "2026-05-22T00:00:00Z",
+    "fetchedAt": "2026-05-27T23:36:38.953Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 6,
+      "totalScore": 33,
+      "finalScore": 30,
+      "reason": "清华AI游戏工作坊落地，聚焦技术创新与行业交流",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "vt890qj5sx99cwl02d948ou5",
     "sourceId": "gameres",
     "sourceName": "游资网",
@@ -2532,6 +2697,33 @@
       "tags": [
         "游戏",
         "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ka72o7t3a6mh8zba21ewkbip",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/105747",
+    "title": "2026届清华-腾讯互动媒体设计与技术项目（IMDT）毕业展启幕",
+    "titleZh": "清华-腾讯IMDT项目毕业展启幕",
+    "summaryZh": "5月18日，清华-腾讯互动媒体设计与技术培养项目2026届毕业作品展在清华大学深圳国际研究生院启幕。该项目由清华与腾讯联合设立，展示学生在互动媒体领域的设计与技术成果。",
+    "author": null,
+    "publishedAt": "2026-05-21T00:00:00Z",
+    "fetchedAt": "2026-05-27T23:36:47.328Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 30,
+      "finalScore": 28,
+      "reason": "清华腾讯联合培养项目展示行业人才新风向",
+      "tags": [
+        "行业"
       ],
       "relatedItems": []
     }
@@ -6166,6 +6358,33 @@
     }
   },
   {
+    "id": "tt65ahuq9z572cupvuc1eigc",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/104924",
+    "title": "“无尽之焰”点燃未来，2025届互动媒体设计与技术培养项目（IMDT）毕业展启幕",
+    "titleZh": "\"无尽之焰\"点亮IMDT毕业展，清华腾讯合作启幕",
+    "summaryZh": "5月13日，清华大学深圳国际研究生院举行2025届IMDT毕业作品展，清华-腾讯合作培养项目迎来成果展示。毕业展以\"无尽之焰\"为主题，集中呈现互动媒体设计与技术领域学生的创新作品。",
+    "author": null,
+    "publishedAt": "2025-05-15T00:00:00Z",
+    "fetchedAt": "2026-05-27T23:36:52.304Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 30,
+      "finalScore": 28,
+      "reason": "关注校企合作人才培养趋势，洞察行业新生力量",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "h31nk1sbfswcqkil7vs8epte",
     "sourceId": "tencent-gi-web",
     "sourceName": "腾讯游戏学堂",
@@ -6188,6 +6407,34 @@
       "reason": "展示游戏教育前沿成果，对开发者了解人才培养趋势有启发。",
       "tags": [
         "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "bhiz5t939yrxms4iv0rr3gij",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/104648",
+    "title": "燃动十年 创意不息！2025腾讯游戏创作大赛正式启幕",
+    "titleZh": "2025腾讯游戏创作大赛启幕 夏琳致辞",
+    "summaryZh": "腾讯游戏学堂宣布2025年创作大赛正式启动，腾讯互娱副总裁、腾讯游戏学堂院长夏琳出席开幕致辞。本届大赛以“燃动十年，创意不息”为主题，面向游戏开发者和创作者征集作品，旨在挖掘和培养行业新生力量，具体赛制和奖项设置待进一步公布。",
+    "author": null,
+    "publishedAt": "2025-04-17T00:00:00Z",
+    "fetchedAt": "2026-05-27T23:37:01.021Z",
+    "isSelected": false,
+    "score": {
+      "importance": 5,
+      "articleQuality": 4,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 4,
+      "totalScore": 24,
+      "finalScore": 24,
+      "reason": "",
+      "tags": [
+        "行业",
+        "公司"
       ],
       "relatedItems": []
     }
@@ -6216,6 +6463,33 @@
       "tags": [
         "公司",
         "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "m6hl7yk5sycfx0hznmn0uiw1",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/104403",
+    "title": "“IM Infinity”腾讯游戏开放日圆满结束",
+    "titleZh": "腾讯游戏开放日圆满落幕",
+    "summaryZh": "2025年3月7日，由腾讯游戏学堂主办的面向IMDT学生的开放日活动圆满结束。此次活动为学生提供了深入了解腾讯游戏研发体系与人才培养项目的窗口，促进了校企间的互动交流。",
+    "author": null,
+    "publishedAt": "2025-03-20T00:00:00Z",
+    "fetchedAt": "2026-05-27T23:37:07.676Z",
+    "isSelected": true,
+    "score": {
+      "importance": 4,
+      "articleQuality": 5,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 26,
+      "finalScore": 26,
+      "reason": "腾讯校招开放日落幕，IMDT学生可了解其游戏人才培养体系",
+      "tags": [
+        "公司"
       ],
       "relatedItems": []
     }
@@ -6275,6 +6549,34 @@
     }
   },
   {
+    "id": "pqmqjbltqa5w95nrvkdkwgrz",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/104147",
+    "title": "腾讯游戏与Unity中国共同推出游戏光照云烘焙解决方案",
+    "titleZh": "腾讯游戏与Unity中国推出光照云烘焙方案",
+    "summaryZh": "腾讯游戏与Unity中国联合发布UOS Baking云烘焙系统，采用GPU加速技术提升光照贴图烘焙效率。该方案旨在帮助游戏开发者缩短美术资产生成周期、降低渲染成本，适用于3D游戏项目的光照场景制作。",
+    "author": null,
+    "publishedAt": "2025-01-09T00:00:00Z",
+    "fetchedAt": "2026-05-27T23:37:17.303Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 34,
+      "finalScore": 30,
+      "reason": "云端GPU烘焙工具直击美术管线效率痛点，技术从业者可关注",
+      "tags": [
+        "干货",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "icaq26218y47dnjicvtngq20",
     "sourceId": "tencent-gi-web",
     "sourceName": "腾讯游戏学堂",
@@ -6302,6 +6604,34 @@
     }
   },
   {
+    "id": "x3uir3lqf1xhhfcigyzhxgz6",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/102932",
+    "title": "报名启动！2023腾讯游戏客户端开发高校公开课正式来袭",
+    "titleZh": "腾讯游戏客户端开发高校公开课报名启动",
+    "summaryZh": "腾讯游戏学堂联合四大自研工作室群，推出游戏客户端开发高校公开课，汇聚优势资源打造体系化培养课程，为高校学生提供系统性学习机会，助力游戏行业人才培养。",
+    "author": null,
+    "publishedAt": "2023-07-25T00:00:00Z",
+    "fetchedAt": "2026-05-27T23:37:24.147Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 27,
+      "finalScore": 26,
+      "reason": "腾讯联合四大工作室打造体系化课程，研发值得关注",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "r2rrwg35gwvpmw706jb28083",
     "sourceId": "tencent-gi-web",
     "sourceName": "腾讯游戏学堂",
@@ -6323,6 +6653,34 @@
       "finalScore": 29,
       "reason": "为游戏行业储备人才，提供一线开发经验，值得关注。",
       "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "g53q5bdtjtp41v817rfg2ge4",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/102889",
+    "title": "腾讯游戏携重磅论坛及AI+游戏科技案例亮相WAIC 2023",
+    "titleZh": "腾讯游戏携AI+游戏案例亮相WAIC 2023",
+    "summaryZh": "2023世界人工智能大会将于7月6日至8日在上海举办。腾讯游戏将在大会现场举办分论坛，展示AI+游戏科技案例，分享人工智能在游戏领域的创新应用与实践成果，为行业提供参考。",
+    "author": null,
+    "publishedAt": "2023-06-29T00:00:00Z",
+    "fetchedAt": "2026-05-27T23:37:35.736Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 6,
+      "totalScore": 31,
+      "finalScore": 29,
+      "reason": "了解大厂AI在游戏领域应用实践的窗口",
+      "tags": [
+        "行业",
         "干货"
       ],
       "relatedItems": []
@@ -6357,6 +6715,34 @@
     }
   },
   {
+    "id": "cag1cf4z8vw673lcfy4uxpx9",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/102857",
+    "title": "2023腾讯游戏高校策划公开课空中宣讲，不见不散！",
+    "titleZh": "腾讯游戏高校策划公开课空中宣讲",
+    "summaryZh": "腾讯游戏学堂推出2023年度高校策划公开课，现正火热报名中。活动采用空中宣讲形式，邀请课题导师分享行业经验与实战心得，为高校学生和从业者搭建学习交流平台，助力职业发展。",
+    "author": null,
+    "publishedAt": "2023-06-13T00:00:00Z",
+    "fetchedAt": "2026-05-27T23:37:43.004Z",
+    "isSelected": true,
+    "score": {
+      "importance": 5,
+      "articleQuality": 4,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 27,
+      "finalScore": 26,
+      "reason": "腾讯官方策划培训资源，助力校招人才培养",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "bvv6lieea4k9l66z0rq3x1u9",
     "sourceId": "tencent-gi-web",
     "sourceName": "腾讯游戏学堂",
@@ -6384,6 +6770,34 @@
     }
   },
   {
+    "id": "q9bkwn4bjjxk7gyjuz623pk8",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/102840",
+    "title": "2023年清华互动媒体设计与技术中心夏令营火热报名中",
+    "titleZh": "清华互动媒体夏令营报名中",
+    "summaryZh": "清华大学深圳国际研究生院互动媒体设计与技术中心举办2023年夏令营，面向国内高校本科生招生，旨在帮助学生了解该中心在互动媒体设计与技术领域的教学与研究方向，促进产学研结合。",
+    "author": null,
+    "publishedAt": "2023-06-08T00:00:00Z",
+    "fetchedAt": "2026-05-27T23:37:49.351Z",
+    "isSelected": true,
+    "score": {
+      "importance": 5,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 4,
+      "totalScore": 26,
+      "finalScore": 26,
+      "reason": "清华夏令营值得关注，互动媒体方向产学研结合值得关注",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "48p4ap6sxy0u6ro1l27e6cs9",
     "sourceId": "tencent-gi-web",
     "sourceName": "腾讯游戏学堂",
@@ -6406,6 +6820,34 @@
       "reason": "",
       "tags": [
         "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "yqqrxycvczbnihon6e46j9aa",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/102825",
+    "title": "报名启动！2023腾讯游戏高校策划公开课正式来袭",
+    "titleZh": "腾讯游戏高校策划公开课报名启动",
+    "summaryZh": "腾讯游戏学堂2023年高校策划公开课启动报名，今年新增星跃·实战训练营实践项目，为有志从事游戏策划的学生提供系统化学习与实战机会，推动行业人才培养与经验传承。",
+    "author": null,
+    "publishedAt": "2023-05-30T00:00:00Z",
+    "fetchedAt": "2026-05-27T23:37:56.772Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 32,
+      "finalScore": 29,
+      "reason": "腾讯官方的策划入门学习渠道，对入行有直接指导价值",
+      "tags": [
+        "行业",
+        "干货"
       ],
       "relatedItems": []
     }
@@ -6439,6 +6881,34 @@
     }
   },
   {
+    "id": "6wu0h9aaianhoh2psr1rhapf",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/102804",
+    "title": "对话腾讯马晓轶：没有外界认为的「焦虑」，不走人海战术，游戏可以干一辈子",
+    "titleZh": "对话腾讯马晓轶：游戏可干一辈子，不走人海战术",
+    "summaryZh": "马晓轶分享腾讯对研发发行业务的定位解法，回应外界对腾讯“焦虑”的质疑，强调不走人海战术，探索AI在游戏领域的应用，并阐述对全球市场的理解。",
+    "author": null,
+    "publishedAt": "2023-05-17T00:00:00Z",
+    "fetchedAt": "2026-05-27T23:38:01.949Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 8,
+      "timeliness": 7,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 38,
+      "finalScore": 33,
+      "reason": "腾讯游戏高层一手解读行业趋势，深入探讨AI与全球市场",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "a0rhuae6poxliiaurbkjq0rx",
     "sourceId": "tencent-gi-web",
     "sourceName": "腾讯游戏学堂",
@@ -6467,6 +6937,34 @@
     }
   },
   {
+    "id": "me95x0tox3zpxnz2d8i40qww",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/102796",
+    "title": "2023腾讯开悟公开赛启动报名，一文搞懂你需要知道的一切",
+    "titleZh": "腾讯开悟公开赛2023报名启动",
+    "summaryZh": "腾讯开悟公开赛2023报名启动，依托AI开放研究平台，整合科研资源、专业培训与创新赛事，为AI技术在游戏领域的应用提供实践机会。",
+    "author": null,
+    "publishedAt": "2023-05-16T00:00:00Z",
+    "fetchedAt": "2026-05-27T23:38:10.450Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 32,
+      "finalScore": 29,
+      "reason": "腾讯AI+游戏赛事启动，技术研发者值得关注",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "z7o8i00dm2ia1p3i8pcbey8j",
     "sourceId": "tencent-gi-web",
     "sourceName": "腾讯游戏学堂",
@@ -6487,6 +6985,34 @@
       "totalScore": 30,
       "finalScore": 28,
       "reason": "AI人才培养赛事，对行业人才储备有参考价值",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "8wx3dofnvocrgtgkwujkajof",
+    "sourceId": "tencent-gi-web",
+    "sourceName": "腾讯游戏学堂",
+    "url": "https://gameinstitute.qq.com/news/102787",
+    "title": "腾讯游戏学堂2023最新成果发布，加速推进人才培养和科研创新",
+    "titleZh": "腾讯游戏学堂2023成果发布",
+    "summaryZh": "腾讯游戏学堂发布2023年阶段性成果，涵盖人才培养与科研创新两大方向。作为腾讯官方游戏教育平台，其成果发布反映了大厂在游戏科技人才培养方面的新动向，对行业人才培养体系建设具有参考意义。",
+    "author": null,
+    "publishedAt": "2023-05-15T00:00:00Z",
+    "fetchedAt": "2026-05-27T23:38:14.134Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 27,
+      "finalScore": 26,
+      "reason": "腾讯大厂人才培养新动态，洞察行业教育趋势",
       "tags": [
         "行业",
         "公司"
