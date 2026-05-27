@@ -1,5 +1,88 @@
 [
   {
+    "id": "eeha1rlmikdgk888vbpamkh2",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0527/6985.html",
+    "title": "微信小游戏9年：5亿活跃用户且持续增长，开发者数量突破50万",
+    "titleZh": "微信小游戏9年：5亿活跃用户",
+    "summaryZh": "微信小游戏上线9年，活跃用户达5亿且持续增长，开发者数量突破50万，显示小游戏生态的强劲生命力与市场潜力。",
+    "author": null,
+    "publishedAt": "2026-05-27T06:22:17.716Z",
+    "fetchedAt": "2026-05-27T06:54:19.536Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 7,
+      "usefulness": 8,
+      "totalScore": 39,
+      "finalScore": 35,
+      "reason": "数据硬核，小游戏赛道从业者必读",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "cyz8kvrrnd88y52oxah4ppso",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/197005",
+    "title": "《超自然行动组》海外版《Tomb Busters》登陆美日韩市场",
+    "titleZh": "《超自然行动组》海外版登陆美日韩",
+    "summaryZh": "巨人网络旗下《超自然行动组》海外版《Tomb Busters》于5月27日登陆美国、日本、韩国市场，同步覆盖iOS、Android及PC平台，拓展全球化布局。",
+    "author": null,
+    "publishedAt": "2026-05-27T03:54:00.830Z",
+    "fetchedAt": "2026-05-27T06:54:03.080Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 27,
+      "finalScore": 28,
+      "reason": "出海动态及时，对关注海外发行的从业者有参考价值",
+      "tags": [
+        "游戏",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "xwmj8l9z0wuuhyl5nd5tkqpv",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534517.html",
+    "title": "游戏资讯《驯龙之旅》：一款放置新作背后的咪咕自研升维战",
+    "titleZh": "《驯龙之旅》上线，咪咕自研升维",
+    "summaryZh": "5月26日，咪咕互娱自研治愈冒险RPG手游《驯龙之旅》全平台上线，文章分析其背后的自研战略与市场布局，对行业研发与发行有参考价值。",
+    "author": null,
+    "publishedAt": "2026-05-27T02:54:12.070Z",
+    "fetchedAt": "2026-05-27T06:54:14.466Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 32,
+      "finalScore": 32,
+      "reason": "咪咕自研新游上线，结合行业趋势，对研发和发行有实操启发。",
+      "tags": [
+        "游戏",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "dol1flvbutlah1hl47gw3lvt",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
