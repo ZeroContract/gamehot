@@ -1,5 +1,88 @@
 [
   {
+    "id": "i85wa6xw61bugpccu1qrjt3y",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534518.html",
+    "title": "《驯龙之旅》：一款放置新作背后的咪咕自研升维战",
+    "titleZh": "《驯龙之旅》：咪咕自研放置新游背后的升维战略",
+    "summaryZh": "5月26日，咪咕互娱自研的治愈冒险RPG手游《驯龙之旅》全平台上线。该作是咪咕在放置类赛道的自研布局，承载其产品升维与品类拓展的战略意图。",
+    "author": null,
+    "publishedAt": "2026-05-27T22:25:14.474Z",
+    "fetchedAt": "2026-05-27T22:25:26.170Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 5,
+      "totalScore": 31,
+      "finalScore": 32,
+      "reason": "咪咕自研放置新品发布，揭示大厂品类布局策略",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "urxee1edn0pjvelcyon88ug9",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534516.html",
+    "title": "游族网络创始人林奇遇害案主犯许垚被执行死刑",
+    "titleZh": "林奇案主犯许垚被执行死刑",
+    "summaryZh": "据《经济观察报》报道，游族网络创始人林奇被毒杀案被告人许垚，已于2026年5月21日被执行死刑。案件经一审二审，许垚因杀人罪被判处死刑并执行。此案对游戏行业具有重大警示意义。",
+    "author": null,
+    "publishedAt": "2026-05-27T22:25:14.474Z",
+    "fetchedAt": "2026-05-27T22:25:37.050Z",
+    "isSelected": true,
+    "score": {
+      "importance": 9,
+      "articleQuality": 6,
+      "timeliness": 9,
+      "uniqueness": 5,
+      "usefulness": 7,
+      "totalScore": 36,
+      "finalScore": 35,
+      "reason": "行业重大刑事案件警示，从业者需关注公司治理与风险控制",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "anpkf8flrt2hc5brm4fknugn",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534515.html",
+    "title": "这个在Steam闷声发财的新兴赛道，可以让很多小游戏\"叫爸爸\"",
+    "titleZh": "Steam新兴高利润赛道分析",
+    "summaryZh": "分析Steam平台上快速增长的细分赛道，探讨其商业潜力与市场机会，为中小开发者提供切入新领域的参考思路。",
+    "author": null,
+    "publishedAt": "2026-05-27T22:25:14.474Z",
+    "fetchedAt": "2026-05-27T22:25:43.285Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 6,
+      "uniqueness": 5,
+      "usefulness": 7,
+      "totalScore": 31,
+      "finalScore": 32,
+      "reason": "揭示Steam平台被忽视的高利润细分赛道，适合开发者寻找新机会",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "rz7zstkt4w657618qlq2ixn0",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
