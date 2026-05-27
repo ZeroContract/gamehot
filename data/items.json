@@ -1,5 +1,33 @@
 [
   {
+    "id": "dol1flvbutlah1hl47gw3lvt",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196983",
+    "title": "这个赛道，或许是游戏厂商最靠谱的底牌？",
+    "titleZh": "泛战棋赛道成厂商底牌",
+    "summaryZh": "游戏茶馆分析指出，头部厂商在泛战棋赛道均有布局，经过整合出清，大厂几乎人手一款该类型游戏，成为行业最靠谱的底牌。",
+    "author": null,
+    "publishedAt": "2026-05-27T01:48:22.622Z",
+    "fetchedAt": "2026-05-27T02:48:25.039Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 35,
+      "finalScore": 33,
+      "reason": "洞察行业趋势，对厂商布局有参考价值",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "lgcacrhgha4g5lg12pk2e590",
     "sourceId": "youxiribao",
     "sourceName": "游戏日报",
