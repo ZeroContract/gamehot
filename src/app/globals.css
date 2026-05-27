@@ -588,43 +588,37 @@ img { max-width: 100%; display: block; }
 
 /* === Responsive === */
 @media (max-width: 768px) {
-  /* Sidebar: overlay drawer, hidden by visibility (not display) for smooth transition */
+  /* Sidebar: display:none when closed — no rendering, no layout, no leak */
   .sidebar {
+    display: none;
+  }
+
+  .sidebar.open {
+    display: flex;
+    flex-direction: column;
     position: fixed;
     left: 0;
     top: 0;
     bottom: 0;
     width: min(280px, 80vw);
     z-index: 100;
-    visibility: hidden;
-    opacity: 0;
-    transform: translateX(-16px);
-    transition: visibility 0.25s, opacity 0.25s, transform 0.25s;
+    background: var(--bg-sidebar);
+    border-right: 1px solid var(--border-color);
+    padding: 20px 16px;
+    animation: sidebarIn 0.25s ease;
   }
 
-  .sidebar.open {
-    visibility: visible;
-    opacity: 1;
-    transform: translateX(0);
-    box-shadow: 4px 0 24px rgba(0,0,0,0.15);
+  @keyframes sidebarIn {
+    from { transform: translateX(-100%); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
   }
 
-  /* Overlay: same visibility/opacity pattern */
-  .sidebar-overlay {
-    display: block;
-    visibility: hidden;
-    opacity: 0;
-    pointer-events: none;
-    transition: visibility 0.25s, opacity 0.25s;
-  }
-
+  /* Overlay: only in DOM when .show (on mobile, display:none persists from desktop) */
   .sidebar-overlay.show {
-    visibility: visible;
-    opacity: 1;
-    pointer-events: auto;
+    display: block;
   }
 
-  /* Main content: full width, no sidebar margin */
+  /* Main content: take full width */
   .app-main {
     margin-left: 0;
     width: 100%;
@@ -705,7 +699,6 @@ img { max-width: 100%; display: block; }
 
   .timeline-card-summary {
     font-size: 13px;
-    -webkit-line-clamp: 3;
   }
 
   .timeline-source-name {
@@ -714,7 +707,7 @@ img { max-width: 100%; display: block; }
 
   .timeline-tags { gap: 4px; }
 
-  /* Segmented tabs: full width scroll */
+  /* Segmented tabs: horizontal scroll on overflow */
   .segmented {
     width: 100%;
     overflow-x: auto;

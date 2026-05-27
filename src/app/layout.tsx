@@ -20,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="zh-CN" suppressHydrationWarning>
       <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
         <meta name="theme-color" content="#060814" media="(prefers-color-scheme: dark)" />
         <meta name="theme-color" content="#fafbfc" media="(prefers-color-scheme: light)" />
       </head>
