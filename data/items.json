@@ -606,6 +606,62 @@
     }
   },
   {
+    "id": "kijy2w7bf1h84bow00npsl5e",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917563.html",
+    "title": "《洛克王国：世界》全面分析：精灵主导的开放世界",
+    "titleZh": "《洛克王国：世界》精灵开放世界分析",
+    "summaryZh": "《洛克王国：世界》是腾讯洛克王国IP的开放世界新作，以精灵为核心设计锚点，围绕「收集-养成-战斗-探索」构建完整闭环体验。本文从玩法设计、世界观延展、商业化潜力等维度进行深度分析，探讨精灵品类在开放世界赛道的机会与挑战。",
+    "author": null,
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:16:08.710Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 7,
+      "timeliness": 5,
+      "uniqueness": 4,
+      "usefulness": 6,
+      "totalScore": 29,
+      "finalScore": 29,
+      "reason": "腾讯经典IP开放世界化，精灵闭环设计有行业参考价值",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "2aw2ty6yynyh6siljubp5lal",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917566.html",
+    "title": "百万奖金等你来战！「金海豚奖×好游快爆」游戏GameJam大赛火热报名中",
+    "titleZh": "金海豚奖×好游快爆GameJam大赛百万奖金等你来战",
+    "summaryZh": "金海豚奖与好游快爆联合举办游戏GameJam大赛，面向全球开发者开放报名，设置百万奖金激励，零门槛参与，鼓励个人或团队积极参赛，为游戏开发者提供展示创意与交流的平台。",
+    "author": null,
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:16:35.222Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "百万奖金GameJam大赛零门槛开放，适合独立开发者和团队积极参与",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "a2nnk8qa663i1i8wciqnt5gg",
     "sourceId": "youxiribao",
     "sourceName": "游戏日报",
@@ -961,6 +1017,33 @@
       "tags": [
         "行业",
         "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "okiog3gj93nkufdtm93756go",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917562.html",
+    "title": "《游戏项目系统工程手册》合订本vol.4",
+    "titleZh": "游戏项目系统工程手册合订本vol.4",
+    "summaryZh": "本文为鸿杰《游戏项目系统工程手册》第三章，聚焦游戏项目全生命周期管理，涵盖项目规划、资源配置、进度控制等核心环节，为团队负责人和项目经理提供系统性方法论指导。",
+    "author": null,
+    "publishedAt": "2026-05-25T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:16:40.882Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 7,
+      "timeliness": 5,
+      "uniqueness": 6,
+      "usefulness": 8,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "游戏项目管理者必读！系统梳理项目全生命周期管理要点",
+      "tags": [
+        "干货"
       ],
       "relatedItems": []
     }
@@ -2681,6 +2764,34 @@
       "tags": [
         "游戏",
         "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "0it5edrpmiafq5uvdshs5dzf",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0518/6930.html",
+    "title": "要砸1000亿！米哈游准备认真做AI",
+    "titleZh": "米哈游千亿投资AI领域",
+    "summaryZh": "米哈游宣布将投入1000亿元布局AI领域，显示出其从游戏公司向科技企业转型的战略意图。此举将对游戏行业的技术应用和竞争格局产生深远影响，引发市场对AI赋能游戏产业的关注。",
+    "author": null,
+    "publishedAt": "2026-05-18T00:00:00Z",
+    "fetchedAt": "2026-05-27T16:13:05.866Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 4,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "头部大厂千亿AI投入释放行业信号，从业者需关注",
+      "tags": [
+        "行业",
+        "公司"
       ],
       "relatedItems": []
     }
