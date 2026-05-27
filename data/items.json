@@ -1,5 +1,33 @@
 [
   {
+    "id": "2ah6abg6z39mi6tl8k1hk7lk",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://www.youxituoluo.com/534521.html",
+    "title": "行业活动微信公开课释放重磅信号：5亿月活、80款百万日活、300款千万流水",
+    "titleZh": "微信小游戏数据大公开",
+    "summaryZh": "微信小游戏开发者大会披露关键数据：5亿月活、80款百万日活、300款千万流水，为行业从业者提供重要市场参考。",
+    "author": null,
+    "publishedAt": "2026-05-27T10:04:16.231Z",
+    "fetchedAt": "2026-05-27T10:46:18.079Z",
+    "isSelected": true,
+    "score": {
+      "importance": 9,
+      "articleQuality": 8,
+      "timeliness": 9,
+      "uniqueness": 7,
+      "usefulness": 9,
+      "totalScore": 42,
+      "finalScore": 38,
+      "reason": "数据硬核，直接指导研发和发行策略",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "66ly8zkimm74e5hr2rjmm6li",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
