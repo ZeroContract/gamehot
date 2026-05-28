@@ -1,5 +1,61 @@
 [
   {
+    "id": "7l2efc7w70ysh9z2gwp87of4",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917577.html",
+    "title": "《洛克王国：世界》全面分析：精灵主导的开放世界",
+    "titleZh": "《洛克王国：世界》精灵开放世界分析",
+    "summaryZh": "游戏以精灵为核心锚点，围绕收集、养成、战斗、探索构建完整闭环体验，探讨精灵主导的开放世界设计思路与玩法机制。",
+    "author": null,
+    "publishedAt": "2026-05-28T01:49:25.549Z",
+    "fetchedAt": "2026-05-28T01:49:30.568Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 7,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "详细解析精灵收集与开放世界融合，对相关游戏设计有参考价值",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "mt1avyv6xhbhzi2vlnypginp",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917553.html",
+    "title": "真能熬，这家捷克工作室一款冒险解谜游戏做了10年+",
+    "titleZh": "捷克工作室冒险解谜游戏开发10年",
+    "summaryZh": "捷克独立工作室Amanita Design宣布旗下冒险解谜游戏《喇叭之城》即将发售，该作历时10年开发，采用独特的纸板材质手绘3D美术风格。作为曾打造《机械迷城》等经典作品的团队，此次新作延续其一贯的独特美学，展现长周期独立游戏开发的匠心与坚持。",
+    "author": null,
+    "publishedAt": "2026-05-28T01:49:25.549Z",
+    "fetchedAt": "2026-05-28T01:49:36.779Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 6,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "海外独立工作室10年磨一剑，纸板3D美术风格独特有看点",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "i85wa6xw61bugpccu1qrjt3y",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
