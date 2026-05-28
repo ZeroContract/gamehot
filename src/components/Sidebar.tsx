@@ -1,8 +1,10 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { usePathname } from "next/navigation";
 
 export default function Sidebar() {
+  const pathname = usePathname();
   const [themeDark, setThemeDark] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
 
@@ -15,9 +17,8 @@ export default function Sidebar() {
   }, []);
 
   const navItems = [
-    { icon: "✦", label: "精选", href: "/", active: true },
-    // { icon: "☰", label: "全部动态", href: "/all" },
-    // { icon: "⊞", label: "信源管理", href: "/sources" },
+    { icon: "✦", label: "精选", href: "/" },
+    { icon: "ℹ", label: "关于", href: "/about" },
   ];
 
   return (
@@ -43,7 +44,7 @@ export default function Sidebar() {
             <a
               key={item.label}
               href={item.href}
-              className={`side-nav-item ${item.active ? "active" : ""}`}
+              className={`side-nav-item ${pathname === item.href ? "active" : ""}`}
               onClick={() => setMobileOpen(false)}
             >
               <span className="side-nav-icon">{item.icon}</span>
