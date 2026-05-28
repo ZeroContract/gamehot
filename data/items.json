@@ -1,5 +1,87 @@
 [
   {
+    "id": "uvrcna5jknvtgbx46sscrmes",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/197247",
+    "title": "斗鱼发布26年Q1财报，“内容驱动+商业协同”实现营收8.22亿元",
+    "titleZh": "斗鱼发布2026年Q1财报，营收8.22亿元",
+    "summaryZh": "斗鱼发布2026年第一季度财务报告，总收入8.22亿元，毛利润1.29亿元同比增长14%，毛利率达15.7%同比环比均实现增长。财报强调“内容驱动+商业协同“策略初见成效，直播业务盈利能力提升。",
+    "author": null,
+    "publishedAt": "2026-05-28T09:36:40.644Z",
+    "fetchedAt": "2026-05-28T09:52:45.585Z",
+    "isSelected": true,
+    "score": {
+      "importance": 12,
+      "articleQuality": 13,
+      "timeliness": 16,
+      "uniqueness": 10,
+      "usefulness": 11,
+      "totalScore": 62,
+      "finalScore": 62,
+      "reason": "直播平台财务数据回暖，内容驱动策略验证有效",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "1idio21pt42fnxfs3atemx7o",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534525.html",
+    "title": "有大作有独游还有很多AI：腾讯的“牌”还是太多了",
+    "titleZh": "腾讯游戏发布会：大作独游与AI",
+    "summaryZh": "SPARK 2026腾讯游戏发布会展示多款大作、独立游戏及AI技术应用，呈现腾讯游戏产品线的丰富布局，涵盖多种品类与创新方向。",
+    "publishedAt": "2026-05-28T08:14:37.304Z",
+    "fetchedAt": "2026-05-28T09:52:51.150Z",
+    "isSelected": false,
+    "score": {
+      "importance": 13,
+      "articleQuality": 11,
+      "timeliness": 12,
+      "uniqueness": 9,
+      "usefulness": 10,
+      "totalScore": 55,
+      "finalScore": 57,
+      "reason": "",
+      "tags": [
+        "行业",
+        "AI"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "c5q2r6otm3xm8sbsxts78mfy",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534524.html",
+    "title": "《打个螺丝》团队分享：次留从1%到19%！用600天“死磕”细节",
+    "titleZh": "《打个螺丝》次留从1%到19%的600天历程",
+    "summaryZh": "在2026微信小游戏开发者大会上，《打个螺丝》团队分享了如何用600天时间将游戏次日留存率从1%提升至19%的实战经验，详细复盘了产品优化的全过程，对小游戏开发者具有重要参考价值。",
+    "publishedAt": "2026-05-28T07:26:35.153Z",
+    "fetchedAt": "2026-05-28T09:52:55.305Z",
+    "isSelected": true,
+    "score": {
+      "importance": 18,
+      "articleQuality": 15,
+      "timeliness": 16,
+      "uniqueness": 17,
+      "usefulness": 18,
+      "totalScore": 84,
+      "finalScore": 80,
+      "reason": "一线团队600天次留从1%提升到19%的实战复盘，干货满满",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "p11yspz5ivvradfy4b1miw0z",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
@@ -360,6 +442,33 @@
     }
   },
   {
+    "id": "b4aby0xcfekfw9455l0lngqc",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534523.html",
+    "title": "突破5000万DAU后，这款射击游戏要把传世宝藏做成“大红”",
+    "titleZh": "《三角洲行动》与景德镇御窑博物院文化联动",
+    "summaryZh": "在SPARK2026腾讯游戏发布会上，《三角洲行动》宣布与景德镇御窑博物院开启文化联动，这是该游戏首次与传统文化机构合作，在游戏与文化守护结合方向上进行探索尝试。",
+    "publishedAt": "2026-05-28T02:36:51.103Z",
+    "fetchedAt": "2026-05-28T09:53:00.143Z",
+    "isSelected": false,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 10,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 36,
+      "finalScore": 42,
+      "reason": "",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "mtgjnwf6f1qgj141863rofjd",
     "sourceId": "youxiputao",
     "sourceName": "游戏葡萄",
@@ -444,6 +553,59 @@
     }
   },
   {
+    "id": "0brbwxnghgmq3tltv76vu2m9",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534521.html",
+    "title": "微信公开课释放重磅信号：5亿月活、80款百万日活、300款千万流水",
+    "titleZh": "微信公开课：5亿月活、80款百万DAU、300款流水千万",
+    "summaryZh": "微信小游戏开发者大会披露关键数据：月活5亿，80款游戏达百万日活，300款游戏月流水超千万。这些数据反映出微信小游戏生态持续繁荣，为行业从业者提供重要的市场参考。",
+    "publishedAt": "2026-05-27T10:04:08.543Z",
+    "fetchedAt": "2026-05-28T09:53:13.348Z",
+    "isSelected": true,
+    "score": {
+      "importance": 16,
+      "articleQuality": 13,
+      "timeliness": 18,
+      "uniqueness": 14,
+      "usefulness": 15,
+      "totalScore": 76,
+      "finalScore": 74,
+      "reason": "微信小游戏重磅官方数据，一手披露行业关键指标",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "djj5fgsgmc3s63wy1mkrn6q7",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534520.html",
+    "title": "5月158款游戏版号下发，网易中式搜打撤首曝 、字节《托托比亚》过审",
+    "titleZh": "5月158款版号下发，网易新游首曝、字节过审",
+    "summaryZh": "5月26日，国家新闻出版署发布5月新一批游戏版号，共158款游戏获批。其中网易旗下中式搜打撤玩法游戏首次曝光，字节跳动《托托比亚》成功过审，为本月行业重点关注动态。",
+    "publishedAt": "2026-05-27T09:40:20.634Z",
+    "fetchedAt": "2026-05-28T09:53:17.340Z",
+    "isSelected": true,
+    "score": {
+      "importance": 16,
+      "articleQuality": 13,
+      "timeliness": 17,
+      "uniqueness": 8,
+      "usefulness": 15,
+      "totalScore": 69,
+      "finalScore": 68,
+      "reason": "版号情报是行业刚需，网易字节新游动态值得关注",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "v97yi9kevlfgi1xsz3c61ep0",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
@@ -466,6 +628,32 @@
       "reason": "近亿融资落地标志AI游戏告别Demo阶段，资本押注商业交付能力",
       "tags": [
         "AI",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "7fmfz7owiiz09jarf9hw2lhx",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534519.html",
+    "title": "知名VC坦白局：为什么不再迷信“行业老将”？",
+    "titleZh": "知名VC坦白局：为何不再迷信行业老将",
+    "summaryZh": "游戏行业创投圈知名VC坦言，不再迷信行业老将的经验与资源。传统行业积累不再是融资核心优势，新兴创业者凭借创新思维和敏捷打法获得资本关注。",
+    "publishedAt": "2026-05-27T08:12:28.395Z",
+    "fetchedAt": "2026-05-28T09:53:21.819Z",
+    "isSelected": false,
+    "score": {
+      "importance": 13,
+      "articleQuality": 11,
+      "timeliness": 13,
+      "uniqueness": 11,
+      "usefulness": 9,
+      "totalScore": 57,
+      "finalScore": 59,
+      "reason": "",
+      "tags": [
         "行业"
       ],
       "relatedItems": []
@@ -556,6 +744,32 @@
     }
   },
   {
+    "id": "dcgpswyjp8ryhktu6iz0rpo7",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534517.html",
+    "title": "《驯龙之旅》：一款放置新作背后的咪咕自研升维战",
+    "titleZh": "《驯龙之旅》上线，咪咕自研放置新游",
+    "summaryZh": "咪咕互娱自研的治愈冒险RPG手游《驯龙之旅》于5月26日全平台上线，定位放置类休闲游戏市场，展现其在移动游戏自研领域的布局。",
+    "publishedAt": "2026-05-27T02:18:45.648Z",
+    "fetchedAt": "2026-05-28T09:53:29.832Z",
+    "isSelected": false,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 5,
+      "totalScore": 31,
+      "finalScore": 38,
+      "reason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "4e89adj578ud2nadkxugktmr",
     "sourceId": "youxiputao",
     "sourceName": "游戏葡萄",
@@ -606,6 +820,59 @@
       "tags": [
         "行业",
         "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "w2agqeeddf6rryhqbcdz6f9o",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534514.html",
+    "title": "虚幻引擎6低调官宣，Epic终于打算“放弃”UE5了？",
+    "titleZh": "虚幻引擎6低调官宣，首秀竟靠11年老游戏",
+    "summaryZh": "Epic官宣虚幻引擎6，但UE6的首次亮相并非通过技术演示或发布会，而是由一款运营了11年的老游戏完成，这一低调处理引发行业关注和讨论。",
+    "publishedAt": "2026-05-26T06:27:41.660Z",
+    "fetchedAt": "2026-05-28T09:53:46.396Z",
+    "isSelected": true,
+    "score": {
+      "importance": 16,
+      "articleQuality": 12,
+      "timeliness": 15,
+      "uniqueness": 10,
+      "usefulness": 11,
+      "totalScore": 64,
+      "finalScore": 64,
+      "reason": "虚幻引擎6官宣是行业大事件，开发者需关注新引擎动向",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "mzx0mjreegaaz9r4nnp5vnkj",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534513.html",
+    "title": "游族网络创始人林奇遇害案主犯许垚被执行死刑",
+    "titleZh": "游族网络创始人林奇遇害案主犯许垚被执行死刑",
+    "summaryZh": "游族网络创始人林奇被毒杀案今日迎来终审判决，被告人许垚于2026年5月21日被执行死刑。该案历时三年，经上海市高级人民法院复核依法执行死刑，对游戏行业企业治理与高管安全具有警示意义。",
+    "publishedAt": "2026-05-26T03:47:52.824Z",
+    "fetchedAt": "2026-05-28T09:53:50.141Z",
+    "isSelected": true,
+    "score": {
+      "importance": 16,
+      "articleQuality": 12,
+      "timeliness": 18,
+      "uniqueness": 8,
+      "usefulness": 10,
+      "totalScore": 64,
+      "finalScore": 64,
+      "reason": "行业重大案件尘埃落定，刑期执行对从业者具有重要警示价值",
+      "tags": [
+        "行业"
       ],
       "relatedItems": []
     }
@@ -805,6 +1072,32 @@
     }
   },
   {
+    "id": "0j593pm6meww15hwo95iw0xx",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534512.html",
+    "title": "这个在Steam闷声发财的新兴赛道，可以让很多小游戏“叫爸爸”",
+    "titleZh": "Steam点击游戏：闷声发财的新兴赛道",
+    "summaryZh": "游戏陀螺关注到Steam平台上“傻瓜式点击游戏”这一细分品类正在闷声发财。这类游戏操作简单、节奏轻快，契合当前休闲游戏趋势，对关注休闲游戏赛道的从业者具有参考价值。",
+    "publishedAt": "2026-05-26T03:05:05.878Z",
+    "fetchedAt": "2026-05-28T09:54:00.291Z",
+    "isSelected": true,
+    "score": {
+      "importance": 13,
+      "articleQuality": 12,
+      "timeliness": 13,
+      "uniqueness": 12,
+      "usefulness": 11,
+      "totalScore": 61,
+      "finalScore": 62,
+      "reason": "揭示Steam点击游戏品类的新兴机会，角度独特有看点",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "n01n4dy487qrht9wab9p81zq",
     "sourceId": "gameres",
     "sourceName": "游资网",
@@ -998,6 +1291,60 @@
     }
   },
   {
+    "id": "0zb478t5aok3gdywnkuinfa6",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534511.html",
+    "title": "米哈游前技术负责人离职做射击，上海大厂争先布局宠物+CM Like赛道丨陀螺周报",
+    "titleZh": "米哈游前技术负责人创业做大厂布局新赛道",
+    "summaryZh": "本期周报聚焦游戏行业两大热点：米哈游前技术负责人离职创立新公司进军射击游戏领域，同时上海大厂正积极布局宠物及类ChatGPT/Midjourney赛道，反映出行业人才流动与新兴赛道的竞争态势。",
+    "publishedAt": "2026-05-25T09:31:51.820Z",
+    "fetchedAt": "2026-05-28T09:54:08.839Z",
+    "isSelected": true,
+    "score": {
+      "importance": 14,
+      "articleQuality": 12,
+      "timeliness": 13,
+      "uniqueness": 10,
+      "usefulness": 11,
+      "totalScore": 60,
+      "finalScore": 61,
+      "reason": "大厂人事变动+新赛道布局的双重信号值得关注",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "wdhqbo6wuuo1ey31hkc0x0pd",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534510.html",
+    "title": "高管19年零流失！Take-Two掌门人痛批大厂盲目裁员",
+    "titleZh": "Take-Two高管19年零流失 痛批大厂盲目裁员",
+    "summaryZh": "Take-Two掌门人施Strauss Zelnick表示公司核心管理层19年未出现流失，痛批业内大厂盲目裁员做法。在欧美游戏圈深陷裁员与重组潮之际，手握《GTA》系列的Take-Two凭借稳定的管理团队和长期战略规划，成为行业中的另类存在。",
+    "publishedAt": "2026-05-25T08:15:21.553Z",
+    "fetchedAt": "2026-05-28T09:54:14.095Z",
+    "isSelected": false,
+    "score": {
+      "importance": 13,
+      "articleQuality": 11,
+      "timeliness": 14,
+      "uniqueness": 12,
+      "usefulness": 8,
+      "totalScore": 58,
+      "finalScore": 59,
+      "reason": "",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "e4bdjor0szlfz4qi555k6adg",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
@@ -1160,6 +1507,33 @@
       "tags": [
         "公司",
         "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "z1l3ssi1nleeit7ksn9bssrd",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534509.html",
+    "title": "《代号：神不言》向左，《EVE》向右：AI，正在重塑女性向赛道吗？",
+    "titleZh": "AI重塑女性向游戏赛道",
+    "summaryZh": "祖龙曝光旗下VVANNA事业部研发的多平台UE5游戏《代号：神不言》，定位为高沉浸幻想都市恋爱互动游戏。文章探讨AI技术如何影响女性向游戏赛道的发展趋势，为从业者提供行业洞察。",
+    "publishedAt": "2026-05-25T03:18:56.360Z",
+    "fetchedAt": "2026-05-28T09:54:29.020Z",
+    "isSelected": true,
+    "score": {
+      "importance": 14,
+      "articleQuality": 11,
+      "timeliness": 16,
+      "uniqueness": 12,
+      "usefulness": 10,
+      "totalScore": 63,
+      "finalScore": 63,
+      "reason": "AI+女性向+UE5新游三重热点，值得关注赛道趋势",
+      "tags": [
+        "行业",
+        "AI"
       ],
       "relatedItems": []
     }
@@ -1521,6 +1895,60 @@
     }
   },
   {
+    "id": "4aei3hmt2w1s0i4zt2mag9kn",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534508.html",
+    "title": "《光·遇》全球累计下载量突破3亿大关，开发商成立20周年",
+    "titleZh": "《光·遇》下载破3亿 开发商庆20周年",
+    "summaryZh": "热门社交冒险游戏《光·遇》自2019年上线以来，全球累计下载量已突破3亿次，成为移动游戏市场的现象级产品。同时开发商也迎来成立20周年里程碑，展现了其长期稳定运营的能力与的市场影响力。",
+    "publishedAt": "2026-05-22T09:03:54.000Z",
+    "fetchedAt": "2026-05-28T09:54:46.656Z",
+    "isSelected": false,
+    "score": {
+      "importance": 14,
+      "articleQuality": 10,
+      "timeliness": 13,
+      "uniqueness": 8,
+      "usefulness": 11,
+      "totalScore": 56,
+      "finalScore": 58,
+      "reason": "",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "4lm7c9xwjsiyo83kvsj0rgf2",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534507.html",
+    "title": "从“能玩”到“能赚”：短剧+AI游戏，正在改写互动内容的盈利账本",
+    "titleZh": "短剧+AI游戏：从“能玩”到“能赚”的盈利变革",
+    "summaryZh": "幻梦影视AI游戏引擎已实现“盈利”闭环，标志着短剧与AI游戏结合正在重塑互动内容的商业模式。该引擎超越单纯“可看”阶段，为行业提供从内容创作到商业变现的新思路。",
+    "publishedAt": "2026-05-22T08:18:58.719Z",
+    "fetchedAt": "2026-05-28T09:55:09.421Z",
+    "isSelected": true,
+    "score": {
+      "importance": 15,
+      "articleQuality": 13,
+      "timeliness": 17,
+      "uniqueness": 16,
+      "usefulness": 14,
+      "totalScore": 75,
+      "finalScore": 73,
+      "reason": "短剧+AI游戏融合新赛道，盈利模式创新值得关注",
+      "tags": [
+        "AI",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "sd2sohmsv17kqfpn95q7mvzf",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
@@ -1710,6 +2138,60 @@
       "tags": [
         "行业",
         "AI"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "oxubxyosmc5l6vmycfdvh02h",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534505.html",
+    "title": "《遗忘之海》三测定档5月28日，网易Q1财报披露多款新品进入冲刺期",
+    "titleZh": "《遗忘之海》三测定档 网易Q1财报公布",
+    "summaryZh": "网易公布2026年Q1财报，披露多款新品已进入冲刺阶段。旗下产品《遗忘之海》宣布三测定档5月28日，为游戏上线做最后准备。财报同时透露网易游戏业务布局进展。",
+    "publishedAt": "2026-05-22T03:17:42.654Z",
+    "fetchedAt": "2026-05-28T09:55:14.126Z",
+    "isSelected": true,
+    "score": {
+      "importance": 14,
+      "articleQuality": 11,
+      "timeliness": 16,
+      "uniqueness": 8,
+      "usefulness": 12,
+      "totalScore": 61,
+      "finalScore": 62,
+      "reason": "网易Q1财报透露新品动态，头部大厂战略布局值得关注",
+      "tags": [
+        "公司",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "geu9k6utu5jyyp0ot58q20zp",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534504.html",
+    "title": "让每个人成为“超级个体”，AI+游戏开始重新定义工业化",
+    "titleZh": "AI+游戏重新定义工业化",
+    "summaryZh": "文章探讨AI在游戏工业化中的应用，分析当前游戏行业对AI技术的认知差异，阐述AI如何赋能开发者成为“超级个体”，推动游戏生产方式变革，对理解AI与游戏产业融合趋势具有参考价值。",
+    "publishedAt": "2026-05-22T02:15:25.480Z",
+    "fetchedAt": "2026-05-28T09:55:17.844Z",
+    "isSelected": true,
+    "score": {
+      "importance": 17,
+      "articleQuality": 16,
+      "timeliness": 17,
+      "uniqueness": 15,
+      "usefulness": 14,
+      "totalScore": 79,
+      "finalScore": 76,
+      "reason": "深度分析AI游戏工业化趋势，洞察行业变革方向",
+      "tags": [
+        "AI",
+        "行业"
       ],
       "relatedItems": []
     }
