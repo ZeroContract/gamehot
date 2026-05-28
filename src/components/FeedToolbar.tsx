@@ -9,6 +9,8 @@ const ALL_TAGS = [
   { key: "公司", label: "公司" },
   { key: "游戏", label: "游戏" },
   { key: "干货", label: "干货" },
+  { key: "展会", label: "展会" },
+  { key: "AI", label: "AI" },
 ];
 
 export default function FeedToolbar() {
