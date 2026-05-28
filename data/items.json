@@ -28,6 +28,99 @@
     }
   },
   {
+    "id": "0yd540c2psc4nc5jjkb3nf55",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://gameres.com/wl?m=d302ca7e29bfa27524ce88647ad7a3fb",
+    "title": "累计狂揽4000万下载！这款国产找茬游戏拿捏海外用户心智",
+    "titleZh": "国产找茬游戏海外狂揽4000万下载",
+    "summaryZh": "国产找茬游戏《找不同》成功出海，累计下载量突破4000万。该游戏图像元素简洁，细节变动辨识度高，有效满足海外用户休闲需求，为轻度游戏出海提供参考案例。",
+    "author": null,
+    "publishedAt": "2026-05-28T03:08:33.308Z",
+    "fetchedAt": "2026-05-28T03:19:50.589Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 5,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 25,
+      "finalScore": 27,
+      "reason": "出海下载4000万的找茬游戏，简洁设计值得借鉴",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ywut28f1ym5wfof89xj6391d",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/197092",
+    "title": "8小时狂揽6000万营收，没拿投资的10人团队在小众赛道做了一个超级爆款",
+    "titleZh": "10人团队小众赛道爆火，8小时营收6000万",
+    "summaryZh": "报道了一个10人独立团队在生活模拟品类赛道打造爆款产品的案例。该团队未拿投资，凭借精准品类定位和高效研发，在上线8小时内实现6000万营收，为小团队在细分赛道突围提供了新思路。",
+    "author": null,
+    "publishedAt": "2026-05-28T03:06:48.415Z",
+    "fetchedAt": "2026-05-28T03:14:54.063Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "小团队小众品类爆款实操参考，赛道选择思路可借鉴",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": [
+        {
+          "sourceId": "gameres",
+          "sourceName": "游资网",
+          "url": "https://gameres.com/wl?m=40c03841db75d5d62f7c2551379b2406",
+          "title": "8小时狂揽6000万营收，没拿投资的10人团队在小众赛道做了一个超级爆款",
+          "titleZh": "10人团队7年磨一剑，小众游戏8小时营收6000万",
+          "publishedAt": "2026-05-28T03:06:33.308Z",
+          "totalScore": 31
+        }
+      ]
+    }
+  },
+  {
+    "id": "jyr75awyqhtuj23lt93o0pux",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://gameres.com/wl?m=40c03841db75d5d62f7c2551379b2406",
+    "title": "8小时狂揽6000万营收，没拿投资的10人团队在小众赛道做了一个超级爆款",
+    "titleZh": "10人团队7年磨一剑，小众游戏8小时营收6000万",
+    "summaryZh": "10人加拿大团队历时7年开发的《平行人生》在小众模拟经营赛道取得成功，发售8小时营收达6000万元。团队坚持独立开发未获投资，凭借玩法创新和社区运营获得口碑与销量双丰收，为中小团队提供差异化竞争范例。",
+    "author": null,
+    "publishedAt": "2026-05-28T03:06:33.308Z",
+    "fetchedAt": "2026-05-28T03:20:03.011Z",
+    "isSelected": false,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "独立团队7年坚持终获成功，验证小众赛道的爆款潜力",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "isomilfi9xa4acsfwpma92rw",
     "sourceId": "gameres",
     "sourceName": "游资网",
@@ -970,6 +1063,34 @@
     }
   },
   {
+    "id": "r13rr7hu9otr0zo1wlq1v9nx",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/197018",
+    "title": "极逸人工智能获近亿融资：资本押注，AI游戏告别“Demo时代”",
+    "titleZh": "极逸AI获近亿融资 AI游戏迎商业化转折",
+    "summaryZh": "AI游戏创作平台SOON获近亿融资，资本正从技术概念转向关注商业落地。当前AI+游戏行业步入下半场，从Demo展示转向产品交付和商业变现能力。",
+    "author": null,
+    "publishedAt": "2026-05-27T09:14:48.519Z",
+    "fetchedAt": "2026-05-28T03:15:04.808Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 5,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "揭示AI游戏资本走向，从技术梦转向商业交付的信号",
+      "tags": [
+        "公司",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "g114p0nsf0i7x9bh4uud97rz",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
@@ -1580,6 +1701,153 @@
         "行业"
       ],
       "relatedItems": []
+    }
+  },
+  {
+    "id": "oe64cia1hv6aviblwu0jpchz",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196935",
+    "title": "英特尔极限大师赛携IEM北京2026强势回归，今秋重返中国赛场",
+    "titleZh": "IEM北京2026强势回归，今秋重返中国",
+    "summaryZh": "IEM北京2026将于2026年5月25日举办，有望成为亚洲规模最大的单站IEM赛事，标志着英特尔极限大师赛时隔多年重返中国赛场，将为国内电竞生态带来新机遇。",
+    "author": null,
+    "publishedAt": "2026-05-26T03:14:48.519Z",
+    "fetchedAt": "2026-05-28T03:15:10.248Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "IEM北京2026回归中国是重要行业动态，对电竞赛事布局有参考价值。",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "5mv8btryxwd15pvppy1o4rtn",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196933",
+    "title": "GZG斩获MCT EA上海站冠军，赛事全新征程落地乌兰巴托",
+    "titleZh": "GZG夺得MCT EA上海站冠军 赛事版图拓展至乌兰巴托",
+    "summaryZh": "5月24日，2026英雄亚冠ACL×决胜巅峰东亚冠军巡回赛（MCT EA）上海站总决赛在上海星环中心落幕，GZG战队夺得冠军。作为2026MCT东亚区域首站赛事，上海站的成功举办标志着决胜巅峰赛事体系正式进入新赛季周期。",
+    "author": null,
+    "publishedAt": "2026-05-26T03:14:48.519Z",
+    "fetchedAt": "2026-05-28T03:15:15.797Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 27,
+      "finalScore": 28,
+      "reason": "电竞赛事动态值得关注，了解MCT赛事体系新赛季布局",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "sbj634c7t923fr2e9tag78h6",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196925",
+    "title": "嘉宾公布｜2026数字娱乐消费场景峰会首批阵容亮相！",
+    "titleZh": "2026数字娱乐消费场景峰会首批嘉宾阵容公布",
+    "summaryZh": "2026数字娱乐消费场景峰会将于7月30日在上海浦东嘉里酒店举行，作为中国国际数字娱乐产业大会(CDEC)全新峰会，以“洞见新场景，共创新增长”为主题，汇聚行业嘉宾共探消费新场景与增长机遇。",
+    "author": null,
+    "publishedAt": "2026-05-26T03:14:48.519Z",
+    "fetchedAt": "2026-05-28T03:15:49.390Z",
+    "isSelected": false,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 4,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 24,
+      "finalScore": 26,
+      "reason": "",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ilb3zzpakotbwj2tl5ligmuu",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196922",
+    "title": "【游・见】专访安奇钛科工作室：萌猫弈棋，《爪爪谋略》玩转轻松策略对局",
+    "titleZh": "专访安奇钛科：萌猫策略游戏《爪爪谋略》创作分享",
+    "summaryZh": "ChinaJoy与Game Connection联合专访栏目“游·见”对话安奇钛科工作室，探访其新作《爪爪谋略》的创作幕后。游戏以萌猫为棋，融合轻松休闲与策略对战，团队分享了创意来源、玩法设计及工作室发展理念，为从业者提供游戏研发思路参考。",
+    "author": null,
+    "publishedAt": "2026-05-26T03:14:48.519Z",
+    "fetchedAt": "2026-05-28T03:16:19.372Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 6,
+      "timeliness": 5,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 28,
+      "finalScore": 29,
+      "reason": "深入了解工作室游戏创作思路，获取休闲策略品类研发参考",
+      "tags": [
+        "公司",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "dptyy4bizjay0lkygv11mnbq",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196916",
+    "title": "ThinkingAI 行业通稿：从游戏到泛娱乐互联网：AI Agent 进入业务深水区",
+    "titleZh": "AI Agent深入游戏泛娱乐领域",
+    "summaryZh": "AI Agent正从游戏扩展至社交、电商、短剧、直播等泛娱乐赛道。面对用户路径碎片化、运营策略需精细化的挑战，跨部门协作复杂度提升，AI技术成为突破业务深水区的关键工具。",
+    "author": null,
+    "publishedAt": "2026-05-26T03:14:48.519Z",
+    "fetchedAt": "2026-05-28T03:16:23.750Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "AI Agent落地游戏及泛娱乐实操案例，助从业者把握技术应用趋势",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": [
+        {
+          "sourceId": "gameres",
+          "sourceName": "游资网",
+          "url": "https://www.gameres.com/917565.html",
+          "title": "从游戏到泛娱乐互联网：AI Agent 进入业务深水区",
+          "titleZh": "AI Agent深入游戏泛娱乐",
+          "publishedAt": "2026-05-25T05:52:27.087Z",
+          "totalScore": 32
+        }
+      ]
     }
   },
   {
@@ -2283,7 +2551,7 @@
     "author": null,
     "publishedAt": "2026-05-25T05:52:27.087Z",
     "fetchedAt": "2026-05-25T06:52:41.156Z",
-    "isSelected": true,
+    "isSelected": false,
     "score": {
       "importance": 7,
       "articleQuality": 6,
@@ -2403,6 +2671,34 @@
       "totalScore": 33,
       "finalScore": 33,
       "reason": "AI与女性向赛道结合是当前热点，文章提供了具体案例和趋势分析，对研发和发行有参考价值。",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "utlbtmjzqjd9o55dq9jvrpc5",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196855",
+    "title": "Steam更新“Wuxia”分类，《影之刃零》领跑武侠游戏期待榜单",
+    "titleZh": "Steam大规模更新标签系统，武侠类新增专属分类",
+    "summaryZh": "Valve完成Steam近年最大规模标签调整，新增17个标签移除28个，新设\"Wuxia\"武侠分类，《影之刃零》登顶武侠期待榜。此举将影响游戏曝光策略与玩家发现路径。",
+    "author": null,
+    "publishedAt": "2026-05-25T03:14:48.519Z",
+    "fetchedAt": "2026-05-28T03:16:36.205Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 36,
+      "finalScore": 34,
+      "reason": "Steam平台重要变动，武侠类开发者必读",
       "tags": [
         "行业",
         "游戏"
@@ -2656,6 +2952,90 @@
       "tags": [
         "行业",
         "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ro6237dsm6lzgc3sxg4ku553",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196811",
+    "title": "《盛世天下》女帝篇6月9日全球同步上线：女帝模拟器，你能活几集？",
+    "titleZh": "《盛世天下》女帝篇6月9日全球上线",
+    "summaryZh": "New One Studio发布《盛世天下》女帝篇定档消息，将于6月9日全球同步上线。作为真人宫廷生存互动影视作品，女帝篇延续了前作题材，主打\"女帝模拟器\"概念，提供宫廷生存剧情体验。",
+    "author": null,
+    "publishedAt": "2026-05-23T03:14:48.520Z",
+    "fetchedAt": "2026-05-28T03:17:17.234Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 28,
+      "finalScore": 29,
+      "reason": "互动影视新品全球定档，宫廷模拟品类值得关注",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "0cd99cqy2enie2t8kub9x8sa",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196844",
+    "title": "枪枪毙命，步步绝杀！俯视角射击《科恩1939》Demo现已公开",
+    "titleZh": "俯视角射击《科恩1939》Demo现已公开",
+    "summaryZh": "硬核俯视角射击游戏《科恩1939》Demo正式登陆Steam，融合《浴血黑帮》氛围与《迈阿密热线》爽快战斗风格。玩家将开启复仇之旅，本次试玩版开放前两章内容，游戏免费提供。",
+    "author": null,
+    "publishedAt": "2026-05-23T03:14:48.519Z",
+    "fetchedAt": "2026-05-28T03:17:03.098Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 5,
+      "totalScore": 29,
+      "finalScore": 29,
+      "reason": "融合经典复古风格的新作Demo值得关注，适合了解独立游戏市场趋势",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "afq4iqpc87sanu5xh49h2z0c",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196819",
+    "title": "618火力全开！赛德斯狩812 Pro电竞耳机满配福利来袭，两位数解锁专业级声战体验",
+    "titleZh": "赛德斯狩812 Pro电竞耳机618大促",
+    "summaryZh": "618电商狂欢期间，赛德斯推出狩812 Pro电竞耳机新品促销活动，主打专业级配置配合优惠价格，针对电竞玩家群体。这是电商促销季的游戏硬件产品推广资讯。",
+    "author": null,
+    "publishedAt": "2026-05-23T03:14:48.519Z",
+    "fetchedAt": "2026-05-28T03:17:12.622Z",
+    "isSelected": false,
+    "score": {
+      "importance": 3,
+      "articleQuality": 4,
+      "timeliness": 6,
+      "uniqueness": 2,
+      "usefulness": 3,
+      "totalScore": 18,
+      "finalScore": 23,
+      "reason": "",
+      "tags": [
+        "行业",
+        "游戏"
       ],
       "relatedItems": []
     }
@@ -2987,6 +3367,143 @@
       "finalScore": 0,
       "reason": "",
       "tags": [],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "vcdixpo02fobxhwmyb8r9ozp",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196809",
+    "title": "速抢！2026 CDEC 系列大会听课证限时申领开启",
+    "titleZh": "2026 CDEC听课证申领开启",
+    "summaryZh": "2026 CDEC中国国际数字娱乐产业大会5大分会首次免费听课证申领通道将于5月21日在官方微信公众号开放。这是CDEC系列大会听课证首次免费开放申请，对游戏行业从业者了解产业趋势、把握行业动态具有参考价值，建议有需求的从业者及时关注申领。",
+    "author": null,
+    "publishedAt": "2026-05-22T03:14:48.520Z",
+    "fetchedAt": "2026-05-28T03:18:15.385Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 4,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 28,
+      "finalScore": 29,
+      "reason": "免费申领机会难得，行业人士了解产业趋势的好窗口",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "w110c7ssgdo9cc5cchz68ltu",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196803",
+    "title": "【会议】2026 CGDC 正式开票！60+全球主创亲述解法，7月31日上海见",
+    "titleZh": "2026 CGDC 7月31日上海开票，60+主创分享",
+    "summaryZh": "2026年中国游戏开发者大会（CGDC）将于7月31日至8月1日在上海浦东嘉里酒店举行。今日起在活动行平台开票，届时60余位全球主创将分享解决方案，聚焦全球视野与游戏创新。",
+    "author": null,
+    "publishedAt": "2026-05-22T03:14:48.520Z",
+    "fetchedAt": "2026-05-28T03:18:31.879Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "游戏开发者年度盛会，60+主创实战分享，7月31日上海开启",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "wnhgnbafh0rt1jdmzxapwi04",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196776",
+    "title": "【CJE】2026ChinaJoy Express试玩区游戏抢先看，这“7”款游戏，建议你先加入心愿单！",
+    "titleZh": "2026 CJ展会90款试玩游戏抢先看",
+    "summaryZh": "2026 ChinaJoy Express将于7月31日至8月3日在上海新国际博览中心N1馆举办，届时将有90款游戏亮相，并特别推荐7款值得加入心愿单的游戏作品，为玩家暑期游玩提供参考。",
+    "author": null,
+    "publishedAt": "2026-05-22T03:14:48.520Z",
+    "fetchedAt": "2026-05-28T03:18:51.087Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 27,
+      "finalScore": 28,
+      "reason": "CJ展会预览信息实用，帮从业者快速了解90款参展游戏概况",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "k34ikizbcnmb7l6i9yf35xxa",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196775",
+    "title": "狼人杀动作游戏《OCTOPinbs》免费DLC正式上线！",
+    "titleZh": "《OCTOPinbs》免费DLC上线！扮演狼人杀动作游戏",
+    "summaryZh": "Aniplex发行的Steam平台狼人杀动作游戏《OCTOPinbs》免费DLC正式上线，玩家可在消防员中寻找隐藏的“纵火者”角色，为游戏增添了新的玩法内容和挑战体验。",
+    "author": null,
+    "publishedAt": "2026-05-22T03:14:48.520Z",
+    "fetchedAt": "2026-05-28T03:19:07.268Z",
+    "isSelected": true,
+    "score": {
+      "importance": 5,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 4,
+      "totalScore": 26,
+      "finalScore": 28,
+      "reason": "Steam狼人杀动作游戏新内容发布，了解此类混合玩法产品的运营思路",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "6nc9a8dkpf1yrc4bz1tn44go",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/196740",
+    "title": "2026斗鱼嘉年华正式官宣！6月武汉开启夏日狂欢",
+    "titleZh": "2026斗鱼嘉年华官宣 6月武汉重启",
+    "summaryZh": "斗鱼嘉年华时隔七年将再度启动，将于2026年6月25日至28日在武汉国际博览中心举办。作为斗鱼旗下现象级重磅IP，本次嘉年华以全新主题回归，为玩家带来线下狂欢体验。",
+    "author": null,
+    "publishedAt": "2026-05-22T03:14:48.520Z",
+    "fetchedAt": "2026-05-28T03:19:12.994Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 27,
+      "finalScore": 28,
+      "reason": "斗鱼嘉年华时隔七年重启，反映直播平台线下活动复苏趋势",
+      "tags": [
+        "行业",
+        "公司"
+      ],
       "relatedItems": []
     }
   },
