@@ -2,25 +2,26 @@ import { Suspense } from "react";
 import Sidebar from "@/components/Sidebar";
 import FeedToolbar from "@/components/FeedToolbar";
 import TimelineCard, { formatDate } from "@/components/TimelineCard";
-import { getSelectedItems, searchItems, getItemsByTag } from "@/lib/data";
+import { getSelectedItems, searchItems, getItemsByTag, getAllItemsByTag, searchAllItems, getItems } from "@/lib/data";
 import type { Item } from "@/lib/types";
 
 export default async function Home({
   searchParams,
 }: {
-  searchParams: Promise<{ q?: string; tag?: string }>;
+  searchParams: Promise<{ q?: string; tag?: string; view?: string }>;
 }) {
   const params = await searchParams;
   const q = params.q || "";
   const tag = params.tag || "";
+  const viewAll = params.view === "all";
 
   let items: Item[];
   if (q) {
-    items = searchItems(q);
+    items = viewAll ? searchAllItems(q) : searchItems(q);
   } else if (tag) {
-    items = getItemsByTag(tag);
+    items = viewAll ? getAllItemsByTag(tag) : getItemsByTag(tag);
   } else {
-    items = getSelectedItems();
+    items = viewAll ? getItems() : getSelectedItems();
   }
 
   // 按日期分组
@@ -33,14 +34,16 @@ export default async function Home({
 
   return (
     <div className="app-shell">
-      <Sidebar />
+      <Suspense fallback={<div className="sidebar" />}>
+        <Sidebar />
+      </Suspense>
       <main className="app-main">
         <div className="page">
           <section className="page-header">
             <div className="header-row">
               <div>
-                <div className="page-title">精选</div>
-                <div className="page-subtitle">AI 自动挑选的高价值游戏开发内容</div>
+                <div className="page-title">{viewAll ? "全部" : "精选"}</div>
+                <div className="page-subtitle">{viewAll ? "所有抓取的游戏开发内容" : "AI 自动挑选的高价值游戏开发内容"}</div>
               </div>
             </div>
             <div className="divider" />

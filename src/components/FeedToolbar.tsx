@@ -18,6 +18,7 @@ export default function FeedToolbar() {
   const pathname = usePathname();
   const searchParams = useSearchParams();
   const activeTag = searchParams.get("tag") || "";
+  const view = searchParams.get("view") || "";
 
   const handleTagChange = useCallback(
     (tag: string) => {
@@ -51,6 +52,7 @@ export default function FeedToolbar() {
 
       <form className="feed-filter-search-row" method="get" action={pathname}>
         {activeTag && <input type="hidden" name="tag" value={activeTag} />}
+        {view && <input type="hidden" name="view" value={view} />}
         <input
           name="q"
           defaultValue={searchParams.get("q") || ""}

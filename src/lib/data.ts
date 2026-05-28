@@ -52,6 +52,27 @@ export function searchItems(query: string): Item[] {
   );
 }
 
+// ---- All items (including non-selected) ----
+
+export function getAllItemsByTag(tag: string): Item[] {
+  const items = getItems();
+  if (!tag || tag === 'all') return items;
+  return items.filter((item) => item.score?.tags?.includes(tag));
+}
+
+export function searchAllItems(query: string): Item[] {
+  const items = getItems();
+  if (!query) return items;
+  const q = query.toLowerCase();
+  return items.filter(
+    (item) =>
+      item.titleZh.toLowerCase().includes(q) ||
+      item.summaryZh.toLowerCase().includes(q) ||
+      item.title.toLowerCase().includes(q) ||
+      item.sourceName.toLowerCase().includes(q)
+  );
+}
+
 export function getAllTags(): string[] {
   const items = getSelectedItems();
   const tagSet = new Set<string>();

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import Sidebar from "@/components/Sidebar";
 
 export const metadata: Metadata = {
@@ -29,7 +30,9 @@ const qrCodes = [
 export default function AboutPage() {
   return (
     <div className="app-shell">
-      <Sidebar />
+      <Suspense fallback={<div className="sidebar" />}>
+        <Sidebar />
+      </Suspense>
       <main className="app-main">
         <div className="page about-page">
           <section className="page-header">
