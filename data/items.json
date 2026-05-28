@@ -383,7 +383,26 @@
         "行业",
         "AI"
       ],
-      "relatedItems": []
+      "relatedItems": [
+        {
+          "sourceId": "youxituoluo",
+          "sourceName": "游戏陀螺",
+          "url": "https://youxituoluo.com/534522.html",
+          "title": "游戏资讯 腾讯x景德镇首款瓷业经营游戏曝光，AI+游戏激活千年瓷业文化",
+          "titleZh": "腾讯景德镇合作首款瓷业经营游戏曝光",
+          "publishedAt": "2026-05-28T02:53:02.606Z",
+          "totalScore": 60
+        },
+        {
+          "sourceId": "youxichaguan",
+          "sourceName": "游戏茶馆",
+          "url": "https://youxichaguan.com/archives/197123",
+          "title": "腾讯x景德镇首款瓷业经营游戏曝光，AI+游戏激活千年瓷业文化",
+          "titleZh": "腾讯景德镇首款瓷业游戏曝光 AI激活千年瓷业",
+          "publishedAt": "2026-05-28T03:49:17.489Z",
+          "totalScore": 60
+        }
+      ]
     }
   },
   {
@@ -509,7 +528,7 @@
     "author": null,
     "publishedAt": "2026-05-28T02:53:02.606Z",
     "fetchedAt": "2026-05-28T09:53:28.259Z",
-    "isSelected": true,
+    "isSelected": false,
     "score": {
       "importance": 13,
       "articleQuality": 11,
