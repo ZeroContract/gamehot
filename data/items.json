@@ -1,5 +1,144 @@
 [
   {
+    "id": "p11yspz5ivvradfy4b1miw0z",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/197244",
+    "title": "《糖豆人》原班人马最新力作《青蛙小队》将于2026年6月发售",
+    "titleZh": "《糖豆人》团队新作《青蛙小队》定档2026年6月",
+    "summaryZh": "《糖豆人》开发团队组建的新工作室Panic Stations推出多人合作游戏《青蛙小队》（Frog Sqwad），支持8人联机，主打爆笑物理解谜平台玩法，预计2026年6月发售。",
+    "author": null,
+    "publishedAt": "2026-05-28T07:26:15.225Z",
+    "fetchedAt": "2026-05-28T07:46:23.946Z",
+    "isSelected": false,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 10,
+      "uniqueness": 7,
+      "usefulness": 8,
+      "totalScore": 40,
+      "finalScore": 44,
+      "reason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "p5qio8cpqn8jixx8kwfjzxvw",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/197237",
+    "title": "首批重磅嘉宾阵容揭晓！2026全球游戏产业大会定档7月31日，邀您“游此相见”",
+    "titleZh": "2026全球游戏产业大会定档7月31日",
+    "summaryZh": "2026全球游戏产业大会将于7月31日在上海浦东嘉里酒店举行，以“世界万千·游此相见”为主题，汇聚全球游戏产业链专家，探讨智能共创等前沿议题。首批重磅嘉宾阵容已揭晓，行业盛会即将启幕。",
+    "author": null,
+    "publishedAt": "2026-05-28T07:10:15.225Z",
+    "fetchedAt": "2026-05-28T07:46:47.495Z",
+    "isSelected": true,
+    "score": {
+      "importance": 14,
+      "articleQuality": 12,
+      "timeliness": 14,
+      "uniqueness": 11,
+      "usefulness": 11,
+      "totalScore": 62,
+      "finalScore": 62,
+      "reason": "全球性行业峰会，汇聚产业链专家寻找机会",
+      "tags": [
+        "展会",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "my59ad6wtgqt1n5kif9idbct",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/197227",
+    "title": "AI重构游戏光影：腾讯游戏发布全球首个跨平台神经动态GI方案",
+    "titleZh": "腾讯发布全球首个跨平台神经动态GI方案",
+    "summaryZh": "2026年5月，腾讯游戏在SPARK 2026发布会上发布全球首个跨平台神经动态全局光照方案MagicDawn NDGI。该技术可实现实时动态全局光照，适配多平台，有望革新游戏光影表现。",
+    "author": null,
+    "publishedAt": "2026-05-28T07:10:15.225Z",
+    "fetchedAt": "2026-05-28T07:46:52.847Z",
+    "isSelected": true,
+    "score": {
+      "importance": 17,
+      "articleQuality": 14,
+      "timeliness": 19,
+      "uniqueness": 15,
+      "usefulness": 12,
+      "totalScore": 77,
+      "finalScore": 74,
+      "reason": "全球首个跨平台神经动态GI方案发布，游戏光影技术迎突破",
+      "tags": [
+        "AI",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "3vx9i89pwi8lf6a16z9cni5s",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/197228",
+    "title": "SuccessGlo·赛思确认参展2026 ChinaJoy BTOB：与AI同游，赋能游戏本地化新赛道！",
+    "titleZh": "赛思确认参展2026 ChinaJoy BTOB：AI赋能本地化",
+    "summaryZh": "SuccessGlo·赛思确认参展2026年ChinaJoy BTOB商务洽谈馆，将展示AI技术在游戏本地化领域的应用解决方案，助力游戏厂商拓展海外市场，探索本地化新赛道。",
+    "author": null,
+    "publishedAt": "2026-05-28T07:08:15.225Z",
+    "fetchedAt": "2026-05-28T07:50:03.357Z",
+    "isSelected": true,
+    "score": {
+      "importance": 15,
+      "articleQuality": 12,
+      "timeliness": 11,
+      "uniqueness": 10,
+      "usefulness": 14,
+      "totalScore": 62,
+      "finalScore": 62,
+      "reason": "AI本地化解决方案值得关注的参展预告",
+      "tags": [
+        "展会",
+        "AI"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "qwx7z1kx7mmhp9c1waq80tqp",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/197225",
+    "title": "2026 ChinaJoy BTOB： 美团游戏邀您共赴娱乐新纪元",
+    "titleZh": "美团游戏参加2026 ChinaJoy BTOB",
+    "summaryZh": "2026 ChinaJoy将于7月31日至8月3日在上海举办，美团游戏参展BTOB展区，邀请行业人士共探娱乐新场景与多生态合作机会，为参会者提供交流平台。",
+    "author": null,
+    "publishedAt": "2026-05-28T07:07:15.225Z",
+    "fetchedAt": "2026-05-28T07:50:17.203Z",
+    "isSelected": false,
+    "score": {
+      "importance": 8,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 32,
+      "finalScore": 38,
+      "reason": "",
+      "tags": [
+        "行业",
+        "展会"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "8luonxvun6aet9tj3pf5exc5",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
