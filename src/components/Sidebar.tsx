@@ -40,6 +40,7 @@ export default function Sidebar() {
           ☰
         </button>
         <span className="mobile-brand">GameHot</span>
+        <span className="mobile-brand-sub">芝麻的游戏圈</span>
       </div>
 
       <aside className={`sidebar ${mobileOpen ? "open" : ""}`} aria-label="主导航">
