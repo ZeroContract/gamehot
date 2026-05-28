@@ -1,5 +1,616 @@
 [
   {
+    "id": "par2b5hnhjjw0gbb1aorluoi",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0528/6990.html",
+    "title": "腾讯游戏终于首曝，制作人：不急于大爆，先让少数人喜欢",
+    "titleZh": "腾讯新游首曝，制作人：不急于大爆，先让少数人喜欢",
+    "summaryZh": "腾讯游戏终于曝光了一款新作，制作人在接受采访时表示不急于追求大爆款，而是先让核心用户喜欢。该游戏目前仅进行小规模测试，策略上更注重口碑积累而非快速扩张。这反映了腾讯在游戏产品思路上正从追求规模向精细化运营转变。",
+    "author": null,
+    "publishedAt": "2026-05-28T10:38:00Z",
+    "fetchedAt": "2026-05-28T02:06:44.902Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "腾讯新游首曝透露策略转向信号，对市场定位有参考价值",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "qdq7vy09w3qfv5zbd6zim282",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=87525f3dc2663f31f71fa193605262e6",
+    "title": "抽卡体验设计：关于盲盒、抽卡、开箱的一切",
+    "titleZh": "抽卡体验设计：盲盒抽卡开箱全解析",
+    "summaryZh": "深入探讨游戏中抽卡机制的用户体验设计，涵盖从视觉反馈、概率公示到消费心理的完整流程，为提升付费转化提供实操参考。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.299Z",
+    "fetchedAt": "2026-05-28T02:13:44.541Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 5,
+      "uniqueness": 6,
+      "usefulness": 8,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "抽卡设计指南，研发运营必读，直接指导商业化优化。",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "8kt57p80xnymsvbf0vnk120y",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=614102879fc913254336c275174e3e5e",
+    "title": "近期slg和休闲puzzle测试产品汇总",
+    "titleZh": "SLG与休闲Puzzle测试产品汇总",
+    "summaryZh": "汇总近期测试的SLG和休闲解谜类产品，探讨换皮方法论。以kingshot写实版为例，分析自我换皮的可行性与行业现象，为研发团队提供竞品监测参考。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.298Z",
+    "fetchedAt": "2026-05-28T02:12:05.275Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 6,
+      "uniqueness": 5,
+      "usefulness": 5,
+      "totalScore": 27,
+      "finalScore": 28,
+      "reason": "SLG换皮策略实战解析，适合竞品分析与产品立项参考",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "vo6sr9j2woeeo37uw7gz6zrv",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=a38c644b61296c81796bc5d05dd7c390",
+    "title": "“虚幻6引擎亮相、有啥绝活儿”？Epic强卖的“公司护城河\"真是游戏未来？",
+    "titleZh": "虚幻6引擎亮相，Epic护城河战略是游戏未来？",
+    "summaryZh": "Epic发布虚幻6引擎引发开发者热议，不少人质疑\"UE5还没用溜，UE6又来了\"。文章探讨Epic通过虚幻引擎构建\"公司护城河\"的商业策略，审视其对游戏行业的深远影响，引发业界对引擎选择和技术迭代的思考。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.298Z",
+    "fetchedAt": "2026-05-28T02:12:09.443Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 36,
+      "finalScore": 34,
+      "reason": "虚幻6引擎最新动态，深度分析Epic战略布局对开发者的影响",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "mrc3c585tufzstqz5trw5s67",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=458675862f2ed29fb4296220fe3cbda1",
+    "title": "我用 AI 历时四天完成了一款视觉小说游戏，但......",
+    "titleZh": "我用AI四天完成视觉小说游戏",
+    "summaryZh": "作者分享使用AI辅助开发视觉小说游戏的实战经验，聚焦剧本改编与游戏配置环节。该案例展示了AI在独立游戏开发中的效率潜力，为开发者提供参考思路。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.298Z",
+    "fetchedAt": "2026-05-28T02:12:14.636Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 6,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "AI辅助视觉小说开发的实战案例，有参考价值",
+      "tags": [
+        "干货",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "uggj3nkopqqx8jpmqh2ovxvj",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=d9f6ad46621e77c5010a00631817d5e8",
+    "title": "空降小游戏畅销榜Top3，这款“黑马”品类休闲RTS凭什么？",
+    "titleZh": "休闲RTS《占城大师》空降Top3的成功分析",
+    "summaryZh": "《占城大师》近期空降小游戏畅销榜Top3，其核心亮点在于对战过程中对随机性与策略性的巧妙平衡选择。作为休闲RTS品类的黑马产品，其成功经验值得研发和发行团队关注。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.298Z",
+    "fetchedAt": "2026-05-28T02:12:22.654Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 7,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "休闲RTS黑马空降Top3，策略性与随机性结合的设计思路值得借鉴。",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "5piqb1xjx8phq6q2l0zltiij",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=0c7e441eb310eaa38359fe64e8d4d678",
+    "title": "翻车？第一款AI游戏仅剩54%好评，制作人：烧Token的成本太高了！",
+    "titleZh": "首款AI游戏仅剩54%好评 制作者称烧Token成本过高",
+    "summaryZh": "首款AI游戏因定价与商业模式问题遭遇大量差评，好评率跌至54%。制作者回应称AI运营成本（烧Token）过高难以覆盖，引发行业对AI游戏盈利模式的讨论。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.298Z",
+    "fetchedAt": "2026-05-28T02:12:43.382Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 6,
+      "totalScore": 28,
+      "finalScore": 29,
+      "reason": "AI游戏商业化困境案例，成本控制与定价策略值得参考",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "lopgryi5jyetpoudtrj8arz7",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=4044504c93089d17d1c08b415cb551e3",
+    "title": "前BioWare设计师：我不擅长管理工作室，是个外行",
+    "titleZh": "前BioWare设计师：我不擅长管理工作室",
+    "summaryZh": "前BioWare资深设计师分享从设计师转型为工作室管理者的困难，坦言身兼两职压力巨大，常感到心力交瘁，坦言自己并不擅长管理工作室，是行业内的外行。这一经历反映出游戏行业技术向管理转型的普遍困境。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.298Z",
+    "fetchedAt": "2026-05-28T02:12:56.528Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 6,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 29,
+      "finalScore": 29,
+      "reason": "真实分享行业转型痛点，对从业者有参考价值",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "5rxbn9jp0ik3b9iu9957xa2a",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=0e85f18cc096ce4d54cc85774c804da7",
+    "title": "《洛克王国：世界》全面分析：精灵主导的开放世界",
+    "titleZh": "洛克王国世界分析：精灵主导开放世界",
+    "summaryZh": "分析《洛克王国：世界》核心设计理念，以精灵收集养成为核心，构建开放世界探索与战斗的完整闭环体验。游戏融合经典IP元素，探索移动端MMO的新方向。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.298Z",
+    "fetchedAt": "2026-05-28T02:13:08.630Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 6,
+      "timeliness": 5,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 28,
+      "finalScore": 29,
+      "reason": "深入解析精灵收集+开放世界设计逻辑，为手游研发提供参考",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "u6ay17ox67do2y3x3ex3ykdr",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=d5dc1f6466a54a6da722001503460b41",
+    "title": "夯！ 2026 小游戏开发者大会多模块亮点，都在这！",
+    "titleZh": "2026小游戏开发者大会亮点前瞻",
+    "summaryZh": "2026小游戏开发者大会将于5月27日举行，多模块亮点集中展示。活动聚焦「新游戏实战」案例分享，涵盖小游戏研发、发行、运营等核心议题，为开发者搭建行业交流与学习的专业平台。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.298Z",
+    "fetchedAt": "2026-05-28T02:13:13.996Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 6,
+      "totalScore": 29,
+      "finalScore": 29,
+      "reason": "小游戏开发者大会前瞻，了解行业最新动态与实战案例",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "vh8tmryo9ejq2gcefuaioglr",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=587037a864adeeef02912cf69af0b74b",
+    "title": "百万奖金等你来战！「金海豚奖×好游快爆」游戏GameJam大赛火热报名中",
+    "titleZh": "「金海豚奖×好游快爆」GameJam大赛火热报名中",
+    "summaryZh": "赛事设置百万奖金，面向全球开发者开放，个人与团队均可报名，零门槛参赛，旨在激发创新、发掘人才，为游戏行业注入新鲜血液。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.298Z",
+    "fetchedAt": "2026-05-28T02:13:23.147Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "高奖金GameJam赛事，适合独立开发者和小团队参赛练手",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "fc9cflfhcnlvmdt4nnst2a3c",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=74e6da1f2471d980d52b0b54854328d0",
+    "title": "《游戏项目系统工程手册》合订本vol.4",
+    "titleZh": "《游戏项目系统工程手册》Vol.4",
+    "summaryZh": "本文为鸿杰《游戏项目系统工程手册》系列第四章，深入探讨游戏项目开发中的系统架构设计与项目管理方法论，总结项目流程优化与团队协作的实战经验，为游戏开发者提供系统性的技术指导参考。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.298Z",
+    "fetchedAt": "2026-05-28T02:13:38.724Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 7,
+      "timeliness": 6,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 33,
+      "finalScore": 32,
+      "reason": "系统梳理游戏项目开发方法论，实用性强",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "41c1su3nxdjc07pr5wwii65h",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=00da5ecb9f7013dcce810bff1f830162",
+    "title": "知名VC坦白局：为什么不再迷信“行业老将”？",
+    "titleZh": "VC坦白局：为何不再迷信行业老将？",
+    "summaryZh": "风险投资人分享当前看游戏项目的标准转变，不再只看创始人的光鲜履历和行业资历，更重视团队执行力、创新能力和项目实际可行性。这一趋势对创业者融资和从业者职业规划具有重要参考价值。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.297Z",
+    "fetchedAt": "2026-05-28T02:11:26.066Z",
+    "isSelected": false,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 5,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "VC视角揭示行业投资逻辑变化，创业者必读",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "4x0vvlk4s3r96f3es35xp0gg",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=2c62f4ea30e091e3bec678bda7386c80",
+    "title": "IGN《罗马拓荒录》前瞻：种田，打僵尸，复兴罗马",
+    "titleZh": "IGN《罗马拓荒录》前瞻：种田僵尸复兴罗马",
+    "summaryZh": "IGN发布《罗马拓荒录》游戏前瞻，介绍一款融合温馨城镇建造种田玩法与类魂风格黑暗奇幻元素的独立游戏，玩家可在废土罗马遗迹中通过种田和战斗复兴文明，题材混搭独特。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.297Z",
+    "fetchedAt": "2026-05-28T02:11:40.213Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 6,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "种田+类魂融合的前瞻报道，反映海外独立游戏品类创新趋势",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "9tjgns4h2mo556anzgel7zyo",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=b052c5ce526e6bc4d8eddd118f0ff157",
+    "title": "想做游戏特效？初级入门小课堂开课啦",
+    "titleZh": "游戏特效入门教程开课",
+    "summaryZh": "本教程介绍游戏特效的基本概念，即除人物和场景外的所有动态视觉炫酷效果，面向零基础入门者，帮助初学者了解特效师的职责范围和基础技能要求。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.297Z",
+    "fetchedAt": "2026-05-28T02:11:52.137Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 4,
+      "uniqueness": 4,
+      "usefulness": 6,
+      "totalScore": 25,
+      "finalScore": 27,
+      "reason": "新手友好内容，适合想入游戏特效行业的小白快速了解基础知识",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "issgw4p0y4v2br3bqdvptrbm",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=50a9e1fd99a1f607c383740ee3b9db49",
+    "title": "《遥遥西土》快评：机器人牛仔会梦到西部死灵吗？",
+    "titleZh": "《遥遥西土》快评：机器人牛仔会梦到西部死灵吗？",
+    "summaryZh": "《遥遥西土》是由Evil Raptor开发的科幻西部题材英雄射击FPS，主打多人合作PvE玩法。游戏将西部荒野与科幻元素融合，玩家控制机器人牛仔在废土世界对抗亡灵敌人。目前已开启测试，感兴趣的从业者可关注其市场表现。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.296Z",
+    "fetchedAt": "2026-05-28T02:10:36.208Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 8,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 28,
+      "finalScore": 29,
+      "reason": "融合科幻与西部的英雄射击PvE新游，题材差异化明显，适合射击品类从业者关注。",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "3abbhwrae7ggszxjobk2e02r",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=e18ea724ddd25374602cf388138d7a3b",
+    "title": "抖音「游戏特色人群」白皮书：6成流水来自老游",
+    "titleZh": "抖音游戏白皮书：老游戏贡献六成流水",
+    "summaryZh": "抖音发布游戏特色人群白皮书显示，2025年用户在下载新游或回流老游时，超六成明确表示受平台因素驱动。数据表明老游戏仍是流水主力，平台推荐对用户决策影响显著。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.296Z",
+    "fetchedAt": "2026-05-28T02:10:52.942Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "平台数据验证老游价值，揭示用户回流受平台影响大",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "nj27v0cea0n26txsudhjav0e",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=30b35b384bf2b838372d4073df3b31b4",
+    "title": "裁员实锤？19家游戏公司，五年共减员超26000人",
+    "titleZh": "19家游戏公司五年减员超26000人",
+    "summaryZh": "近五年19家上市游戏公司累计减员超26000人。2025年82%的公司人均薪酬成本上升，吉比特和腾讯人均薪酬超110万。行业成本压力与人员优化趋势并存，薪酬支出持续攀升。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.296Z",
+    "fetchedAt": "2026-05-28T02:11:04.594Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 6,
+      "uniqueness": 5,
+      "usefulness": 7,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "裁员数据详实，反映行业成本压力与人员优化趋势，对HR和从业者有参考价值",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "iksgrpfzp0fu8v4xvxvhmngf",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=f910256c1e6fe5ea65f96c77c674b542",
+    "title": "游戏动画设计 | 系统拆解动画的本质与核心原理",
+    "titleZh": "游戏动画设计：拆解动画本质原理",
+    "summaryZh": "文章系统讲解游戏动画的两大核心类别：逐帧动画与补间动画，依据中间帧生成方式不同进行分类，深入剖析两类动画的本质区别、设计思路与适用场景，帮助开发者理解动画设计的核心原理。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.296Z",
+    "fetchedAt": "2026-05-28T02:11:09.411Z",
+    "isSelected": true,
+    "score": {
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 4,
+      "uniqueness": 5,
+      "usefulness": 7,
+      "totalScore": 29,
+      "finalScore": 29,
+      "reason": "动画基础知识总结，讲解逐帧与补间动画的区别与应用",
+      "tags": [
+        "干货",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "rn8u4zlnxiadt0r4h8klky3f",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=3e1e224717a781afd47087f777674036",
+    "title": "一位学经济的大学生，成了《天国：拯救》工作室的创意总监",
+    "titleZh": "经济学背景成为《天国：拯救》工作室创意总监",
+    "summaryZh": "报道了一位经济学专业背景的从业者如何成长为《天国：拯救》工作室创意总监的历程，探讨其从经济学视角解读游戏设计中的“摩擦点”，以及如何将跨学科思维应用于游戏体验优化，为从业者提供差异化职业发展参考。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.296Z",
+    "fetchedAt": "2026-05-28T02:11:14.967Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 5,
+      "uniqueness": 8,
+      "usefulness": 5,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "经济学背景做创意总监的跨界案例，为从业者职业发展提供新思路。",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "7qr73zrith6b0x9e513jp7p8",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/wl?m=f552ed33a5c657a044394ea94a35f926",
+    "title": "成本1千万，1个月大赚10亿，游戏大厂为啥还没跟？",
+    "titleZh": "千万成本月赚十亿，大厂为何不跟进？",
+    "summaryZh": "分析一款融合传统民俗文化的游戏产品，以千万级研发成本实现上线首月收入十亿的商业成功案例，探讨中小团队如何通过差异化定位获得爆款效应，为游戏行业提供商业参考。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:10:14.296Z",
+    "fetchedAt": "2026-05-28T02:11:22.106Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 6,
+      "uniqueness": 7,
+      "usefulness": 8,
+      "totalScore": 34,
+      "finalScore": 32,
+      "reason": "低成本爆款案例揭示市场机遇，中小团队可借鉴的成功范本",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "aywz7c1x7uzqq0sxdfolozlz",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://www.gameres.com/917584.html",
+    "title": "微信小游戏9年：5亿活跃用户、50万+开发者，PC端成小游戏第二增长曲线",
+    "titleZh": "微信小游戏9年成绩单：5亿用户与2026年50亿分成激励",
+    "summaryZh": "微信小游戏9年积累5亿活跃用户、50万+开发者，平台宣布2026年IAP首发新游最高可享5000万元流水不分成，PC小游戏额外获得10%专属广告金，PC端成第二增长曲线。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:09:14.294Z",
+    "fetchedAt": "2026-05-28T02:10:29.265Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 7,
+      "uniqueness": 6,
+      "usefulness": 8,
+      "totalScore": 36,
+      "finalScore": 34,
+      "reason": "2026年分成政策力度大，PC端成新增长点，开发者需重点关注。",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "7l2efc7w70ysh9z2gwp87of4",
     "sourceId": "gameres",
     "sourceName": "游资网",
@@ -327,7 +938,17 @@
         "行业",
         "干货"
       ],
-      "relatedItems": []
+      "relatedItems": [
+        {
+          "sourceId": "gameres",
+          "sourceName": "游资网",
+          "url": "https://www.gameres.com/wl?m=00da5ecb9f7013dcce810bff1f830162",
+          "title": "知名VC坦白局：为什么不再迷信“行业老将”？",
+          "titleZh": "VC坦白局：为何不再迷信行业老将？",
+          "publishedAt": "2026-05-28T02:10:14.297Z",
+          "totalScore": 31
+        }
+      ]
     }
   },
   {
@@ -4916,6 +5537,34 @@
     }
   },
   {
+    "id": "myasldklskddrir4b35uakne",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0516/6921.html",
+    "title": "卖掉沐瞳后，字节跳动端上来了今年第一款游戏",
+    "titleZh": "卖掉沐瞳后，字节跳动端上来了今年第一款游戏",
+    "summaryZh": "字节跳动已完成出售沐瞳科技的交易，近日推出今年首款游戏产品。这是字节跳动在游戏业务上的重大调整，标志着其游戏战略的新方向。游戏日报将持续关注该产品的后续动态和市场表现。",
+    "author": null,
+    "publishedAt": "2026-05-16T00:00:00Z",
+    "fetchedAt": "2026-05-28T02:06:59.433Z",
+    "isSelected": true,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 6,
+      "totalScore": 35,
+      "finalScore": 33,
+      "reason": "字节跳动游戏业务重大调整，一线大厂新动向值得关注",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "3r1g86pmb3ca26mujz8jo43j",
     "sourceId": "youxiribao",
     "sourceName": "游戏日报",
@@ -5219,6 +5868,34 @@
       "tags": [
         "行业",
         "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "pta93p5jtdkazg6ghndm2xz0",
+    "sourceId": "youxiribao",
+    "sourceName": "游戏日报",
+    "url": "https://news.yxrb.net/2026/0514/6899.html",
+    "title": "比算力先爆炸的，是米哈游AI的口碑",
+    "titleZh": "米哈游AI算力与口碑的双重挑战",
+    "summaryZh": "探讨米哈游在AI技术发展过程中面临的算力瓶颈及由此引发的口碑问题，分析AI大模型在游戏行业的应用现状与挑战，为从业者提供行业趋势参考。",
+    "author": null,
+    "publishedAt": "2026-05-14T00:00:00Z",
+    "fetchedAt": "2026-05-28T02:07:10.715Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 32,
+      "finalScore": 31,
+      "reason": "行业视角解读AI应用困境，有参考价值",
+      "tags": [
+        "行业",
+        "公司"
       ],
       "relatedItems": []
     }
