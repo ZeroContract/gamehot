@@ -623,7 +623,16 @@ function extractEntries(
     const $el = $(el);
 
     const $titleEl = $el.find(titleSelector).first();
-    const title = $titleEl.text().trim();
+    let title = $titleEl.text().trim();
+
+    // 去除标题内嵌的分类标签（如 .status span）
+    const $status = $titleEl.find(".status");
+    if ($status.length > 0) {
+      const statusText = $status.first().text().trim();
+      if (title.startsWith(statusText)) {
+        title = title.slice(statusText.length).trim();
+      }
+    }
     let link = $titleEl.attr("href") || "";
 
     if (!link) {
@@ -810,6 +819,19 @@ const apiTransforms: Record<string, ApiResponseTransform> = {
     }));
   },
 
+  // 游戏陀螺 API: { data: { data: [...], pages: N } }
+  "tuoluo": (data: any) => {
+    const items = data?.data?.data || [];
+    return items.map((item: any) => ({
+      title: item.title || "",
+      url: `https://www.youxituoluo.com/${item.aid}.html`,
+      snippet: item.dis || "",
+      publishedAt: item.sendtime
+        ? new Date(Math.floor(item.sendtime * 1000)).toISOString()
+        : new Date().toISOString(),
+    }));
+  },
+
   // 通用 JSON 数组（尝试常见字段名）
   "generic": (data: any) => {
     const items = Array.isArray(data) ? data : data.items || data.results || data.data || [];
@@ -824,34 +846,67 @@ const apiTransforms: Record<string, ApiResponseTransform> = {
 };
 
 async function fetchApi(source: Source, existingKeys: Set<string>): Promise<Item[]> {
-  let url = source.endpoint || "";
-  if (!url) throw new Error("API source missing endpoint");
+  const baseUrl = source.endpoint || "";
+  if (!baseUrl) throw new Error("API source missing endpoint");
 
-  // 拼接查询参数
-  if (source.params) {
-    const searchParams = new URLSearchParams(source.params);
+  const maxPages = source.maxPages || 1;
+  const limit = source.params?.limit || "15";
+  const allEntries: RawEntry[] = [];
+
+  for (let page = 1; page <= maxPages; page++) {
+    let url = baseUrl;
+    const searchParams = new URLSearchParams();
+    searchParams.set("page", String(page));
+    searchParams.set("limit", String(limit));
+    if (source.params) {
+      Object.entries(source.params).forEach(([k, v]) => {
+        if (k !== "limit") searchParams.set(k, v);
+      });
+    }
     url += (url.includes("?") ? "&" : "?") + searchParams.toString();
+
+    const res = await fetch(url, {
+      headers: {
+        "User-Agent": "GameHot/0.1 (news aggregator bot)",
+        Accept: "application/json",
+      },
+      signal: AbortSignal.timeout(15000),
+    });
+
+    if (!res.ok) {
+      throw new Error(`API HTTP ${res.status} ${res.statusText}`);
+    }
+
+    const data = await res.json();
+    const strategy = source.transformResponse || "generic";
+    const transform = apiTransforms[strategy] || apiTransforms["generic"];
+    const entries = transform(data, source);
+
+    if (!entries || entries.length === 0) break;
+
+    // 时间边界：如果当前页最旧的条目已超过 daysBack，停止翻页
+    const daysBack = source.daysBack ?? 7;
+    const cutOff = new Date();
+    cutOff.setDate(cutOff.getDate() - daysBack);
+    const recentEntries = entries.filter((e) => new Date(e.publishedAt) >= cutOff);
+
+    allEntries.push(...recentEntries);
+
+    if (recentEntries.length < entries.length) {
+      console.log(`    📡 第 ${page} 页: ${entries.length}→${recentEntries.length} 条 ⏹️ 时间边界`);
+      break;
+    }
+    console.log(`    📡 第 ${page} 页: ${entries.length} 条`);
+
+    // 检查是否还有更多页
+    const totalPages = data?.data?.pages || data?.pages || 0;
+    if (totalPages > 0 && page >= totalPages) break;
+
+    await randomDelay(500, 1000);
   }
 
-  const res = await fetch(url, {
-    headers: {
-      "User-Agent": "GameHot/0.1 (news aggregator bot)",
-      Accept: "application/json",
-    },
-    signal: AbortSignal.timeout(15000),
-  });
-
-  if (!res.ok) {
-    throw new Error(`API HTTP ${res.status} ${res.statusText}`);
-  }
-
-  const data = await res.json();
-  const strategy = source.transformResponse || "generic";
-  const transform = apiTransforms[strategy] || apiTransforms["generic"];
-  const entries = transform(data, source);
-
-  console.log(`  📡 API 返回 ${entries.length} 条条目`);
-  return processEntries(source, entries, existingKeys);
+  console.log(`  📡 API 共返回 ${allEntries.length} 条条目 (近 ${source.daysBack ?? 7} 天)`);
+  return processEntries(source, allEntries, existingKeys);
 }
 
 // ============================================================
