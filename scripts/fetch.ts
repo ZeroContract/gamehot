@@ -205,6 +205,15 @@ function parseDate(text: string): string | null {
     return new Date(parseInt(y), parseInt(m) - 1, parseInt(d)).toISOString();
   }
 
+  // "05-26" (MM-DD，游资网)
+  const mmdd = text.match(/^(\d{1,2})-(\d{1,2})\b/);
+  if (mmdd) {
+    const now = new Date();
+    const d = new Date(now.getFullYear(), parseInt(mmdd[1]) - 1, parseInt(mmdd[2]));
+    if (d > now) d.setFullYear(d.getFullYear() - 1);
+    return d.toISOString();
+  }
+
   // "2026-05-15" 或 "2026-05-15 14:30"
   const isoDate = text.match(/(\d{4}-\d{2}-\d{2})(?:[\sT](\d{2}:\d{2}(?::\d{2})?))?/);
   if (isoDate) {
