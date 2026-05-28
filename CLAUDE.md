@@ -31,6 +31,7 @@ src/                      →  Next.js 16 frontend (React 19, App Router)
 npm run dev          # Start Next.js dev server
 npm run build        # Production build
 npm run fetch        # Run scraping + AI scoring pipeline
+npx tsx scripts/rescore.ts  # Re-score existing items.json with current prompt
 ```
 
 `npm run fetch` requires `DEEPSEEK_API_KEY` in environment (MiniMax API key, historical naming). Load from `.env.local`:
@@ -57,11 +58,13 @@ Anti-crawl measures: UA pool rotation (6 UAs), `Referer` header on paginated req
 
 MiniMax-M2.7 via OpenAI-compatible API at `https://api.minimax.chat/v1`. Env vars: `DEEPSEEK_API_KEY` (required), `AI_MODEL` / `AI_API_BASE` (optional overrides).
 
-5 dimensions each scored 1-10: importance, articleQuality, timeliness, uniqueness, usefulness.
-- `totalScore >= 25` → `isSelected: true`
-- `finalScore = totalScore * 0.6 + (sourceWeight / 100) * 20`
+5 dimensions each scored 1-20 (满分 100). AI is prompted to use the full range with calibration benchmarks.
+- `totalScore >= 60` → `isSelected: true` (上榜)
+- `finalScore = totalScore * 0.8 + (sourceWeight / 100) * 20`
 - Cross-source dedup via Chinese bigram Jaccard similarity (threshold 0.4, 7-day window)
 - Lower-scored duplicate articles become `relatedItems` of the higher-scored one
+- 6 tags: 行业, 公司, 游戏, 干货, 活动, AI
+- Frontend score colors: >= 90 red, >= 80 green, >= 60 orange, < 60 gray
 
 MiniMax-M2.7 wraps responses in `<think>...</think>` tags; `callAI()` strips these before JSON parsing. Occasional JSON parse failures are caught and logged.
 

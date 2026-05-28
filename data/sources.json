@@ -1,5 +1,15 @@
 [
   {
+    "id": "youxiputao",
+    "name": "游戏葡萄",
+    "url": "https://news.qq.com/omn/author/1921",
+    "feedUrl": "",
+    "type": "opencli-author",
+    "tier": 1,
+    "weight": 85,
+    "daysBack": 7
+  },
+  {
     "id": "youxichaguan",
     "name": "游戏茶馆",
     "url": "https://www.youxichaguan.com/",
@@ -27,7 +37,7 @@
   {
     "id": "tencent-gi-web",
     "name": "腾讯游戏学堂",
-    "url": "https://gameinstitute.qq.com/",
+    "url": "",
     "feedUrl": "",
     "type": "web",
     "tier": 3,
@@ -43,7 +53,7 @@
   {
     "id": "youxituoluo",
     "name": "游戏陀螺",
-    "url": "https://www.youxituoluo.com/",
+    "url": "",
     "feedUrl": "",
     "type": "web",
     "tier": 2,
@@ -59,7 +69,7 @@
   {
     "id": "youxiribao",
     "name": "游戏日报",
-    "url": "https://news.yxrb.net/",
+    "url": "",
     "feedUrl": "",
     "type": "web",
     "tier": 2,
@@ -75,7 +85,7 @@
   {
     "id": "gameres",
     "name": "游资网",
-    "url": "https://www.gameres.com/",
+    "url": "",
     "feedUrl": "",
     "type": "web",
     "tier": 2,

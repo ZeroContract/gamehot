@@ -15,6 +15,7 @@
 
 import * as fs from "fs";
 import * as path from "path";
+import { execSync } from "child_process";
 import Parser from "rss-parser";
 import * as cheerio from "cheerio";
 import iconv from "iconv-lite";
@@ -266,7 +267,16 @@ function lookupSourceByUrl(url: string): { sourceId: string; sourceName: string 
 function isExternalUrl(url: string, sourceUrl: string): boolean {
   const entryHost = normalizeHostname(url);
   const sourceHost = normalizeHostname(sourceUrl);
-  return entryHost !== "" && sourceHost !== "" && entryHost !== sourceHost;
+  if (!entryHost || !sourceHost) return false;
+  if (entryHost === sourceHost) return false;
+
+  // 腾讯新闻文章托管在 view.inews.qq.com，当源是 news.qq.com 时不视为外链
+  const TENCENT_NEWS_HOSTS = ["view.inews.qq.com", "news.qq.com", "i.news.qq.com"];
+  if (TENCENT_NEWS_HOSTS.includes(entryHost) && TENCENT_NEWS_HOSTS.includes(sourceHost)) {
+    return false;
+  }
+
+  return true;
 }
 
 function fixupItemSource(item: Item): void {
@@ -534,7 +544,7 @@ async function processEntries(
       source.weight
     );
 
-    const isSelected = score.totalScore >= 25;
+    const isSelected = score.totalScore >= 60;
 
     items.push({
       id: generateId(),
@@ -836,6 +846,85 @@ async function fetchApi(source: Source, existingKeys: Set<string>): Promise<Item
 }
 
 // ============================================================
+//  OpenCLI 浏览器抓取 (腾讯新闻作者页等 JS 渲染页面)
+// ============================================================
+
+async function fetchOpencliAuthor(source: Source, existingKeys: Set<string>): Promise<Item[]> {
+  const authorUrl = source.url;
+  const daysBack = source.daysBack ?? 7;
+  const cutOff = new Date();
+  cutOff.setDate(cutOff.getDate() - daysBack);
+
+  console.log(`  🌐 打开浏览器: ${authorUrl}`);
+  execSync(`opencli browser open "${authorUrl}"`, { encoding: "utf-8", stdio: "pipe" });
+
+  // 等 React 渲染
+  console.log(`  ⏳ 等待页面渲染...`);
+  execSync(`opencli browser wait time 5`, { encoding: "utf-8", stdio: "pipe" });
+
+  // 滚动加载足够文章
+  for (let i = 0; i < 8; i++) {
+    execSync(`opencli browser scroll down`, { encoding: "utf-8", stdio: "pipe" });
+    await new Promise((r) => setTimeout(r, 2000));
+  }
+
+  // 从 React fiber 提取文章数据
+  const extractJs = [
+    'var items = document.querySelectorAll(".author-article-item");',
+    'var results = [];',
+    'for (var i = 0; i < items.length; i++) {',
+    '  var fiberKey = Object.keys(items[i]).find(function(k) { return k.indexOf("__reactFiber")===0; });',
+    '  if (!fiberKey) continue;',
+    '  var fiber = items[i][fiberKey];',
+    '  for (var d = 0; d < 15 && fiber; d++) {',
+    '    var ad = fiber.memoizedProps && fiber.memoizedProps.articleData;',
+    '    if (ad && ad.id && ad.title) {',
+    '      results.push({id:ad.id,title:ad.title,url:ad.url,time:ad.time,timestamp:ad.timestamp});',
+    '      break;',
+    '    }',
+    '    fiber = fiber.return;',
+    '  }',
+    '}',
+    'JSON.stringify(results);',
+  ].join("");
+
+  fs.writeFileSync("/tmp/opencli_extract.js", extractJs, "utf-8");
+  const raw = execSync(`opencli browser eval "$(< /tmp/opencli_extract.js)"`, {
+    encoding: "utf-8",
+    stdio: "pipe",
+    maxBuffer: 10 * 1024 * 1024,
+  });
+
+  let articles: any[];
+  try {
+    articles = JSON.parse(raw.trim());
+  } catch {
+    console.error(`  ❌ 解析文章数据失败`);
+    return [];
+  }
+
+  console.log(`  📄 提取到 ${articles.length} 篇文章`);
+
+  const entries: RawEntry[] = [];
+  for (const a of articles) {
+    const pubDate = new Date(a.time);
+    if (isNaN(pubDate.getTime())) continue;
+    if (pubDate < cutOff) continue;
+
+    entries.push({
+      title: a.title,
+      url: a.url,
+      snippet: a.title,
+      author: null,
+      publishedAt: pubDate.toISOString(),
+    });
+  }
+
+  console.log(`  📄 近 ${daysBack} 天: ${entries.length} 篇`);
+  return processEntries(source, entries, existingKeys);
+}
+
+// ============================================================
 //  主流程
 // ============================================================
 
@@ -853,6 +942,7 @@ async function main() {
     if (s.type === "rss") return !!s.feedUrl;
     if (s.type === "web") return !!s.url || (!!s.urls && s.urls.length > 0);
     if (s.type === "api") return !!s.endpoint;
+    if (s.type === "opencli-author") return !!s.url;
     return false;
   });
 
@@ -879,7 +969,7 @@ async function main() {
     const batch = activeSources.slice(i, i + CONCURRENCY);
     const batchResults = await Promise.allSettled(
       batch.map(async (source) => {
-        const typeLabel = { rss: "📡 RSS", web: "🕷️  Web", api: "🔌 API" }[source.type] || "📡";
+        const typeLabel = { rss: "📡 RSS", web: "🕷️  Web", api: "🔌 API", "opencli-author": "🌐 OpenCLI" }[source.type] || "📡";
         const sourceLabel = source.urls ? source.urls.join(", ") : source.url;
 console.log(`${typeLabel} 抓取: ${source.name} (${sourceLabel})`);
 
@@ -899,6 +989,9 @@ console.log(`${typeLabel} 抓取: ${source.name} (${sourceLabel})`);
                 break;
               case "api":
                 items = await fetchApi(source, existingKeys);
+                break;
+              case "opencli-author":
+                items = await fetchOpencliAuthor(source, existingKeys);
                 break;
               default:
                 console.log(`  ⚠️ 未知类型: ${source.type}，跳过`);
@@ -939,7 +1032,7 @@ console.log(`${typeLabel} 抓取: ${source.name} (${sourceLabel})`);
   console.log(`\n🔍 跨信源去重中...`);
   deduplicateCrossSource(allItems);
   const dedupedCount = allItems.filter(
-    (i) => !i.isSelected && i.score && i.score.totalScore >= 25
+    (i) => !i.isSelected && i.score && i.score.totalScore >= 60
   ).length;
 
   fs.writeFileSync(ITEMS_FILE, JSON.stringify(allItems, null, 2), "utf-8");
