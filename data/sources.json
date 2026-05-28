@@ -7,7 +7,16 @@
     "type": "web",
     "tier": 2,
     "weight": 60,
-    "listSelector": ".post-loop li.item",
+    "urls": [
+      "https://youxichaguan.com/archives/category/original",
+      "https://youxichaguan.com/archives/category/gamenews",
+      "https://youxichaguan.com/archives/category/mobilegames",
+      "https://youxichaguan.com/archives/category/steamgames",
+      "https://youxichaguan.com/archives/category/casualgames"
+    ],
+    "maxPages": 3,
+    "daysBack": 7,
+    "listSelector": ".post-loop .item",
     "titleSelector": ".item-title a",
     "linkSelector": ".item-title a",
     "snippetSelector": ".item-excerpt p",

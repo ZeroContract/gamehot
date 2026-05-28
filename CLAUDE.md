@@ -6,14 +6,16 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project overview
 
-GameHot is a Chinese game industry news aggregator. It scrapes 5 Chinese game news sites, uses AI to score/translate/summarize articles, and displays a curated timeline on a Next.js frontend.
+GameHot is a Chinese game industry news aggregator. It scrapes Chinese game news sites, uses AI (MiniMax-M2.7) to score/translate/summarize articles, and displays a curated timeline on a Next.js frontend.
+
+Sources are being migrated one by one to a per-source customized scraping approach.
 
 ## Architecture
 
 ```
 scripts/fetch.ts          →  Scraping + AI scoring pipeline (the data engine)
-  ├── Hermes browser      →  AI-powered browsing (Chrome + vision), local Mac only
-  ├── cheerio fallback    →  CSS selector scraping (works anywhere)
+  ├── cheerio             →  HTTP fetch + CSS selector scraping
+  ├── opencli browser     →  Real Chrome browser scraping (planned, not yet integrated)
   ├── callAI (MiniMax)    →  Scoring, translation, summarization (MiniMax-M2.7)
   └── data/items.json     →  Output: all articles with scores
 
@@ -28,30 +30,32 @@ src/                      →  Next.js 16 frontend (React 19, App Router)
 ```bash
 npm run dev          # Start Next.js dev server
 npm run build        # Production build
-npm run fetch        # Run scraping + AI scoring pipeline (npx tsx scripts/fetch.ts)
+npm run fetch        # Run scraping + AI scoring pipeline
+```
+
+`npm run fetch` requires `DEEPSEEK_API_KEY` in environment (MiniMax API key, historical naming). Load from `.env.local`:
+```bash
+export $(grep -v '^#' .env.local | grep DEEPSEEK_API_KEY | head -1) && npm run fetch
 ```
 
 ## Fetch pipeline
 
-### Two models, one API provider
+### Extraction
 
-- **Extraction**: Hermes browser (local) or cheerio (CI/fallback) pulls news lists from web sources
-- **Scoring**: `callAI()` → MiniMax-M2.7 at `https://api.minimax.chat/v1` (OpenAI-compatible)
+All sources are `web` type using cheerio (HTTP fetch + CSS selectors). Each source in `data/sources.json` supports:
 
-The env var `DEEPSEEK_API_KEY` holds the MiniMax API key (historical naming). Override model via `AI_MODEL`/`AI_API_BASE`.
+- **`urls`** — Array of entry-point URLs (e.g. category pages). If absent, falls back to single `url`.
+- **`maxPages`** — Max pagination pages per URL. Stops early on duplicate or old articles.
+- **`daysBack`** — Time window in days (default 7). Articles older than this are discarded, and pagination stops when the window is exceeded.
+- **`listSelector` / `titleSelector` / `linkSelector` / `snippetSelector` / `dateSelector`** — CSS selectors for cheerio extraction.
 
-### Hermes integration
+Pagination format is WordPress-standard (`/page/N`). Total pages parsed from `1 / N` in pagination markup.
 
-`scripts/fetch.ts` auto-detects Hermes at `/Users/zhima/.local/bin/hermes`. When present:
-- Spawns `hermes chat -q --toolsets browser --model MiniMax-M2.7 --accept-hooks --max-turns 12`
-- Hermes uses opencli browser to open real Chrome, scroll, extract content
-- Uses MiniMax vision to understand page layout
+Anti-crawl measures: UA pool rotation (6 UAs), `Referer` header on paginated requests, random delays (1.5–3s between pages, 2–4s between categories). All requests use `zh-CN` Accept-Language.
 
-When Hermes is absent or fails, falls back to `fetchWebLegacy()` (cheerio CSS selectors).
+### Scoring
 
-`USE_HERMES` env var can force enable/disable.
-
-### Scoring logic
+MiniMax-M2.7 via OpenAI-compatible API at `https://api.minimax.chat/v1`. Env vars: `DEEPSEEK_API_KEY` (required), `AI_MODEL` / `AI_API_BASE` (optional overrides).
 
 5 dimensions each scored 1-10: importance, articleQuality, timeliness, uniqueness, usefulness.
 - `totalScore >= 25` → `isSelected: true`
@@ -59,42 +63,50 @@ When Hermes is absent or fails, falls back to `fetchWebLegacy()` (cheerio CSS se
 - Cross-source dedup via Chinese bigram Jaccard similarity (threshold 0.4, 7-day window)
 - Lower-scored duplicate articles become `relatedItems` of the higher-scored one
 
-### MiniMax `<think>` tag handling
+MiniMax-M2.7 wraps responses in `<think>...</think>` tags; `callAI()` strips these before JSON parsing. Occasional JSON parse failures are caught and logged.
 
-MiniMax-M2.7 is a reasoning model that wraps responses in `<think>...</think>`. The `callAI()` function strips these before JSON parsing.
+### Source migration status
+
+Sources are being customized one at a time:
+
+| Source | Status |
+|--------|--------|
+| 游戏茶馆 | Done — 5 category URLs, 3 maxPages, 7 daysBack |
+| 腾讯游戏学堂 | Pending — old single-URL config |
+| 游戏陀螺 | Pending — old single-URL config |
+| 游戏日报 | Pending — old single-URL config |
+| 游资网 | Pending — old single-URL config |
+
+When migrating a source: analyze the site's DOM structure, anti-crawl needs, and pagination. Design selectors and strategy accordingly. Run fetch for that source alone before re-enabling others.
+
+### Data flow
+
+1. `main()` reads `sources.json`, filters active sources (web needs `url` or `urls`)
+2. Serial processing (concurrency=1), 2 retries for web sources
+3. `fetchWebLegacy()`: fetch HTML → cheerio extract entries → filter by time + dedup → pass to `processEntries()`
+4. `processEntries()`: resolve redirects, dedup by URL, call `scoreItem()` per entry, 500ms rate limit
+5. All items merged into `items.json` (max 3000), cross-source dedup, write to disk
 
 ## Scheduling
 
-**Primary**: macOS launchd runs `scripts/run-fetch.sh` every 30 minutes on the local Mac mini.
+**Primary**: A detached `screen` session runs a fetch loop on the local Mac mini every 30 minutes.
 
 ```bash
-# View job status
-launchctl list com.gamehot.fetch
-
-# Stop / restart
-launchctl unload ~/Library/LaunchAgents/com.gamehot.fetch.plist
-launchctl load ~/Library/LaunchAgents/com.gamehot.fetch.plist
-
-# Logs
-tail -f data/fetch-launchd.log
-tail -f data/fetch.log
+screen -ls                    # Check if daemon is running (look for "gamehot")
+screen -r gamehot             # Attach to see live output (Ctrl+A D to detach)
+tail -f data/cron.log         # View fetch logs
 ```
 
-The shell script (`scripts/run-fetch.sh`):
-1. Pulls latest from GitHub
-2. Runs `npm run fetch`
-3. If `data/items.json` changed, commits and pushes
+If the Mac reboots, restart:
+```bash
+screen -dmS gamehot zsh -c 'while true; do sleep 1800; /bin/bash ~/Desktop/GameHot/scripts/run-fetch.sh >> ~/Desktop/GameHot/data/cron.log 2>&1; done'
+```
 
-**Backup**: GitHub Actions `workflow_dispatch` (manual trigger only, no schedule). Uses cheerio mode since Hermes isn't available on CI runners.
+`scripts/run-fetch.sh` does: git pull → `npm run fetch` → if changed, git commit + push. API key loaded from `.env.local`.
+
+**Backup**: GitHub Actions `workflow_dispatch` (manual trigger only, no schedule). Cheerio mode only; opencli not available on CI runners.
 
 ## Data model
 
-- `data/sources.json` — 5 web sources with CSS selectors for cheerio fallback
-- `data/items.json` — All articles. Key fields: `isSelected` (curated), `score.totalScore`, `score.finalScore`, `score.relatedItems[]`
-- Types defined in `src/lib/types.ts`
-
-## Adding a new source
-
-1. Add entry to `data/sources.json` with CSS selectors (`listSelector`, `titleSelector`, `linkSelector`, etc.) — these serve as Hermes fallback
-2. Hermes browser mode handles new sources automatically without selector tuning
-3. Run `npm run fetch` to test
+- `data/sources.json` — Source configs with CSS selectors, URLs, and scraping params. Types in `scripts/fetch.ts` (`Source` interface).
+- `data/items.json` — All articles. Key fields: `isSelected` (curated), `score.totalScore`, `score.finalScore`, `score.relatedItems[]`. Types in `src/lib/types.ts`.

@@ -11,6 +11,7 @@
   --accent: #165dff;
   --accent-light: #e8f0fe;
   --star: #f7ba1e;
+  --score-top: #e03a3a;
   --score-high: #00b42a;
   --score-mid: #ff7d00;
   --score-low: #86909c;
@@ -37,6 +38,7 @@
     --accent: #388bff;
     --accent-light: #1a2332;
     --star: #e3b341;
+    --score-top: #f85149;
     --score-high: #3fb950;
     --score-mid: #d29922;
     --score-low: #6e7681;
@@ -456,6 +458,7 @@ img { max-width: 100%; display: block; }
   background: var(--tag-bg);
 }
 
+.timeline-score.top { color: var(--score-top); }
 .timeline-score.high { color: var(--score-high); }
 .timeline-score.mid { color: var(--score-mid); }
 .timeline-score.low { color: var(--score-low); }
