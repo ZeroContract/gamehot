@@ -54,6 +54,10 @@
     "id": "youxituoluo",
     "name": "游戏陀螺",
     "url": "https://www.youxituoluo.com/news",
+    "urls": [
+      "https://www.youxituoluo.com/",
+      "https://www.youxituoluo.com/news"
+    ],
     "feedUrl": "",
     "type": "web",
     "tier": 2,
