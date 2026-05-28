@@ -28,6 +28,62 @@
     }
   },
   {
+    "id": "isomilfi9xa4acsfwpma92rw",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://gameres.com/917585.html",
+    "title": "超40款游戏公布最新动态，腾讯今年的发布会还带来了多项游戏AI应用新进展",
+    "titleZh": "腾讯SPARK2026发布会：超40款游戏动态及AI新进展",
+    "summaryZh": "5月27日腾讯举办SPARK2026线上发布会，42款海内外游戏展示最新动态，29位开发者参与介绍新内容、新玩法及游戏AI技术应用，涵盖制作、发行、投资三大板块。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:41:26.866Z",
+    "fetchedAt": "2026-05-28T02:44:31.526Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 4,
+      "usefulness": 6,
+      "totalScore": 31,
+      "finalScore": 31,
+      "reason": "腾讯年度重磅发布会，覆盖面广且AI技术应用信息新鲜，值得关注行业趋势。",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "2rsyzutofhfplg64v9imcw14",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534523.html",
+    "title": "游戏资讯突破5000万DAU后，这款射击游戏要把传世宝藏做成“大红”",
+    "titleZh": "三角洲行动突破5000万DAU，联手景德镇推文化联动",
+    "summaryZh": "5月27日SPARK2026腾讯游戏发布会上，《三角洲行动》宣布与景德镇御窑博物院达成文化联动。这是该游戏首次牵手传统文化机构，尝试在文化守护方向进行探索。游戏此前DAU已突破5000万，展现出强劲用户基础。",
+    "author": null,
+    "publishedAt": "2026-05-28T02:37:04.327Z",
+    "fetchedAt": "2026-05-28T02:44:17.173Z",
+    "isSelected": true,
+    "score": {
+      "importance": 7,
+      "articleQuality": 5,
+      "timeliness": 6,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 29,
+      "finalScore": 30,
+      "reason": "头部射击游戏首次文化跨界，为行业提供游戏与传统文化融合的实践参考",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "qdq7vy09w3qfv5zbd6zim282",
     "sourceId": "gameres",
     "sourceName": "游资网",
