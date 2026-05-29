@@ -1016,17 +1016,20 @@ async function fetchZhihuUser(source: Source, existingKeys: Set<string>): Promis
   console.log(`  🌐 打开知乎: ${source.url}`);
   execSync(`opencli browser open "${source.url}"`, { encoding: "utf-8", stdio: "pipe" });
 
-  // 随机等待，模拟人类浏览行为（5-8s）
-  const pageWait = 5 + Math.random() * 3;
+  // 随机等待，模拟人类浏览行为（8-12s，知乎反爬较严）
+  const pageWait = 8 + Math.random() * 4;
   console.log(`  ⏳ 等待页面加载 (${pageWait.toFixed(1)}s)...`);
   execSync(`opencli browser wait time ${Math.round(pageWait)}`, { encoding: "utf-8", stdio: "pipe" });
 
-  // 随机滚动 1-3 次，模拟浏览
-  const scrolls = 1 + Math.floor(Math.random() * 3);
+  // 滚动 3-5 次，模拟浏览行为
+  const scrolls = 3 + Math.floor(Math.random() * 3);
   for (let i = 0; i < scrolls; i++) {
     execSync(`opencli browser scroll down`, { encoding: "utf-8", stdio: "pipe" });
-    await new Promise((r) => setTimeout(r, 800 + Math.random() * 1200));
+    await new Promise((r) => setTimeout(r, 1000 + Math.random() * 2000));
   }
+
+  // 额外等待，确保浏览器 cookie 环境就绪
+  await new Promise((r) => setTimeout(r, 2000 + Math.random() * 3000));
 
   // 通过浏览器内 fetch 调用知乎 API（自动携带 cookies）
   const allArticles: { title: string; url: string; excerpt: string; created: number }[] = [];
@@ -1042,7 +1045,11 @@ async function fetchZhihuUser(source: Source, existingKeys: Set<string>): Promis
         try {
           var resp = await fetch('${apiUrl}', {
             credentials: 'include',
-            headers: { 'Referer': 'https://www.zhihu.com/people/${urlToken}/${contentType}' }
+            headers: {
+              'Referer': 'https://www.zhihu.com/people/${urlToken}/${contentType}',
+              'x-api-version': '3.0.0',
+              'x-requested-with': 'fetch'
+            }
           });
           if (!resp.ok) return JSON.stringify({error: 'HTTP ' + resp.status});
           var json = await resp.json();
