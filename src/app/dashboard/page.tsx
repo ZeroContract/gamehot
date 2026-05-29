@@ -20,7 +20,7 @@ async function getStats() {
 
   const [pvCounts, uvCounts] = await Promise.all([
     kv.mget<number[]>(...pvKeys),
-    kv.mget<number[]>(...uvKeys),
+    Promise.all(uvKeys.map((k) => kv.pfcount(k))),
   ]);
 
   const daily = days.map((date, i) => ({
