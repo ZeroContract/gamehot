@@ -1,5 +1,88 @@
 [
   {
+    "id": "00qz0zcxn6owic1vfdmydaap",
+    "sourceId": "youxiputao",
+    "sourceName": "游戏葡萄",
+    "url": "https://news.qq.com/rain/a/20260529A0A79800?suid=&media_id=",
+    "title": "腾讯想再找一亿人做游戏",
+    "titleZh": "腾讯想再找一亿人做游戏",
+    "summaryZh": "腾讯计划扩大游戏创作者生态，通过开发者激励计划吸引更多人才参与游戏制作。该消息反映出头部厂商正在加码布局创作者经济，为行业从业者提供新的发展机遇。",
+    "author": null,
+    "publishedAt": "2026-05-29T12:46:41.000Z",
+    "fetchedAt": "2026-05-29T14:09:04.367Z",
+    "isSelected": false,
+    "score": {
+      "importance": 10,
+      "articleQuality": 6,
+      "timeliness": 10,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 39,
+      "finalScore": 48,
+      "reason": "",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "0km0u617fdjtios1tdbtjc1j",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534529.html",
+    "title": "AI原生团队集中亮相，腾讯系人才近六成，游托邦解锁南山游戏产业新势能",
+    "titleZh": "游托邦首期路演落幕 AI团队与腾讯人才受关注",
+    "summaryZh": "5月28-29日，游托邦（Gametopia）首期入驻遴选路演活动落幕。AI原生团队集中亮相，其中腾讯系背景人才占比近六成，凸显深圳南山在AI游戏领域的人才集聚效应和产业新动能。",
+    "author": null,
+    "publishedAt": "2026-05-29T11:09:31.406Z",
+    "fetchedAt": "2026-05-29T14:09:47.029Z",
+    "isSelected": false,
+    "score": {
+      "importance": 10,
+      "articleQuality": 9,
+      "timeliness": 13,
+      "uniqueness": 11,
+      "usefulness": 9,
+      "totalScore": 52,
+      "finalScore": 55,
+      "reason": "",
+      "tags": [
+        "行业",
+        "AI"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "lp6i8aeizc5k25q698d4p9hw",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/197419",
+    "title": "像素风剧情驱动SRPG星尘轨迹：魔女之愿现已正式发售",
+    "titleZh": "像素风SRPG《星尘轨迹：魔女之愿》Steam发售",
+    "summaryZh": "像素风剧情驱动SRPG《星尘轨迹：魔女之愿》已登陆Steam，原价72元，首发特惠64.8元，折扣持续14天。游戏融合了经典像素风格与深度剧情体验，为SRPG品类注入新活力。",
+    "author": null,
+    "publishedAt": "2026-05-29T11:09:08.682Z",
+    "fetchedAt": "2026-05-29T14:09:30.606Z",
+    "isSelected": false,
+    "score": {
+      "importance": 9,
+      "articleQuality": 7,
+      "timeliness": 16,
+      "uniqueness": 6,
+      "usefulness": 6,
+      "totalScore": 44,
+      "finalScore": 47,
+      "reason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "2m9o8udpd8ftxalepcczzdd5",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
