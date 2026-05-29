@@ -78,6 +78,8 @@ interface Source {
   params?: Record<string, string>;
   transformResponse?: string;
   encoding?: string;
+  urlToken?: string;
+  contentType?: string;
 }
 
 interface AiScore {
@@ -282,6 +284,12 @@ function isExternalUrl(url: string, sourceUrl: string): boolean {
   // 腾讯新闻文章托管在 view.inews.qq.com，当源是 news.qq.com 时不视为外链
   const TENCENT_NEWS_HOSTS = ["view.inews.qq.com", "news.qq.com", "i.news.qq.com"];
   if (TENCENT_NEWS_HOSTS.includes(entryHost) && TENCENT_NEWS_HOSTS.includes(sourceHost)) {
+    return false;
+  }
+
+  // 知乎文章托管在 zhuanlan.zhihu.com，当源是 www.zhihu.com 时不视为外链
+  const ZHIHU_HOSTS = ["zhuanlan.zhihu.com", "www.zhihu.com", "zhihu.com"];
+  if (ZHIHU_HOSTS.includes(entryHost) && ZHIHU_HOSTS.includes(sourceHost)) {
     return false;
   }
 
@@ -991,6 +999,110 @@ async function fetchOpencliAuthor(source: Source, existingKeys: Set<string>): Pr
 }
 
 // ============================================================
+//  知乎用户抓取（opencli 浏览器 + 内部 API）
+// ============================================================
+async function fetchZhihuUser(source: Source, existingKeys: Set<string>): Promise<Item[]> {
+  const urlToken = source.urlToken;
+  const contentType = source.contentType || "articles";
+  const daysBack = source.daysBack ?? 7;
+  const cutOff = Math.floor(Date.now() / 1000) - daysBack * 86400;
+
+  if (!urlToken) {
+    console.error(`  ❌ 缺少 urlToken 配置`);
+    return [];
+  }
+
+  // 打开知乎页面确保登录态有效
+  console.log(`  🌐 打开知乎: ${source.url}`);
+  execSync(`opencli browser open "${source.url}"`, { encoding: "utf-8", stdio: "pipe" });
+  console.log(`  ⏳ 等待页面加载...`);
+  execSync(`opencli browser wait time 5`, { encoding: "utf-8", stdio: "pipe" });
+
+  // 通过浏览器内 fetch 调用知乎 API（自动携带 cookies）
+  const allArticles: { title: string; url: string; excerpt: string; created: number }[] = [];
+  const limit = 20;
+  const maxPages = 10;
+
+  for (let page = 0; page < maxPages; page++) {
+    const offset = page * limit;
+    const apiUrl = `https://www.zhihu.com/api/v4/members/${urlToken}/${contentType}?limit=${limit}&offset=${offset}&include=data%5B%2A%5D.title,url,excerpt,created`;
+
+    const fetchJs = `
+      (async function() {
+        try {
+          var resp = await fetch('${apiUrl}', {credentials: 'include'});
+          var json = await resp.json();
+          if (!json.data) return JSON.stringify({error: 'no data', raw: json});
+          var items = json.data.map(function(a) {
+            return {title: a.title, url: a.url, excerpt: a.excerpt, created: a.created};
+          });
+          return JSON.stringify({paging: json.paging, items: items});
+        } catch(e) {
+          return JSON.stringify({error: e.message});
+        }
+      })();
+    `;
+
+    fs.writeFileSync("/tmp/zhihu_fetch.js", fetchJs, "utf-8");
+    const raw = execSync(`opencli browser eval "$(< /tmp/zhihu_fetch.js)"`, {
+      encoding: "utf-8",
+      stdio: "pipe",
+      maxBuffer: 5 * 1024 * 1024,
+    });
+
+    let result: any;
+    try {
+      result = JSON.parse(raw.trim());
+    } catch {
+      console.error(`  ❌ 解析 API 响应失败 (page ${page + 1})`);
+      break;
+    }
+
+    if (result.error) {
+      console.error(`  ❌ API 错误: ${result.error}`);
+      break;
+    }
+
+    const items = result.items || [];
+    if (items.length === 0) break;
+
+    for (const item of items) {
+      if (item.created < cutOff) {
+        console.log(`  📄 分页 ${page + 1}: 获取 ${items.length} 条，超出时间窗口，停止翻页`);
+        return buildZhihuEntries(source, allArticles, existingKeys);
+      }
+      allArticles.push(item);
+    }
+
+    console.log(`  📄 分页 ${page + 1}: ${items.length} 条 (累计 ${allArticles.length})`);
+
+    if (result.paging && result.paging.is_end) break;
+
+    // 页面间延迟
+    await new Promise((r) => setTimeout(r, 500));
+  }
+
+  return buildZhihuEntries(source, allArticles, existingKeys);
+}
+
+function buildZhihuEntries(
+  source: Source,
+  articles: { title: string; url: string; excerpt: string; created: number }[],
+  existingKeys: Set<string>
+): Promise<Item[]> {
+  const entries: RawEntry[] = articles.map((a) => ({
+    title: a.title,
+    url: (a.url || "").replace(/^http:\/\//, "https://"),
+    snippet: a.excerpt || a.title,
+    author: null,
+    publishedAt: new Date(a.created * 1000).toISOString(),
+  }));
+
+  console.log(`  📄 共 ${entries.length} 条在时间范围内`);
+  return processEntries(source, entries, existingKeys);
+}
+
+// ============================================================
 //  主流程
 // ============================================================
 
@@ -1009,6 +1121,7 @@ async function main() {
     if (s.type === "web") return !!s.url || (!!s.urls && s.urls.length > 0);
     if (s.type === "api") return !!s.endpoint;
     if (s.type === "opencli-author") return !!s.url;
+    if (s.type === "zhihu-user") return !!s.urlToken;
     return false;
   });
 
@@ -1035,7 +1148,7 @@ async function main() {
     const batch = activeSources.slice(i, i + CONCURRENCY);
     const batchResults = await Promise.allSettled(
       batch.map(async (source) => {
-        const typeLabel = { rss: "📡 RSS", web: "🕷️  Web", api: "🔌 API", "opencli-author": "🌐 OpenCLI" }[source.type] || "📡";
+        const typeLabel = { rss: "📡 RSS", web: "🕷️  Web", api: "🔌 API", "opencli-author": "🌐 OpenCLI", "zhihu-user": "🟦 知乎" }[source.type] || "📡";
         const sourceLabel = source.urls ? source.urls.join(", ") : source.url;
 console.log(`${typeLabel} 抓取: ${source.name} (${sourceLabel})`);
 
@@ -1058,6 +1171,9 @@ console.log(`${typeLabel} 抓取: ${source.name} (${sourceLabel})`);
                 break;
               case "opencli-author":
                 items = await fetchOpencliAuthor(source, existingKeys);
+                break;
+              case "zhihu-user":
+                items = await fetchZhihuUser(source, existingKeys);
                 break;
               default:
                 console.log(`  ⚠️ 未知类型: ${source.type}，跳过`);

@@ -87,6 +87,17 @@
     "encoding": "utf-8"
   },
   {
+    "id": "zhihu-hreo",
+    "name": "罗斯基（知乎）",
+    "url": "https://www.zhihu.com/people/hreo/posts",
+    "urlToken": "hreo",
+    "contentType": "articles",
+    "type": "zhihu-user",
+    "tier": 2,
+    "weight": 60,
+    "daysBack": 7
+  },
+  {
     "id": "gameres",
     "name": "游资网",
     "url": "https://www.gameres.com/list/4",

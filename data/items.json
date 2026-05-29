@@ -1,5 +1,32 @@
 [
   {
+    "id": "skocy40oweaxyk6u6e1khlqx",
+    "sourceId": "zhihu-hreo",
+    "sourceName": "罗斯基（知乎）",
+    "url": "https://zhuanlan.zhihu.com/p/2043688431239398580",
+    "title": "突发！《Block Blast!》突遭 Google Play 下架",
+    "titleZh": "突发！Block Blast!遭Google Play下架",
+    "summaryZh": "海外休闲头部产品《Block Blast!》于2026年5月28日在Google Play全区域下架，为该产品上线以来首次遭遇全球性渠道下架。事件仅针对安卓平台，谷歌应用商店已无法检索和下载该游戏，具体原因待进一步披露。",
+    "author": null,
+    "publishedAt": "2026-05-29T05:41:32.000Z",
+    "fetchedAt": "2026-05-29T05:53:16.413Z",
+    "isSelected": true,
+    "score": {
+      "importance": 16,
+      "articleQuality": 13,
+      "timeliness": 18,
+      "uniqueness": 14,
+      "usefulness": 15,
+      "totalScore": 76,
+      "finalScore": 73,
+      "reason": "头部产品首次全球下架，渠道风险警讯值得重视",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "k7jagz5nmqxwkeuafigua38o",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
