@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Tracker from "@/components/Tracker";
 
 export const metadata: Metadata = {
   title: "GameHot — 游戏开发热点精选",
@@ -24,7 +25,7 @@ export default function RootLayout({
         <meta name="theme-color" content="#060814" media="(prefers-color-scheme: dark)" />
         <meta name="theme-color" content="#fafbfc" media="(prefers-color-scheme: light)" />
       </head>
-      <body>{children}</body>
+      <body>{children}<Tracker /></body>
     </html>
   );
 }

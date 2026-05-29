@@ -23,10 +23,12 @@ export default function Sidebar() {
     { icon: "✦", label: "精选", href: "/" },
     { icon: "◈", label: "全部", href: "/?view=all" },
     { icon: "ℹ", label: "关于", href: "/about" },
+    { icon: "◉", label: "数据", href: "/dashboard" },
   ];
 
   function isActive(item: typeof navItems[number]) {
     if (item.href === "/about") return pathname === "/about";
+    if (item.href === "/dashboard") return pathname === "/dashboard";
     if (item.href === "/?view=all") return pathname === "/" && view === "all";
     return pathname === "/" && view !== "all";
   }

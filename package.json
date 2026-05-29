@@ -9,6 +9,7 @@
     "fetch": "npx tsx scripts/fetch.ts"
   },
   "dependencies": {
+    "@upstash/redis": "^1.38.0",
     "cheerio": "^1.2.0",
     "iconv-lite": "^0.7.2",
     "next": "16.2.6",
