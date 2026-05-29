@@ -1,5 +1,32 @@
 [
   {
+    "id": "8u1d9ntvvpdjb07wibvwq822",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/197258",
+    "title": "中国游戏，抢先杀进下半场？",
+    "titleZh": "中国游戏，抢先杀进下半场？",
+    "summaryZh": "文章分析中国游戏市场的发展阶段，指出年末TGA颁奖和暑期Gamescom、ChinaJoy等展会节点对行业的重要意义，探讨中国游戏厂商如何在竞争下半程抢占先机。",
+    "author": null,
+    "publishedAt": "2026-05-29T03:11:33.828Z",
+    "fetchedAt": "2026-05-29T03:36:39.314Z",
+    "isSelected": false,
+    "score": {
+      "importance": 12,
+      "articleQuality": 10,
+      "timeliness": 8,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 45,
+      "finalScore": 48,
+      "reason": "",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "tkhdvw6k17a3h17jsb6j4m7m",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
