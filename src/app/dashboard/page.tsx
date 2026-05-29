@@ -58,19 +58,19 @@ export default async function DashboardPage() {
 
       <div className="stats-cards">
         <div className="stat-card">
-          <div className="stat-label">今日 PV</div>
+          <div className="stat-label">今日浏览量</div>
           <div className="stat-value">{today.pv}</div>
         </div>
         <div className="stat-card">
-          <div className="stat-label">今日 UV</div>
+          <div className="stat-label">今日访客</div>
           <div className="stat-value">{today.uv}</div>
         </div>
         <div className="stat-card">
-          <div className="stat-label">7 天 PV</div>
+          <div className="stat-label">7 天浏览</div>
           <div className="stat-value">{totalPV}</div>
         </div>
         <div className="stat-card">
-          <div className="stat-label">7 天 UV</div>
+          <div className="stat-label">7 天访客</div>
           <div className="stat-value">{totalUV}</div>
         </div>
       </div>
@@ -85,7 +85,7 @@ export default async function DashboardPage() {
                 className="bar-fill"
                 style={{ height: `${(d.pv / maxPV) * 100}%` }}
               />
-              <div className="bar-uv">{d.uv} uv</div>
+              <div className="bar-uv">{d.uv} 访客</div>
               <div className="bar-date">{d.date}</div>
             </div>
           ))}
