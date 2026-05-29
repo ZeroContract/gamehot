@@ -1,5 +1,32 @@
 [
   {
+    "id": "62i9xy1yndvr27lfujxq7it5",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://gameres.com/917595.html",
+    "title": "这家曾经依靠页游起家的工作室，为何决定将游戏带到Steam？",
+    "titleZh": "页游工作室转型：为何将游戏带到Steam？",
+    "summaryZh": "本文报道了一家从页游起步的工作室，决定将其游戏产品《战争指挥官》推向Steam平台的决策过程与考量。分析了页游与Steam平台的用户群体差异、发行策略转变等关键因素，为中小型游戏厂商的平台选择提供参考案例。",
+    "author": null,
+    "publishedAt": "2026-05-29T01:43:14.273Z",
+    "fetchedAt": "2026-05-29T02:04:30.298Z",
+    "isSelected": false,
+    "score": {
+      "importance": 10,
+      "articleQuality": 11,
+      "timeliness": 9,
+      "uniqueness": 9,
+      "usefulness": 12,
+      "totalScore": 51,
+      "finalScore": 53,
+      "reason": "",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "6azkire0fhphihpf9s9jx9yr",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
