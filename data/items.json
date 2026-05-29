@@ -1,5 +1,33 @@
 [
   {
+    "id": "2m9o8udpd8ftxalepcczzdd5",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/197380",
+    "title": "今天，腾讯二次元打出一张“新牌”",
+    "titleZh": "腾讯二次元打出新牌",
+    "summaryZh": "腾讯持续加码二次元赛道，从早年自研尝试《白夜极光》到如今策略更加清晰，展现其对二次元市场的重视与布局调整。",
+    "author": null,
+    "publishedAt": "2026-05-29T07:11:33.048Z",
+    "fetchedAt": "2026-05-29T07:12:47.270Z",
+    "isSelected": true,
+    "score": {
+      "importance": 13,
+      "articleQuality": 12,
+      "timeliness": 15,
+      "uniqueness": 11,
+      "usefulness": 10,
+      "totalScore": 61,
+      "finalScore": 61,
+      "reason": "腾讯大厂二次元策略调整，对行业趋势有参考价值",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "simw9qcczbtmv7f0q3v1mnlj",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
