@@ -54,6 +54,61 @@
     }
   },
   {
+    "id": "8j47f0jj3gkerqz8xe7u10p1",
+    "sourceId": "zhihu-hreo",
+    "sourceName": "罗斯基（知乎）",
+    "url": "https://zhuanlan.zhihu.com/p/2043666870054671265",
+    "title": "小游戏爆款方法论周活跃留存70%MAU 528万向往的生活游戏运营密码",
+    "titleZh": "小游戏爆款方法论 MAU528万周留存70%",
+    "summaryZh": "2026微信小游戏开发者大会在杭州召开，披露平台MAU超5亿、用户日均时长超60分钟。《向往的生活》小游戏MAU达528万，周活跃留存70%，分享小游戏运营方法论。",
+    "author": "罗斯基",
+    "publishedAt": "2026-05-29T04:15:51.000Z",
+    "fetchedAt": "2026-05-29T05:33:02.415Z",
+    "isSelected": true,
+    "score": {
+      "importance": 17,
+      "articleQuality": 14,
+      "timeliness": 18,
+      "uniqueness": 15,
+      "usefulness": 16,
+      "totalScore": 80,
+      "finalScore": 76,
+      "reason": "平台一手数据披露，MAU528万案例极具参考价值",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "0a46uygtq9ljxzak6jqp59to",
+    "sourceId": "zhihu-hreo",
+    "sourceName": "罗斯基（知乎）",
+    "url": "https://zhuanlan.zhihu.com/p/2043658246070727873",
+    "title": "男性也爱玩消除从没法变现到日活百万一箭又一箭如何起死回生？",
+    "titleZh": "男性也爱玩消除：休闲游戏如何从变现难到日活百万",
+    "summaryZh": "5月27日，2026微信小游戏开发者大会在杭州召开，回顾微信小游戏自2017年以来的生态演进。大会披露微信小游戏月活超5亿，平均用户时长超60分钟，用户社交互动超1亿次。",
+    "author": "罗斯基",
+    "publishedAt": "2026-05-29T03:41:35.000Z",
+    "fetchedAt": "2026-05-29T05:33:15.812Z",
+    "isSelected": false,
+    "score": {
+      "importance": 12,
+      "articleQuality": 11,
+      "timeliness": 14,
+      "uniqueness": 7,
+      "usefulness": 8,
+      "totalScore": 52,
+      "finalScore": 54,
+      "reason": "",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "tgesl4h5de5tx1m70dtioyqo",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
@@ -185,6 +240,145 @@
       "finalScore": 53,
       "reason": "",
       "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "qs6wyml4eqqtvf913hrdkgn0",
+    "sourceId": "zhihu-hreo",
+    "sourceName": "罗斯基（知乎）",
+    "url": "https://zhuanlan.zhihu.com/p/2043476906406843199",
+    "title": "狂揽千万下载！重庆厂商新作《Sheep Dash》席卷 50 国游戏榜单",
+    "titleZh": "重庆厂商《Sheep Dash》海外获千万下载 登榜50国",
+    "summaryZh": "重庆环游者网络科技研发的《Sheep Dash》在海外市场取得千万下载量，登上50个国家游戏榜单前列，成为中国中小厂商低调出海的成功案例。",
+    "author": "罗斯基",
+    "publishedAt": "2026-05-28T15:41:00.000Z",
+    "fetchedAt": "2026-05-29T05:33:23.052Z",
+    "isSelected": false,
+    "score": {
+      "importance": 12,
+      "articleQuality": 13,
+      "timeliness": 11,
+      "uniqueness": 10,
+      "usefulness": 10,
+      "totalScore": 56,
+      "finalScore": 57,
+      "reason": "",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "j5x8ayijq5rpe1kv0m6qj9na",
+    "sourceId": "zhihu-hreo",
+    "sourceName": "罗斯基（知乎）",
+    "url": "https://zhuanlan.zhihu.com/p/2043446747666633781",
+    "title": "爆款小游戏《打个螺丝》如何立项调优一款2D打螺丝凭啥能火600天",
+    "titleZh": "爆款小游戏《打个螺丝》立项调优分析",
+    "summaryZh": "2026微信小游戏开发者大会披露，微信小游戏月活超5亿，平均用户时长超60分钟。大会分析了爆款《打个螺丝》的立项调优经验，探讨2D休闲游戏长青方法论。",
+    "author": "罗斯基",
+    "publishedAt": "2026-05-28T13:41:10.000Z",
+    "fetchedAt": "2026-05-29T05:33:44.344Z",
+    "isSelected": true,
+    "score": {
+      "importance": 14,
+      "articleQuality": 13,
+      "timeliness": 16,
+      "uniqueness": 13,
+      "usefulness": 15,
+      "totalScore": 71,
+      "finalScore": 69,
+      "reason": "微信小游戏生态最新数据+爆款案例方法论，对小游戏开发者参考价值高",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "dalm34rm67i3p0l4pexel64e",
+    "sourceId": "zhihu-hreo",
+    "sourceName": "罗斯基（知乎）",
+    "url": "https://zhuanlan.zhihu.com/p/2043439187169473689",
+    "title": "累计狂揽4000万下载！这款国产找茬游戏拿捏海外用户心智",
+    "titleZh": "国产找茬游戏海外狂揽4000万下载",
+    "summaryZh": "北京克鲁科技旗下休闲游戏《找不同》海外累计下载量达4000万，虽未登榜单高位，但近期表现突出。文章分析了该产品海外运营策略，探讨休闲品类在海外市场的发展机会。",
+    "author": "罗斯基",
+    "publishedAt": "2026-05-28T13:11:07.000Z",
+    "fetchedAt": "2026-05-29T05:33:52.301Z",
+    "isSelected": false,
+    "score": {
+      "importance": 13,
+      "articleQuality": 11,
+      "timeliness": 10,
+      "uniqueness": 9,
+      "usefulness": 10,
+      "totalScore": 53,
+      "finalScore": 54,
+      "reason": "",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "y47rcreozpeng7v56og9wj4b",
+    "sourceId": "zhihu-hreo",
+    "sourceName": "罗斯基（知乎）",
+    "url": "https://zhuanlan.zhihu.com/p/2043386316415661185",
+    "title": "一味抄爆款等于慢性自杀罗斯基和这批出海老兵聊了 2026 的生存法则",
+    "titleZh": "2026游戏出海生存法则：爆款COPY等于慢性自杀",
+    "summaryZh": "2026年上半年游戏出海呈现两极分化态势。小游戏多端生态虽有创富机会，但买量成本攀升、平台审核趋严、产品同质化严重等问题日益凸显，传统“抄爆款”模式已难以为继，行业急需探索新的生存法则。",
+    "author": "罗斯基",
+    "publishedAt": "2026-05-28T09:41:02.000Z",
+    "fetchedAt": "2026-05-29T05:33:55.748Z",
+    "isSelected": true,
+    "score": {
+      "importance": 16,
+      "articleQuality": 14,
+      "timeliness": 17,
+      "uniqueness": 13,
+      "usefulness": 15,
+      "totalScore": 75,
+      "finalScore": 72,
+      "reason": "出海老兵亲述2026生存困境，干货满满值得研读",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "lgdjzfpjoo78z9tvfilk5rz8",
+    "sourceId": "zhihu-hreo",
+    "sourceName": "罗斯基（知乎）",
+    "url": "https://zhuanlan.zhihu.com/p/2043386244890112096",
+    "title": "空降小游戏畅销榜Top3黑马品类休闲RTS凭什么占城大师产品分析",
+    "titleZh": "休闲RTS黑马《占城大师》畅销榜分析",
+    "summaryZh": "《占城大师》由杭州毒鱼研发、武汉多比特发行，4月20日登陆抖音小游戏平台后迅速进入前十，后稳居微信小游戏畅销榜前五。文章对该休闲RTS品类产品进行深入分析，解读其成功原因和市场表现。",
+    "author": "罗斯基",
+    "publishedAt": "2026-05-28T09:40:45.000Z",
+    "fetchedAt": "2026-05-29T05:34:04.784Z",
+    "isSelected": false,
+    "score": {
+      "importance": 10,
+      "articleQuality": 12,
+      "timeliness": 6,
+      "uniqueness": 11,
+      "usefulness": 10,
+      "totalScore": 49,
+      "finalScore": 51,
+      "reason": "",
+      "tags": [
+        "游戏",
         "行业"
       ],
       "relatedItems": []
@@ -1652,6 +1846,34 @@
     }
   },
   {
+    "id": "sysx4miajmbgbxdn1g990bve",
+    "sourceId": "zhihu-hreo",
+    "sourceName": "罗斯基（知乎）",
+    "url": "https://zhuanlan.zhihu.com/p/2042321989633824764",
+    "title": "越逼氪老外越爱玩这家出海厂商把二合做成无底洞后海外一年赚40亿",
+    "titleZh": "出海厂商反向操作：重商业化年赚40亿",
+    "summaryZh": "欧美休闲手游市场传统观念认为体验必须轻度克制，但某中国出海厂商将二合玩法做成重度商业化系统，在海外年收入达40亿，颠覆了欧美大厂的固有认知。",
+    "author": "罗斯基",
+    "publishedAt": "2026-05-25T11:11:47.000Z",
+    "fetchedAt": "2026-05-29T05:34:15.486Z",
+    "isSelected": true,
+    "score": {
+      "importance": 13,
+      "articleQuality": 13,
+      "timeliness": 14,
+      "uniqueness": 15,
+      "usefulness": 12,
+      "totalScore": 67,
+      "finalScore": 66,
+      "reason": "颠覆欧美休闲游戏铁律，反向操作案例独特且有启发",
+      "tags": [
+        "游戏",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "549ktvkh3jjs5bv629atz4sy",
     "sourceId": "youxiputao",
     "sourceName": "游戏葡萄",
@@ -1729,6 +1951,34 @@
       "tags": [
         "行业",
         "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "tnbhw492lo56k64c06es5pqm",
+    "sourceId": "zhihu-hreo",
+    "sourceName": "罗斯基（知乎）",
+    "url": "https://zhuanlan.zhihu.com/p/2042223826109555375",
+    "title": "把副玩法做成 2 亿美元大生意这三个爆款给混休团队上了一堂设计课",
+    "titleZh": "副玩法如何做成2亿美元生意？爆款设计课",
+    "summaryZh": "在海外获客成本攀升、重度品类激烈竞争下，分类益智（Sort Puzzle）这一曾被视作副玩法的品类，过去两年完成惊人商业蜕变，诞生数个爆款产品，为混合休闲团队提供设计新思路。",
+    "author": "罗斯基",
+    "publishedAt": "2026-05-25T04:41:43.000Z",
+    "fetchedAt": "2026-05-29T05:34:19.784Z",
+    "isSelected": true,
+    "score": {
+      "importance": 15,
+      "articleQuality": 14,
+      "timeliness": 12,
+      "uniqueness": 13,
+      "usefulness": 13,
+      "totalScore": 67,
+      "finalScore": 66,
+      "reason": "品类商业化分析深入，混合休闲团队必读",
+      "tags": [
+        "行业",
+        "游戏"
       ],
       "relatedItems": []
     }
@@ -2120,6 +2370,62 @@
     }
   },
   {
+    "id": "jc6fjtobswlqy6onp7avp7lj",
+    "sourceId": "zhihu-hreo",
+    "sourceName": "罗斯基（知乎）",
+    "url": "https://zhuanlan.zhihu.com/p/2041498817187550907",
+    "title": "花光2000亿买下半个游戏圈后，沙特土豪赚钱了吗？",
+    "titleZh": "沙特土豪2000亿收购游戏圈，盈利了吗？",
+    "summaryZh": "沙特主权基金近年在游戏行业投入巨资，布局电竞、移动游戏发行、头部IP及上市游戏公司持股等关键领域。本文分析其投资策略与财务回报，揭示中东资本对全球游戏产业格局的影响。",
+    "author": "罗斯基",
+    "publishedAt": "2026-05-23T04:40:47.000Z",
+    "fetchedAt": "2026-05-29T05:34:28.594Z",
+    "isSelected": true,
+    "score": {
+      "importance": 15,
+      "articleQuality": 14,
+      "timeliness": 13,
+      "uniqueness": 12,
+      "usefulness": 10,
+      "totalScore": 64,
+      "finalScore": 63,
+      "reason": "揭示沙特资本游戏圈布局策略，数据详实有参考价值",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ywm89x4yl851mo21vndjutqg",
+    "sourceId": "zhihu-hreo",
+    "sourceName": "罗斯基（知乎）",
+    "url": "https://zhuanlan.zhihu.com/p/2041498812305371175",
+    "title": "莉莉丝新游空降美榜Top1宠物+Coin Master-like的融合玩法真这么香",
+    "titleZh": "莉莉丝新游空降美榜Top1",
+    "summaryZh": "莉莉丝新游戏凭借宠物+Coin Master-like融合玩法登上美国榜单首位。Coin Master-like赛道表现强劲，《Monopoly Go!》两年营收超50亿美元，《Coin Master》累计吸金50亿美元，验证融合玩法市场潜力巨大。",
+    "author": "罗斯基",
+    "publishedAt": "2026-05-23T04:40:46.000Z",
+    "fetchedAt": "2026-05-29T05:34:32.792Z",
+    "isSelected": true,
+    "score": {
+      "importance": 14,
+      "articleQuality": 12,
+      "timeliness": 15,
+      "uniqueness": 11,
+      "usefulness": 13,
+      "totalScore": 65,
+      "finalScore": 64,
+      "reason": "莉莉丝融合玩法新游登顶美国榜，Coin Master-like赛道吸金数据详实可靠。",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "7s8upb1x7v68ovijrsknicq0",
     "sourceId": "youxiputao",
     "sourceName": "游戏葡萄",
@@ -2141,6 +2447,62 @@
       "finalScore": 53,
       "reason": "",
       "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "55zfsty0xkzlr7tt0yface41",
+    "sourceId": "zhihu-hreo",
+    "sourceName": "罗斯基（知乎）",
+    "url": "https://zhuanlan.zhihu.com/p/2041492062676185308",
+    "title": "三年投1000亿，米哈游越来越像一家AI公司",
+    "titleZh": "三年投1000亿，米哈游越来越像一家AI公司",
+    "summaryZh": "深度分析米哈游战略转型，从游戏公司向AI领域大举投资，揭示其脱离传统游戏叙事的发展暗线，探讨这家二次元大厂在AI浪潮中的布局与野心。",
+    "author": "罗斯基",
+    "publishedAt": "2026-05-23T04:13:57.000Z",
+    "fetchedAt": "2026-05-29T05:34:45.632Z",
+    "isSelected": true,
+    "score": {
+      "importance": 16,
+      "articleQuality": 15,
+      "timeliness": 10,
+      "uniqueness": 13,
+      "usefulness": 13,
+      "totalScore": 67,
+      "finalScore": 66,
+      "reason": "揭示头部大厂AI转型战略，对理解行业趋势有重要参考价值",
+      "tags": [
+        "AI",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "daoraj4u118hilc8yhrethod",
+    "sourceId": "zhihu-hreo",
+    "sourceName": "罗斯基（知乎）",
+    "url": "https://zhuanlan.zhihu.com/p/2041483954725934871",
+    "title": "融资近4个亿用户2000万AI小游戏平台火了李飞飞红杉英伟达都来了",
+    "titleZh": "AI小游戏平台融资近4亿 用户2000万 李飞飞红杉英伟达入局",
+    "summaryZh": "AI游戏平台Astrocade获近4亿元融资，用户突破2000万，由“AI教母”李飞飞参与，获得红杉和英伟达等投资。与传统AI工具不同，Astrocade定位为游戏产业链核心平台，而非单纯提效插件。",
+    "author": "罗斯基",
+    "publishedAt": "2026-05-23T03:41:43.000Z",
+    "fetchedAt": "2026-05-29T05:34:55.508Z",
+    "isSelected": true,
+    "score": {
+      "importance": 15,
+      "articleQuality": 13,
+      "timeliness": 14,
+      "uniqueness": 11,
+      "usefulness": 10,
+      "totalScore": 63,
+      "finalScore": 62,
+      "reason": "AI+游戏平台热点，知名投资人入局反映行业趋势",
+      "tags": [
+        "AI",
         "行业"
       ],
       "relatedItems": []

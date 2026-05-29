@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 GameHot is a Chinese game industry news aggregator. It scrapes Chinese game news sites, uses AI (MiniMax-M2.7) to score/translate/summarize articles, and displays a curated timeline on a Next.js frontend.
 
-4 active sources: 游戏葡萄 (opencli browser), 游戏茶馆 (cheerio), 游资网 (cheerio), 游戏陀螺 (cheerio). 2 disabled pending migration.
+4 active sources: 游戏葡萄 (opencli browser), 游戏茶馆 (cheerio), 游资网 (cheerio), 游戏陀螺 (cheerio). 2 sources in config but skipped at runtime (empty url, pending cheerio migration).
 
 ## Architecture
 
@@ -25,10 +25,16 @@ data/
 
 src/                      →  Next.js 16 frontend (React 19, App Router)
   app/page.tsx            →  Timeline view, ?view=all (全量) or default (精选), ?q= & ?tag=
+  app/dashboard/page.tsx  →  Visitor stats dashboard (password-protected, hidden from nav)
+  app/api/track/route.ts  →  POST endpoint for pageview tracking
+  app/api/auth/route.ts   →  POST endpoint for dashboard password auth
   components/FeedToolbar  →  Category filter bar (行业/公司/游戏/干货/展会/AI)
-  components/Sidebar      →  Nav: 精选 / 全部 / 关于
+  components/Sidebar      →  Nav: 精选 / 全部 / 关于 (dashboard link intentionally hidden)
   components/TimelineCard →  Article card with score, tags, AI reason, related items
+  components/Tracker      →  Client component, fires /api/track on page navigation
+  components/LoginForm    →  Password form for dashboard access
   lib/data.ts             →  Read/filter items.json and sources.json
+  lib/kv.ts               →  Upstash Redis client (visitor stats storage)
 ```
 
 ## Commands
@@ -135,6 +141,24 @@ Single-page app at `/`. Two views:
 - **全部** (`/?view=all`) — all items including low scores
 
 Both views share the same `FeedToolbar` category filter (行业/公司/游戏/干货/展会/AI) and search. Sidebar nav: 精选 / 全部 / 关于.
+
+## Visitor tracking
+
+Pages are tracked via the `Tracker` client component (included in root layout). On each navigation, it POSTs `{ path }` to `/api/track`, which stores data in Upstash Redis:
+
+- **PV**: `INCR pv:2026-05-29` per day, plus `INCR pv:2026-05-29:/path` per page
+- **UV**: `PFADD uv:2026-05-29 <ip>` using HyperLogLog for approximate unique counts
+- All keys auto-expire after 30 days (within Upstash free tier)
+
+## Dashboard
+
+`/dashboard` shows 7-day PV/UV stats with a bar chart. Protected by `DASHBOARD_PASSWORD` env var — first visit shows a password form, correct password sets an httpOnly cookie (7-day TTL). The dashboard link is intentionally hidden from the sidebar nav.
+
+## Deployment
+
+**Vercel** with GitHub auto-deploy on push to `main`. Upstash Redis integration provides `KV_REST_API_URL` + `KV_REST_API_TOKEN` (auto-injected by Vercel). Env vars set in Vercel dashboard:
+- `DEEPSEEK_API_KEY` — MiniMax API key (required for fetch pipeline)
+- `DASHBOARD_PASSWORD` — Dashboard access password
 
 ## Scheduling
 
