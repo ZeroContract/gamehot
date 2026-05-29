@@ -1015,13 +1015,23 @@ async function fetchZhihuUser(source: Source, existingKeys: Set<string>): Promis
   // 打开知乎页面确保登录态有效
   console.log(`  🌐 打开知乎: ${source.url}`);
   execSync(`opencli browser open "${source.url}"`, { encoding: "utf-8", stdio: "pipe" });
-  console.log(`  ⏳ 等待页面加载...`);
-  execSync(`opencli browser wait time 5`, { encoding: "utf-8", stdio: "pipe" });
+
+  // 随机等待，模拟人类浏览行为（5-8s）
+  const pageWait = 5 + Math.random() * 3;
+  console.log(`  ⏳ 等待页面加载 (${pageWait.toFixed(1)}s)...`);
+  execSync(`opencli browser wait time ${Math.round(pageWait)}`, { encoding: "utf-8", stdio: "pipe" });
+
+  // 随机滚动 1-3 次，模拟浏览
+  const scrolls = 1 + Math.floor(Math.random() * 3);
+  for (let i = 0; i < scrolls; i++) {
+    execSync(`opencli browser scroll down`, { encoding: "utf-8", stdio: "pipe" });
+    await new Promise((r) => setTimeout(r, 800 + Math.random() * 1200));
+  }
 
   // 通过浏览器内 fetch 调用知乎 API（自动携带 cookies）
   const allArticles: { title: string; url: string; excerpt: string; created: number }[] = [];
   const limit = 20;
-  const maxPages = 10;
+  const maxPages = 3; // 7 天内最多 3 页足够
 
   for (let page = 0; page < maxPages; page++) {
     const offset = page * limit;
@@ -1030,7 +1040,11 @@ async function fetchZhihuUser(source: Source, existingKeys: Set<string>): Promis
     const fetchJs = `
       (async function() {
         try {
-          var resp = await fetch('${apiUrl}', {credentials: 'include'});
+          var resp = await fetch('${apiUrl}', {
+            credentials: 'include',
+            headers: { 'Referer': 'https://www.zhihu.com/people/${urlToken}/${contentType}' }
+          });
+          if (!resp.ok) return JSON.stringify({error: 'HTTP ' + resp.status});
           var json = await resp.json();
           if (!json.data) return JSON.stringify({error: 'no data', raw: json});
           var items = json.data.map(function(a) {
@@ -1078,8 +1092,8 @@ async function fetchZhihuUser(source: Source, existingKeys: Set<string>): Promis
 
     if (result.paging && result.paging.is_end) break;
 
-    // 页面间延迟
-    await new Promise((r) => setTimeout(r, 500));
+    // 页面间随机延迟 1.5-3s
+    await randomDelay(1500, 3000);
   }
 
   return buildZhihuEntries(source, allArticles, existingKeys);
