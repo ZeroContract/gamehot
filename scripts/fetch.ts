@@ -934,6 +934,7 @@ async function fetchOpencliAuthor(source: Source, existingKeys: Set<string>): Pr
 
   // 从 React fiber 提取文章数据
   const extractJs = [
+    '(function() {',
     'var items = document.querySelectorAll(".author-article-item");',
     'var results = [];',
     'for (var i = 0; i < items.length; i++) {',
@@ -949,7 +950,8 @@ async function fetchOpencliAuthor(source: Source, existingKeys: Set<string>): Pr
     '    fiber = fiber.return;',
     '  }',
     '}',
-    'JSON.stringify(results);',
+    'return JSON.stringify(results);',
+    '})();',
   ].join("");
 
   fs.writeFileSync("/tmp/opencli_extract.js", extractJs, "utf-8");
