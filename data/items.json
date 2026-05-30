@@ -1,5 +1,32 @@
 [
   {
+    "id": "15f8ur7yrdhrzhk3yacwyot0",
+    "sourceId": "youxiputao",
+    "sourceName": "游戏葡萄",
+    "url": "https://news.qq.com/rain/a/20260530A08B6A00?suid=&media_id=",
+    "title": "制造业销售做独游，破产兼职熬10年，「最后的神作」终于翻红",
+    "titleZh": "制造业销售转做独游，十年磨一剑终翻红",
+    "summaryZh": "讲述一名制造业销售转型独立游戏开发，经历破产与兼职的艰难历程，坚守十年后其被称为“最后的神作”的作品终于获得市场认可实现翻红的故事，为转型开发者提供参考样本。",
+    "author": null,
+    "publishedAt": "2026-05-30T10:38:33.000Z",
+    "fetchedAt": "2026-05-30T12:04:21.134Z",
+    "isSelected": true,
+    "score": {
+      "importance": 14,
+      "articleQuality": 13,
+      "timeliness": 12,
+      "uniqueness": 13,
+      "usefulness": 12,
+      "totalScore": 64,
+      "finalScore": 68,
+      "reason": "真实记录独立开发者十年转型路，案例稀缺有激励作用",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "00qz0zcxn6owic1vfdmydaap",
     "sourceId": "youxiputao",
     "sourceName": "游戏葡萄",
