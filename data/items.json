@@ -1,5 +1,60 @@
 [
   {
+    "id": "ptiisyik6m8eq81qwwslafcx",
+    "sourceId": "youxiputao",
+    "sourceName": "游戏葡萄",
+    "url": "https://news.qq.com/rain/a/20260531A07DOS00?suid=&media_id=",
+    "title": "年流水超10亿公司代码被盗，嫌疑人被拘捕 | 一周说「法」",
+    "titleZh": "年流水10亿公司代码被盗 嫌疑人落网",
+    "summaryZh": "年流水超10亿元的游戏公司遭遇代码被盗事件，嫌疑人已被拘捕。案件凸显游戏行业知识产权保护和数据安全的重要性，对业内公司敲响警钟，需加强代码管理和安全防护措施。",
+    "author": null,
+    "publishedAt": "2026-05-31T11:11:03.000Z",
+    "fetchedAt": "2026-05-31T12:22:02.712Z",
+    "isSelected": true,
+    "score": {
+      "importance": 16,
+      "articleQuality": 13,
+      "timeliness": 14,
+      "uniqueness": 11,
+      "usefulness": 14,
+      "totalScore": 68,
+      "finalScore": 71,
+      "reason": "代码安全是游戏公司核心资产保护的重要警示案例",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "atcxfrucznh7jedf1jd0r9dt",
+    "sourceId": "youxiputao",
+    "sourceName": "游戏葡萄",
+    "url": "https://news.qq.com/rain/a/20260531A07DON00?suid=&media_id=",
+    "title": "前沐瞳CEO袁菁对话漕河泾00后：百万年薪的游戏人，为何还不快乐？",
+    "titleZh": "对话前沐瞳CEO：百万年薪游戏人为何不快乐",
+    "summaryZh": "前沐瞳CEO袁菁与漕河泾00后从业者对话，探讨高收入游戏人面临的压力、职业倦怠与行业文化反思，揭示薪资与幸福感之间的矛盾。",
+    "author": null,
+    "publishedAt": "2026-05-31T11:11:03.000Z",
+    "fetchedAt": "2026-05-31T12:22:16.222Z",
+    "isSelected": true,
+    "score": {
+      "importance": 14,
+      "articleQuality": 15,
+      "timeliness": 13,
+      "uniqueness": 16,
+      "usefulness": 10,
+      "totalScore": 68,
+      "finalScore": 71,
+      "reason": "前CEO亲述行业真实困境，视角稀缺，直击从业者痛点",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "15f8ur7yrdhrzhk3yacwyot0",
     "sourceId": "youxiputao",
     "sourceName": "游戏葡萄",
