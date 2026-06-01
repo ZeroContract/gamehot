@@ -28,34 +28,45 @@ const AI_API_KEY = process.env.DEEPSEEK_API_KEY || "";
 const AI_API_BASE = process.env.AI_API_BASE || "https://api.minimax.chat/v1";
 const AI_MODEL = process.env.AI_MODEL || "MiniMax-M2.7";
 
-const SCORE_PROMPT = `你是游戏行业的资深编辑。请对以下游戏开发相关新闻进行评估。
+const SCORE_PROMPT = `你是游戏行业的资深编辑。请对以下内容进行评估，判断其是否与游戏行业相关，并对相关文章进行评分。
 
 内容标题：{title}
 内容摘要：{snippet}
 来源名称：{sourceName}
 
-1. 翻译标题为中文（简洁，20 字以内）
-2. 写一段中文摘要（50-80 字，包含关键信息）
-3. 从 1-20 打分（5 个维度，满分 100）。务必拉开差距，充分使用 1-20 全区间：
-   评分基准：18-20=顶级/行业标杆，15-17=优秀，12-14=良好，8-11=一般，4-7=较弱，1-3=很差
-   - 重要性：对游戏行业从业者（研发、发行、市场、运营等）的参考价值
-   - 文章质量：内容深度、论据充分性、信息密度、行文水平
-   - 时效性：信息新鲜度、是否紧跟行业动态
-   - 独特性：是否独家视角、差异化观点、一手信息
-   - 实用度：从业者能否直接应用到实际工作中
-4. 计算总分（5 维加总，满分 100），如果总分 >= 60 分则判定为精选
-5. 如果精选，写一句话推荐理由（30 字以内，口语化、有信息量）
-5b. 如果未精选（总分 < 60），写一句话不推荐理由（30 字以内，口语化，说明为什么不值得推荐，例如"内容较水""信息量不足""与游戏行业关联弱"等）
-6. 打标签（从以下选 1-2 个最合适的，标签值严格等于"行业""公司""游戏""干货""展会""AI"这六个词之一）：
-   行业（行业趋势、政策法规、市场数据、产业报告）
-   公司（公司动态、投融资、人事变动、财报业绩）
-   游戏（游戏产品、新游发布、运营数据、品类分析）
-   干货（技术分享、开发经验、设计方法论、实用工具）
-   展会（游戏展会、行业峰会、电竞赛事、嘉年华、线下活动）
-   AI（AI技术、人工智能应用、AI投融资、AI游戏）
+0. 首先判断内容是否与游戏行业相关。以下类型视为不相关：
+   - 动漫新番/动画改编消息（非游戏改编）
+   - 非游戏IP电影（如蜘蛛侠、Minecraft大电影等影视化作品，除非讨论对游戏本体的影响）
+   - 漫画连载/单行本发售消息
+   - 生活方式随笔、摄影游记、读书笔记、哲学思考
+   - 社会新闻、互联网社区动态（如天涯社区恢复访问）
+   - 非游戏类播客、有声书、电台节目
+   - 纯粹的同人创作、小说连载
+   如果完全不相关，所有维度直接打 0 分，并设置 relevant: false
+
+1. 对相关文章进行以下操作：
+   a. 翻译标题为中文（简洁，20 字以内）
+   b. 写一段中文摘要（50-80 字，包含关键信息）
+   c. 从 1-20 打分（5 个维度，满分 100）。务必拉开差距，充分使用 1-20 全区间：
+      评分基准：18-20=顶级/行业标杆，15-17=优秀，12-14=良好，8-11=一般，4-7=较弱，1-3=很差
+      - 重要性：对游戏行业从业者（研发、发行、市场、运营等）的参考价值
+      - 文章质量：内容深度、论据充分性、信息密度、行文水平
+      - 时效性：信息新鲜度、是否紧跟行业动态
+      - 独特性：是否独家视角、差异化观点、一手信息
+      - 实用度：从业者能否直接应用到实际工作中
+   d. 计算总分（5 维加总，满分 100），如果总分 >= 60 分则判定为精选
+   e. 如果精选，写一句话推荐理由（30 字以内，口语化、有信息量）
+   f. 如果未精选（总分 < 60），写一句话不推荐理由（30 字以内，口语化，说明为什么不值得推荐，例如"内容较水""信息量不足""与游戏行业关联弱"等）
+   g. 打标签（从以下选 1-2 个最合适的，标签值严格等于"行业""公司""游戏""干货""展会""AI"这六个词之一）：
+      行业（行业趋势、政策法规、市场数据、产业报告）
+      公司（公司动态、投融资、人事变动、财报业绩）
+      游戏（游戏产品、新游发布、运营数据、品类分析）
+      干货（技术分享、开发经验、设计方法论、实用工具）
+      展会（游戏展会、行业峰会、电竞赛事、嘉年华、线下活动）
+      AI（AI技术、人工智能应用、AI投融资、AI游戏）
 
 请严格以 JSON 格式返回（不要 markdown 代码块包裹）：
-{"titleZh":"...","summaryZh":"...","importance":0,"articleQuality":0,"timeliness":0,"uniqueness":0,"usefulness":0,"totalScore":0,"isSelected":false,"reason":"","notReason":"","tags":[]}`;
+{"relevant":true,"titleZh":"...","summaryZh":"...","importance":0,"articleQuality":0,"timeliness":0,"uniqueness":0,"usefulness":0,"totalScore":0,"isSelected":false,"reason":"","notReason":"","tags":[]}`;
 
 // ---- Types ----
 interface Source {
@@ -84,6 +95,7 @@ interface Source {
 }
 
 interface AiScore {
+  relevant: boolean;
   importance: number;
   articleQuality: number;
   timeliness: number;
@@ -475,6 +487,7 @@ async function scoreItem(
     const result = await callAI(prompt);
 
     const totalScore = result.totalScore || 0;
+    const relevant = result.relevant !== false; // 默认 true（兼容旧 prompt）
     const isSelected = result.isSelected ?? totalScore >= 60;
     const finalScore = totalScore > 0
       ? Math.round(totalScore * 0.8 + (sourceWeight / 100) * 20)
@@ -484,6 +497,7 @@ async function scoreItem(
       titleZh: result.titleZh || title,
       summaryZh: result.summaryZh || "",
       score: {
+        relevant,
         importance: result.importance || 0,
         articleQuality: result.articleQuality || 0,
         timeliness: result.timeliness || 0,
@@ -503,6 +517,7 @@ async function scoreItem(
       titleZh: title,
       summaryZh: "",
       score: {
+        relevant: true,
         importance: 0,
         articleQuality: 0,
         timeliness: 0,
@@ -1128,6 +1143,187 @@ function buildZhihuEntries(
 }
 
 // ============================================================
+//  机核网 (gcores.com) — HTML 预加载 JSON 抓取
+// ============================================================
+async function fetchGcores(source: Source, existingKeys: Set<string>): Promise<Item[]> {
+  const daysBack = source.daysBack ?? 7;
+  const cutOff = new Date();
+  cutOff.setDate(cutOff.getDate() - daysBack);
+  cutOff.setHours(0, 0, 0, 0);
+
+  const isArticles = source.url.includes("/articles");
+  const pageLabel = isArticles ? "文章" : "资讯";
+
+  console.log(`  📄 频道: ${pageLabel}`);
+
+  // 分页抓取，收集 RawEntry
+  const allEntries: RawEntry[] = [];
+  let page = 1;
+
+  while (true) {
+    const pageUrl = `${source.url}?page=${page}`;
+    console.log(`  🌐 第 ${page} 页`);
+
+    let html: string;
+    try {
+      html = await fetchHtml(pageUrl, "utf-8", "https://www.gcores.com/");
+    } catch (e) {
+      console.log(`  ⚠️ 请求失败，停止翻页`);
+      break;
+    }
+
+    // 解析 __PRELOADED_STATE__
+    const $ = cheerio.load(html);
+    let stateData: any = null;
+    $("script").each((_, el) => {
+      const text = $(el).html() || "";
+      if (text.includes("window.__PRELOADED_STATE__")) {
+        const match = text.match(
+          /window\.__PRELOADED_STATE__\s*=\s*(\{.*?\});\s*\n/s
+        );
+        if (match) {
+          try {
+            stateData = JSON.parse(match[1]);
+          } catch {}
+        }
+      }
+    });
+
+    if (!stateData) {
+      console.log(`  ⚠️ 无法解析预加载数据，停止翻页`);
+      break;
+    }
+
+    // 根据频道提取 ID 列表
+    let ids: Array<{ type: string; id: string }> = [];
+    if (isArticles) {
+      ids = stateData.data?.originalTypePage?.ids || [];
+    } else {
+      ids = stateData.data?.newsListPage?.newsList?.ids || [];
+    }
+
+    if (ids.length === 0) {
+      console.log(`  ⏹️ 无文章，停止翻页`);
+      break;
+    }
+
+    // 只取 articles 类型（排除 radios 等）
+    const articleIds = ids.filter((item: any) => item.type === "articles");
+    const entities = stateData.entities?.articles || {};
+
+    // 构建 RawEntry
+    let thisPageCount = 0;
+    let oldestDate: Date | null = null;
+
+    for (const { id } of articleIds) {
+      const article = entities[id];
+      if (!article) continue;
+
+      const attrs = article.attributes || {};
+      const publishedAt = attrs["published-at"];
+      if (!publishedAt) continue;
+
+      const pubDate = new Date(publishedAt);
+      if (oldestDate === null || pubDate < oldestDate) {
+        oldestDate = pubDate;
+      }
+
+      // 过滤过期文章
+      if (pubDate < cutOff) continue;
+
+      allEntries.push({
+        title: attrs.title || "",
+        url: `https://www.gcores.com/articles/${id}`,
+        snippet: attrs.excerpt || attrs.desc || "",
+        author: null,
+        publishedAt,
+      });
+      thisPageCount++;
+    }
+
+    console.log(
+      `    📄 ${articleIds.length} 条 → ${thisPageCount} 条在时间范围内 (累计: ${allEntries.length})`
+    );
+
+    // 停止条件
+    if (oldestDate && oldestDate < cutOff) {
+      console.log(`  ⏹️ 时间边界已到，停止翻页`);
+      break;
+    }
+    if (articleIds.length < (isArticles ? 12 : 18)) {
+      console.log(`  ⏹️ 最后一页，停止翻页`);
+      break;
+    }
+
+    page++;
+    await randomDelay(1000, 2000);
+  }
+
+  console.log(`  📄 共 ${allEntries.length} 条在 ${daysBack} 天内`);
+
+  // 逐条处理：去重 → AI 评分 → 相关性过滤
+  const items: Item[] = [];
+
+  for (const entry of allEntries) {
+    if (!entry.url) continue;
+
+    // 去重
+    const finalUrl = normalizeUrl(await resolveFinalUrl(entry.url));
+    const key = deDupeKey(source.id, finalUrl);
+    if (existingKeys.has(key)) {
+      console.log(`  ⏭️ 重复: ${entry.title.slice(0, 50)}`);
+      continue;
+    }
+    existingKeys.add(key);
+
+    // AI 评分（相关性 + 质量 一次调用）
+    console.log(`  🆕 "${entry.title.slice(0, 50)}..." — AI 评分中...`);
+    const { titleZh, summaryZh, score } = await scoreItem(
+      entry.title,
+      entry.snippet.slice(0, 500),
+      source.name,
+      source.weight
+    );
+
+    // 不相关 → 丢弃
+    if (!score.relevant) {
+      console.log(`  ⏭️ 不相关，跳过`);
+      continue;
+    }
+
+    const isSelected = score.totalScore >= 60;
+
+    items.push({
+      id: generateId(),
+      sourceId: source.id,
+      sourceName: source.name,
+      url: finalUrl,
+      title: entry.title,
+      titleZh,
+      summaryZh,
+      author: entry.author,
+      publishedAt: entry.publishedAt,
+      fetchedAt: new Date().toISOString(),
+      isSelected,
+      score,
+    });
+
+    if (isSelected) {
+      console.log(
+        `  ✅ 精选! 总分: ${score.totalScore} (最终: ${score.finalScore})`
+      );
+    } else {
+      console.log(`  📎 入库 总分: ${score.totalScore}`);
+    }
+
+    // API 限速
+    await new Promise((r) => setTimeout(r, 500));
+  }
+
+  return items;
+}
+
+// ============================================================
 //  主流程
 // ============================================================
 
@@ -1147,6 +1343,7 @@ async function main() {
     if (s.type === "api") return !!s.endpoint;
     if (s.type === "opencli-author") return !!s.url;
     if (s.type === "zhihu-user") return !!s.urlToken;
+    if (s.type === "gcores") return !!s.url;
     return false;
   });
 
@@ -1173,7 +1370,7 @@ async function main() {
     const batch = activeSources.slice(i, i + CONCURRENCY);
     const batchResults = await Promise.allSettled(
       batch.map(async (source) => {
-        const typeLabel = { rss: "📡 RSS", web: "🕷️  Web", api: "🔌 API", "opencli-author": "🌐 OpenCLI", "zhihu-user": "🟦 知乎" }[source.type] || "📡";
+        const typeLabel = { rss: "📡 RSS", web: "🕷️  Web", api: "🔌 API", "opencli-author": "🌐 OpenCLI", "zhihu-user": "🟦 知乎", gcores: "🎮 机核" }[source.type] || "📡";
         const sourceLabel = source.urls ? source.urls.join(", ") : source.url;
 console.log(`${typeLabel} 抓取: ${source.name} (${sourceLabel})`);
 
@@ -1199,6 +1396,9 @@ console.log(`${typeLabel} 抓取: ${source.name} (${sourceLabel})`);
                 break;
               case "zhihu-user":
                 items = await fetchZhihuUser(source, existingKeys);
+                break;
+              case "gcores":
+                items = await fetchGcores(source, existingKeys);
                 break;
               default:
                 console.log(`  ⚠️ 未知类型: ${source.type}，跳过`);

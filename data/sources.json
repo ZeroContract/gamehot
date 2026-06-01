@@ -112,5 +112,23 @@
     "dateSelector": ".mark-info",
     "baseUrl": "https://www.gameres.com/",
     "encoding": "utf-8"
+  },
+  {
+    "id": "gcores-news",
+    "name": "机核网-资讯",
+    "url": "https://www.gcores.com/news",
+    "type": "gcores",
+    "tier": 3,
+    "weight": 50,
+    "daysBack": 7
+  },
+  {
+    "id": "gcores-articles",
+    "name": "机核网-文章",
+    "url": "https://www.gcores.com/articles",
+    "type": "gcores",
+    "tier": 3,
+    "weight": 55,
+    "daysBack": 7
   }
 ]
