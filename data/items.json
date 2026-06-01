@@ -1,5 +1,62 @@
 [
   {
+    "id": "vxnzgw2oeleq867afoq5tka6",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534532.html",
+    "title": "突然曝光新实机，广州团队的大世界二游亮牌了？",
+    "titleZh": "广州团队大世界二游《望月》新实机曝光",
+    "summaryZh": "广州诗悦网络旗下二次元都市大世界游戏《望月》突然曝光新实机演示，展示游戏核心玩法和画面表现。作为大世界二游赛道新选手，《望月》的曝光引发行业关注，但具体上线时间和商业化方向尚未公布。",
+    "author": null,
+    "publishedAt": "2026-06-01T07:15:36.538Z",
+    "fetchedAt": "2026-06-01T07:40:52.988Z",
+    "isSelected": false,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 12,
+      "uniqueness": 6,
+      "usefulness": 6,
+      "totalScore": 39,
+      "finalScore": 44,
+      "reason": "",
+      "notReason": "内容较水，仅曝光新实机，缺少深度分析和行业洞察",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "cii58ipc5zhtn07ihxsl4pkz",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://gameres.com/917609.html",
+    "title": "一款十年国民级象棋产品：从拟人 AI，走到了脑机接口",
+    "titleZh": "十年国民象棋：从拟人AI到脑机接口",
+    "summaryZh": "报道了一款运营十年的国民级象棋产品，如何从拟人AI技术演进到脑机接口技术，展现了科技赋能传统棋类运动的创新路径，诠释了科技向善的理念。",
+    "author": null,
+    "publishedAt": "2026-06-01T07:12:18.053Z",
+    "fetchedAt": "2026-06-01T07:41:35.449Z",
+    "isSelected": true,
+    "score": {
+      "importance": 12,
+      "articleQuality": 13,
+      "timeliness": 14,
+      "uniqueness": 13,
+      "usefulness": 10,
+      "totalScore": 62,
+      "finalScore": 62,
+      "reason": "象棋+脑机接口的科技融合案例，对AI游戏有参考价值",
+      "notReason": "",
+      "tags": [
+        "AI",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "0i3ehmu7mcaw0s9k1bgulukd",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
