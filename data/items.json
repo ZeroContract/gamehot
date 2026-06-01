@@ -1,5 +1,148 @@
 [
   {
+    "id": "z4a4jw84ruz41sj7lqxs3q1x",
+    "sourceId": "youxiputao",
+    "sourceName": "游戏葡萄",
+    "url": "https://news.qq.com/rain/a/20260601A06ZZU00?suid=&media_id=",
+    "title": "首月流水破4亿的MMO黑马，制作人太「奇葩」，换家公司估计活不过三集",
+    "titleZh": "MMO黑马首月流水破4亿，制作人被称奇葩",
+    "summaryZh": "一款MMO新游戏首月流水突破4亿，成为市场黑马。该游戏制作人风格独特、行事奇葩，引发行业讨论。4亿流水在MMO品类中属于亮眼成绩，但其成功模式是否可复制待观察。",
+    "author": null,
+    "publishedAt": "2026-06-01T08:39:17.000Z",
+    "fetchedAt": "2026-06-01T08:54:35.894Z",
+    "isSelected": false,
+    "score": {
+      "importance": 11,
+      "articleQuality": 9,
+      "timeliness": 13,
+      "uniqueness": 7,
+      "usefulness": 10,
+      "totalScore": 50,
+      "finalScore": 57,
+      "reason": "",
+      "notReason": "标题党风格，内容深度不足，缺乏独家视角和信息增量",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "lsb3os51pfpca0yu1q77zd4t",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534534.html",
+    "title": "立项一波三折、AI包办关卡：《一箭又一箭》团队分享简单玩法如何变现",
+    "titleZh": "《一箭又一箭》团队分享微信小游戏变现之道",
+    "summaryZh": "2026微信小游戏开发者大会上，《一箭又一箭》团队分享了立项过程中的曲折经历，以及如何运用AI技术自动生成关卡设计，探索简单玩法的商业化路径，为小游戏开发者提供变现参考。",
+    "author": null,
+    "publishedAt": "2026-06-01T08:36:04.104Z",
+    "fetchedAt": "2026-06-01T08:55:07.861Z",
+    "isSelected": true,
+    "score": {
+      "importance": 14,
+      "articleQuality": 13,
+      "timeliness": 8,
+      "uniqueness": 12,
+      "usefulness": 14,
+      "totalScore": 61,
+      "finalScore": 62,
+      "reason": "AI辅助关卡+简单玩法变现，小团队开发者必看的实战案例",
+      "notReason": "",
+      "tags": [
+        "AI",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "48rszgzias8srhzphxpvypgo",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534533.html",
+    "title": "MAU 528万、周留存70%！综艺小游戏用情绪价值，打赢IP长线运营战",
+    "titleZh": "MAU528万、周留存70%！综艺小游戏情绪价值驱动IP长线运营",
+    "summaryZh": "2026微信小游戏开发者大会披露综艺小游戏案例，月活528万、周留存达70%，通过情绪价值打造IP长线运营策略，为小游戏开发者提供运营思路参考。",
+    "author": null,
+    "publishedAt": "2026-06-01T08:11:04.104Z",
+    "fetchedAt": "2026-06-01T08:55:20.889Z",
+    "isSelected": true,
+    "score": {
+      "importance": 16,
+      "articleQuality": 13,
+      "timeliness": 16,
+      "uniqueness": 13,
+      "usefulness": 14,
+      "totalScore": 72,
+      "finalScore": 71,
+      "reason": "MAU528万+70%留存的数据案例，运营策略可直接借鉴",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "2eljj2kqljebfkj7p6zt5pub",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/197484",
+    "title": "赛制焕新规模扩容！决胜巅峰MSC、MWI重磅亮相2026电竞世俱杯",
+    "titleZh": "赛制焕新扩容！决胜巅峰2026世俱杯重磅亮相",
+    "summaryZh": "沐瞳科技5月30日公布2026电竞世俱杯决胜巅峰新赛制，涉及MSC全球季中杯及国际女子邀请赛MWI，赛制调整将规模扩容。该消息对电竞赛事运营、发行商及赛事策划人员具有参考价值。",
+    "author": null,
+    "publishedAt": "2026-06-01T08:06:42.035Z",
+    "fetchedAt": "2026-06-01T08:54:58.764Z",
+    "isSelected": false,
+    "score": {
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 35,
+      "finalScore": 40,
+      "reason": "",
+      "notReason": "信息量较水，仅为赛事公告，缺深度分析和行业视角",
+      "tags": [
+        "行业",
+        "展会"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "axj8vwsfwyvku67bgwqxsca1",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/197478",
+    "title": "《放松时光：与你共享Lo-Fi故事》公布新版更新路线图，推出“换季更衣”更新并开启特惠",
+    "titleZh": "《放松时光》Lo-Fi游戏更新路线图公布，换季更衣上线",
+    "summaryZh": "Nestopi公司于6月1日面向Steam、App Store和Google Play平台推出Lo-Fi专注陪伴游戏《放松时光：与你共享Lo-Fi故事》新版路线图，并上线“换季更衣”更新及特惠活动。",
+    "author": null,
+    "publishedAt": "2026-06-01T08:01:42.035Z",
+    "fetchedAt": "2026-06-01T08:55:03.174Z",
+    "isSelected": false,
+    "score": {
+      "importance": 9,
+      "articleQuality": 10,
+      "timeliness": 12,
+      "uniqueness": 10,
+      "usefulness": 8,
+      "totalScore": 49,
+      "finalScore": 51,
+      "reason": "",
+      "notReason": "产品更新公告信息量有限，对行业参考价值不高",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "vxnzgw2oeleq867afoq5tka6",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
