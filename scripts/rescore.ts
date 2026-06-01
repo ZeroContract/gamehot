@@ -31,6 +31,7 @@ const SCORE_PROMPT = `你是游戏行业的资深编辑。请对以下游戏开�
    - 实用度：从业者能否直接应用到实际工作中
 4. 计算总分（5 维加总，满分 100），如果总分 >= 60 分则判定为精选
 5. 如果精选，写一句话推荐理由（30 字以内，口语化、有信息量）
+5b. 如果未精选（总分 < 60），写一句话不推荐理由（30 字以内，口语化，说明为什么不值得推荐，例如"内容较水""信息量不足""与游戏行业关联弱"等）
 6. 打标签（从以下选 1-2 个最合适的，标签值严格等于"行业""公司""游戏""干货""展会""AI"这六个词之一）：
    行业（行业趋势、政策法规、市场数据、产业报告）
    公司（公司动态、投融资、人事变动、财报业绩）
@@ -40,7 +41,7 @@ const SCORE_PROMPT = `你是游戏行业的资深编辑。请对以下游戏开�
    AI（AI技术、人工智能应用、AI投融资、AI游戏）
 
 请严格以 JSON 格式返回（不要 markdown 代码块包裹）：
-{"titleZh":"...","summaryZh":"...","importance":0,"articleQuality":0,"timeliness":0,"uniqueness":0,"usefulness":0,"totalScore":0,"isSelected":false,"reason":"","tags":[]}`;
+{"titleZh":"...","summaryZh":"...","importance":0,"articleQuality":0,"timeliness":0,"uniqueness":0,"usefulness":0,"totalScore":0,"isSelected":false,"reason":"","notReason":"","tags":[]}`;
 
 interface Source {
   id: string;
@@ -118,6 +119,7 @@ async function rescoreItem(
       totalScore,
       finalScore,
       reason: isSelected ? result.reason || "" : "",
+      notReason: !isSelected ? result.notReason || "" : "",
       tags: result.tags || [],
     };
   } catch (error) {
@@ -160,6 +162,7 @@ async function main() {
         totalScore: newScore.totalScore,
         finalScore: newScore.finalScore,
         reason: newScore.reason,
+        notReason: newScore.notReason,
         tags: newScore.tags,
         relatedItems: item.score?.relatedItems || [],
       };

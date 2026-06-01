@@ -162,7 +162,7 @@ Pages are tracked via the `Tracker` client component (included in root layout). 
 
 ## Scheduling
 
-**Primary**: A detached `screen` session runs a fetch loop on the local Mac mini every 30 minutes.
+**Primary**: A detached `screen` session runs a fetch loop on the local Mac mini every 60–80 minutes (randomized per cycle).
 
 ```bash
 screen -ls                    # Check if daemon is running (look for "gamehot")
@@ -172,7 +172,7 @@ tail -f data/cron.log         # View fetch logs
 
 If the Mac reboots, restart:
 ```bash
-screen -dmS gamehot zsh -c 'while true; do sleep 1800; /bin/bash ~/Desktop/GameHot/scripts/run-fetch.sh >> ~/Desktop/GameHot/data/cron.log 2>&1; done'
+screen -dmS gamehot zsh -c 'while true; do SLEEP=$((RANDOM % 1201 + 3600)); sleep $SLEEP; /bin/bash ~/Desktop/GameHot/scripts/run-fetch.sh >> ~/Desktop/GameHot/data/cron.log 2>&1; done'
 ```
 
 `scripts/run-fetch.sh` does: git pull → `npm run fetch` → if changed, git commit + push. API key loaded from `.env.local`.

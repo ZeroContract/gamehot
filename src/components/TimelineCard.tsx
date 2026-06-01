@@ -70,6 +70,7 @@ export default function TimelineCard({ item }: { item: Item }) {
         )}
 
         {score && score.reason && <div className="timeline-reason">{score.reason}</div>}
+        {score && score.notReason && <div className="timeline-not-reason">{score.notReason}</div>}
 
         {score && score.relatedItems.length > 0 && (
           <div className="timeline-related">

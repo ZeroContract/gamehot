@@ -40,6 +40,7 @@ export interface AiScore {
   totalScore: number; // 总分 (5维加总)
   finalScore: number; // 最终分 (AI评分 + 来源权重)
   reason: string; // 推荐理由
+  notReason: string; // 不推荐理由（分数 < 60 时）
   tags: string[]; // 标签
   relatedItems: RelatedItem[]; // 其他信源的同话题文章
 }
