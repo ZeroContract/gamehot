@@ -29,6 +29,94 @@
     }
   },
   {
+    "id": "8p98xn5c583tswsnrrts2v3e",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215256",
+    "title": "因为做游戏，我自愿延毕。",
+    "titleZh": "因为做游戏，我自愿延毕",
+    "summaryZh": "一名工科非全日制研究生为专心制作游戏，自愿申请延毕的故事。作者记录了从决定做游戏到申请延毕的200天经历，分享了作为个人开发者的日常点滴，包括申领海底捞权益等生活细节，反映了独立游戏开发者的心态与选择。",
+    "author": null,
+    "publishedAt": "2026-06-01T19:06:09.000+08:00",
+    "fetchedAt": "2026-06-01T15:42:48.264Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 5,
+      "uniqueness": 6,
+      "usefulness": 4,
+      "totalScore": 26,
+      "finalScore": 32,
+      "reason": "",
+      "notReason": "个人随笔性质，信息密度较低，对从业者实用价值有限",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "eiofrh4b0che22nvr4pdud7i",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215251",
+    "title": "明明全球势均力敌，为什么国内主机玩家，永远比PC玩家更像小众？",
+    "titleZh": "国内主机玩家为何比PC玩家更小众",
+    "summaryZh": "文章探讨全球范围内主机与PC分庭抗礼，但在中国主机玩家始终被视为\"小众\"群体的现象，分析中国主机市场与海外市场的差异，解读背后原因。",
+    "author": null,
+    "publishedAt": "2026-06-01T19:05:25.000+08:00",
+    "fetchedAt": "2026-06-01T15:42:59.407Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 12,
+      "timeliness": 7,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 42,
+      "finalScore": 45,
+      "reason": "",
+      "notReason": "内容较水，观点缺乏深度，数据支撑不足",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "xxx4uu78dlvx5tbypwx343qu",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215247",
+    "title": "你不用先知道想表达什么，也可以开始创作——结构主义驱动的世界观设计方法",
+    "titleZh": "结构主义驱动的游戏世界观设计方法",
+    "summaryZh": "文章探讨商业游戏设计师如何突破主题创作困境，提出结构主义驱动的世界观设计方法。强调从宏观结构而非先验主题出发，通过系统化方法构建游戏世界，为解决叙事设计难题提供新思路。",
+    "author": null,
+    "publishedAt": "2026-06-01T19:05:25.000+08:00",
+    "fetchedAt": "2026-06-01T15:43:07.112Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 16,
+      "articleQuality": 15,
+      "timeliness": 12,
+      "uniqueness": 17,
+      "usefulness": 15,
+      "totalScore": 75,
+      "finalScore": 71,
+      "reason": "提供结构主义视角的世界观设计方法论，独树一帜且实操性强",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "azpj3vthq0v8qhv57tr6omog",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
@@ -52,6 +140,35 @@
       "notReason": "内容与游戏行业关联弱，纯手机新品发布，缺乏对游戏从业者的实用价值",
       "tags": [
         "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "9pf33gxxnba4h041kpbjg3ex",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215254",
+    "title": "管理船员，直面人性 | 生存策略游戏《冰海孤船》中文CG预告首曝",
+    "titleZh": "《冰海孤船》中文CG预告首曝",
+    "summaryZh": "《冰海孤船》由Fallen Leaf Studio与Unseen Silence联合开发，NexraGames发行，背景设定在19世纪北极的生存策略游戏，正式发布首支中文CG预告片，实机演示即将推出。游戏融合管理船员与生存挑战元素，聚焦人性考验。",
+    "author": null,
+    "publishedAt": "2026-06-01T17:48:11.000+08:00",
+    "fetchedAt": "2026-06-01T15:31:28.518Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 10,
+      "articleQuality": 13,
+      "timeliness": 14,
+      "uniqueness": 9,
+      "usefulness": 8,
+      "totalScore": 54,
+      "finalScore": 53,
+      "reason": "",
+      "notReason": "新游预告信息量有限，仅涉及CG发布，时效性强但实用度和独特性不足",
+      "tags": [
+        "游戏"
       ],
       "relatedItems": []
     }
@@ -286,6 +403,123 @@
     }
   },
   {
+    "id": "a1rsnm8fj62egtnojt36agtx",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215239",
+    "title": "热血梦想之战！电脑报高校电竞赛春季赛南京站晋级战队产生",
+    "titleZh": "电脑报高校电竞赛南京站：CUCN晋级决赛",
+    "summaryZh": "2026电脑报高校电竞赛春季赛南京赛区比赛于南京传媒学院举行，主场作战的CUCN战队2:0击败南京林业大学RGL战队，成功晋级春季赛决赛。",
+    "author": null,
+    "publishedAt": "2026-06-01T14:36:49.000+08:00",
+    "fetchedAt": "2026-06-01T15:43:18.319Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 9,
+      "articleQuality": 10,
+      "timeliness": 11,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 45,
+      "finalScore": 47,
+      "reason": "",
+      "notReason": "赛事报道信息量有限，缺乏行业深度分析和数据支撑",
+      "tags": [
+        "展会"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "lsbtjnvw0dwgqqfzpyn46s5n",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215236",
+    "title": "多人联机欢乐游戏《崩溃小队》现已推出！首周购买可享近6折优惠",
+    "titleZh": "多人联机欢乐游戏《崩溃小队》现已推出！首周近6折",
+    "summaryZh": "Aggro Crab开发商新作《崩溃小队》已在Steam上线，支持1-4人在线合作，原价33元，首周购买可享38%折扣（约20元）。",
+    "author": null,
+    "publishedAt": "2026-06-01T14:24:33.000+08:00",
+    "fetchedAt": "2026-06-01T15:31:39.543Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 10,
+      "articleQuality": 11,
+      "timeliness": 13,
+      "uniqueness": 8,
+      "usefulness": 8,
+      "totalScore": 50,
+      "finalScore": 50,
+      "reason": "",
+      "notReason": "内容较水，仅为常规产品发布信息，无深度分析",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "kz75wskp91tszgizjl3u7mdt",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215233",
+    "title": "《铁拳8》游戏总监池田幸平现已离开万代南梦宫工作室",
+    "titleZh": "《铁拳8》总监池田幸平离职万代南梦宫",
+    "summaryZh": "6月1日，万代南梦宫宣布《铁拳8》游戏总监池田幸平在服务20年后离职。他通过X官方账号发布消息，曾担任“TEKKEN Project”游戏总监和开发制作人，首部参与开发作品为《灵魂能力IV》，代表作包括《铁拳7》和《铁拳8》。",
+    "author": null,
+    "publishedAt": "2026-06-01T14:05:37.000+08:00",
+    "fetchedAt": "2026-06-01T15:31:42.906Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 13,
+      "timeliness": 17,
+      "uniqueness": 12,
+      "usefulness": 10,
+      "totalScore": 67,
+      "finalScore": 64,
+      "reason": "铁拳核心制作人离职，或影响《铁拳8》后续开发方向",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "aihxbuiijq3h7q6kwg4waf3p",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215229",
+    "title": "《仙境传说》世界观新作《仙境传说 Console Project》正式公布",
+    "titleZh": "仙境传说新作公布 2027年登录主机平台",
+    "summaryZh": "WAYCORDER 开发、GRAVITY 和 DAEWON MEDIA 发行的《仙境传说》新作正式公布，游戏以该系列世界观为基础，计划2027年登陆 Switch 2 和 Xbox 主机平台，全球累计玩家超1亿。",
+    "author": null,
+    "publishedAt": "2026-06-01T12:34:24.000+08:00",
+    "fetchedAt": "2026-06-01T15:31:49.682Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 12,
+      "timeliness": 14,
+      "uniqueness": 10,
+      "usefulness": 9,
+      "totalScore": 59,
+      "finalScore": 57,
+      "reason": "",
+      "notReason": "内容较水，仅为基础发布稿，缺少游戏机制等深度信息",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "0i3ehmu7mcaw0s9k1bgulukd",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
@@ -398,6 +632,36 @@
     }
   },
   {
+    "id": "wzdvhj2vk5lr6tvriaye1z4x",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214692",
+    "title": "复古的双人太空冒险之旅！｜《轨道双子星》参展2026深圳核聚变！",
+    "titleZh": "复古双人太空冒险游戏《Orbitals》参展2026深圳核聚变",
+    "summaryZh": "核聚变游戏嘉年华深圳站将于6月27、28日在深圳国际会展中心举办，复古动漫风格新游《Orbitals》（轨道双子星）参展，玩家可体验双人太空冒险，拯救家园的故事。",
+    "author": null,
+    "publishedAt": "2026-06-01T10:00:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:43:23.390Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 12,
+      "timeliness": 13,
+      "uniqueness": 10,
+      "usefulness": 12,
+      "totalScore": 61,
+      "finalScore": 60,
+      "reason": "游戏展会参展信息，对行业和玩家都有参考价值。",
+      "notReason": "",
+      "tags": [
+        "展会",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "twpzk2t7ggm9ig8gupfjrpdg",
     "sourceId": "gameres",
     "sourceName": "游资网",
@@ -421,6 +685,66 @@
       "tags": [
         "行业",
         "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "i0a2g01mn9akiu862qx516nn",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215221",
+    "title": "网易雷火·临安24工作室出品的动作冒险单机游戏《归唐》将于夏日游戏节公布新消息",
+    "titleZh": "网易《归唐》将在夏日游戏节公布新消息",
+    "summaryZh": "经Geoff Keighley及官方确认，网易雷火事业群·临安24工作室打造的动作冒险单机游戏《归唐》将于6月6日凌晨5点在夏日游戏节上公布最新消息。这是网易在单机游戏领域的新尝试。",
+    "author": null,
+    "publishedAt": "2026-06-01T09:42:43.000+08:00",
+    "fetchedAt": "2026-06-01T15:32:03.299Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 8,
+      "timeliness": 14,
+      "uniqueness": 8,
+      "usefulness": 8,
+      "totalScore": 50,
+      "finalScore": 50,
+      "reason": "",
+      "notReason": "信息量较少，仅为确认性公告，缺乏深入分析",
+      "tags": [
+        "游戏",
+        "展会"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "sic3m1x550eaxdce1muyn5gt",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215219",
+    "title": "《跳舞的线》现已在Steam发售，国区售价30元",
+    "titleZh": "《跳舞的线》Steam发售，定价30元",
+    "summaryZh": "《跳舞的线》是由猎豹移动和波兰Boombit联合开发的音乐游戏，现已在Steam发售，国区定价30元。游戏上线后因体力系统引发玩家不满，团队已紧急移除该限制系统，玩家将跟随音乐引导线条进行游戏。",
+    "author": null,
+    "publishedAt": "2026-06-01T09:30:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:32:07.533Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 6,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 5,
+      "totalScore": 30,
+      "finalScore": 34,
+      "reason": "",
+      "notReason": "内容较水，仅为常规发售快讯，缺乏行业洞察和实用信息",
+      "tags": [
+        "游戏",
+        "公司"
       ],
       "relatedItems": []
     }
@@ -481,6 +805,35 @@
     }
   },
   {
+    "id": "6sngpky4pg6pz1dp3lj0mvcf",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215218",
+    "title": "《神鬼寓言》延期至2027年2月发售",
+    "titleZh": "《神鬼寓言》延期至2027年2月发售",
+    "summaryZh": "微软宣布《神鬼寓言》延期至2027年2月发售，称是为让游戏获得应有的关注时刻。微软将在6月7日Xbox游戏展示会上展示全新内容及更多游戏阵容，包括《光环：战役进化》《战争机器》系列等。",
+    "author": null,
+    "publishedAt": "2026-06-01T09:00:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:32:30.012Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 13,
+      "timeliness": 10,
+      "uniqueness": 9,
+      "usefulness": 9,
+      "totalScore": 56,
+      "finalScore": 55,
+      "reason": "",
+      "notReason": "信息量较少，缺乏深度分析，仅为常规延期公告",
+      "tags": [
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "psk50r595pyuds5q4by1w45m",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
@@ -530,6 +883,65 @@
       "reason": "鸿杰系统总结游戏项目工程管理经验，手册章节实用可直接落地",
       "tags": [
         "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "x83ut4hksuasfqav51rjap9m",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215212",
+    "title": "高压生存与自嘲叙事：《三角洲行动》鼠鼠文化的起源、发展与文化逻辑",
+    "titleZh": "《三角洲行动》鼠鼠文化解析",
+    "summaryZh": "分析腾讯琳琅天上工作室2024年6月上线的手游《三角洲行动》玩家社群自发创造的“鼠鼠文化”亚文化现象，探讨其起源、发展与文化逻辑。",
+    "author": null,
+    "publishedAt": "2026-06-01T06:33:02.000+08:00",
+    "fetchedAt": "2026-06-01T15:43:38.444Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 16,
+      "timeliness": 14,
+      "uniqueness": 17,
+      "usefulness": 12,
+      "totalScore": 74,
+      "finalScore": 70,
+      "reason": "对理解射击游戏玩家亚文化现象具有重要参考价值",
+      "notReason": "",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "56t1fi2ba75o81tu9wvf5mjr",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215213",
+    "title": "跨越20多年的存档",
+    "titleZh": "跨越20多年的存档",
+    "summaryZh": "作者回忆宝可梦宝石版未白镇BGM引发的情感共鸣，从GBA时代至今，游戏音乐如何唤起童年记忆，感叹时光流逝与游戏情怀的珍贵。",
+    "author": null,
+    "publishedAt": "2026-06-01T02:42:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:43:58.093Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 5,
+      "articleQuality": 11,
+      "timeliness": 4,
+      "uniqueness": 6,
+      "usefulness": 2,
+      "totalScore": 28,
+      "finalScore": 33,
+      "reason": "",
+      "notReason": "内容偏个人回忆向，缺乏行业洞察与实用价值",
+      "tags": [
+        "游戏"
       ],
       "relatedItems": []
     }
@@ -590,6 +1002,95 @@
     }
   },
   {
+    "id": "iv2xnwmaydfnlh01b1fiz4m6",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215209",
+    "title": "空洞死了，会变成罗斯凯利法吗？",
+    "titleZh": "空洞骑士角色与设定深度解析",
+    "summaryZh": "探讨《空洞骑士》中「初代虚狩」的永生之谜，分析「罗斯凯利法」悬浮天空的原因，解读钟表意象及游戏叙事手法。",
+    "author": null,
+    "publishedAt": "2026-05-31T18:02:45.000+08:00",
+    "fetchedAt": "2026-06-01T15:44:29.617Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 11,
+      "articleQuality": 12,
+      "timeliness": 8,
+      "uniqueness": 13,
+      "usefulness": 9,
+      "totalScore": 53,
+      "finalScore": 53,
+      "reason": "",
+      "notReason": "内容偏向粉丝向分析讨论，信息密度一般，对行业从业者参考价值有限",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "jod4gdcspvblyklz9ixrbwte",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214941",
+    "title": "NINJA GAIDEN 4 - 忍者，乃独行于孤途之士也",
+    "titleZh": "忍者龙剑传4评测：忍者乃独行孤途之士",
+    "summaryZh": "基于作者实际游玩体验的《忍者龙剑传4》深度评测，采用理性（设计目的vs完成度）与感性双维度评判标准，探讨游戏设计与实现效果的关系，文章结构清晰，分析有深度。",
+    "author": null,
+    "publishedAt": "2026-05-31T10:00:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:44:37.549Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 17,
+      "timeliness": 14,
+      "uniqueness": 13,
+      "usefulness": 11,
+      "totalScore": 70,
+      "finalScore": 67,
+      "reason": "经典动作游戏续作深度评测，双维度评判标准分析设计完成度",
+      "notReason": "",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "pn0e2r94qkhan3g6nxwxo4og",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215193",
+    "title": "【PART 1】关于《零~刺青之声~》的Fatal Frame系统研究（一）",
+    "titleZh": "《零~刺青之声~》Fatal Frame系统研究",
+    "summaryZh": "作者重新游玩经典恐怖游戏《零~刺青之声~》，以噩梦难度为标准深入研究游戏的Fatal Frame系统机制。文章受《零红蝶Remake》简化版启发，对原作核心系统进行个人研究分析。",
+    "author": null,
+    "publishedAt": "2026-05-30T19:00:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:44:53.647Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 5,
+      "articleQuality": 7,
+      "timeliness": 3,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 26,
+      "finalScore": 32,
+      "reason": "",
+      "notReason": "老游戏攻略研究，时效性弱，内容偏粉丝向，对行业从业者参考价值有限",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "15f8ur7yrdhrzhk3yacwyot0",
     "sourceId": "youxiputao",
     "sourceName": "游戏葡萄",
@@ -610,6 +1111,123 @@
       "totalScore": 64,
       "finalScore": 68,
       "reason": "真实记录独立开发者十年转型路，案例稀缺有激励作用",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "04p1a7skflsa18by42q3oeju",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215189",
+    "title": "Crpg发展史第一卷：从桌面到荧幕——第一章：机房、终端与 PLATO 社群",
+    "titleZh": "CRPG发展史：从桌游到电脑游戏",
+    "summaryZh": "文章回顾CRPG电脑角色扮演游戏发展历程，聚焦早期机房时代与PLATO游戏社群，探讨从桌游向电子游戏演变的关键阶段，分析TRPG规则与早期电脑游戏的融合。",
+    "author": null,
+    "publishedAt": "2026-05-30T00:05:18.000+08:00",
+    "fetchedAt": "2026-06-01T15:45:10.023Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 16,
+      "timeliness": 10,
+      "uniqueness": 15,
+      "usefulness": 8,
+      "totalScore": 64,
+      "finalScore": 62,
+      "reason": "游戏历史类内容稀缺，CRPG品类发展分析有参考价值",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "kykzqcv6czf7zbdu4n9jx4rw",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215175",
+    "title": "从迷茫到圆梦：一个单人开发者的五年心路",
+    "titleZh": "单人开发者五年心路：从零到游戏圆梦",
+    "summaryZh": "这是独立开发者Zeck分享的五年真实开发历程，讲述从2021年仅会PS和AI，到独立开发《凯普勒186F》并赴英国萨里大学分享的完整心路。内容涵盖建模、材质、UI、后端等技术学习，以及面对行业迷茫与坚持的成长感悟，为独立开发者提供参考范例。",
+    "author": null,
+    "publishedAt": "2026-05-29T22:18:49.000+08:00",
+    "fetchedAt": "2026-06-01T15:45:19.424Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 16,
+      "timeliness": 12,
+      "uniqueness": 17,
+      "usefulness": 14,
+      "totalScore": 74,
+      "finalScore": 70,
+      "reason": "真实还原独立开发者从零到圆梦的完整历程，经验可复制参考价值高",
+      "notReason": "",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "qupcjb7k97i9tlfkgfz3dbsq",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215183",
+    "title": "什么是RPG的硬功夫？｜机事本5.23-5.29",
+    "titleZh": "RPG的硬功夫 - 机事本周刊(5.23-5.29)",
+    "summaryZh": "机核网编辑团队每周专栏，汇集四位游戏编辑的随笔感想。本周讨论《潘德的预言》mod及RPG游戏难度设计问题，编辑们分享近期游戏体验和观点，内容风格轻松随意。",
+    "author": null,
+    "publishedAt": "2026-05-29T22:08:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:45:32.048Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 8,
+      "uniqueness": 8,
+      "usefulness": 4,
+      "totalScore": 33,
+      "finalScore": 37,
+      "reason": "",
+      "notReason": "编辑随笔性质，内容较水，对从业者参考价值有限",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "44tonkedk6z2j7niberj6y8t",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215161",
+    "title": "10年布局之后，他们拿出了一款超级“野”的生存对抗游戏",
+    "titleZh": "腾讯十年布局打造超级野性生存对抗游戏",
+    "summaryZh": "腾讯游戏发布会上发布的生存对抗游戏《失控进化》引发关注。该游戏获得热门游戏《Rust》的玩法授权，机核播客采访策划梅森，揭秘这款“野”性十足的产品背后的研发故事和授权合作细节。",
+    "author": null,
+    "publishedAt": "2026-05-29T21:27:32.000+08:00",
+    "fetchedAt": "2026-06-01T15:45:48.962Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 14,
+      "timeliness": 15,
+      "uniqueness": 13,
+      "usefulness": 12,
+      "totalScore": 68,
+      "finalScore": 65,
+      "reason": "机核深度访谈策划，揭秘腾讯新品与Rust授权合作的行业逻辑",
+      "notReason": "",
       "tags": [
         "行业"
       ],
@@ -640,6 +1258,151 @@
       "tags": [
         "行业",
         "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "addg4rpe5o6qqtt1i0oumgnm",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215169",
+    "title": "《近视战士MYOPIA》开发回顾",
+    "titleZh": "《近视战士MYOPIA》开发回顾",
+    "summaryZh": "声音设计师从主观视角回顾参与独立游戏《近视战士MYOPIA》开发活动的经历，作为黑手老师复盘文章的补充，涉及游戏设计与制作过程的思考，并探讨声音设计相关技术话题。",
+    "author": null,
+    "publishedAt": "2026-05-29T20:08:01.000+08:00",
+    "fetchedAt": "2026-06-01T15:45:54.184Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 13,
+      "timeliness": 10,
+      "uniqueness": 14,
+      "usefulness": 11,
+      "totalScore": 60,
+      "finalScore": 59,
+      "reason": "声音设计师视角独特，深度分享开发思考与经验",
+      "notReason": "",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "txhclpuqioh7uesauei8oij4",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215173",
+    "title": "《墨境》新手避坑指南~美女如云、刀光墨影",
+    "titleZh": "《墨境》新手避坑指南",
+    "summaryZh": "介绍国产武侠动作肉鸽游戏《墨境》的1.0版本更新，提供新手入门指南，帮助玩家避免常见游戏陷阱。内容涵盖游戏类型定位及基础玩法建议，适合刚接触该游戏的玩家参考。",
+    "author": null,
+    "publishedAt": "2026-05-29T20:01:23.000+08:00",
+    "fetchedAt": "2026-06-01T15:45:58.188Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 7,
+      "articleQuality": 8,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 36,
+      "finalScore": 40,
+      "reason": "",
+      "notReason": "内容属于玩家向攻略，行业参考价值有限",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "qpepmsqdawgbe9b7y6un93qz",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215172",
+    "title": "《萌禽争霸》开发日志#2 - 更新特效及UI，增加新的局内养成",
+    "titleZh": "《萌禽争霸》开发日志#2 - 特效UI更新，新增局内养成",
+    "summaryZh": "游戏《萌禽争霸》运营团队分享最新开发进度，包括美术制作讨论成果、新游戏机制、角色特效及UI更新，以及局内养成系统的增加等方面。",
+    "author": null,
+    "publishedAt": "2026-05-29T19:19:06.000+08:00",
+    "fetchedAt": "2026-06-01T15:46:05.141Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 10,
+      "articleQuality": 10,
+      "timeliness": 12,
+      "uniqueness": 11,
+      "usefulness": 8,
+      "totalScore": 51,
+      "finalScore": 52,
+      "reason": "",
+      "notReason": "开发日志内容偏日常分享，信息量一般，实用价值有限",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "g9h4bh65w1e89vvegxeljph0",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215174",
+    "title": "【非正经】有关柒幺/战争之子广为人知的100个事实（上）",
+    "titleZh": "关于柒幺/战争之子的搞笑事实（上）",
+    "summaryZh": "机核网发布的恶搞风格内容，列举关于游戏角色柒幺和战争之子的荒诞\"事实\"，采用幽默反讽手法，如\"子弹不敢打偏\"等无厘头设定，娱乐性为主。",
+    "author": null,
+    "publishedAt": "2026-05-29T19:18:30.000+08:00",
+    "fetchedAt": "2026-06-01T15:46:13.026Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 6,
+      "articleQuality": 4,
+      "timeliness": 5,
+      "uniqueness": 8,
+      "usefulness": 3,
+      "totalScore": 26,
+      "finalScore": 32,
+      "reason": "",
+      "notReason": "恶搞娱乐内容，信息量少，对行业从业者参考价值低",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "7m5ikhofquvornx66fplstnv",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215165",
+    "title": "异度系列的开发逸事（二）",
+    "titleZh": "异度系列开发逸事二",
+    "summaryZh": "延续前文，讲述《异度传说》系列的角色设计幕后故事。重点围绕KOS-MOS的设计历程展开，田中久仁彦确定形象特征后陷入停滞，高桥尝试内部开发未果，最终邀请机设麦谷兴一参与，透露高桥的设计要求颇为激进，揭示了经典角色诞生的曲折过程。",
+    "author": null,
+    "publishedAt": "2026-05-29T19:16:20.000+08:00",
+    "fetchedAt": "2026-06-01T15:46:17.347Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 12,
+      "timeliness": 6,
+      "uniqueness": 11,
+      "usefulness": 7,
+      "totalScore": 48,
+      "finalScore": 49,
+      "reason": "",
+      "notReason": "内容深度有限，时效性较弱，干货信息密度不足",
+      "tags": [
+        "游戏"
       ],
       "relatedItems": []
     }
@@ -700,6 +1463,124 @@
     }
   },
   {
+    "id": "6i76q75k24tzormldtul73xi",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215166",
+    "title": "知名爆料人billbil_kun：《雷曼传奇：重制版》将于10月1日正式发售",
+    "titleZh": "爆料人透露《雷曼传奇：重制版》10月1日发售",
+    "summaryZh": "知名爆料人billbil_kun透露，《雷曼传奇：重制版》预计2026年10月1日发售，由育碧蒙彼利埃工作室开发，将登陆PS5和Switch 2平台，推出实体版。游戏采用2.5D玩法，包含重新设计的雷曼角色和类似《星际火狐》的3D关卡。",
+    "author": null,
+    "publishedAt": "2026-05-29T18:22:10.000+08:00",
+    "fetchedAt": "2026-06-01T15:32:37.092Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 13,
+      "timeliness": 14,
+      "uniqueness": 14,
+      "usefulness": 9,
+      "totalScore": 65,
+      "finalScore": 62,
+      "reason": "经典IP重制消息，爆料来源可靠，多平台信息完整，值得关注。",
+      "notReason": "",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "4esc9s7it4x15x97onv6ydb7",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215039",
+    "title": "关卡设计中的寻路引导",
+    "titleZh": "关卡设计中的寻路引导",
+    "summaryZh": "探讨游戏关卡设计中如何通过视觉语言和空间布局引导玩家理解设计意图，引用设计理论分析设计师与玩家之间的无声沟通机制，阐述优秀关卡设计应承担的表达功能。",
+    "author": null,
+    "publishedAt": "2026-05-29T18:15:20.000+08:00",
+    "fetchedAt": "2026-06-01T15:46:25.634Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 16,
+      "articleQuality": 15,
+      "timeliness": 12,
+      "uniqueness": 14,
+      "usefulness": 15,
+      "totalScore": 72,
+      "finalScore": 69,
+      "reason": "关卡设计干货，理论结合实践，适合开发团队学习",
+      "notReason": "",
+      "tags": [
+        "干货",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "3osoe68drn8h3qwufgnjisej",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215151",
+    "title": "密室解谜新作《逃脱学院 2：再返校园》免费试玩版迎来重大更新",
+    "titleZh": "逃脱学院2试玩版重大更新登陆Steam",
+    "summaryZh": "Coin Crew Games 与 iam8bit 在 Thinky Direct 发布会上宣布，密室解谜游戏《逃脱学院 2：再返校园》试玩版迎来大型内容更新，现已登陆 Steam 平台供玩家免费体验。",
+    "author": null,
+    "publishedAt": "2026-05-29T15:57:16.000+08:00",
+    "fetchedAt": "2026-06-01T15:32:41.700Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 11,
+      "articleQuality": 11,
+      "timeliness": 15,
+      "uniqueness": 9,
+      "usefulness": 9,
+      "totalScore": 55,
+      "finalScore": 54,
+      "reason": "",
+      "notReason": "信息量不足，属于常规产品更新新闻",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "bafmmss41tg2phaepjtbv9yk",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215152",
+    "title": "今日正式发售：《冰点之下》羁绊共生，末日求生即刻启程",
+    "titleZh": "《冰点之下》Steam正式发售",
+    "summaryZh": "末日互动影游《冰点之下》今日登陆Steam正式发售，由Joy Media Limited开发，凤麟工作室等联合发行。游戏定价42元，首发享86折优惠价36.12元，带来冰封末日生存与羁绊共生玩法融合的沉浸体验。",
+    "author": null,
+    "publishedAt": "2026-05-29T15:30:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:32:45.095Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 5,
+      "usefulness": 5,
+      "totalScore": 32,
+      "finalScore": 36,
+      "reason": "",
+      "notReason": "常规游戏发售公告，信息量较少，缺乏独家视角和深度分析",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "2m9o8udpd8ftxalepcczzdd5",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
@@ -723,6 +1604,35 @@
       "tags": [
         "行业",
         "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "psjxy9y6ot0r2rfrwpmil1zv",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215146",
+    "title": "【抽奖】《深渊构筑》：融合自动战斗与卡牌构筑的策略肉鸽游戏",
+    "titleZh": "《深渊构筑》自动战斗卡牌肉鸽游戏将登Steam",
+    "summaryZh": "独立开发者DAYAStudio打造的自动战斗策略肉鸽游戏《深渊构筑》将于5月30日登陆Steam。游戏融合自动战斗、卡牌构筑与肉鸽探索玩法，玩家在随机生成的深渊世界中招募英雄、收集装备，通过不同流派与羁绊组合体验高自由度策略。",
+    "author": null,
+    "publishedAt": "2026-05-29T14:30:55.000+08:00",
+    "fetchedAt": "2026-06-01T15:32:54.500Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 13,
+      "articleQuality": 11,
+      "timeliness": 13,
+      "uniqueness": 9,
+      "usefulness": 10,
+      "totalScore": 56,
+      "finalScore": 55,
+      "reason": "",
+      "notReason": "产品发布信息较常规，信息深度一般，缺乏独家视角和差异化观点",
+      "tags": [
+        "游戏"
       ],
       "relatedItems": []
     }
@@ -790,6 +1700,36 @@
           "totalScore": 65
         }
       ]
+    }
+  },
+  {
+    "id": "ow40cd8ybybxjkk321eqbqy9",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215140",
+    "title": "【泄露？】《女神异闻录6》部分角色设计图以及场景概念图疑似曝光",
+    "titleZh": "《女神异闻录6》角色设计及场景概念图泄露",
+    "summaryZh": "近日，小红书有用户泄露《女神异闻录6》部分角色设计图和场景概念图。知名世嘉舅舅党lolilolailo确认，除一张AI生成的假图外，其余泄露图片均为真实内容。",
+    "author": null,
+    "publishedAt": "2026-05-29T13:33:40.000+08:00",
+    "fetchedAt": "2026-06-01T15:33:01.981Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 16,
+      "articleQuality": 13,
+      "timeliness": 19,
+      "uniqueness": 15,
+      "usefulness": 12,
+      "totalScore": 75,
+      "finalScore": 70,
+      "reason": "女神异闻录6泄露事件得到舅舅党确认，游戏圈近期重要新闻",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
     }
   },
   {
@@ -871,6 +1811,122 @@
         "行业",
         "游戏"
       ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "1iu268q78yy00qge0j161xca",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215139",
+    "title": "《巫师 3：狂猎》全球销量已突破6500万份",
+    "titleZh": "《巫师3》销量突破6500万份",
+    "summaryZh": "《巫师3：狂猎》迎来重大销售里程碑，CDPR官方宣布游戏全球销量已突破6500万份。配合全新资料片「旧时曲」的公布，再次印证这款经典RPG的市场号召力与长线运营能力。",
+    "author": null,
+    "publishedAt": "2026-05-29T12:09:11.000+08:00",
+    "fetchedAt": "2026-06-01T15:33:05.466Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 18,
+      "articleQuality": 15,
+      "timeliness": 16,
+      "uniqueness": 12,
+      "usefulness": 14,
+      "totalScore": 75,
+      "finalScore": 70,
+      "reason": "又一销量里程碑，数据详实，可作为游戏市场长线运营的重要参考案例",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ut51akp4d1r37pwfm6pw6adc",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215136",
+    "title": "第二届中国游戏与电竞研究年会在京召开",
+    "titleZh": "第二届中国游戏与电竞研究年会在京召开",
+    "summaryZh": "第二届中国游戏与电竞研究年会于2026年5月在北京召开，旨在推进“十五五”期间游戏与电竞学科体系建设，搭建产学研交流平台，由中国音像与数字出版协会、石景山区政府指导举办。",
+    "author": null,
+    "publishedAt": "2026-05-29T12:03:35.000+08:00",
+    "fetchedAt": "2026-06-01T15:33:19.751Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 10,
+      "timeliness": 12,
+      "uniqueness": 8,
+      "usefulness": 6,
+      "totalScore": 48,
+      "finalScore": 48,
+      "reason": "",
+      "notReason": "内容信息过于笼统，缺乏深度解读和实用内容",
+      "tags": [
+        "行业",
+        "展会"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "7ycvx29vsfyxtkobzydxq1bl",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215130",
+    "title": "致敬PS黄金时代，JRPG新作《Full Circle》正式公布",
+    "titleZh": "致敬PS黄金时代 JRPG新作《Full Circle》公布",
+    "summaryZh": "独立开发者2ndPlayerGames与发行商Deck13 Spotlight公布全新JRPG《Full Circle》，致敬PlayStation初代经典，采用2.5D像素风，在Indie Quest 2026 Showcase首次亮相。",
+    "author": null,
+    "publishedAt": "2026-05-29T11:52:57.000+08:00",
+    "fetchedAt": "2026-06-01T15:33:28.394Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 13,
+      "timeliness": 16,
+      "uniqueness": 11,
+      "usefulness": 10,
+      "totalScore": 62,
+      "finalScore": 60,
+      "reason": "JRPG新游发布致敬经典平台，独立游戏市场值得关注",
+      "notReason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "0k7uf7qt9m3tt7nplj4tihei",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215135",
+    "title": "《叛乱：沙漠风暴》“破点行动”更新现已实装，带来全新免费地图与高级外观内容",
+    "titleZh": "《叛乱：沙漠风暴》“破点行动”更新现已实装，带来全新免费地图与高级外观内容",
+    "summaryZh": "",
+    "author": null,
+    "publishedAt": "2026-05-29T11:52:01.000+08:00",
+    "fetchedAt": "2026-06-01T15:33:32.703Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 0,
+      "articleQuality": 0,
+      "timeliness": 0,
+      "uniqueness": 0,
+      "usefulness": 0,
+      "totalScore": 0,
+      "finalScore": 0,
+      "reason": "",
+      "notReason": "",
+      "tags": [],
       "relatedItems": []
     }
   },
@@ -984,6 +2040,64 @@
     }
   },
   {
+    "id": "mnupikquf5s7kjbrcnnwbl1g",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215125",
+    "title": "沉浸式战场体验：动视介绍《使命召唤：现代战争4》亮点",
+    "titleZh": "动视介绍《使命召唤：现代战争4》亮点",
+    "summaryZh": "动视官方介绍《使命召唤：现代战争4》将于10月23日发售，本作战场局势进一步升级黑暗危险维度。内容涵盖全面升级的大规模剧情战役、多人模式核心革新以及DMZ撤离玩法重磅回归，为玩家带来前所未有的沉浸式体验。",
+    "author": null,
+    "publishedAt": "2026-05-29T10:21:08.000+08:00",
+    "fetchedAt": "2026-06-01T15:33:36.228Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 12,
+      "timeliness": 14,
+      "uniqueness": 10,
+      "usefulness": 11,
+      "totalScore": 62,
+      "finalScore": 60,
+      "reason": "COD新作发布资讯，对从业者了解FPS品类动态有参考价值",
+      "notReason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "jm86ucgl7pr81rp55yrih89t",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215123",
+    "title": "《铲子骑士》团队六年磨一剑，8-bit复古风RPG新作《挖掘者米娜》今日正式发售",
+    "titleZh": "《铲子骑士》团队新RPG《挖掘者米娜》今日发售",
+    "summaryZh": "Yacht Club Games宣布《挖掘者米娜》全平台正式发售，该作由《铲子骑士》原班人马历时六年打造，融合8-bit复古像素风与现代玩法，现已登陆PC、主机等多平台。",
+    "author": null,
+    "publishedAt": "2026-05-29T10:20:55.000+08:00",
+    "fetchedAt": "2026-06-01T15:33:47.649Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 9,
+      "timeliness": 15,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 45,
+      "finalScore": 46,
+      "reason": "",
+      "notReason": "常规游戏发售资讯，信息量有限，缺乏行业深度分析",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "nhurm91xdnqvs19gx3pvhnil",
     "sourceId": "gameres",
     "sourceName": "游资网",
@@ -1007,6 +2121,36 @@
       "tags": [
         "行业",
         "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "0te2zp45d2liraspp5a655gc",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215088",
+    "title": "奇幻战略模拟《幻想大陆战记：深渊》＆以“无人东京”为舞台的冒险游戏《Tokyo Stories》两款新作现场试玩！",
+    "titleZh": "两款新作现场试玩：幻想大陆战记深渊与Tokyo Stories",
+    "summaryZh": "核聚变游戏嘉年华深圳站将于6月27、28日在深圳国际会展中心举办，带来两款新作试玩：奇幻战略模拟《幻想大陆战记：深渊》和冒险游戏《Tokyo Stories》。Happinet集团将参展，提供限定周边和沉浸式玩家氛围体验。",
+    "author": null,
+    "publishedAt": "2026-05-29T10:00:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:46:38.156Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 10,
+      "timeliness": 13,
+      "uniqueness": 8,
+      "usefulness": 9,
+      "totalScore": 52,
+      "finalScore": 53,
+      "reason": "",
+      "notReason": "展会预告信息较水，缺乏深度报道，难以引起行业从业者关注",
+      "tags": [
+        "展会",
+        "游戏"
       ],
       "relatedItems": []
     }
@@ -1039,6 +2183,240 @@
     }
   },
   {
+    "id": "cccmx0lk1wv3zk1m0xvc519r",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215116",
+    "title": "Epic喜加二：《孤星猎人》及《撸猫模拟器》免费领",
+    "titleZh": "Epic喜加二：《孤星猎人》及《撸猫模拟器》免费领",
+    "summaryZh": "",
+    "author": null,
+    "publishedAt": "2026-05-29T09:40:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:33:52.018Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 0,
+      "articleQuality": 0,
+      "timeliness": 0,
+      "uniqueness": 0,
+      "usefulness": 0,
+      "totalScore": 0,
+      "finalScore": 0,
+      "reason": "",
+      "notReason": "",
+      "tags": [],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "keocycmepqn1zsu2w0rzygcm",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215115",
+    "title": "Steam周销量排行榜:《极限竞速：地平线6》登顶|2026年5月第3周",
+    "titleZh": "Steam周销量榜：《极限竞速：地平线6》登顶",
+    "summaryZh": "Steam公布2026年5月第3周全球销量榜，《极限竞速：地平线6》强势登顶，《深海迷航2：异星水域》紧随其后。该榜排除免费游戏，为玩家和从业者提供游戏及硬件选购参考。",
+    "author": null,
+    "publishedAt": "2026-05-29T09:30:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:33:56.742Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 11,
+      "timeliness": 15,
+      "uniqueness": 8,
+      "usefulness": 12,
+      "totalScore": 60,
+      "finalScore": 58,
+      "reason": "提供最新Steam周榜数据，对游戏发行和市场人员有参考价值",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "78patxfvr79mhz9yrxps3ca2",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215113",
+    "title": "《007 初露锋芒》首日销量突破150万份，开发者发文感谢",
+    "titleZh": "《007 初露锋芒》首日销量破150万",
+    "summaryZh": "《007 初露锋芒》发售首日销量突破150万份，IO Interactive发文感谢玩家支持。游戏以詹姆斯·邦德年轻时代为背景，讲述其成长为顶尖特工的起源故事。",
+    "author": null,
+    "publishedAt": "2026-05-29T09:20:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:34:00.802Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 13,
+      "timeliness": 16,
+      "uniqueness": 8,
+      "usefulness": 12,
+      "totalScore": 63,
+      "finalScore": 60,
+      "reason": "首日150万销量数据具参考价值，反映3A游戏市场表现",
+      "notReason": "",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "glar90go7rbcst3tpu6du1nh",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215111",
+    "title": "PS4及Xbox One版《使命召唤：战区》将于年末停服",
+    "titleZh": "PS4及Xbox One版《使命召唤：战区》年末停服",
+    "summaryZh": "动视宣布将于今年年末停止PS4和Xbox One版《使命召唤：战区》运营。玩家需在《现代战争4》第一赛季开启后升级至PS5或Xbox Series S|X才能继续游玩。该决定将影响大量使用老旧主机的玩家群体，并加速主机世代更迭。",
+    "author": null,
+    "publishedAt": "2026-05-29T09:10:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:34:10.588Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 16,
+      "articleQuality": 12,
+      "timeliness": 14,
+      "uniqueness": 10,
+      "usefulness": 13,
+      "totalScore": 65,
+      "finalScore": 62,
+      "reason": "动视官方停服公告，跨世代迁移对行业有参考价值",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "pu0xlmkw0b0zpunx03qyo9w0",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215134",
+    "title": "像素风剧情驱动SRPG《星尘轨迹：魔女之愿》现已正式发售",
+    "titleZh": "像素风SRPG《星尘轨迹：魔女之愿》Steam发售",
+    "summaryZh": "像素风剧情驱动SRPG《星尘轨迹：魔女之愿》已在Steam正式发售，定价72元，首发折扣64.8元持续14天，同时推出多款游戏捆绑包。玩家将跟随少女战士「星」和少年法师「悠」展开冒险旅程。",
+    "author": null,
+    "publishedAt": "2026-05-29T09:00:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:34:14.647Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 35,
+      "finalScore": 38,
+      "reason": "",
+      "notReason": "内容较水，仅为常规发售公告，缺乏行业洞察和深度信息",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "zj0xc1569px4c68sn6mo7y99",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215112",
+    "title": "《动物园之星2》将于10月13日发售，国区售价200元起",
+    "titleZh": "《动物园之星2》10月13日发售，国区200元起",
+    "summaryZh": "Frontier Developments宣布《动物园之星2》将于10月13日发售。本作延续经典经营玩法，玩家可建造环球特色动物园，保育陆生、水生与飞行物种，并可将动物放归野生动物保护区。游戏新增众多物种与独特习性系统。",
+    "author": null,
+    "publishedAt": "2026-05-29T09:00:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:34:18.777Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 13,
+      "articleQuality": 12,
+      "timeliness": 16,
+      "uniqueness": 10,
+      "usefulness": 11,
+      "totalScore": 62,
+      "finalScore": 60,
+      "reason": "发售日、售价、核心玩法都有，信息完整实用",
+      "notReason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "sdjcep31f5ev6n8ijjn7e38k",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215131",
+    "title": "二次元联机爬塔游戏《魔女：终末旅途》6月5日发售",
+    "titleZh": "二次元联机爬塔游戏《魔女：终末旅途》6月5日发售",
+    "summaryZh": "《魔女：终末旅途》是一款融合卡牌构筑与策略 Roguelite 玩法的多人联机爬塔游戏，采用黑暗史诗叙事风格。此前在新品节获得好评，将于6月5日正式发售，面向热爱策略卡牌与多人联机玩法的玩家群体。",
+    "author": null,
+    "publishedAt": "2026-05-29T08:00:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:34:32.411Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 10,
+      "articleQuality": 8,
+      "timeliness": 15,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 46,
+      "finalScore": 47,
+      "reason": "",
+      "notReason": "新游发布信息较常规，缺乏深度分析与独家视角",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "d2s77d9vc6qxgj3dpoqb2pnn",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214985",
+    "title": "开发回顾《近视战士MYOPIA》",
+    "titleZh": "《近视战士MYOPIA》开发回顾",
+    "summaryZh": "本文为独立游戏开发者的创作回顾，主题围绕“视界限”。作者分享了独自完成开发过程中如何确定游戏主题、进行创意原型设计的方法，以及开发策略的思考与实践。",
+    "author": null,
+    "publishedAt": "2026-05-29T07:55:59.000+08:00",
+    "fetchedAt": "2026-06-01T15:46:42.182Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 9,
+      "articleQuality": 9,
+      "timeliness": 8,
+      "uniqueness": 8,
+      "usefulness": 8,
+      "totalScore": 42,
+      "finalScore": 45,
+      "reason": "",
+      "notReason": "内容较个人化，信息密度和深度有限，对行业从业者参考价值一般",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "qs6wyml4eqqtvf913hrdkgn0",
     "sourceId": "zhihu-hreo",
     "sourceName": "罗斯基（知乎）",
@@ -1061,6 +2439,124 @@
       "reason": "",
       "tags": [
         "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "t5hn8f9s7vfv3uns44evmrg6",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215109",
+    "title": "《使命召唤：现代战争4》将于10月23日发售,确认登陆NS2",
+    "titleZh": "《使命召唤：现代战争4》10月23日发售 确认登陆NS2",
+    "summaryZh": "《使命召唤：现代战争4》正式公布，10月23日发售。Steam国区基础版298元、金库版493元。确认登陆PC、XSX、PS5及NS2平台。老玩家预购金库版可享九折优惠。",
+    "author": null,
+    "publishedAt": "2026-05-28T23:23:51.000+08:00",
+    "fetchedAt": "2026-06-01T15:34:36.267Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 16,
+      "articleQuality": 14,
+      "timeliness": 17,
+      "uniqueness": 10,
+      "usefulness": 12,
+      "totalScore": 69,
+      "finalScore": 65,
+      "reason": "知名3A IP新作发布，价格平台信息完整，具行业参考价值",
+      "notReason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "cg5ehqkkoeatd21u2tr4mceb",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215077",
+    "title": "【中文独家转载】两载砺行，再越巅峰：Fami通《鸣潮》2周年开发访谈",
+    "titleZh": "《鸣潮》2周年开发访谈：Fami通独家",
+    "summaryZh": "《鸣潮》自公测两年间，从1.x版本沉淀到2.0黎那汐塔赢得口碑，再到3.0拉海洛科幻叙事突破，开发团队持续成长。文章围绕3.3版本及二周年纪念，回顾运营历程与自我迭代。",
+    "author": null,
+    "publishedAt": "2026-05-28T23:01:18.000+08:00",
+    "fetchedAt": "2026-06-01T15:46:53.066Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 15,
+      "timeliness": 15,
+      "uniqueness": 14,
+      "usefulness": 13,
+      "totalScore": 71,
+      "finalScore": 68,
+      "reason": "2周年开发复盘，一手经验分享，干货满满",
+      "notReason": "",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "46iaowjlkd43ch5dzxbwc54v",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215094",
+    "title": "《月之魔印》今天正式发售，让现实中的月相来影响你的对局",
+    "titleZh": "《月之魔印》今日发售，月相机制影响对局",
+    "summaryZh": "几何题材牌组构筑游戏《月之魔印》现已登陆Steam，支持PC和Linux，国区定价76元，首发14天内享9折优惠。游戏由Twin Sails Interactive发行、Snake Tower Games开发，核心特色在于月相系统将影响对局机制。",
+    "author": null,
+    "publishedAt": "2026-05-28T22:00:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:34:48.473Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 11,
+      "timeliness": 17,
+      "uniqueness": 8,
+      "usefulness": 10,
+      "totalScore": 58,
+      "finalScore": 56,
+      "reason": "",
+      "notReason": "内容为常规新游发售稿，深度不足，独特性一般",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "62z7icyhiea4ckl09udybkyf",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215076",
+    "title": "当游戏\"看见\"了我：AI原生游戏的情感机制、风险与未来",
+    "titleZh": "AI原生游戏的情感机制与未来",
+    "summaryZh": "探讨AI技术如何重塑游戏情感体验，分析从传统脚本驱动向AI原生驱动的范式转移，阐述AI原生游戏的风险与未来发展趋势。",
+    "author": null,
+    "publishedAt": "2026-05-28T21:45:58.000+08:00",
+    "fetchedAt": "2026-06-01T15:46:56.404Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 16,
+      "timeliness": 14,
+      "uniqueness": 17,
+      "usefulness": 13,
+      "totalScore": 75,
+      "finalScore": 71,
+      "reason": "深度解析AI游戏情感机制，行业前瞻性强",
+      "notReason": "",
+      "tags": [
+        "AI",
         "行业"
       ],
       "relatedItems": []
@@ -1117,6 +2613,182 @@
       "tags": [
         "游戏",
         "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "khbl3ra1ski2n606d374r8hb",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215106",
+    "title": "钢铁国度MKII军书：蛮兵 背景故事部分（下）",
+    "titleZh": "钢铁国度MKII军书：蛮兵背景故事（下）",
+    "summaryZh": "法罗人与鳄鱼人入侵剧情続き，领主卡文率军沿河追踪，发现残骸与尸体，研骨者阿卡迪乌斯检查漂流物，呈现一段奇幻战争背景叙事。",
+    "author": null,
+    "publishedAt": "2026-05-28T20:38:38.000+08:00",
+    "fetchedAt": "2026-06-01T15:47:01.704Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 7,
+      "articleQuality": 10,
+      "timeliness": 6,
+      "uniqueness": 7,
+      "usefulness": 5,
+      "totalScore": 35,
+      "finalScore": 39,
+      "reason": "",
+      "notReason": "桌游背景设定，对游戏行业从业者参考价值有限",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "69z0jkz6gs1o4jb0dx67otqe",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215105",
+    "title": "为「旧时曲」铺路：CDPR解释《巫师3》为何将放弃Win10",
+    "titleZh": "《巫师3》放弃Win10支持 CDPR回应争议",
+    "summaryZh": "CD Projekt RED回应《巫师3》新资料片将放弃Windows 10支持一事。玩家体验与安全总监Niewęgłowska解释称，因Win10逐渐失去官方支持，包括安全更新不再可用，继续维护兼容性风险增加。这一决定引发玩家争议，但官方表示是为确保游戏安全稳定运行。",
+    "author": null,
+    "publishedAt": "2026-05-28T19:23:22.000+08:00",
+    "fetchedAt": "2026-06-01T15:34:53.081Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 16,
+      "articleQuality": 18,
+      "timeliness": 15,
+      "uniqueness": 16,
+      "usefulness": 14,
+      "totalScore": 79,
+      "finalScore": 73,
+      "reason": "官方回应具有权威性，对游戏技术决策和系统兼容性策略有重要参考价值",
+      "notReason": "",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "m8g9wsprc1116qwh4jgh32ig",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215102",
+    "title": "诅咒崛起，奥莉朵与你畅游《墨境》",
+    "titleZh": "《墨境》正式版评测：诅咒流派深度解析",
+    "summaryZh": "《墨境》正式版发布，评测双路线随机挑战机制与诅咒流派的实际体验。EA版单线程爬塔模式升级为丰富挑战内容，新增遗物系统与诅咒debuff机制。",
+    "author": null,
+    "publishedAt": "2026-05-28T18:32:54.000+08:00",
+    "fetchedAt": "2026-06-01T15:47:25.834Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 13,
+      "timeliness": 14,
+      "uniqueness": 10,
+      "usefulness": 10,
+      "totalScore": 59,
+      "finalScore": 58,
+      "reason": "",
+      "notReason": "内容偏向玩家向评测，行业参考价值有限，对从业者实用度不足",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "seop8b1w4s7rbvx2061abt8m",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215098",
+    "title": "钢铁国度MKII军书：蛮兵 背景故事部分（上）",
+    "titleZh": "钢铁国度MKII蛮兵背景故事",
+    "summaryZh": "介绍桌游钢铁国度MKII中蛮兵阵营的设定，描述荒野部落战士的战斗哲学与生存方式，通过萨克森·奥瑞克的名言展现该阵营粗犷务实的特质。",
+    "author": null,
+    "publishedAt": "2026-05-28T18:23:21.000+08:00",
+    "fetchedAt": "2026-06-01T15:47:36.709Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 5,
+      "articleQuality": 6,
+      "timeliness": 4,
+      "uniqueness": 7,
+      "usefulness": 4,
+      "totalScore": 26,
+      "finalScore": 32,
+      "reason": "",
+      "notReason": "内容属于特定小众桌游的世界观设定，实用度和时效性较弱",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "lf39utnhf8ej0h082g6n1bb0",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214594",
+    "title": "模风掠影（卷二百一十六）：战锤5月摄影专辑（下）",
+    "titleZh": "战锤5月模型摄影专辑（下）",
+    "summaryZh": "介绍JOYTOY战锤系列5月下旬新品，涵盖暗鸦守卫、摩尔戴斯、荷鲁斯之子、死亡守卫、星际战士等阵营单位模型，展示新作涂装与细节。",
+    "author": null,
+    "publishedAt": "2026-05-28T18:00:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:47:41.194Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 7,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 31,
+      "finalScore": 36,
+      "reason": "",
+      "notReason": "内容偏产品展示，缺乏行业洞察和深度分析，实用价值有限",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "lb8vw51qdt783lht7pwbyw3r",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215100",
+    "title": "宝可梦公司最新财报公布，其电子游戏全球销量突破5.15亿份",
+    "titleZh": "宝可梦公司最新财报：电子游戏全球销量破5.15亿",
+    "summaryZh": "宝可梦公司最新财报显示，其电子游戏全球累计销量已达5.15亿份，上一财年售出2600万份，其中《宝可梦 Pokopia》贡献超400万份。卡牌业务同样亮眼，已生产超850亿张宝可梦集换式卡牌，年增长100亿张。",
+    "author": null,
+    "publishedAt": "2026-05-28T17:45:52.000+08:00",
+    "fetchedAt": "2026-06-01T15:35:07.363Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 14,
+      "timeliness": 17,
+      "uniqueness": 12,
+      "usefulness": 13,
+      "totalScore": 71,
+      "finalScore": 67,
+      "reason": "大厂最新业绩数据，展现IP产品线多元布局，对行业分析有参考价值",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "公司"
       ],
       "relatedItems": []
     }
@@ -1233,6 +2905,36 @@
     }
   },
   {
+    "id": "jfbg9xeywpcox27yi8onuzp8",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215097",
+    "title": "米哈游多款预研项目最新情报公布，多款UE5新作预研中",
+    "titleZh": "米哈游多款预研项目公布，UE5新作预研中",
+    "summaryZh": "米哈游招聘公众号公布多款预研项目最新情报，包括《星布谷地》《崩坏：因缘精灵》《Varsapura》等已公布项目，以及多款UE5预研新作，反映出其技术升级和新游戏储备动向。",
+    "author": null,
+    "publishedAt": "2026-05-28T17:30:01.000+08:00",
+    "fetchedAt": "2026-06-01T15:35:10.744Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 12,
+      "timeliness": 15,
+      "uniqueness": 12,
+      "usefulness": 10,
+      "totalScore": 64,
+      "finalScore": 61,
+      "reason": "大厂预研项目情报，具有技术升级方向参考价值",
+      "notReason": "",
+      "tags": [
+        "公司",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "tkabl47a0u3noer53mbmquqf",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
@@ -1253,6 +2955,65 @@
       "totalScore": 51,
       "finalScore": 54,
       "reason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ej5ni0ca5oifcvut7777px4e",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215091",
+    "title": "你是否接受钥匙卡？实体卡带还有未来吗？",
+    "titleZh": "实体卡带的未来：Switch2钥匙卡引发的行业思考",
+    "summaryZh": "文章探讨Switch2钥匙卡机制对游戏行业的影响，分析实体卡带从完整数据存储转为仅含激活密钥的变革，以及由此引发的玩家与厂商商业逻辑矛盾，思考实体介质的未来走向。",
+    "author": null,
+    "publishedAt": "2026-05-28T16:42:58.000+08:00",
+    "fetchedAt": "2026-06-01T15:47:55.619Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 14,
+      "timeliness": 16,
+      "uniqueness": 13,
+      "usefulness": 10,
+      "totalScore": 68,
+      "finalScore": 65,
+      "reason": "深入解析Switch2钥匙卡背后的产业逻辑，探讨实体介质变革方向",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "hm2b88m7kbb8h4vf7nvvs0g3",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215078",
+    "title": "《代号:LUNA》「拾光测试」今日开启！经典游戏抢先体验！",
+    "titleZh": "代号:LUNA「拾光测试」今日开启",
+    "summaryZh": "七龙游戏代理的Q版MMORPG《代号:LUNA》于2026年5月28日至6月25日开启限量不计费删档测试。测试采用先到先得形式，玩家可通过官网或官方群下载客户端。这是该经典IP重制版游戏的首次对外测试。",
+    "author": null,
+    "publishedAt": "2026-05-28T16:28:41.000+08:00",
+    "fetchedAt": "2026-06-01T15:47:59.797Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 10,
+      "articleQuality": 10,
+      "timeliness": 16,
+      "uniqueness": 8,
+      "usefulness": 9,
+      "totalScore": 53,
+      "finalScore": 53,
+      "reason": "",
+      "notReason": "产品测试公告较常规，信息增量有限，难以体现行业参考价值",
       "tags": [
         "游戏"
       ],
@@ -1282,6 +3043,93 @@
       "tags": [
         "行业",
         "AI"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "dkbh7mgp9m6aofm5513i0qaq",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215084",
+    "title": "《守望先锋》与音乐组合YOASOBI展开联动",
+    "titleZh": "守望先锋与YOASOBI音乐联动",
+    "summaryZh": "暴雪宣布《守望先锋》与日本音乐组合YOASOBI联动，将推出合作单曲及原创短片《地に堕ちた雀》，并上线雾子、源氏、半藏等英雄的联动皮肤，2026年6月30日上线。",
+    "author": null,
+    "publishedAt": "2026-05-28T15:49:49.000+08:00",
+    "fetchedAt": "2026-06-01T15:35:28.101Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 6,
+      "timeliness": 9,
+      "uniqueness": 5,
+      "usefulness": 7,
+      "totalScore": 35,
+      "finalScore": 38,
+      "reason": "",
+      "notReason": "常规联动公告，信息量较少，无独家内容",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "8elid3kt7vikmae4fsbr2694",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215083",
+    "title": "《风暴崛起》幕后势力降临，新阵营维提多人模式公测现已开启",
+    "titleZh": "《风暴崛起》新阵营维提公测开启",
+    "summaryZh": "《风暴崛起》维提势力多人模式现已公测，测试期至6月10日。玩家可使用第三阵营势力维提，以全新策略进行游戏。多人模式向所有玩家免费开放，适合各水平玩家参与。",
+    "author": null,
+    "publishedAt": "2026-05-28T15:49:44.000+08:00",
+    "fetchedAt": "2026-06-01T15:35:46.432Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 11,
+      "articleQuality": 10,
+      "timeliness": 12,
+      "uniqueness": 9,
+      "usefulness": 8,
+      "totalScore": 50,
+      "finalScore": 50,
+      "reason": "",
+      "notReason": "常规游戏更新资讯，信息量和深度有限",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "m7omopwd8jkh6fim8lhtlkrd",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215079",
+    "title": "Capcom Figure Build Creators将推出《识质存在》1/7比例模型，明年1月发售",
+    "titleZh": "Capcom将推出《识质存在》角色模型",
+    "summaryZh": "Capcom Figure Build Creators系列将推出《识质存在》角色休和戴安娜的1/7比例手办模型，预定明年1月28日发售，现已开放预定。",
+    "author": null,
+    "publishedAt": "2026-05-28T15:28:27.000+08:00",
+    "fetchedAt": "2026-06-01T15:35:53.398Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 5,
+      "totalScore": 31,
+      "finalScore": 35,
+      "reason": "",
+      "notReason": "产品发布信息，深度不足且与游戏核心业务关联较弱",
+      "tags": [
+        "公司"
       ],
       "relatedItems": []
     }
@@ -1537,6 +3385,36 @@
     }
   },
   {
+    "id": "erctseuy6zhe4he7y35cqogt",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214610",
+    "title": "INFERNO CT A2/大坑 SOP & 行动决策",
+    "titleZh": "INFERNO A2大坑CT标准操作与决策指南",
+    "summaryZh": "CS2/CSGO中Inferno地图A2点位（大坑）的CT方标准操作流程，涵盖核心原则（生存优先、信息获取、道具协同）及开局到残局的时间线战术执行要点。",
+    "author": null,
+    "publishedAt": "2026-05-28T12:30:44.000+08:00",
+    "fetchedAt": "2026-06-01T15:48:10.174Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 14,
+      "timeliness": 13,
+      "uniqueness": 11,
+      "usefulness": 14,
+      "totalScore": 64,
+      "finalScore": 62,
+      "reason": "系统化战术指南，实用价值高，适合战队和玩家参考",
+      "notReason": "",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "cr19o0bmx8fji0h05l2ind1r",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
@@ -1607,6 +3485,35 @@
       "tags": [
         "AI",
         "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "5ri3tpolrxffxkh8kuuzj6e7",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215066",
+    "title": "铲子骑士团队新作《挖掘者米娜》媒体评分现已解禁：Metacritic均分92分",
+    "titleZh": "铲子骑士团队新作《挖掘者米娜》Metacritic均分92",
+    "summaryZh": "《挖掘者米娜》媒体评分解禁，PC版均分92（44家媒体），NS2版86分（13家媒体），PS5版92分（5家媒体）。游戏由Yacht Club Games开发，为动作冒险类型作品。",
+    "author": null,
+    "publishedAt": "2026-05-28T11:20:16.000+08:00",
+    "fetchedAt": "2026-06-01T15:36:00.750Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 13,
+      "articleQuality": 13,
+      "timeliness": 16,
+      "uniqueness": 9,
+      "usefulness": 10,
+      "totalScore": 61,
+      "finalScore": 59,
+      "reason": "游戏评分数据详实，各平台分数一目了然，利于从业者了解新品市场反馈。",
+      "notReason": "",
+      "tags": [
+        "游戏"
       ],
       "relatedItems": []
     }
@@ -1761,6 +3668,360 @@
     }
   },
   {
+    "id": "v8rqqac4moymz24pa3oepvrt",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215062",
+    "title": "《薛定谔的电话》今日正式发售！同步开启10%折扣首发优惠活动，并公开最新预告视频！",
+    "titleZh": "《薛定谔的电话》今日发售 首发10%折扣",
+    "summaryZh": "集英社游戏开发的绘本风格文字冒险游戏《薛定谔的电话》于5月28日正式发售。纪念发售同步开启限时10%折扣优惠活动，并公开最新预告视频，为玩家带来人与人之间的伤痛与救赎体验。",
+    "author": null,
+    "publishedAt": "2026-05-28T10:19:39.000+08:00",
+    "fetchedAt": "2026-06-01T15:36:07.367Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 10,
+      "articleQuality": 9,
+      "timeliness": 16,
+      "uniqueness": 8,
+      "usefulness": 8,
+      "totalScore": 51,
+      "finalScore": 51,
+      "reason": "",
+      "notReason": "常规游戏发售公告，信息量有限，实用度一般",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "lgoaiyra6uk8kdm35am6cz8y",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215060",
+    "title": "小岛秀夫联手知名导演发布生成式AI科幻短片，引发强烈争议",
+    "titleZh": "小岛秀夫与知名导演发布AI短片引争议",
+    "summaryZh": "小岛秀夫与丹麦导演雷弗恩在戛纳电影节为Prada Mode活动发布AI生成科幻短片预览。完整短片即将发布，但生成式AI创作方式引发业界争议。此举反映了游戏圈大佬探索AI技术的最新动向，对从业者了解AI在创意领域的应用趋势有参考价值。",
+    "author": null,
+    "publishedAt": "2026-05-28T10:18:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:36:11.829Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 13,
+      "timeliness": 16,
+      "uniqueness": 12,
+      "usefulness": 11,
+      "totalScore": 67,
+      "finalScore": 64,
+      "reason": "小岛秀夫新作折射AI在游戏/创意领域的应用趋势，值得关注",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "AI"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "8oj44otazhsly9zbpt4ff8ki",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215048",
+    "title": "多款精品独游亮相！丨IndieArk x 核聚变2026深圳展区介绍",
+    "titleZh": "多款精品独立游戏亮相！IndieArk x 核聚变2026深圳展区介绍",
+    "summaryZh": "核聚变游戏嘉年华深圳站将于6月27-28日在深圳国际会展中心举行，IndieArk展区将展示多款精品独立游戏，提供新游试玩、舞台活动、限定周边等丰富内容。",
+    "author": null,
+    "publishedAt": "2026-05-28T10:00:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:48:25.893Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 12,
+      "timeliness": 13,
+      "uniqueness": 11,
+      "usefulness": 12,
+      "totalScore": 62,
+      "finalScore": 61,
+      "reason": "独立游戏开发者了解行业展会动态的实用参考",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "展会"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "hvec65k0b7jomdmghu48xsbh",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215059",
+    "title": "聚焦太空战斗！《无人深空》现已实装“虫群”更新",
+    "titleZh": "聚焦太空战斗！《无人深空》现已实装“虫群”更新",
+    "summaryZh": "",
+    "author": null,
+    "publishedAt": "2026-05-28T09:25:20.000+08:00",
+    "fetchedAt": "2026-06-01T15:36:21.768Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 0,
+      "articleQuality": 0,
+      "timeliness": 0,
+      "uniqueness": 0,
+      "usefulness": 0,
+      "totalScore": 0,
+      "finalScore": 0,
+      "reason": "",
+      "notReason": "",
+      "tags": [],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ehm4z8tul4u7fka5jwd3hoks",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215057",
+    "title": "V社调整Steam Deck OLED版售价，平均涨幅45%",
+    "titleZh": "V社调涨Steam Deck OLED售价",
+    "summaryZh": "Valve宣布调整Steam Deck OLED版售价，平均涨幅45%。因内存及存储价格上涨，两个型号价格随之提高，但本体配置不变。官方表示新价格反映当前组件成本及全球物流挑战，此前缺货的官网渠道已再次补货。",
+    "author": null,
+    "publishedAt": "2026-05-28T09:17:04.000+08:00",
+    "fetchedAt": "2026-06-01T15:36:35.130Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 13,
+      "timeliness": 16,
+      "uniqueness": 9,
+      "usefulness": 11,
+      "totalScore": 64,
+      "finalScore": 61,
+      "reason": "Steam Deck价格普涨45%值得关注，反映硬件成本压力与便携游戏市场走向",
+      "notReason": "",
+      "tags": [
+        "公司",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "vvxurcs3tl7hr00b7m4kburu",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215054",
+    "title": "黑暗之魂3洛斯里克高墙关卡拆解（下篇）",
+    "titleZh": "黑暗之魂3洛斯里克高墙关卡拆解（下篇）",
+    "summaryZh": "深入分析《黑暗之魂3》洛斯里克高墙关卡的第四阶段设计，探讨网状分支路线布局（A/B/C三条路径）的设计思路，阐述如何通过路线差异化（剧情推进、死胡同探索、主线遭遇）引导玩家体验，最终实现殊途同归的关卡结构。",
+    "author": null,
+    "publishedAt": "2026-05-28T09:00:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:48:47.909Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 16,
+      "timeliness": 10,
+      "uniqueness": 13,
+      "usefulness": 14,
+      "totalScore": 68,
+      "finalScore": 65,
+      "reason": "深度解析经典关卡设计，干货满满，对关卡设计师有直接参考价值",
+      "notReason": "",
+      "tags": [
+        "干货",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ex7z3gxn09075fzgscvswusa",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215053",
+    "title": "黑暗之魂3洛斯里克高墙关卡拆解（上篇）",
+    "titleZh": "《黑暗之魂3》洛斯里克高墙关卡拆解（上篇）",
+    "summaryZh": "深入分析《黑暗之魂3》洛斯里克高墙的关卡设计，涵盖系统框架、动线设计、分流程拆解及设计要点提炼，为游戏开发者提供魂系列关卡设计的专业参考。",
+    "author": null,
+    "publishedAt": "2026-05-28T09:00:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:48:52.319Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 17,
+      "timeliness": 10,
+      "uniqueness": 15,
+      "usefulness": 14,
+      "totalScore": 70,
+      "finalScore": 67,
+      "reason": "魂系列经典关卡设计的深度拆解，实用性强",
+      "notReason": "",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "xl3xe0p6akn20qkni21hv6mr",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215055",
+    "title": "如何在涌现式游戏中打造良好的平衡性",
+    "titleZh": "如何在涌现式游戏中打造良好的平衡性",
+    "summaryZh": "文章从《皇室战争》的具体平衡性问题出发，探讨涌现式游戏的平衡设计方法论。从卡组破坏生态、觉醒和精英机制等玩家抱怨现象入手，阐述如何从具体问题上升到通用设计原则，对游戏研发和平衡性调整有实战参考价值。",
+    "author": null,
+    "publishedAt": "2026-05-28T06:36:52.000+08:00",
+    "fetchedAt": "2026-06-01T15:48:55.949Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 16,
+      "timeliness": 14,
+      "uniqueness": 15,
+      "usefulness": 15,
+      "totalScore": 75,
+      "finalScore": 71,
+      "reason": "从具体案例提炼出平衡性设计方法论，实用度高",
+      "notReason": "",
+      "tags": [
+        "干货",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "g40y1v6gmyo7uzi0gur6dksg",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215044",
+    "title": "一个中东 STG 爱好者，做出了街机风的新作",
+    "titleZh": "中东开发者打造街机风STG新作",
+    "summaryZh": "《Beyond Solar》由中东团队COREGAME开发的卷轴STG作品。游戏承袭传统“闪避+射击”玩法，摒弃死亡清零机制，降低入门门槛，面向轻度玩家。目前开发进度处于初级阶段，展现出中东地区独立游戏开发的独特视角。",
+    "author": null,
+    "publishedAt": "2026-05-27T23:05:03.000+08:00",
+    "fetchedAt": "2026-06-01T15:49:05.599Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 14,
+      "timeliness": 8,
+      "uniqueness": 13,
+      "usefulness": 9,
+      "totalScore": 52,
+      "finalScore": 53,
+      "reason": "",
+      "notReason": "内容较水，缺乏深度分析和行业洞察，实用度有限",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "xonsl7evagnwpayn390g7bdc",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215049",
+    "title": "SPARK2026腾讯游戏发布会消息汇总：超40款游戏公布最新动态，多项游戏AI应用发布新进展",
+    "titleZh": "腾讯游戏发布会汇总：42款游戏亮相",
+    "summaryZh": "SPARK2026腾讯游戏发布会于5月27日线上举办，42款海内外游戏公布最新动态，29位开发者参与发布。发布会涵盖游戏新内容、新玩法、新赛事等，并展示了多项游戏AI技术应用成果。",
+    "author": null,
+    "publishedAt": "2026-05-27T22:47:36.000+08:00",
+    "fetchedAt": "2026-06-01T15:36:45.353Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 12,
+      "timeliness": 16,
+      "uniqueness": 11,
+      "usefulness": 13,
+      "totalScore": 67,
+      "finalScore": 64,
+      "reason": "腾讯作为头部大厂，发布会的AI应用进展和游戏动态极具行业参考价值",
+      "notReason": "",
+      "tags": [
+        "展会",
+        "AI"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "9qkj3f05hfri7m339kw636qy",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215047",
+    "title": "《湮灭之潮》公布最新预告，获虚幻引擎、英伟达深度技术支持",
+    "titleZh": "《湮灭之潮》公布新预告，虚虚/英伟达技术赋能",
+    "summaryZh": "单机动作冒险游戏《湮灭之潮》亮相腾讯游戏发布会，研发方日蚀边缘分享虚幻引擎底层及图形技术优化进展，宣布今年夏天举办首次线下试玩会，获虚幻引擎和英伟达深度技术支持。",
+    "author": null,
+    "publishedAt": "2026-05-27T22:04:11.000+08:00",
+    "fetchedAt": "2026-06-01T15:36:55.385Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 13,
+      "articleQuality": 12,
+      "timeliness": 15,
+      "uniqueness": 10,
+      "usefulness": 12,
+      "totalScore": 62,
+      "finalScore": 60,
+      "reason": "技术合作信息具体，有虚幻/英伟达背书参考价值",
+      "notReason": "",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "f3myabx5q1x1ycui6k3m6d2y",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215046",
+    "title": "《勇者斗恶龙 怪物仙境4 枯木国的碧安卡与芙萝拉》正式公布",
+    "titleZh": "《勇者斗恶龙怪物仙境4》正式公布",
+    "summaryZh": "《勇者斗恶龙 怪物仙境4》正式公布，本作选用《勇者斗恶龙5》的碧安卡与芙萝拉作为主角，玩家可收服各种怪物组建队伍战斗。将登录PS5、XboxSeries、NS、NS2、Steam、Windows平台，发售日尚未确定。",
+    "author": null,
+    "publishedAt": "2026-05-27T21:57:36.000+08:00",
+    "fetchedAt": "2026-06-01T15:36:59.017Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 12,
+      "timeliness": 18,
+      "uniqueness": 10,
+      "usefulness": 10,
+      "totalScore": 65,
+      "finalScore": 62,
+      "reason": "经典IP新作公布，多平台登录，时效性强值得从业者关注",
+      "notReason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "mtgjnwf6f1qgj141863rofjd",
     "sourceId": "youxiputao",
     "sourceName": "游戏葡萄",
@@ -1845,6 +4106,64 @@
     }
   },
   {
+    "id": "fi6uqx70jsb5lafswi874gw6",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215045",
+    "title": "《勇者斗恶龙12 前往梦境彼端》公布预告，发售时间未知",
+    "titleZh": "勇者斗恶龙12公布新预告，发售日未定",
+    "summaryZh": "《勇者斗恶龙12》正式公布首个预告，副标题由《被选中的命运之炎》变更为《前往梦境彼端》。游戏于2021年5月首次公布，目前发售日期仍未确定，系列创始人参与设计工作。",
+    "author": null,
+    "publishedAt": "2026-05-27T21:24:42.000+08:00",
+    "fetchedAt": "2026-06-01T15:37:14.804Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 13,
+      "articleQuality": 12,
+      "timeliness": 19,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 59,
+      "finalScore": 57,
+      "reason": "",
+      "notReason": "信息量有限，仅为预告公布的基础资讯，缺少深入分析",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "37i0t5347hiqt2n7r0rsyy5t",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215038",
+    "title": "【唐墨】游戏杂谈-地图类-记忆",
+    "titleZh": "游戏杂谈：地图设计中的记忆机制",
+    "summaryZh": "文章探讨游戏设计中“记忆”机制的重要性，分析地图类游戏如何通过记忆元素提升玩家体验与参与度，阐述记忆在关卡设计和空间叙事中的应用价值。",
+    "author": null,
+    "publishedAt": "2026-05-27T20:09:58.000+08:00",
+    "fetchedAt": "2026-06-01T15:49:15.558Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 10,
+      "articleQuality": 9,
+      "timeliness": 7,
+      "uniqueness": 8,
+      "usefulness": 6,
+      "totalScore": 40,
+      "finalScore": 43,
+      "reason": "",
+      "notReason": "内容偏理论性，对从业者实操参考有限",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "kw5mydv3webai3hyguf3s6x0",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
@@ -1892,6 +4211,65 @@
       "reason": "版号信息及时准确，网易字节新品动态值得从业者关注",
       "tags": [
         "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "cvi9t5esi1laaedx5a66bajf",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215033",
+    "title": "《巫师3：狂猎》全新资料片「旧时曲（Songs of the Past）」现已公布",
+    "titleZh": "《巫师3》新资料片「旧时曲」公布",
+    "summaryZh": "《巫师3：狂猎》全新资料片「旧时曲」正式公布，由CDPR与Fool's Theory工作室共同开发，延续杰洛特的冒险旅程，将于2027年登陆PC、XSX|S、PS5平台，为经典单机RPG注入新内容。",
+    "author": null,
+    "publishedAt": "2026-05-27T17:10:59.000+08:00",
+    "fetchedAt": "2026-06-01T15:37:22.460Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 9,
+      "articleQuality": 11,
+      "timeliness": 17,
+      "uniqueness": 7,
+      "usefulness": 6,
+      "totalScore": 50,
+      "finalScore": 50,
+      "reason": "",
+      "notReason": "信息量有限，仅为官方公布而无深度分析，实用度一般",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "cu6lmlhd4tei16frzrgsr28m",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215036",
+    "title": "《007：初露锋芒》原生支持 DLSS 4.5！七彩虹推出RTX 5070联名显卡",
+    "titleZh": "七彩虹RTX 5070联名007游戏显卡发布",
+    "summaryZh": "七彩虹iGame品牌联合《007：初露锋芒》推出RTX 5070联名显卡，采用黑金装甲设计，配备12GB显存，支持DLSS 4.5技术，为游戏玩家提供高性能图形解决方案。",
+    "author": null,
+    "publishedAt": "2026-05-27T17:00:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:37:33.109Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 12,
+      "timeliness": 16,
+      "uniqueness": 11,
+      "usefulness": 10,
+      "totalScore": 63,
+      "finalScore": 60,
+      "reason": "显卡新品发布+热门IP联名，时效性强且具行业参考价值",
+      "notReason": "",
+      "tags": [
+        "公司",
         "游戏"
       ],
       "relatedItems": []
@@ -1981,6 +4359,389 @@
     }
   },
   {
+    "id": "m62pgwj5vrgrlcwz0x6lwz74",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215031",
+    "title": "【开发日志7】听觉考古：那些藏在噪音里的“星球歌谣”",
+    "titleZh": "开发日志7：听觉考古——噪音中的星球歌谣",
+    "summaryZh": "Halcyon制作组分享游戏音效设计理念，探讨在重工业世界中如何通过\"幽灵频率\"和\"噪音墙\"等设计手法，打造沉浸式的听觉体验，以及如何让玩家在喧嚣中听见独特的\"星球歌谣\"。",
+    "author": null,
+    "publishedAt": "2026-05-27T15:46:11.000+08:00",
+    "fetchedAt": "2026-06-01T15:49:38.799Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 14,
+      "timeliness": 10,
+      "uniqueness": 13,
+      "usefulness": 10,
+      "totalScore": 59,
+      "finalScore": 58,
+      "reason": "",
+      "notReason": "内容偏理念分享，缺乏实操技术细节，对实际工作指导有限",
+      "tags": [
+        "干货",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "a0b94p9ddpz1f3l4xd4yasdj",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215028",
+    "title": "别让玩家当摄像头：用“熵”与“栈”重构游戏叙事空间",
+    "titleZh": "用熵与栈重构游戏叙事空间",
+    "summaryZh": "探讨游戏叙事设计的空间困境，指出高设定、复杂阵营等反而限制叙事展开。提出用「熵」与「栈」概念重构叙事空间，避免俗套，为叙事设计提供新思路。",
+    "author": null,
+    "publishedAt": "2026-05-27T15:05:47.000+08:00",
+    "fetchedAt": "2026-06-01T15:49:44.150Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 16,
+      "timeliness": 12,
+      "uniqueness": 17,
+      "usefulness": 14,
+      "totalScore": 74,
+      "finalScore": 70,
+      "reason": "引入熵与栈等独特概念，为游戏叙事设计提供创新方法论",
+      "notReason": "",
+      "tags": [
+        "干货",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "e0ri1lhp0jih8umkkv3cg4jc",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215025",
+    "title": "堀井雄二撰写的RPG游戏制作指南《如何制作一款勇者斗恶龙》将于7月17日发售",
+    "titleZh": "堀井雄二RPG制作指南7月发售",
+    "summaryZh": "Square Enix宣布堀井雄二与塩崎剛三合著的《勇者斗恶龙制作方法》将于7月17日发售，本书为RPG开发指南，堀井雄二在书中分享《勇者斗恶龙》系列开发技巧与关键要素，目前已在Square Enix官方e-STORE开放预购。",
+    "author": null,
+    "publishedAt": "2026-05-27T14:47:27.000+08:00",
+    "fetchedAt": "2026-06-01T15:37:42.259Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 18,
+      "articleQuality": 16,
+      "timeliness": 17,
+      "uniqueness": 19,
+      "usefulness": 17,
+      "totalScore": 87,
+      "finalScore": 80,
+      "reason": "堀井雄二首部中文版开发指南，传奇制作人第一手经验极具行业参考价值",
+      "notReason": "",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "i15a6vm7itmsr9jucihftzik",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215026",
+    "title": "【抽奖】怪物收集 RPG《流明物语：特雷的回忆》现已登陆 Steam，展开一场寻找失落记忆的奇幻冒险",
+    "titleZh": "《流明物语：特雷的回忆》Steam发布",
+    "summaryZh": "独立RPG《流明物语：特雷的回忆》正式登陆Steam。玩家将探索奇幻大陆Talea，与各种角色相遇，逐步揭开主角Trey失去记忆的真相。这是一款注重神秘与情感体验的怪物收集类冒险游戏。",
+    "author": null,
+    "publishedAt": "2026-05-27T14:45:19.000+08:00",
+    "fetchedAt": "2026-06-01T15:37:52.515Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 4,
+      "totalScore": 32,
+      "finalScore": 36,
+      "reason": "",
+      "notReason": "内容是普通的新游发布稿，缺乏深度分析，行业参考价值有限",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "4426riq0qct0fbgvpu2j2on7",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215027",
+    "title": "《TEVI: Fauna Arcana》DLC将于 6月25日 登陆Steam平台",
+    "titleZh": "类银河恶魔城《TEVI》新DLC《Fauna Arcana》6月25日上线Steam",
+    "summaryZh": "酷斯特文创宣布，类银河恶魔城游戏《TEVI》大型DLC《Fauna Arcana》将于2026年6月25日10:00在Steam上线，售价40元。玩家需购买游戏本体并通关至指定章节方可体验DLC内容，原班声优出演。",
+    "author": null,
+    "publishedAt": "2026-05-27T14:39:33.000+08:00",
+    "fetchedAt": "2026-06-01T15:38:02.201Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 9,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 35,
+      "finalScore": 38,
+      "reason": "",
+      "notReason": "DLC发布属于常规产品资讯，缺乏独家视角和行业深度分析，信息量不足以支撑精选标准。",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "2ln8kuokf2irxluv50949wtw",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215024",
+    "title": "《勇者斗恶龙HD-2D Remake》洛特三部曲销量现已突破400万",
+    "titleZh": "《勇者斗恶龙HD-2D重制版》洛特三部曲销量破400万",
+    "summaryZh": "Square Enix宣布《勇者斗恶龙I & II HD-2D Remake》及《勇者斗恶龙III HD-2D Remake》洛特三部曲累计销量突破400万份，HD-2D重制策略取得显著市场反响，为经典JRPG注入新活力。",
+    "author": null,
+    "publishedAt": "2026-05-27T14:30:27.000+08:00",
+    "fetchedAt": "2026-06-01T15:38:08.858Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 16,
+      "articleQuality": 14,
+      "timeliness": 16,
+      "uniqueness": 9,
+      "usefulness": 13,
+      "totalScore": 68,
+      "finalScore": 64,
+      "reason": "SE经典IP重制版销量破400万，体现HD-2D策略市场验证",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "zujkilbczf8z8n6rgnpsa5mx",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215023",
+    "title": "由人民音乐出版社和8082audio联合打造的《黑神话悟空》游戏音乐总谱精选集推出",
+    "titleZh": "《黑神话悟空》游戏音乐总谱精选集发布",
+    "summaryZh": "《黑神话悟空》游戏音乐总谱精选集正式推出，由人民音乐出版社与8082audio联合打造，涵盖六大章节18首配乐。该产品以“音乐总谱”形式系统呈现游戏经典场景音乐，是国产游戏IP开发的创新周边产品。",
+    "author": null,
+    "publishedAt": "2026-05-27T14:15:20.000+08:00",
+    "fetchedAt": "2026-06-01T15:38:16.733Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 12,
+      "timeliness": 15,
+      "uniqueness": 12,
+      "usefulness": 13,
+      "totalScore": 66,
+      "finalScore": 63,
+      "reason": "爆款游戏IP衍生出版，揭示游戏音乐商业化新方向",
+      "notReason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "suk6o3epnalb49umcdjtp644",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215021",
+    "title": "战锤颅骨节2026回顾：多款战锤游戏迎来重大更新与新作公开，精选游戏最高一折优惠持续至5月28日",
+    "titleZh": "战锤颅骨节2026回顾",
+    "summaryZh": "战锤颅骨节十周年庆典于5月21日举办，Alanah Pearce主持，带来50分钟发布会。公开两款新作，《绝地潜兵2》与战锤40K联动进行中，多款游戏重大更新，特卖持续至5月28日。",
+    "author": null,
+    "publishedAt": "2026-05-27T14:14:59.000+08:00",
+    "fetchedAt": "2026-06-01T15:38:21.081Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 16,
+      "articleQuality": 14,
+      "timeliness": 18,
+      "uniqueness": 11,
+      "usefulness": 13,
+      "totalScore": 72,
+      "finalScore": 68,
+      "reason": "战锤粉必看！两款新作发布+绝地潜兵2联动，十周年盛典全回顾",
+      "notReason": "",
+      "tags": [
+        "展会",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "84afb92imya9adq1hjbrae8t",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215020",
+    "title": "【抽奖】超现实解谜平台冒险游戏《芳草地(Yerba Buena)》正式发售！",
+    "titleZh": "解谜游戏《芳草地》正式发售",
+    "summaryZh": "Focus Entertainment与Mad About Pandas合作开发的超现实解谜平台游戏《芳草地》登陆PS5、Xbox Series和PC平台。游戏以70年代旧金山为灵感，玩家需挣脱NPC命运，拯救伙伴与城市。",
+    "author": null,
+    "publishedAt": "2026-05-27T13:24:47.000+08:00",
+    "fetchedAt": "2026-06-01T15:38:31.443Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 11,
+      "timeliness": 15,
+      "uniqueness": 9,
+      "usefulness": 10,
+      "totalScore": 57,
+      "finalScore": 56,
+      "reason": "",
+      "notReason": "信息量一般，缺少深度分析和独家视角",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "mz7y06lzuq3epr4gzptuyh2j",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215018",
+    "title": "《007：初露锋芒》媒体评分现已解禁：Metacritic均分87分",
+    "titleZh": "《007：初露锋芒》媒体评分解禁，Metacritic均分87",
+    "summaryZh": "《007：初露锋芒》媒体评分现已解禁，PS5版Metacritic均分87分收录56家媒体，PC版均分87分收录28家媒体。本作由IO Interactive开发，讲述詹姆斯·邦德获取杀人执照的全新故事。",
+    "author": null,
+    "publishedAt": "2026-05-27T13:08:26.000+08:00",
+    "fetchedAt": "2026-06-01T15:38:35.231Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 7,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 34,
+      "finalScore": 37,
+      "reason": "",
+      "notReason": "标准评分解禁报道，信息量较少，无独家视角",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "a9tauaomesuwyi89ped61nms",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215017",
+    "title": "超40款新作、30+Demo！AG French Direct定档5月28日！",
+    "titleZh": "超40款新作、30+Demo！AG French Direct定档5月28日！",
+    "summaryZh": "法国线上游戏发布会AG French Direct 2026届定档5月28日，将发布40余款法国及法语地区游戏新消息，包括世界首曝、预告、实机演示及开发幕后，并提供30+款Demo试玩，涵盖《遥遥西土》《物质世界2》《恶魔城传说》《刺客信条：黑旗》等作品。",
+    "author": null,
+    "publishedAt": "2026-05-27T12:24:26.000+08:00",
+    "fetchedAt": "2026-06-01T15:38:44.715Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 11,
+      "articleQuality": 9,
+      "timeliness": 10,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 43,
+      "finalScore": 44,
+      "reason": "",
+      "notReason": "信息量不足，仅为活动预告而无深度分析",
+      "tags": [
+        "展会",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "m08hnr7u0428eldfoklc3acc",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215010",
+    "title": "《勇者斗恶龙》系列40周年纪念贺图公布，堀井雄二发文庆祝",
+    "titleZh": "勇者斗恶龙系列40周年纪念贺图公布",
+    "summaryZh": "《勇者斗恶龙》系列迎来40周年，创造者堀井雄二发文庆祝并分享感悟：人生如角色扮演，遇到困难不放弃终会豁然开朗。同时公布40周年纪念贺图。",
+    "author": null,
+    "publishedAt": "2026-05-27T11:53:40.000+08:00",
+    "fetchedAt": "2026-06-01T15:38:59.664Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 10,
+      "timeliness": 16,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 53,
+      "finalScore": 52,
+      "reason": "",
+      "notReason": "内容较水，主要是情怀庆祝文章，缺乏行业深度分析和实用信息",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ux932jl3zbs7rwks70hlb4nx",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215008",
+    "title": "《艾尔登法环》28cm白金之子毛绒玩具现已开放预订，售价49.99美元",
+    "titleZh": "《艾尔登法环》白金之子毛绒玩具开放预订",
+    "summaryZh": "万代南梦宫美国推出《艾尔登法环》白金之子28cm坐高毛绒玩具，采用柔软面料与刺绣面部细节，定价49.99美元，预计2026年9月发货。该产品将游戏角色实体化周边化，属于IP商业化常规操作。",
+    "author": null,
+    "publishedAt": "2026-05-27T11:32:56.000+08:00",
+    "fetchedAt": "2026-06-01T15:39:02.824Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 8,
+      "timeliness": 10,
+      "uniqueness": 6,
+      "usefulness": 8,
+      "totalScore": 40,
+      "finalScore": 42,
+      "reason": "",
+      "notReason": "产品信息较简单，缺少深度分析与行业洞察",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "8ppes87slbt77tmaf9k2uap5",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
@@ -2065,6 +4826,64 @@
     }
   },
   {
+    "id": "lh2ne93whcfllxamilop84kc",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214991",
+    "title": "ODE TO THE GAMER！核聚变游戏嘉年华2026深圳站，正式开票！",
+    "titleZh": "核聚变游戏嘉年华2026深圳站开票！",
+    "summaryZh": "机核网主办的核聚变游戏嘉年华2026年将首次落地深圳站，活动将于6月27-28日举办，现已正式开票。这是面向玩家的游戏文化活动，涵盖游戏体验、嘉宾分享等内容。",
+    "author": null,
+    "publishedAt": "2026-05-27T11:00:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:49:54.164Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 13,
+      "timeliness": 14,
+      "uniqueness": 11,
+      "usefulness": 12,
+      "totalScore": 62,
+      "finalScore": 61,
+      "reason": "核聚变首降深圳，机核品牌活动值得关注",
+      "notReason": "",
+      "tags": [
+        "展会"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "9153y229ahlo98igh8rig7f7",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215006",
+    "title": "《街霸6》全角色新服装“DriveTech运动服””将于5月28日免费推出",
+    "titleZh": "《街霸6》DriveTech运动服5月28日免费上线",
+    "summaryZh": "《街头霸王6》将于5月28日推出全30位角色新服装“DriveTech运动服”，与新角色英格丽德同步上线，免费发布。该服装采用运动风格设计，强调灵活轻便与功能性，为玩家对战斗做好万全准备。",
+    "author": null,
+    "publishedAt": "2026-05-27T10:21:48.000+08:00",
+    "fetchedAt": "2026-06-01T15:39:06.152Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 10,
+      "timeliness": 12,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 43,
+      "finalScore": 44,
+      "reason": "",
+      "notReason": "内容较水，仅为常规游戏更新公告，缺少深度分析和行业洞察",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "s9tsbbm5sjosffyyut61xpit",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
@@ -2086,6 +4905,155 @@
       "reason": "",
       "tags": [
         "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "2l46scyv5319dxazaeqvkns1",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215004",
+    "title": "二十余万玩家联名请愿《命运3》立项，消息人士透露Bungie内部乱局",
+    "titleZh": "二十余万玩家请愿《命运3》立项，Bungie内部乱局曝光",
+    "summaryZh": "Bungie宣布《命运2》将于6月迎来最终内容更新，引发玩家社区震动。超25万人签署请愿呼吁开发《命运3》，同时内部管理混乱的更多细节被曝光。事件折射出Bungie在被索尼收购后面临的挑战。",
+    "author": null,
+    "publishedAt": "2026-05-27T10:06:46.000+08:00",
+    "fetchedAt": "2026-06-01T15:39:11.120Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 16,
+      "articleQuality": 14,
+      "timeliness": 17,
+      "uniqueness": 12,
+      "usefulness": 12,
+      "totalScore": 71,
+      "finalScore": 67,
+      "reason": "反映玩家社区对游戏公司的影响力，Bungie困境具行业参考价值",
+      "notReason": "",
+      "tags": [
+        "公司",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "pbb2e25m0bu2fcijywh2iizl",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215005",
+    "title": "《生化危机 安魂曲》免费试玩版现已推出",
+    "titleZh": "《生化危机 安魂曲》试玩版上线多平台",
+    "summaryZh": "《生化危机 安魂曲》免费试玩版已登陆PS5、XSX|S、Steam、NS2及Epic平台，玩家可体验游戏序章内容，但试玩数据无法继承至正式版。这是该系列的最新动态，涵盖多个主流游戏平台。",
+    "author": null,
+    "publishedAt": "2026-05-27T10:03:09.000+08:00",
+    "fetchedAt": "2026-06-01T15:39:15.584Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 10,
+      "timeliness": 18,
+      "uniqueness": 6,
+      "usefulness": 8,
+      "totalScore": 56,
+      "finalScore": 55,
+      "reason": "",
+      "notReason": "信息较为简单，缺乏深度分析，作为行业参考价值一般",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "j7inqgux63tmiijrdwd9iy9x",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215003",
+    "title": "英伟达正式退役“英伟达控制面板”，全面整合至NVIDIA App",
+    "titleZh": "英伟达退役控制面板，整合至NVIDIA App",
+    "summaryZh": "英伟达宣布经典“英伟达控制面板”正式退役，功能已全部迁移至NVIDIA App。该控制面板陪伴玩家近20年，现已停止维护但已安装版本仍可使用。这是英伟达面向GeForce用户的重要产品整合。",
+    "author": null,
+    "publishedAt": "2026-05-27T09:33:54.000+08:00",
+    "fetchedAt": "2026-06-01T15:39:19.453Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 18,
+      "articleQuality": 15,
+      "timeliness": 17,
+      "uniqueness": 14,
+      "usefulness": 16,
+      "totalScore": 80,
+      "finalScore": 74,
+      "reason": "英伟达控制面板退役是影响游戏玩家的大事，了解新工具对工作有参考价值",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "1jlmj3ni1i61bpnskicz0yft",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/215002",
+    "title": "《巫师3：血与酒》周年特别直播活动将于5月28日举行",
+    "titleZh": "巫师3周年特别直播活动5月28日举行",
+    "summaryZh": "CDPR宣布将于5月28日23时举行《巫师3：血与酒》周年特别直播。开发者Kacper Niepokólczycki与Magdalena Zych将带领玩家重温陶森特的骑士、葡萄园与吸血鬼经典旅程。此前有传言表示CDPR正在开发相关新内容。",
+    "author": null,
+    "publishedAt": "2026-05-27T09:15:41.000+08:00",
+    "fetchedAt": "2026-06-01T15:39:28.579Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 13,
+      "articleQuality": 15,
+      "timeliness": 16,
+      "uniqueness": 10,
+      "usefulness": 10,
+      "totalScore": 64,
+      "finalScore": 61,
+      "reason": "周年活动回顾经典内容，对市场运营有参考价值",
+      "notReason": "",
+      "tags": [
+        "游戏",
+        "展会"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "fb9lbxtx8thvy6at5c2hdu5k",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214305",
+    "title": "从玩胶到做胶（三十五）AI搓手办离我们还远么？一个月使用分享",
+    "titleZh": "AI生成手办设计一个月体验分享",
+    "summaryZh": "作者分享使用豆包AI工具进行手办设计的体验心得，探讨AI在创意设计中的应用现状与局限。认为目前AI生成仍存在不稳定性和随机性，但已展现出探索更多创意的可能性。",
+    "author": null,
+    "publishedAt": "2026-05-27T07:08:10.000+08:00",
+    "fetchedAt": "2026-06-01T15:50:00.613Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 10,
+      "articleQuality": 9,
+      "timeliness": 8,
+      "uniqueness": 7,
+      "usefulness": 8,
+      "totalScore": 42,
+      "finalScore": 45,
+      "reason": "",
+      "notReason": "内容为个人使用感受，信息密度较低，对游戏行业从业者参考价值有限",
+      "tags": [
+        "AI"
       ],
       "relatedItems": []
     }
@@ -2113,6 +5081,36 @@
       "reason": "",
       "tags": [
         "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "6l3l8s0rzbs0sdd7n7a0zg5g",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214997",
+    "title": "体验至上，4K游戏装机就选技嘉RTX 5080超级雕",
+    "titleZh": "4K游戏装机推荐：技嘉RTX 5080超级雕",
+    "summaryZh": "6·18大促期间显卡价格优惠，RTX 5080性价比突出，适合发烧级玩家畅玩4K游戏大作。文章分析了显卡价格走势和产品性能，为装机用户提供购买建议。",
+    "author": null,
+    "publishedAt": "2026-05-26T20:06:49.000+08:00",
+    "fetchedAt": "2026-06-01T15:50:24.563Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 8,
+      "timeliness": 8,
+      "uniqueness": 6,
+      "usefulness": 10,
+      "totalScore": 40,
+      "finalScore": 43,
+      "reason": "",
+      "notReason": "内容较常规，属于典型产品推荐软文，缺乏行业深度洞察和信息增量",
+      "tags": [
+        "行业",
+        "干货"
       ],
       "relatedItems": []
     }
@@ -2146,6 +5144,66 @@
     }
   },
   {
+    "id": "fy8g9wwyprawlzqdhuf1atox",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214995",
+    "title": "《黄油猫》 版号现已下发，安卓版将独家登陆TapTap平台",
+    "titleZh": "《黄油猫》版号过审 安卓独占TapTap",
+    "summaryZh": "2026年5月国产网游审批信息公布，由机核发行的平台解谜游戏《黄油猫》正式过审，安卓版本将独家登陆TapTap平台。该游戏由Team Woll开发，玩家需同时控制猫咪和黄油吐司进行解谜。",
+    "author": null,
+    "publishedAt": "2026-05-26T17:55:55.000+08:00",
+    "fetchedAt": "2026-06-01T15:39:36.710Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 13,
+      "articleQuality": 10,
+      "timeliness": 15,
+      "uniqueness": 9,
+      "usefulness": 11,
+      "totalScore": 58,
+      "finalScore": 56,
+      "reason": "",
+      "notReason": "内容较水，仅为游戏过审通知，缺乏深度分析和行业洞察",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "57ihjmycu61pyamxl5967nh4",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214994",
+    "title": "《恐龙快打·起源》《三国杀·烽烟策》过审：2026年5月份网络游戏审批信息公布",
+    "titleZh": "5月版号审批：158款游戏获批，含《恐龙快打·起源》《三国杀·烽烟策》",
+    "summaryZh": "国家新闻出版署公布2026年5月国产及进口网络游戏审批信息，共158款游戏获发版号（国产154款、进口4款）。《黄油猫》《三国杀·烽烟策》《恐龙快打·起源》等游戏在列，“网络游戏”指通过互联网、移动通信网等信息网络提供的游戏产品和服务。",
+    "author": null,
+    "publishedAt": "2026-05-26T17:46:16.000+08:00",
+    "fetchedAt": "2026-06-01T15:39:42.240Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 16,
+      "articleQuality": 13,
+      "timeliness": 17,
+      "uniqueness": 12,
+      "usefulness": 14,
+      "totalScore": 72,
+      "finalScore": 68,
+      "reason": "5月版号数量大，涵盖多款重磅IP，从业者必读",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "a14it5d2iqkv12mfe46iziqm",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
@@ -2169,6 +5227,36 @@
       "tags": [
         "公司",
         "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "2x1vilk2y9bsivecmlas9ny8",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214988",
+    "title": "“勇者斗恶龙日”来了！明晚21:00将播出《勇者斗恶龙》系列相关公告",
+    "titleZh": "勇者斗恶龙40周年纪念日，明晚21:00发布系列公告",
+    "summaryZh": "5月27日是勇者斗恶龙40周年纪念日，官方公布多项庆祝项目：11:00公开特设网站，19:00举办庆祝直播，21:00发布系列相关公告。SE旗下经典IP的里程碑活动。",
+    "author": null,
+    "publishedAt": "2026-05-26T15:56:48.000+08:00",
+    "fetchedAt": "2026-06-01T15:39:53.380Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 12,
+      "uniqueness": 6,
+      "usefulness": 6,
+      "totalScore": 39,
+      "finalScore": 41,
+      "reason": "",
+      "notReason": "纯活动预告，信息量有限，缺乏深度分析",
+      "tags": [
+        "公司",
+        "游戏"
       ],
       "relatedItems": []
     }
@@ -2202,6 +5290,35 @@
     }
   },
   {
+    "id": "e567raroeifmct49k6qou6rq",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214987",
+    "title": "生存建造游戏《罗马拓荒录》今日登陆Steam抢先体验",
+    "titleZh": "生存建造游戏《罗马拓荒录》登陆Steam抢先体验",
+    "summaryZh": "生存建造游戏《罗马拓荒录》今日正式登陆Steam抢先体验，由Three Friends发行，Beartwigs工作室开发。该游戏公开以来已累计获得超30万愿望单，并入选Steam新品节试玩热门名单。游戏融合了罗马历史背景与生存建造玩法。",
+    "author": null,
+    "publishedAt": "2026-05-26T15:43:08.000+08:00",
+    "fetchedAt": "2026-06-01T15:39:57.725Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 9,
+      "articleQuality": 10,
+      "timeliness": 14,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 46,
+      "finalScore": 47,
+      "reason": "",
+      "notReason": "常规新游发布资讯，信息量一般，缺少深度分析和行业洞察",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "hzh8t8dbf4zu930xz0vaxu04",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
@@ -2229,6 +5346,180 @@
     }
   },
   {
+    "id": "kbdty07gm4516hpuv15l88yb",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214986",
+    "title": "《黎明杀机》新杀手“杰森·沃赫斯”将于5月27日午夜开始进行公开测试",
+    "titleZh": "《黎明杀机》新杀手杰森5月27日公开测试",
+    "summaryZh": "Behaviour Interactive宣布非对称恐怖游戏《黎明杀机》公开测试版（PTB）将于5月27日午夜在Steam平台限时开放，届时玩家可体验新杀手杰森·沃赫斯，该角色来自《十三号星期五》电影IP。",
+    "author": null,
+    "publishedAt": "2026-05-26T14:23:31.000+08:00",
+    "fetchedAt": "2026-06-01T15:40:03.664Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 10,
+      "timeliness": 13,
+      "uniqueness": 8,
+      "usefulness": 9,
+      "totalScore": 52,
+      "finalScore": 52,
+      "reason": "",
+      "notReason": "常规游戏版本更新公告，信息量一般，缺乏深度分析",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "jrpl9sfowtzpwym0sos9lukr",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214982",
+    "title": "解构游戏关卡的两种路径：空间动线与任务链",
+    "titleZh": "解构游戏关卡的两种路径：空间动线与任务链",
+    "summaryZh": "文章深入探讨游戏关卡设计的两种解构方法：一是基于空间结构与玩家动线的分析方法，关注玩家可见的行走路径；二是以任务节点与逻辑流程为核心的设计思路，关注事件逻辑与条件依赖。两种视角互补，帮助开发者全面把握关卡设计。",
+    "author": null,
+    "publishedAt": "2026-05-26T13:43:57.000+08:00",
+    "fetchedAt": "2026-06-01T15:50:32.086Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 16,
+      "articleQuality": 15,
+      "timeliness": 13,
+      "uniqueness": 14,
+      "usefulness": 15,
+      "totalScore": 73,
+      "finalScore": 69,
+      "reason": "系统梳理关卡设计方法论，实战指导价值高，干货满满。",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "5g2r9ubdxcnq4sxynz98wkn8",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214983",
+    "title": "《Dota2》TI2026现场门票将于6月10日14:00发售，完成优先购资格认证可抢先购票",
+    "titleZh": "《Dota2》TI2026门票6月10日开售，优先购资格认证已开启",
+    "summaryZh": "完美世界宣布2026年Dota2国际邀请赛现场门票将于6月10日14:00正式发售，玩家可通过完美世界电竞APP和大麦平台购票。为回馈国服核心玩家，将开放提前购票通道，需在2025年11月25日至2026年5月间完成优先购资格认证。",
+    "author": null,
+    "publishedAt": "2026-05-26T13:02:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:40:07.366Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 13,
+      "timeliness": 15,
+      "uniqueness": 11,
+      "usefulness": 13,
+      "totalScore": 66,
+      "finalScore": 63,
+      "reason": "TI2026门票发售信息及时，是年度电竞盛事的重要节点",
+      "notReason": "",
+      "tags": [
+        "展会",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "856qrxdmhrmghje4d68ydqi3",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214612",
+    "title": "GPASS 夏日优惠活动现已开始＆核聚变深圳站会员福利免费领！",
+    "titleZh": "GPASS 夏日优惠活动现已开始＆核聚变深圳站会员福利免费领！",
+    "summaryZh": "",
+    "author": null,
+    "publishedAt": "2026-05-26T12:30:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:50:38.810Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 0,
+      "articleQuality": 0,
+      "timeliness": 0,
+      "uniqueness": 0,
+      "usefulness": 0,
+      "totalScore": 0,
+      "finalScore": 0,
+      "reason": "",
+      "notReason": "",
+      "tags": [],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "797kxhsa6ivfu40hgoe6bbs3",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214981",
+    "title": "三体公司原CEO许垚被执行死刑",
+    "titleZh": "三体宇宙原CEO许垚被执行死刑",
+    "summaryZh": "游族网络原董事长林奇被投毒杀害案有了最终结果，三体宇宙原CEO许垚被执行死刑。该案导致林奇中毒身亡及至少4人中毒。此案对游戏行业从业者具有警示意义，涉及公司治理与职场安全议题。",
+    "author": null,
+    "publishedAt": "2026-05-26T11:52:27.000+08:00",
+    "fetchedAt": "2026-06-01T15:40:12.145Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 11,
+      "timeliness": 13,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 53,
+      "finalScore": 52,
+      "reason": "",
+      "notReason": "内容偏社会新闻性质，对游戏行业从业者实用参考价值有限",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "4m6vz95rste2byuxmq440223",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214978",
+    "title": "谁言西线无战事，奈何我在挖战壕—《破壕行动》",
+    "titleZh": "《破壕行动》：WW1战壕沉浸体验",
+    "summaryZh": "介绍《破壕行动》这款WW1背景的RPG游戏，由Flying Squirrel Entertainment制作，支持法英德三方阵营选择，提供8种兵种切换，主打一战大战场沉浸体验。",
+    "author": null,
+    "publishedAt": "2026-05-26T11:51:54.000+08:00",
+    "fetchedAt": "2026-06-01T15:50:51.712Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 5,
+      "articleQuality": 5,
+      "timeliness": 5,
+      "uniqueness": 4,
+      "usefulness": 4,
+      "totalScore": 23,
+      "finalScore": 29,
+      "reason": "",
+      "notReason": "内容较基础，仅为普通游戏介绍，缺乏行业洞察和深度分析",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "au1dyjp2lxrq0kpx7bfl2592",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
@@ -2249,6 +5540,65 @@
       "finalScore": 52,
       "reason": "",
       "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "vcl9cl5v0tlvqno42qah2b6u",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214980",
+    "title": "【明日方舟×怪物猎人】SideStory「泡影苍霆」活动宣传PV公布，将于6月1日开启",
+    "titleZh": "明日方舟×怪物猎人联动活动「泡影苍霆」6月1日开启",
+    "summaryZh": "明日方舟与怪物猎人联动SideStory活动「泡影苍霆」宣传PV正式公布，将于6月1日开启。此次联动将怪物猎人IP元素融入明日方舟剧情，属于常规跨界合作形式。",
+    "author": null,
+    "publishedAt": "2026-05-26T11:45:18.000+08:00",
+    "fetchedAt": "2026-06-01T15:40:15.647Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 14,
+      "timeliness": 18,
+      "uniqueness": 12,
+      "usefulness": 13,
+      "totalScore": 72,
+      "finalScore": 68,
+      "reason": "重磅IP联动即将上线，对活动策划有直接参考意义",
+      "notReason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "glna0wxaxkmhnyp4xxzxqroi",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214979",
+    "title": "《遗忘之海》「破晓号测试」定档5月28日：加入鸡飞狗跳的航海之旅！",
+    "titleZh": "《遗忘之海》「破晓号测试」定档5月28日：加入航海冒险",
+    "summaryZh": "《遗忘之海》「破晓号测试」将于5月28日开启，前瞻直播首次完整展示游戏全貌，包括核心概念、群岛自由探索玩法、欢乐木偶世界及各类机制优化与福利活动。",
+    "author": null,
+    "publishedAt": "2026-05-26T11:31:37.000+08:00",
+    "fetchedAt": "2026-06-01T15:40:29.653Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 10,
+      "timeliness": 14,
+      "uniqueness": 11,
+      "usefulness": 11,
+      "totalScore": 58,
+      "finalScore": 56,
+      "reason": "",
+      "notReason": "摘要信息量有限，仅为测试定档公告，缺乏深度分析和行业洞察",
+      "tags": [
+        "游戏",
         "行业"
       ],
       "relatedItems": []
@@ -2475,6 +5825,181 @@
     }
   },
   {
+    "id": "ob998lxveodnj2y20hon6l12",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214977",
+    "title": "《街霸6》公布沙加特 / 深红毒蛇 / 阿里克斯 / 英格丽德装扮3宣传片",
+    "titleZh": "街霸6装扮3宣传片公布",
+    "summaryZh": "《街头霸王6》Year 3追加角色沙加特、深红毒蛇、阿里克斯、英格丽德的“装扮3”宣传片发布，将于5月28日与英格丽德同步上线，属于游戏常规内容更新。",
+    "author": null,
+    "publishedAt": "2026-05-26T10:29:05.000+08:00",
+    "fetchedAt": "2026-06-01T15:40:36.263Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 6,
+      "timeliness": 9,
+      "uniqueness": 5,
+      "usefulness": 7,
+      "totalScore": 35,
+      "finalScore": 38,
+      "reason": "",
+      "notReason": "内容较水，仅为常规宣传片发布通知，信息量有限",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "1uf8mwjqsskt52dxoe041ps1",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214975",
+    "title": "《赛博朋克：边缘行者2》最新消息将于7月4日举办的Anime Expo 2026上公开",
+    "titleZh": "赛博朋克边缘行者2将在Anime Expo 2026公开",
+    "summaryZh": "《赛博朋克：边缘行者》官方宣布续作《赛博朋克：边缘行者2》的最新信息将于7月4日在Anime Expo 2026上公布，该活动由Netflix动画团队主导，基于游戏IP《赛博朋克2077》世界观制作。",
+    "author": null,
+    "publishedAt": "2026-05-26T09:43:47.000+08:00",
+    "fetchedAt": "2026-06-01T15:40:43.426Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 6,
+      "articleQuality": 6,
+      "timeliness": 5,
+      "uniqueness": 4,
+      "usefulness": 5,
+      "totalScore": 26,
+      "finalScore": 31,
+      "reason": "",
+      "notReason": "内容为游戏IP衍生动画消息，非游戏本体信息，实用度有限",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "9qtirlauwbadff0gijue11xv",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214973",
+    "title": "《战争机器》之父担任制作人：3v1非对称恐怖游戏《灵魂行者》推出Steam商城页",
+    "titleZh": "战争机器之父担任制作人3v1恐怖游戏灵魂行者推出Steam页",
+    "summaryZh": "《战争机器》之父Cliff Bleszinski担任制作人的3v1非对称恐怖游戏《灵魂行者》现已推出Steam商城页。玩家需在寂静中躲避对声音敏感的古老生物追杀，与幸存者共同求生。",
+    "author": null,
+    "publishedAt": "2026-05-26T09:38:57.000+08:00",
+    "fetchedAt": "2026-06-01T15:40:46.820Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 11,
+      "articleQuality": 9,
+      "timeliness": 13,
+      "uniqueness": 7,
+      "usefulness": 7,
+      "totalScore": 47,
+      "finalScore": 48,
+      "reason": "",
+      "notReason": "信息量较少，内容单薄，缺乏深度分析",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "6n30o8ow4ghfqvy75wkdde8a",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214964",
+    "title": "一个做了十年的“瓦楞纸童话”：小评《喇叭之城》",
+    "titleZh": "《喇叭之城》十年匠心评测",
+    "summaryZh": "玩家对蘑菇社新作《喇叭之城》进行词源与内容解析，深入探讨游戏美术风格与声音叙事设计，分享通关后的个人游戏体验与感悟。",
+    "author": null,
+    "publishedAt": "2026-05-26T09:30:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:51:00.570Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 9,
+      "timeliness": 7,
+      "uniqueness": 9,
+      "usefulness": 6,
+      "totalScore": 39,
+      "finalScore": 42,
+      "reason": "",
+      "notReason": "内容偏个人感想，行业参考价值有限",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "xqueei6wqqs821avqa8wt497",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214972",
+    "title": "《剑士 Kenshi》销量突破三百万份，开发者发文感谢",
+    "titleZh": "《Kenshi》销量突破三百万",
+    "summaryZh": "Lo-Fi Games宣布旗下RPG游戏《Kenshi》销量突破300万份，这是该游戏自2018年正式上线以来的重要里程碑。开发团队发文感谢玩家一路支持，对社群玩家的贡献表达由衷谢意。",
+    "author": null,
+    "publishedAt": "2026-05-26T09:20:40.000+08:00",
+    "fetchedAt": "2026-06-01T15:40:50.871Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 10,
+      "timeliness": 16,
+      "uniqueness": 9,
+      "usefulness": 8,
+      "totalScore": 55,
+      "finalScore": 54,
+      "reason": "",
+      "notReason": "内容较水，主要是开发者感谢公告，信息量少缺乏深度分析",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "d8lm7mpbwqukwnm7hkak4962",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214971",
+    "title": "《暗黑破坏神Ⅳ》国服本体限时免费领取时间延长至8月4日",
+    "titleZh": "暗黑4国服免费领取延期至8月4日",
+    "summaryZh": "网易暴雪宣布《暗黑破坏神Ⅳ》国服本体免费领取时间延长至2026年8月4日23:59:59。官方表示自开放免费领取以来，大量新玩家加入游戏，回馈玩家热情。",
+    "author": null,
+    "publishedAt": "2026-05-26T09:13:13.000+08:00",
+    "fetchedAt": "2026-06-01T15:40:56.498Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 11,
+      "articleQuality": 10,
+      "timeliness": 15,
+      "uniqueness": 8,
+      "usefulness": 10,
+      "totalScore": 54,
+      "finalScore": 53,
+      "reason": "",
+      "notReason": "官方公告信息量有限，缺少行业深度分析",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "n01n4dy487qrht9wab9p81zq",
     "sourceId": "gameres",
     "sourceName": "游资网",
@@ -2639,6 +6164,123 @@
     }
   },
   {
+    "id": "y4igt5rauuvr6iqvqu69vidb",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214959",
+    "title": "二游已死",
+    "titleZh": "二游已死",
+    "summaryZh": "文章以一位业界前辈离开头部二游公司为引子，探讨二次元游戏行业的现状与未来发展趋势，引用《老无所依》台词表达对行业变迁的思考。",
+    "author": null,
+    "publishedAt": "2026-05-25T23:45:41.000+08:00",
+    "fetchedAt": "2026-06-01T15:51:31.445Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 12,
+      "timeliness": 10,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 51,
+      "finalScore": 52,
+      "reason": "",
+      "notReason": "观点缺乏新意，类似论调在业内已有讨论，实用价值有限",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "y0lut2gtt1yoj0tk4wk76gu3",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214961",
+    "title": "PC Gaming Show 2026发布会主持人与合作伙伴阵容公开",
+    "titleZh": "PC Gaming Show 2026主持人阵容公布",
+    "summaryZh": "PC Gaming Show 2026正式公布主持人阵容，包括Frankie Ward、Mica Burton、Day[9]及新加入的Elz。直播将于北京时间6月8日凌晨3点举行，平台覆盖Twitch、YouTube等。",
+    "author": null,
+    "publishedAt": "2026-05-25T21:26:52.000+08:00",
+    "fetchedAt": "2026-06-01T15:41:02.780Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 13,
+      "articleQuality": 11,
+      "timeliness": 13,
+      "uniqueness": 10,
+      "usefulness": 9,
+      "totalScore": 56,
+      "finalScore": 55,
+      "reason": "",
+      "notReason": "活动信息较水，缺乏实质性行业洞察",
+      "tags": [
+        "展会"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "onuvxh537d25cv8rz28gpvpz",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214958",
+    "title": "13年前的英伟达掌机，现在还能做些什么？",
+    "titleZh": "13年前的英伟达掌机，现在还能做些什么？",
+    "summaryZh": "作者续写11年前的长文，回忆13年前英伟达推出的神盾掌机。当年因价格昂贵且A卡不支持串流功能而未购买，如今因偶遇他人使用而重新体验，探讨这款老旧掌机在当下的实际用途。",
+    "author": null,
+    "publishedAt": "2026-05-25T21:25:27.000+08:00",
+    "fetchedAt": "2026-06-01T15:51:45.054Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 4,
+      "articleQuality": 5,
+      "timeliness": 3,
+      "uniqueness": 5,
+      "usefulness": 4,
+      "totalScore": 21,
+      "finalScore": 28,
+      "reason": "",
+      "notReason": "属于个人怀旧类体验分享，信息量有限，对行业从业者参考价值较小",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "r30bwwz832kx6pn5hmoh4w90",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214960",
+    "title": "未来游戏展夏季展会公布主持阵容，将由Alix Wilton Regan与Troy Baker共同主持",
+    "titleZh": "未来游戏展夏季展会公布主持阵容",
+    "summaryZh": "《未来游戏展夏季展会》正式宣布，由获奖英国演员Alix Wilton Regan与知名配音演员Troy Baker（代表作《最后生还者》乔尔）共同主持2026年6月6日的节目，两人的组合将为展会带来专业性与娱乐性的平衡。",
+    "author": null,
+    "publishedAt": "2026-05-25T21:24:01.000+08:00",
+    "fetchedAt": "2026-06-01T15:41:07.823Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 10,
+      "articleQuality": 9,
+      "timeliness": 11,
+      "uniqueness": 7,
+      "usefulness": 8,
+      "totalScore": 45,
+      "finalScore": 46,
+      "reason": "",
+      "notReason": "信息较基础，为常规展会主持阵容公告，缺乏深度内容和行业洞察",
+      "tags": [
+        "展会",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "sysx4miajmbgbxdn1g990bve",
     "sourceId": "zhihu-hreo",
     "sourceName": "罗斯基（知乎）",
@@ -2722,6 +6364,64 @@
     }
   },
   {
+    "id": "h4d39mnsfe2xh7q0non9ot9w",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214953",
+    "title": "《瓦格鲁斯-万壑之地》玩后感",
+    "titleZh": "瓦格鲁斯万壑之地游戏评测",
+    "summaryZh": "《瓦格鲁斯-万壑之地》是一款文字冒险游戏，文章将其与《无光之海》进行对比分析，指出两者虽因资源管理机制相似而形似，但在核心体验上差异明显，作者认为该作更接近现代跑团风格，强调主角传奇冒险与世界展示。",
+    "author": null,
+    "publishedAt": "2026-05-25T16:46:23.000+08:00",
+    "fetchedAt": "2026-06-01T15:51:49.018Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 9,
+      "timeliness": 6,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 38,
+      "finalScore": 41,
+      "reason": "",
+      "notReason": "内容较水，信息量不足，仅为普通玩家视角缺乏行业洞察",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "2dw85ncsatg1sgbsvb4ltsn6",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214955",
+    "title": "“破冰船”来了：《逃离塔科夫》1.0.5.0大型更新现已推出",
+    "titleZh": "《逃离塔科夫》1.0.5.0更新推出“破冰船”地图",
+    "summaryZh": "Battlestate Games发布《逃离塔科夫》1.0.5.0版本更新，推出全新垂直作战特色地图“破冰船”，同步简化任务物品搜寻系统，并带来新服饰套装、季节特卖及Twitch掉宝活动。",
+    "author": null,
+    "publishedAt": "2026-05-25T16:44:57.000+08:00",
+    "fetchedAt": "2026-06-01T15:41:14.076Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 12,
+      "timeliness": 16,
+      "uniqueness": 10,
+      "usefulness": 12,
+      "totalScore": 64,
+      "finalScore": 61,
+      "reason": "主流FPS游戏版本更新，含新地图及系统优化，对从业者有参考价值",
+      "notReason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "qkpzs0rwbar85cuzs33570jd",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
@@ -2749,6 +6449,153 @@
     }
   },
   {
+    "id": "rleq7bmcyivyv5xpeq48rpsv",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214204",
+    "title": "BOOOMSeek 持续征集移动端游戏，骁龙评委阵容亮相",
+    "titleZh": "BOOOMSeek移动端游戏征集进行中，骁龙担任评委",
+    "summaryZh": "BOOOM暴造游戏孵化器今年新开启BOOOMSeek赛道，正在征集移动端游戏。骁龙作为首席赞助商提供技术支持，并派出精锐评审团队从技术和市场视角给出专业建议。",
+    "author": null,
+    "publishedAt": "2026-05-25T15:41:16.000+08:00",
+    "fetchedAt": "2026-06-01T15:41:18.417Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 10,
+      "timeliness": 14,
+      "uniqueness": 11,
+      "usefulness": 11,
+      "totalScore": 58,
+      "finalScore": 56,
+      "reason": "",
+      "notReason": "信息量偏少，仅为基础活动征集公告",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "fspfocxsv9mv2wa1xs1xc8hb",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214947",
+    "title": "能出什么问题呢？雅达利与 Fabraz 的经典山猫在《Bubsy 4D》中正式回归",
+    "titleZh": "《Bubsy 4D》经典山猫游戏正式回归",
+    "summaryZh": "雅达利与独立工作室Fabraz联合宣布，经典IP《Bubsy》新作《Bubsy 4D》于5月22日正式发布，登陆PS4/PS5、XSX/S、Xbox One、NS及PC等多平台。经典角色山猫时隔多年再次与玩家见面。",
+    "author": null,
+    "publishedAt": "2026-05-25T15:34:25.000+08:00",
+    "fetchedAt": "2026-06-01T15:41:23.232Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 5,
+      "usefulness": 5,
+      "totalScore": 34,
+      "finalScore": 37,
+      "reason": "",
+      "notReason": "Bubsy IP相对小众，信息为常规新游发布，缺乏深度解读和独特视角",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "9d1yk4oc76kfa3k9vf7j8054",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214944",
+    "title": "巨型怪兽动作游戏《YOU ARE THE MONSTER》将于6月19日开启抢先体验。",
+    "titleZh": "《YOU ARE THE MONSTER》6月19日开启抢先体验",
+    "summaryZh": "Joshua Hughes开发的巨型怪兽动作游戏《YOU ARE THE MONSTER》确认将于2026年6月19日在Steam开启抢先体验。玩家操控巨型怪兽在城市中大肆破坏，包括碾压汽车、炸毁超市、袭击人群等。怪物可升级强化能力，核心玩法强调破坏与力量宣泄。",
+    "author": null,
+    "publishedAt": "2026-05-25T15:16:03.000+08:00",
+    "fetchedAt": "2026-06-01T15:41:26.917Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 6,
+      "timeliness": 8,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 33,
+      "finalScore": 36,
+      "reason": "",
+      "notReason": "资讯信息较基础，缺乏深度分析，仅为普通新游预告",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "knex5gfpvwu4i1if5omd9tn4",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214945",
+    "title": "【译介】《超级马力欧兄弟》2015年开发者访谈",
+    "titleZh": "手冢卓志谈《超级马力欧兄弟》开发",
+    "summaryZh": "任天堂资深开发者手冢卓志访谈，讲述其加入任天堂的经历、《超级马力欧兄弟》的开发过程与关卡设计理念，提供了珍贵的开发者第一视角回顾。",
+    "author": null,
+    "publishedAt": "2026-05-25T15:01:50.000+08:00",
+    "fetchedAt": "2026-06-01T15:51:59.809Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 16,
+      "articleQuality": 15,
+      "timeliness": 9,
+      "uniqueness": 15,
+      "usefulness": 14,
+      "totalScore": 69,
+      "finalScore": 66,
+      "reason": "经典游戏一手开发经验，资深制作人的设计哲学与实战细节",
+      "notReason": "",
+      "tags": [
+        "干货",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "c1dg5kjxtpd2qzlpj3qbj06e",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214942",
+    "title": "“小孩”曾卓君获得Combo Breaker 白金赛《街霸6》项目冠军",
+    "titleZh": "\"小孩\"曾卓君获Combo Breaker《街霸6》冠军",
+    "summaryZh": "在美国Combo Breaker白金赛中，中国选手\"小孩\"曾卓君以3:0击败日本15岁选手HINAO，夺得《街霸6》项目冠军，同时获得CAPCOM杯门票。其所属战队Falcons Esports表示祝贺。",
+    "author": null,
+    "publishedAt": "2026-05-25T13:19:03.000+08:00",
+    "fetchedAt": "2026-06-01T15:41:38.983Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 7,
+      "articleQuality": 8,
+      "timeliness": 20,
+      "uniqueness": 6,
+      "usefulness": 6,
+      "totalScore": 47,
+      "finalScore": 48,
+      "reason": "",
+      "notReason": "信息量较单一，仅为赛事报道，缺乏深度分析和行业洞察",
+      "tags": [
+        "展会"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "tnbhw492lo56k64c06es5pqm",
     "sourceId": "zhihu-hreo",
     "sourceName": "罗斯基（知乎）",
@@ -2771,6 +6618,35 @@
       "reason": "品类商业化分析深入，混合休闲团队必读",
       "tags": [
         "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "wcqlok58jeobgrs73hsvo68h",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214915",
+    "title": "《最后生还者2》拉片式深度剧情分析 | 五、埃比的西雅图后两天",
+    "titleZh": "《最后生还者2》埃比后两天剧情深度分析",
+    "summaryZh": "《最后生还者2》第五期剧情分析文章，采用拉片式方法深入解读埃比视角下西雅图后两天的剧作结构、场景细节与叙事手法，为游戏叙事设计提供参考范例。",
+    "author": null,
+    "publishedAt": "2026-05-25T11:30:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:52:03.238Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 7,
+      "articleQuality": 16,
+      "timeliness": 8,
+      "uniqueness": 14,
+      "usefulness": 6,
+      "totalScore": 51,
+      "finalScore": 52,
+      "reason": "",
+      "notReason": "单机剧情分析时效性弱，对从业者直接实用度有限",
+      "tags": [
         "游戏"
       ],
       "relatedItems": []
@@ -2969,6 +6845,63 @@
     }
   },
   {
+    "id": "kpncu2kh5sxk4dcfopcnuvhm",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214933",
+    "title": "【明日方舟×怪物猎人】SideStory「泡影苍霆」公布先导预告",
+    "titleZh": "【明日方舟×怪物猎人】SideStory「泡影苍霆」公布先导预告",
+    "summaryZh": "",
+    "author": null,
+    "publishedAt": "2026-05-25T11:11:06.000+08:00",
+    "fetchedAt": "2026-06-01T15:41:52.621Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 0,
+      "articleQuality": 0,
+      "timeliness": 0,
+      "uniqueness": 0,
+      "usefulness": 0,
+      "totalScore": 0,
+      "finalScore": 0,
+      "reason": "",
+      "notReason": "",
+      "tags": [],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "dxyjbxhx8js2s1wdy1npaplv",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214930",
+    "title": "Legacy再度登顶申城，2026反恐精英亚洲邀请赛圆满落幕",
+    "titleZh": "Legacy再次夺冠，2026反恐精英亚洲邀请赛落幕",
+    "summaryZh": "2026年5月24日，反恐精英亚洲邀请赛CAC 2026在上海源深体育中心圆满落幕。卫冕冠军Legacy成功夺冠，该赛事作为亚洲顶级CS标杆赛事，在规格、阵容、传播与城市联动上全面进阶。",
+    "author": null,
+    "publishedAt": "2026-05-25T10:36:36.000+08:00",
+    "fetchedAt": "2026-06-01T15:41:56.391Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 18,
+      "articleQuality": 15,
+      "timeliness": 17,
+      "uniqueness": 12,
+      "usefulness": 14,
+      "totalScore": 76,
+      "finalScore": 71,
+      "reason": "CS亚洲赛冠军归属加赛事进阶信息，行业从业者必知",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "展会"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "01frse8ymww8w17e8p7q9dn7",
     "sourceId": "youxiputao",
     "sourceName": "游戏葡萄",
@@ -2992,6 +6925,181 @@
       "tags": [
         "公司",
         "AI"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "50hgytt0vstrrerp9yrobr1j",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214928",
+    "title": "地上最強の生物参战，《刃牙》范马勇次郎将加入《铁拳8》成为可玩角色",
+    "titleZh": "《刃牙》范马勇次郎将参战《铁拳8》",
+    "summaryZh": "万代南梦宫宣布《铁拳8》与《刃牙》展开联动，经典格斗漫画角色范马勇次郎将于2027年初作为第三季通行证角色加入。这是该角色首次登陆3D格斗游戏舞台。",
+    "author": null,
+    "publishedAt": "2026-05-25T10:17:19.000+08:00",
+    "fetchedAt": "2026-06-01T15:42:00.179Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 11,
+      "timeliness": 13,
+      "uniqueness": 9,
+      "usefulness": 10,
+      "totalScore": 55,
+      "finalScore": 54,
+      "reason": "",
+      "notReason": "信息量一般，联动虽有趣但缺乏独家视角和深度分析",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "quq1ss4w5syh7tkkl6c20wlw",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214927",
+    "title": "《斑鸠》精神续作、弹幕射击游戏《UBUSUNA》宣告取消",
+    "titleZh": "《斑鸠》精神续作《UBUSUNA》宣布取消开发",
+    "summaryZh": "M2开发的弹幕射击游戏《UBUSUNA》正式宣布终止开发，该项目自2014年公布以来由井内宏担任制作人持续推进。M2社长堀井直树表示对此深感遗憾，井内宏因难以克服的困境已向公司提出辞呈，双方在相互理解的基础上达成一致。",
+    "author": null,
+    "publishedAt": "2026-05-25T10:08:18.000+08:00",
+    "fetchedAt": "2026-06-01T15:42:05.512Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 13,
+      "articleQuality": 13,
+      "timeliness": 15,
+      "uniqueness": 12,
+      "usefulness": 10,
+      "totalScore": 63,
+      "finalScore": 60,
+      "reason": "经典IP精神续作取消，行业动态值得关注",
+      "notReason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "1wnpyro10c93kngzbaal4vsy",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214925",
+    "title": "《星际公民》众筹突破10亿美元，单人战役开发进入收尾阶段",
+    "titleZh": "《星际公民》众筹破10亿美元 单人战役开发收尾",
+    "summaryZh": "《星际公民》众筹金额突破10亿美元，近6个月筹资超1亿美元。该游戏2012年开启众筹至今已逾十年，单人战役开发接近完成，成为游戏众筹史上的标志性事件。",
+    "author": null,
+    "publishedAt": "2026-05-25T09:43:01.000+08:00",
+    "fetchedAt": "2026-06-01T15:42:10.645Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 17,
+      "articleQuality": 15,
+      "timeliness": 14,
+      "uniqueness": 12,
+      "usefulness": 13,
+      "totalScore": 71,
+      "finalScore": 67,
+      "reason": "众筹破10亿美元里程碑，展现玩家对优质游戏持续热情",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ruvuzinuhlk3av4y93fhqksc",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214922",
+    "title": "末日里的仇恨与救赎 ——从艾莉与艾比看《最后生还者2》的情感叙事",
+    "titleZh": "从艾莉与艾比看《最后生还者2》情感叙事",
+    "summaryZh": "作者在养伤期间通关《最后生还者2》，从艾莉与艾比的双重视角分析游戏的情感叙事设计，探讨末日背景下的仇恨与救赎主题，体现对慢节奏叙事游戏的深入思考。",
+    "author": null,
+    "publishedAt": "2026-05-25T09:17:02.000+08:00",
+    "fetchedAt": "2026-06-01T15:52:17.204Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 10,
+      "timeliness": 4,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 33,
+      "finalScore": 37,
+      "reason": "",
+      "notReason": "时效性弱，游戏已发售4年，且为个人感想类评论，实用价值有限",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "8lt0aplkynfoaa36jat5rx0j",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214924",
+    "title": "心理恐怖游戏《猫好货坏》VR版正式公布，将于年内发售",
+    "titleZh": "心理恐怖游戏《猫好货坏》VR版年内发售",
+    "summaryZh": "心理恐怖游戏《猫好货坏》VR版正式公布，由Bowl of Tentacles联手Cybernetic Walrus打造。玩家在神秘仓库值夜班同时照顾猫，完成订单、在黑暗中生存，揭开货架间隐藏的秘密，原版游戏被完全重新设计。",
+    "author": null,
+    "publishedAt": "2026-05-25T09:16:00.000+08:00",
+    "fetchedAt": "2026-06-01T15:42:20.216Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 12,
+      "timeliness": 15,
+      "uniqueness": 11,
+      "usefulness": 12,
+      "totalScore": 64,
+      "finalScore": 61,
+      "reason": "VR版心理恐怖游戏新动态，恐怖+猫+VR组合有看点",
+      "notReason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "hqzft6ab2b1pizrdltaggat8",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
+    "url": "https://gcores.com/articles/214923",
+    "title": "虚幻引擎6正式发布，《火箭联盟》将从虚幻引擎3迁移至虚幻引擎6",
+    "titleZh": "虚幻引擎6正式发布，火箭联盟升级至虚幻6",
+    "summaryZh": "Epic Games在RLCS 2026世界锦标赛上正式发布虚幻引擎6，宣布《火箭联盟》将从虚幻3迁移至虚幻6，并发布包含实际游戏画面的预告片。虚幻引擎是Epic Games开发的游戏引擎，此次升级将带来图形和性能提升。",
+    "author": null,
+    "publishedAt": "2026-05-25T09:12:29.000+08:00",
+    "fetchedAt": "2026-06-01T15:42:33.155Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 8,
+      "articleQuality": 6,
+      "timeliness": 18,
+      "uniqueness": 5,
+      "usefulness": 7,
+      "totalScore": 44,
+      "finalScore": 45,
+      "reason": "",
+      "notReason": "时效性强但内容浅，新闻报道性质，信息增量有限",
+      "tags": [
+        "行业"
       ],
       "relatedItems": []
     }
