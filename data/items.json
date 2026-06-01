@@ -1,5 +1,114 @@
 [
   {
+    "id": "yzp7lcfhgc6zonno2s1tsooi",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/197442",
+    "title": "玩家深恶痛绝的“广告”，却被厂商卖到了畅销榜TOP4",
+    "titleZh": "付费游戏靠广告杀入畅销榜TOP4",
+    "summaryZh": "传统观点认为付费游戏加入广告会引发玩家反感，但某厂商通过将付费游戏打造为\"超长广告\"的模式，成功登上畅销榜第四名。这一案例打破了对付费+广告组合的固有认知，为游戏商业化提供了新思路。",
+    "author": null,
+    "publishedAt": "2026-06-01T01:24:50.705Z",
+    "fetchedAt": "2026-06-01T01:41:02.557Z",
+    "isSelected": true,
+    "score": {
+      "importance": 16,
+      "articleQuality": 14,
+      "timeliness": 15,
+      "uniqueness": 14,
+      "usefulness": 12,
+      "totalScore": 71,
+      "finalScore": 69,
+      "reason": "付费游戏广告变现获成功的商业案例，突破传统认知",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ybpp3tf2v1unpwvykihuztuz",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/197437",
+    "title": "为什么文案策划常被误解？",
+    "titleZh": "为什么文案策划常被误解？",
+    "summaryZh": "一位AVG制作人指出，游戏文案策划的核心能力不是文笔，而是理解市场、受众和角色的能力。这一观点为从业者提供了重新审视职业发展的思路。",
+    "author": null,
+    "publishedAt": "2026-06-01T01:13:50.705Z",
+    "fetchedAt": "2026-06-01T01:41:08.515Z",
+    "isSelected": false,
+    "score": {
+      "importance": 10,
+      "articleQuality": 9,
+      "timeliness": 6,
+      "uniqueness": 11,
+      "usefulness": 7,
+      "totalScore": 43,
+      "finalScore": 46,
+      "reason": "",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "psk50r595pyuds5q4by1w45m",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/197428",
+    "title": "小游戏开发者的机会，不止在小游戏？",
+    "titleZh": "小游戏开发者的机会，不止在小游戏",
+    "summaryZh": "小游戏市场从野蛮增长进入精耕细作阶段，行业成熟带来大厂竞争加剧、产品同质化和买量成本攀升等多重压力，开发者需探索小游戏之外的多元机会。",
+    "author": null,
+    "publishedAt": "2026-06-01T00:59:50.706Z",
+    "fetchedAt": "2026-06-01T01:41:16.022Z",
+    "isSelected": true,
+    "score": {
+      "importance": 16,
+      "articleQuality": 14,
+      "timeliness": 12,
+      "uniqueness": 13,
+      "usefulness": 15,
+      "totalScore": 70,
+      "finalScore": 68,
+      "reason": "精准戳中小游戏市场转型痛点，揭示开发者破局思路",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "swxhkpmb75x8i9wzqgaxgo1r",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://gameres.com/wl?m=3fa2346aa6916d2d72f428bdfd93ad16",
+    "title": "《游戏项目系统工程手册》合订本vol.5",
+    "titleZh": "游戏项目系统工程手册 Vol.5",
+    "summaryZh": "本文节选自鸿杰《游戏项目系统工程手册》第三章3.6至3.8节，系统梳理游戏项目开发中的工程管理方法与实战经验，为研发团队提供可复用的流程优化指南。",
+    "author": null,
+    "publishedAt": "2026-06-01T00:55:37.482Z",
+    "fetchedAt": "2026-06-01T01:41:58.918Z",
+    "isSelected": true,
+    "score": {
+      "importance": 13,
+      "articleQuality": 14,
+      "timeliness": 11,
+      "uniqueness": 13,
+      "usefulness": 14,
+      "totalScore": 65,
+      "finalScore": 64,
+      "reason": "鸿杰系统总结游戏项目工程管理经验，手册章节实用可直接落地",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "ptiisyik6m8eq81qwwslafcx",
     "sourceId": "youxiputao",
     "sourceName": "游戏葡萄",
