@@ -1,5 +1,117 @@
 [
   {
+    "id": "qtsbosm9h34j1x8q49ndjzce",
+    "sourceId": "youxituoluo",
+    "sourceName": "游戏陀螺",
+    "url": "https://youxituoluo.com/534530.html",
+    "title": "3亿MAU，单月流水超千万，全球霸榜的《Block Blast!》 突遭谷歌下架",
+    "titleZh": "3亿MAU的《Block Blast!》遭Google Play下架",
+    "summaryZh": "海外休闲赛道头部产品《Block Blast!》被Google Play下架。该游戏拥有3亿MAU、月流水超千万的亮眼成绩，是全球霸榜产品，此次下架原因尚不明确，可能对发行商造成重大影响。",
+    "author": null,
+    "publishedAt": "2026-06-01T02:28:24.486Z",
+    "fetchedAt": "2026-06-01T02:51:37.619Z",
+    "isSelected": false,
+    "score": {
+      "importance": 14,
+      "articleQuality": 12,
+      "timeliness": 16,
+      "uniqueness": 11,
+      "usefulness": 12,
+      "totalScore": 65,
+      "finalScore": 65,
+      "reason": "头部产品突发下架具有强警示性，反映平台合规风险",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "2rw7oinwcbaz3wmx18tdxgzk",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://gameres.com/917604.html",
+    "title": "“逆行”的大厂：韩国网游的单机化豪赌",
+    "titleZh": "韩国大厂逆行：网游单机化豪赌",
+    "summaryZh": "韩国网游大厂正加速转型单机游戏市场，主要通过两条路径：一是基于既有网游IP开发原生单机产品，二是将现有网游改造为单机版本。这一动向反映了全球游戏市场结构的新变化。",
+    "author": null,
+    "publishedAt": "2026-06-01T02:24:08.967Z",
+    "fetchedAt": "2026-06-01T02:52:12.163Z",
+    "isSelected": false,
+    "score": {
+      "importance": 15,
+      "articleQuality": 11,
+      "timeliness": 10,
+      "uniqueness": 10,
+      "usefulness": 8,
+      "totalScore": 54,
+      "finalScore": 55,
+      "reason": "",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "xay4jgjsfhp2w4zrf955toa9",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://gameres.com/917603.html",
+    "title": "《第一狂战士：卡赞》战斗系统拆解",
+    "titleZh": "《第一狂战士：卡赞》战斗系统拆解",
+    "summaryZh": "本文深入拆解《第一狂战士：卡赞》的战斗系统，核心聚焦BOSS Rush模式设计理念。该作以高强度BOSS战为核心挑战，通过「反复尝试→最终胜利」的循环流程，为玩家带来硬核动作游戏体验。文章对游戏战斗机制的设计逻辑进行了系统分析。",
+    "author": null,
+    "publishedAt": "2026-06-01T02:16:08.967Z",
+    "fetchedAt": "2026-06-01T02:52:16.067Z",
+    "isSelected": true,
+    "score": {
+      "importance": 13,
+      "articleQuality": 14,
+      "timeliness": 12,
+      "uniqueness": 12,
+      "usefulness": 14,
+      "totalScore": 65,
+      "finalScore": 64,
+      "reason": "战斗系统拆解视角专业，对动作游戏开发者参考价值较高",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "twpzk2t7ggm9ig8gupfjrpdg",
+    "sourceId": "gameres",
+    "sourceName": "游资网",
+    "url": "https://gameres.com/917602.html",
+    "title": "6月1日—6月7日共有21款游戏开测｜GameRes",
+    "titleZh": "6月首周21款游戏开测",
+    "summaryZh": "GameRes统计2026年6月第1周行业开测数据，共收录21款手游新品。从开测数量看，本周市场活跃度较高，涵盖多品类新品，建议从业者关注竞品动态与品类分布。",
+    "author": null,
+    "publishedAt": "2026-06-01T01:52:08.968Z",
+    "fetchedAt": "2026-06-01T02:52:23.898Z",
+    "isSelected": true,
+    "score": {
+      "importance": 13,
+      "articleQuality": 14,
+      "timeliness": 17,
+      "uniqueness": 11,
+      "usefulness": 15,
+      "totalScore": 70,
+      "finalScore": 68,
+      "reason": "每周开测数据汇总，追踪市场动态的实用参考",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "yzp7lcfhgc6zonno2s1tsooi",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
@@ -353,7 +465,17 @@
       "tags": [
         "行业"
       ],
-      "relatedItems": []
+      "relatedItems": [
+        {
+          "sourceId": "youxituoluo",
+          "sourceName": "游戏陀螺",
+          "url": "https://youxituoluo.com/534530.html",
+          "title": "3亿MAU，单月流水超千万，全球霸榜的《Block Blast!》 突遭谷歌下架",
+          "titleZh": "3亿MAU的《Block Blast!》遭Google Play下架",
+          "publishedAt": "2026-06-01T02:28:24.486Z",
+          "totalScore": 65
+        }
+      ]
     }
   },
   {
