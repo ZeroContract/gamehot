@@ -1,5 +1,34 @@
 [
   {
+    "id": "w6btblhnu8ahukfzi850zrkd",
+    "sourceId": "youxiputao",
+    "sourceName": "游戏葡萄",
+    "url": "https://news.qq.com/rain/a/20260601V08FNN00?suid=&media_id=",
+    "title": "小丑牌的发行商将以 1.25 亿英镑的价格被出售 《小丑牌》的发行商 Playstack 将以 1.33 亿英镑的估值被出售",
+    "titleZh": "《小丑牌》发行商Playstack将被出售",
+    "summaryZh": "《小丑牌》（Balatro）发行商Playstack将以1.33亿英镑估值被出售，收购方为英国ITV旗下制片公司。此交易反映独立游戏商业价值凸显，以及流媒体时代内容资产受到资本关注。",
+    "author": null,
+    "publishedAt": "2026-06-01T11:16:23.000Z",
+    "fetchedAt": "2026-06-01T13:12:00.677Z",
+    "isSelected": true,
+    "score": {
+      "importance": 15,
+      "articleQuality": 12,
+      "timeliness": 14,
+      "uniqueness": 10,
+      "usefulness": 9,
+      "totalScore": 60,
+      "finalScore": 65,
+      "reason": "独立游戏发行商收购案例，反映行业资本动向",
+      "notReason": "",
+      "tags": [
+        "公司",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "azpj3vthq0v8qhv57tr6omog",
     "sourceId": "youxituoluo",
     "sourceName": "游戏陀螺",
