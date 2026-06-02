@@ -7,7 +7,6 @@ import * as fs from "fs";
 import * as path from "path";
 
 const DATA_DIR = path.join(__dirname, "..", "data");
-const SOURCES_FILE = path.join(DATA_DIR, "sources.json");
 const ITEMS_FILE = path.join(DATA_DIR, "items.json");
 
 const AI_API_KEY = process.env.DEEPSEEK_API_KEY || "";
@@ -42,12 +41,6 @@ const SCORE_PROMPT = `你是游戏行业的资深编辑。请对以下游戏开�
 
 请严格以 JSON 格式返回（不要 markdown 代码块包裹）：
 {"titleZh":"...","summaryZh":"...","importance":0,"articleQuality":0,"timeliness":0,"uniqueness":0,"usefulness":0,"totalScore":0,"isSelected":false,"reason":"","notReason":"","tags":[]}`;
-
-interface Source {
-  id: string;
-  name: string;
-  weight: number;
-}
 
 interface Item {
   id: string;
@@ -92,8 +85,7 @@ async function callAI(prompt: string): Promise<any> {
 async function rescoreItem(
   title: string,
   snippet: string,
-  sourceName: string,
-  sourceWeight: number
+  sourceName: string
 ): Promise<any> {
   try {
     const prompt = SCORE_PROMPT.replace("{title}", title)
@@ -104,9 +96,7 @@ async function rescoreItem(
 
     const totalScore = result.totalScore || 0;
     const isSelected = result.isSelected ?? totalScore >= 60;
-    const finalScore = totalScore > 0
-      ? Math.round(totalScore * 0.8 + (sourceWeight / 100) * 20)
-      : 0;
+    const finalScore = totalScore;
 
     return {
       titleZh: result.titleZh || title,
@@ -134,21 +124,17 @@ async function main() {
     process.exit(1);
   }
 
-  const sources: Source[] = JSON.parse(fs.readFileSync(SOURCES_FILE, "utf-8"));
-  const weightMap = new Map(sources.map((s) => [s.name, s.weight]));
-
   const items: Item[] = JSON.parse(fs.readFileSync(ITEMS_FILE, "utf-8"));
   console.log(`共 ${items.length} 篇文章待重新评分\n`);
 
   let updated = 0;
   for (let i = 0; i < items.length; i++) {
     const item = items[i];
-    const weight = weightMap.get(item.sourceName) || 60;
     const snippet = item.summaryZh || item.title;
 
     console.log(`[${i + 1}/${items.length}] "${item.title.slice(0, 50)}..."`);
 
-    const newScore = await rescoreItem(item.title, snippet, item.sourceName, weight);
+    const newScore = await rescoreItem(item.title, snippet, item.sourceName);
     if (newScore) {
       item.titleZh = newScore.titleZh;
       item.summaryZh = newScore.summaryZh;

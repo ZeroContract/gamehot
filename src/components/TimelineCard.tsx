@@ -22,9 +22,9 @@ function formatDate(dateStr: string): string {
 }
 
 function getScoreClass(score: number): string {
-  if (score >= 90) return "top";
-  if (score >= 80) return "high";
-  if (score >= 60) return "mid";
+  if (score >= 85) return "top";
+  if (score >= 70) return "high";
+  if (score >= 55) return "mid";
   return "low";
 }
 

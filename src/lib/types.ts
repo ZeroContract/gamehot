@@ -5,7 +5,6 @@ export interface Source {
   feedUrl: string;
   type: 'rss' | 'web' | 'api';
   tier: number; // 1=顶级 2=常规 3=实验
-  weight: number; // 0-100
   // web 类型用 —— cheerio 选择器
   listSelector?: string;
   titleSelector?: string;
@@ -38,7 +37,7 @@ export interface AiScore {
   uniqueness: number; // 独特性
   usefulness: number; // 实用度
   totalScore: number; // 总分 (5维加总)
-  finalScore: number; // 最终分 (AI评分 + 来源权重)
+  finalScore: number; // 最终分 (与 totalScore 等同，历史兼容)
   reason: string; // 推荐理由
   notReason: string; // 不推荐理由（分数 < 60 时）
   tags: string[]; // 标签

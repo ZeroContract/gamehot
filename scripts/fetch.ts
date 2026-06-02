@@ -76,7 +76,6 @@ interface Source {
   feedUrl: string;
   type: string;
   tier: number;
-  weight: number;
   urls?: string[];
   maxPages?: number;
   daysBack?: number;
@@ -476,8 +475,7 @@ async function callAI(prompt: string): Promise<any> {
 async function scoreItem(
   title: string,
   snippet: string,
-  sourceName: string,
-  sourceWeight: number
+  sourceName: string
 ): Promise<{ titleZh: string; summaryZh: string; score: AiScore }> {
   try {
     const prompt = SCORE_PROMPT.replace("{title}", title)
@@ -489,9 +487,7 @@ async function scoreItem(
     const totalScore = result.totalScore || 0;
     const relevant = result.relevant !== false; // 默认 true（兼容旧 prompt）
     const isSelected = result.isSelected ?? totalScore >= 60;
-    const finalScore = totalScore > 0
-      ? Math.round(totalScore * 0.8 + (sourceWeight / 100) * 20)
-      : 0;
+    const finalScore = totalScore;
 
     return {
       titleZh: result.titleZh || title,
@@ -576,8 +572,7 @@ async function processEntries(
     const { titleZh, summaryZh, score } = await scoreItem(
       title,
       snippet.slice(0, 500),
-      source.name,
-      source.weight
+      source.name
     );
 
     const isSelected = score.totalScore >= 60;
@@ -1281,8 +1276,7 @@ async function fetchGcores(source: Source, existingKeys: Set<string>): Promise<I
     const { titleZh, summaryZh, score } = await scoreItem(
       entry.title,
       entry.snippet.slice(0, 500),
-      source.name,
-      source.weight
+      source.name
     );
 
     // 不相关 → 丢弃
