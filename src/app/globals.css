@@ -139,7 +139,8 @@ img { max-width: 100%; display: block; }
 .side-nav-item:hover { background: var(--bg-tertiary); color: var(--text-primary); }
 .side-nav-item.active { background: var(--accent-light); color: var(--accent); font-weight: 600; }
 
-.side-nav-icon { font-size: 18px; width: 22px; text-align: center; }
+.side-nav-icon { width: 22px; height: 18px; display: flex; align-items: center; justify-content: center; }
+.side-nav-icon svg { width: 18px; height: 18px; flex-shrink: 0; }
 
 .sidebar-footer {
   padding-top: 16px;
