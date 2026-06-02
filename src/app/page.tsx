@@ -43,7 +43,7 @@ export default async function Home({
             <div className="header-row">
               <div>
                 <div className="page-title">{viewAll ? "全部" : "精选"}</div>
-                <div className="page-subtitle">{viewAll ? "所有抓取的游戏开发内容" : "AI 自动挑选的高价值游戏开发内容"}</div>
+                <div className="page-subtitle">{viewAll ? "所有抓取的游戏行业内容" : "AI 自动挑选的高价值游戏行业内容"}</div>
               </div>
             </div>
             <div className="divider" />

@@ -3,8 +3,8 @@ import "./globals.css";
 import Tracker from "@/components/Tracker";
 
 export const metadata: Metadata = {
-  title: "GameHot — 游戏开发热点精选",
-  description: "面向中文游戏开发者的 AI 热点信息聚合平台，自动抓取、翻译、评分精选游戏行业动态。",
+  title: "GameHot — 游戏行业热点精选",
+  description: "面向中文游戏行业者的 AI 热点信息聚合平台，自动抓取、翻译、评分精选游戏行业动态。",
   metadataBase: new URL("https://gamehot.vercel.app"),
   alternates: {
     types: {

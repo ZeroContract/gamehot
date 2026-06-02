@@ -77,7 +77,7 @@ export default function Sidebar() {
           <span className="sidebar-brand-dot" />
           GameHot
         </div>
-        <div className="sidebar-subtitle">游戏开发热点精选</div>
+        <div className="sidebar-subtitle">游戏行业热点精选</div>
 
         <nav className="side-nav">
           {navItems.map((item) => (

@@ -23,7 +23,7 @@ const qrCodes = [
     src: "/images/微信加好友二维码.png",
     alt: "微信加好友二维码",
     label: "微信好友",
-    desc: "交个朋友，聊游戏开发",
+    desc: "交个朋友，聊游戏行业",
   },
 ];
 
