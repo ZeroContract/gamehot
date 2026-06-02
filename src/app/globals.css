@@ -221,7 +221,7 @@ img { max-width: 100%; display: block; }
 
 /* === Page Layout === */
 .page {
-  max-width: 760px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 24px 20px 60px;
   width: 100%;
@@ -583,7 +583,7 @@ img { max-width: 100%; display: block; }
 
 /* === About Page === */
 .about-page {
-  max-width: 988px;
+  max-width: 1200px;
 }
 
 .about-content {
