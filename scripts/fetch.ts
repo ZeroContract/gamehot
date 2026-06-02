@@ -1179,7 +1179,7 @@ async function fetchGcores(source: Source, existingKeys: Set<string>): Promise<I
       const text = $(el).html() || "";
       if (text.includes("window.__PRELOADED_STATE__")) {
         const match = text.match(
-          /window\.__PRELOADED_STATE__\s*=\s*(\{.*?\});\s*\n/s
+          /window\.__PRELOADED_STATE__\s*=\s*(\{[\s\S]*?\});\s*\n/
         );
         if (match) {
           try {
