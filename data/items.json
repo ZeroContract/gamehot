@@ -1,5 +1,64 @@
 [
   {
+    "id": "2pi850nzrn8mneex71thwj69",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215388",
+    "title": "开局一只鸟，废土建城堡！治愈系平台冒险《小黑鹂》现已加入机核发行",
+    "titleZh": "治愈系平台冒险游戏《小黑鹂》加入机核发行",
+    "summaryZh": "机核发行负责《小黑鹂》中国区联合发行，该游戏由《迷宫大侦探》制作组Darjeeling研发，是一款治愈系平台冒险游戏，与ARTE France联合发行。",
+    "author": null,
+    "publishedAt": "2026-06-05T18:00:00.000+08:00",
+    "fetchedAt": "2026-06-05T10:28:40.537Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 10,
+      "articleQuality": 12,
+      "timeliness": 11,
+      "uniqueness": 8,
+      "usefulness": 9,
+      "totalScore": 50,
+      "finalScore": 50,
+      "reason": "",
+      "notReason": "发行公告信息量有限，缺少游戏玩法、版本规划等深度内容",
+      "tags": [
+        "游戏",
+        "公司"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ciynve9nv74m8t3oci106deg",
+    "sourceId": "youxichaguan",
+    "sourceName": "游戏茶馆",
+    "url": "https://youxichaguan.com/archives/198041",
+    "title": "卡组构筑无上限！西游爬塔威力加强版《释厄传》Demo上线Steam",
+    "titleZh": "卡组构筑无上限！西游爬塔《释厄传》Demo上线Steam",
+    "summaryZh": "《释厄传》是一款西游记题材的牌组构筑类Roguelike游戏，其试玩Demo现已在Steam上线。游戏主打双重成长体系，包含300+遗物、1000+卡牌供玩家自由组合搭配，玩法深度和重复可玩性较高。",
+    "author": null,
+    "publishedAt": "2026-06-05T09:32:35.696Z",
+    "fetchedAt": "2026-06-05T10:26:47.396Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 13,
+      "timeliness": 16,
+      "uniqueness": 10,
+      "usefulness": 11,
+      "totalScore": 62,
+      "finalScore": 62,
+      "reason": "新游Demo上线新闻时效性强，Roguelike卡牌玩法信息量较丰富",
+      "notReason": "",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "hg76el4zl40dyfklo1obsutq",
     "sourceId": "youxichaguan",
     "sourceName": "游戏茶馆",
@@ -645,9 +704,39 @@
     }
   },
   {
-    "id": "mmboe1aqvgyss56z27gzpa0f",
+    "id": "vsbckpnki6s6gbg5v3blhu02",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215068",
+    "title": "优雅的机制到荒诞的体验——涌现式设计的理解",
+    "titleZh": "涌现式设计的理解",
+    "summaryZh": "探讨游戏设计中涌现式机制的运作机理，分析其带来的独特体验与设计优缺，阐述如何通过工程化方法制造游戏体验。文章从设计理论出发，为游戏研发人员提供方法论参考。",
+    "author": null,
+    "publishedAt": "2026-06-05T11:36:09.000+08:00",
+    "fetchedAt": "2026-06-05T10:29:02.158Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 16,
+      "articleQuality": 16,
+      "timeliness": 12,
+      "uniqueness": 15,
+      "usefulness": 13,
+      "totalScore": 72,
+      "finalScore": 72,
+      "reason": "设计理论深度佳，涌现式设计对游戏研发有方法论指导价值",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "mmboe1aqvgyss56z27gzpa0f",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215068",
     "title": "优雅的机制到荒诞的体验——涌现式设计的理解",
     "titleZh": "涌现式设计：从机制到体验",
@@ -981,9 +1070,39 @@
     }
   },
   {
-    "id": "emaigcqr3aj0ssqvkjjiix86",
+    "id": "g95d3vacm69ad5mjsxg8gyjw",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215405",
+    "title": "嘎嘎搜刮！｜《逃离鸭科夫》参展核聚变2026深圳站",
+    "titleZh": "《逃离鸭科夫》参展核聚变2026深圳站",
+    "summaryZh": "核聚变游戏嘉年华将于2026年6月27-28日在深圳国际会展中心举行，哔哩哔哩游戏发行的国产单机游戏《逃离鸭科夫》将参展。该游戏是PVE俯视角撤离射击游戏，展会期间提供试玩、舞台活动及限定周边。",
+    "author": null,
+    "publishedAt": "2026-06-05T10:00:00.000+08:00",
+    "fetchedAt": "2026-06-05T10:29:22.488Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 11,
+      "articleQuality": 12,
+      "timeliness": 14,
+      "uniqueness": 9,
+      "usefulness": 10,
+      "totalScore": 56,
+      "finalScore": 56,
+      "reason": "",
+      "notReason": "信息量较少，展会报道较常规，缺少深度内容和独家信息",
+      "tags": [
+        "行业",
+        "展会"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "emaigcqr3aj0ssqvkjjiix86",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215405",
     "title": "嘎嘎搜刮！｜《逃离鸭科夫》参展核聚变2026深圳站",
     "titleZh": "《逃离鸭科夫》参展核聚变2026深圳站",
@@ -1247,9 +1366,39 @@
     }
   },
   {
-    "id": "3v8jpq7xmq8f6rq55u0x9l28",
+    "id": "kuweltr6xag5mdp90p9v895a",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215367",
+    "title": "AI 原生游戏狂热：从创世神到地下城主",
+    "titleZh": "AI原生游戏狂热：从创世神到地下城主",
+    "summaryZh": "探讨AI原生游戏的发展现状与未来，2026年AI已深度影响游戏开发与玩法，vibe coding降低开发门槛，AI聊天机器人渗透玩家社区，行业正在经历AI驱动的变革。",
+    "author": null,
+    "publishedAt": "2026-06-04T19:00:00.000+08:00",
+    "fetchedAt": "2026-06-05T10:29:49.477Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 13,
+      "articleQuality": 13,
+      "timeliness": 15,
+      "uniqueness": 12,
+      "usefulness": 11,
+      "totalScore": 64,
+      "finalScore": 64,
+      "reason": "紧跟AI游戏趋势，视角前沿，对从业者有参考价值",
+      "notReason": "",
+      "tags": [
+        "AI",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "3v8jpq7xmq8f6rq55u0x9l28",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215367",
     "title": "AI 原生游戏狂热：从创世神到地下城主",
     "titleZh": "AI原生游戏狂热：从创世神到地下城主",
@@ -1507,9 +1656,38 @@
     }
   },
   {
-    "id": "r8757snsfbbivo7kzisf48h5",
+    "id": "u4fnielvpgcg674gyvh8h2yd",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215396",
+    "title": "游戏人物千千万，为什么唯独这个水管工，火了四十多年？",
+    "titleZh": "游戏人物千千万，为何马里奥火了四十多年？",
+    "summaryZh": "分析超级马里奥这一游戏IP经久不衰的原因。主角马里奥形象朴素、毫无超能力，却成为全球累计销量第一的游戏角色，衍生作品覆盖运动、赛车、RPG等多品类，受众从老人到孩童覆盖极广，探讨其长盛不衰的商业密码。",
+    "author": null,
+    "publishedAt": "2026-06-04T18:30:49.000+08:00",
+    "fetchedAt": "2026-06-05T10:30:03.304Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 13,
+      "articleQuality": 12,
+      "timeliness": 8,
+      "uniqueness": 9,
+      "usefulness": 8,
+      "totalScore": 50,
+      "finalScore": 50,
+      "reason": "",
+      "notReason": "内容较浅，缺乏行业数据支撑，实用度不足",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "r8757snsfbbivo7kzisf48h5",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215396",
     "title": "游戏人物千千万，为什么唯独这个水管工，火了四十多年？",
     "titleZh": "马里奥为何火了四十余年",
@@ -1990,9 +2168,49 @@
     }
   },
   {
-    "id": "wn93z7wod3nrtxun8v82kskh",
+    "id": "p9h2rwwmkkmskt66jrcc0gji",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215372",
+    "title": "再生者实验室 重塑恐惧",
+    "titleZh": "再生者实验室：重塑恐惧",
+    "summaryZh": "分析《生化危机4 重制版》第十三章在游戏三幕结构中的定位，探讨玩家情绪随流程演变的规律，从村庄资源匮乏到城堡阶段恐惧营造机制的变化，深入剖析游戏后期的关卡设计与情感节奏把控。",
+    "author": null,
+    "publishedAt": "2026-06-04T14:51:11.000+08:00",
+    "fetchedAt": "2026-06-05T10:30:21.924Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 16,
+      "articleQuality": 16,
+      "timeliness": 12,
+      "uniqueness": 15,
+      "usefulness": 14,
+      "totalScore": 73,
+      "finalScore": 73,
+      "reason": "专业级关卡设计解析，情感曲线研究深入，实用参考价值高",
+      "notReason": "",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": [
+        {
+          "sourceId": "gcores-news",
+          "sourceName": "机核网-资讯",
+          "url": "https://gcores.com/articles/215372",
+          "title": "再生者实验室 重塑恐惧",
+          "titleZh": "再生者实验室：重塑恐惧",
+          "publishedAt": "2026-06-04T14:51:11.000+08:00",
+          "totalScore": 73
+        }
+      ]
+    }
+  },
+  {
+    "id": "wn93z7wod3nrtxun8v82kskh",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215372",
     "title": "再生者实验室 重塑恐惧",
     "titleZh": "《生化危机4RE》关卡情绪设计与恐惧塑造分析",
@@ -2060,7 +2278,7 @@
     "author": null,
     "publishedAt": "2026-06-04T14:51:11.000+08:00",
     "fetchedAt": "2026-06-05T06:16:28.565Z",
-    "isSelected": true,
+    "isSelected": false,
     "score": {
       "relevant": true,
       "importance": 14,
@@ -2601,9 +2819,38 @@
     }
   },
   {
-    "id": "emzsa9c7q83vgtfenv4d3qjm",
+    "id": "ikw9zngxbu57yqkseijcqpg8",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215360",
+    "title": "从玩家的注视到策划的凝视：一场关于游戏认知维度的漫长跋涉",
+    "titleZh": "从玩家到策划：游戏认知的跋涉",
+    "summaryZh": "文章探讨游戏从业者如何开始\"思考游戏\"，从无数次深夜坐在屏幕前的经历出发，阐述从玩家视角到策划视角的转变过程，分享对游戏认知维度的深度思考与职业发展感悟。",
+    "author": null,
+    "publishedAt": "2026-06-04T10:00:00.000+08:00",
+    "fetchedAt": "2026-06-05T10:30:36.289Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 15,
+      "timeliness": 10,
+      "uniqueness": 13,
+      "usefulness": 10,
+      "totalScore": 62,
+      "finalScore": 62,
+      "reason": "从业者职业反思佳作，视角独特值得一读",
+      "notReason": "",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "emzsa9c7q83vgtfenv4d3qjm",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215360",
     "title": "从玩家的注视到策划的凝视：一场关于游戏认知维度的漫长跋涉",
     "titleZh": "从玩家到策划：游戏认知的漫长旅程",
@@ -2812,7 +3059,17 @@
         "行业",
         "干货"
       ],
-      "relatedItems": []
+      "relatedItems": [
+        {
+          "sourceId": "gcores-news",
+          "sourceName": "机核网-资讯",
+          "url": "https://gcores.com/articles/215360",
+          "title": "从玩家的注视到策划的凝视：一场关于游戏认知维度的漫长跋涉",
+          "titleZh": "从玩家到策划：游戏认知的跋涉",
+          "publishedAt": "2026-06-04T10:00:00.000+08:00",
+          "totalScore": 62
+        }
+      ]
     }
   },
   {
@@ -3022,9 +3279,38 @@
     }
   },
   {
-    "id": "aewycetuqwm13iy4z1ui1n2t",
+    "id": "tuah980876v8pg1rt7nkhfjg",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215356",
+    "title": "黑暗之魂2&3简单横向对比",
+    "titleZh": "魂2与魂3横向对比分析",
+    "summaryZh": "本文对比《黑暗之魂2》与《黑暗之魂3》的设计理念，聚焦教学区域分析。指出魂2采用“做加法”的开放性设计但信息过载，魂3则通过“做减法”实现精炼体验。探讨两作在社区中风评差异的深层原因。",
+    "author": null,
+    "publishedAt": "2026-06-03T22:01:13.000+08:00",
+    "fetchedAt": "2026-06-05T10:30:54.606Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 13,
+      "articleQuality": 14,
+      "timeliness": 10,
+      "uniqueness": 11,
+      "usefulness": 10,
+      "totalScore": 58,
+      "finalScore": 58,
+      "reason": "",
+      "notReason": "内容较旧（魂2/3为2014-2016年作品），分析框架较常见，实用度一般",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "aewycetuqwm13iy4z1ui1n2t",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215356",
     "title": "黑暗之魂2&3简单横向对比",
     "titleZh": "黑魂2与3设计哲学对比",
@@ -3289,9 +3575,158 @@
     }
   },
   {
-    "id": "j9lvz1lghqt2nfkfgztr1i5x",
+    "id": "x577kkywd5ag5g0rwtb5q0ny",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215347",
+    "title": "Crpg发展史第一卷：从桌面到荧幕——第二章：最早的Crpg",
+    "titleZh": "CRPG发展史：最早的电脑角色扮演游戏",
+    "summaryZh": "CRPG发展史系列第二章，追溯电脑角色扮演游戏诞生前的历史背景，介绍计算机发展如何为CRPG提供土壤，以及龙与地下城等桌游对早期电子游戏的影响。",
+    "author": null,
+    "publishedAt": "2026-06-03T20:06:31.000+08:00",
+    "fetchedAt": "2026-06-05T10:31:03.062Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 18,
+      "articleQuality": 17,
+      "timeliness": 14,
+      "uniqueness": 16,
+      "usefulness": 15,
+      "totalScore": 80,
+      "finalScore": 80,
+      "reason": "系统梳理CRPG发展脉络，对理解游戏类型演变有重要参考价值",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": [
+        {
+          "sourceId": "gcores-news",
+          "sourceName": "机核网-资讯",
+          "url": "https://gcores.com/articles/215347",
+          "title": "Crpg发展史第一卷：从桌面到荧幕——第二章：最早的Crpg",
+          "titleZh": "CRPG发展史：最早的CRPG",
+          "publishedAt": "2026-06-03T20:06:31.000+08:00",
+          "totalScore": 67
+        },
+        {
+          "sourceId": "gcores-news",
+          "sourceName": "机核网-资讯",
+          "url": "https://gcores.com/articles/215189",
+          "title": "Crpg发展史第一卷：从桌面到荧幕——第一章：机房、终端与 PLATO 社群",
+          "titleZh": "CRPG发展史：从桌面角色扮演到电脑游戏的演变",
+          "publishedAt": "2026-05-30T00:05:18.000+08:00",
+          "totalScore": 63
+        }
+      ]
+    }
+  },
+  {
+    "id": "bmmhqt3vzwbrkel4z8cslrpt",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215343",
+    "title": "从\"下一回合\"到\"目标真空\"：文明6的4X张力与时代系统如何制造心流",
+    "titleZh": "分析文明6的心流设计与时代系统",
+    "summaryZh": "深入分析《文明6》如何通过4X机制和时代系统创造心流体验，探讨回合制策略游戏维持玩家沉浸感的心理机制，从“下一回合”成瘾性到目标真空的周期性设计原理。",
+    "author": null,
+    "publishedAt": "2026-06-03T20:06:31.000+08:00",
+    "fetchedAt": "2026-06-05T10:31:12.345Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 16,
+      "timeliness": 12,
+      "uniqueness": 15,
+      "usefulness": 13,
+      "totalScore": 71,
+      "finalScore": 71,
+      "reason": "从心理学角度深度拆解游戏机制设计，干货满满",
+      "notReason": "",
+      "tags": [
+        "干货",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "svenz2rg8rfl0k3n7gt804mz",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215342",
+    "title": "文明6如何让每局科技路线都不同：尤里卡系统与双轨科技树的行为经济学",
+    "titleZh": "文明6科技路线多样化：尤里卡系统与双轨科技树的行为经济学",
+    "summaryZh": "文章从行为经济学视角分析《文明6》的尤里卡系统和双轨科技树设计，探讨如何通过触发式奖励和分支选择让每局游戏的科技发展路线产生差异，提升游戏重玩价值，对游戏机制设计有参考意义。",
+    "author": null,
+    "publishedAt": "2026-06-03T20:06:31.000+08:00",
+    "fetchedAt": "2026-06-05T10:31:27.244Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 16,
+      "timeliness": 12,
+      "uniqueness": 17,
+      "usefulness": 15,
+      "totalScore": 74,
+      "finalScore": 74,
+      "reason": "行为经济学视角解读游戏机制，观点独特且有深度",
+      "notReason": "",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ljlvqr7mq3g0o6ghb54wki20",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215337",
+    "title": "《文明6》系统拆解 · 机核连载三部曲",
+    "titleZh": "《文明6》经济系统深度拆解",
+    "summaryZh": "以金融工程视角分析《文明6》经济系统，通过具体对局案例（秦始皇+不朽难度）详细拆解游戏财务机制，探讨收入来源、支出结构与帝国扩张的平衡关系，为游戏经济系统设计提供独特分析框架。",
+    "author": null,
+    "publishedAt": "2026-06-03T20:06:31.000+08:00",
+    "fetchedAt": "2026-06-05T10:31:30.804Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 16,
+      "articleQuality": 17,
+      "timeliness": 12,
+      "uniqueness": 18,
+      "usefulness": 15,
+      "totalScore": 78,
+      "finalScore": 78,
+      "reason": "金融视角拆解游戏经济，设计方法论可借鉴",
+      "notReason": "",
+      "tags": [
+        "干货",
+        "游戏"
+      ],
+      "relatedItems": [
+        {
+          "sourceId": "gcores-news",
+          "sourceName": "机核网-资讯",
+          "url": "https://gcores.com/articles/215337",
+          "title": "《文明6》系统拆解 · 机核连载三部曲",
+          "titleZh": "《文明6》经济系统拆解",
+          "publishedAt": "2026-06-03T20:06:31.000+08:00",
+          "totalScore": 78
+        }
+      ]
+    }
+  },
+  {
+    "id": "j9lvz1lghqt2nfkfgztr1i5x",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215347",
     "title": "Crpg发展史第一卷：从桌面到荧幕——第二章：最早的Crpg",
     "titleZh": "CRPG发展史：最早的CRPG",
@@ -3319,8 +3754,8 @@
   },
   {
     "id": "ce59akjlg8xrkdba9n9puq2x",
-    "sourceId": "gcores-articles",
-    "sourceName": "机核网-文章",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215343",
     "title": "从\"下一回合\"到\"目标真空\"：文明6的4X张力与时代系统如何制造心流",
     "titleZh": "从回合到心流：文明6的4X设计机制解析",
@@ -3349,8 +3784,8 @@
   },
   {
     "id": "jaqacw816rmpyrhbx6lik80m",
-    "sourceId": "gcores-articles",
-    "sourceName": "机核网-文章",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215342",
     "title": "文明6如何让每局科技路线都不同：尤里卡系统与双轨科技树的行为经济学",
     "titleZh": "《文明6》科技路线差异化设计：尤里卡与双轨科技树",
@@ -3379,8 +3814,8 @@
   },
   {
     "id": "ymk75w091xy2iniudtz0qufb",
-    "sourceId": "gcores-articles",
-    "sourceName": "机核网-文章",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215337",
     "title": "《文明6》系统拆解 · 机核连载三部曲",
     "titleZh": "《文明6》经济系统拆解",
@@ -3388,7 +3823,7 @@
     "author": null,
     "publishedAt": "2026-06-03T20:06:31.000+08:00",
     "fetchedAt": "2026-06-05T09:08:12.823Z",
-    "isSelected": true,
+    "isSelected": false,
     "score": {
       "relevant": true,
       "importance": 15,
@@ -3428,7 +3863,7 @@
     "author": null,
     "publishedAt": "2026-06-03T20:06:31.000+08:00",
     "fetchedAt": "2026-06-05T07:39:15.557Z",
-    "isSelected": true,
+    "isSelected": false,
     "score": {
       "relevant": true,
       "importance": 14,
@@ -4481,9 +4916,36 @@
     }
   },
   {
-    "id": "d50q9mclqzhwveo1jctbctrh",
+    "id": "o5lumzl732n5ifararzxrgbg",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215336",
+    "title": "10年，从“无人”深空，到“有人”深空，最终实现《无人深空》",
+    "titleZh": "10年，从“无人”深空，到“有人”深空，最终实现《无人深空》",
+    "summaryZh": "",
+    "author": null,
+    "publishedAt": "2026-06-03T19:00:00.000+08:00",
+    "fetchedAt": "2026-06-05T10:32:00.430Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 0,
+      "articleQuality": 0,
+      "timeliness": 0,
+      "uniqueness": 0,
+      "usefulness": 0,
+      "totalScore": 0,
+      "finalScore": 0,
+      "reason": "",
+      "notReason": "",
+      "tags": [],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "d50q9mclqzhwveo1jctbctrh",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215336",
     "title": "10年，从“无人”深空，到“有人”深空，最终实现《无人深空》",
     "titleZh": "十年蜕变：无人深空从\"无人\"到\"有人\"的进化",
@@ -4833,9 +5295,36 @@
     }
   },
   {
-    "id": "u5fxe16r26rc29rk75p4wjo2",
+    "id": "bx8m9cwgkqlv7hqycnu3gq81",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215340",
+    "title": "采访《逃离塔科夫》制作人尼基塔·布亚诺夫：打算加入更多中国相关内容",
+    "titleZh": "采访《逃离塔科夫》制作人尼基塔·布亚诺夫：打算加入更多中国相关内容",
+    "summaryZh": "",
+    "author": null,
+    "publishedAt": "2026-06-03T16:47:28.000+08:00",
+    "fetchedAt": "2026-06-05T10:32:13.410Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 0,
+      "articleQuality": 0,
+      "timeliness": 0,
+      "uniqueness": 0,
+      "usefulness": 0,
+      "totalScore": 0,
+      "finalScore": 0,
+      "reason": "",
+      "notReason": "",
+      "tags": [],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "u5fxe16r26rc29rk75p4wjo2",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215340",
     "title": "采访《逃离塔科夫》制作人尼基塔·布亚诺夫：打算加入更多中国相关内容",
     "titleZh": "逃离塔科夫制作人专访：计划加入中国内容",
@@ -5251,9 +5740,39 @@
     }
   },
   {
-    "id": "ovwbmd4lp0aw830mjxnz1903",
+    "id": "v6mwwfodnkro848m52azwlu9",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215298",
+    "title": "机核采访《狂热运输 3》开发者",
+    "titleZh": "《狂热运输3》开发者采访",
+    "summaryZh": "机核对《狂热运输3》开发团队的专访，探讨从《狂热运输2》到3代的进化动力，阐述核心设计理念的\"变\"与\"不变\"，揭示开发团队对该系列的热忱与创新思考。",
+    "author": null,
+    "publishedAt": "2026-06-03T15:54:40.000+08:00",
+    "fetchedAt": "2026-06-05T10:32:17.529Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 14,
+      "articleQuality": 13,
+      "timeliness": 15,
+      "uniqueness": 13,
+      "usefulness": 12,
+      "totalScore": 67,
+      "finalScore": 67,
+      "reason": "开发者亲述系列进化逻辑，设计理念分析有深度参考价值",
+      "notReason": "",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "ovwbmd4lp0aw830mjxnz1903",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215298",
     "title": "机核采访《狂热运输 3》开发者",
     "titleZh": "机核专访狂热运输3开发者",
@@ -5617,9 +6136,38 @@
     }
   },
   {
-    "id": "gcbldurs3vv7eaar97in8aj6",
+    "id": "mrzd4jhp8tjibknvku3v0ton",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215333",
+    "title": "【恍如初戏】回顾《雨血·烨城》上",
+    "titleZh": "《雨血·烨城》剧情回顾",
+    "summaryZh": "作者重玩经典武侠游戏《雨血·烨城》，以小说笔法重新叙述游戏中“组织”内乱、冥使黑伤·魂与左殇的恩怨纠葛，呈现一款暗黑武侠独立游戏的剧情魅力。",
+    "author": null,
+    "publishedAt": "2026-06-03T14:55:29.000+08:00",
+    "fetchedAt": "2026-06-05T10:32:31.491Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 7,
+      "articleQuality": 8,
+      "timeliness": 4,
+      "uniqueness": 6,
+      "usefulness": 5,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "",
+      "notReason": "内容较水，偏向粉丝向剧情回顾，缺乏行业洞察和实用价值",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "gcbldurs3vv7eaar97in8aj6",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215333",
     "title": "【恍如初戏】回顾《雨血·烨城》上",
     "titleZh": "《雨血·烨城》游戏剧情回顾",
@@ -6083,9 +6631,38 @@
     }
   },
   {
-    "id": "w3p6k52biyzwxlfatnelmwho",
+    "id": "jufx12vifp0jl9h5dwlbujel",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215327",
+    "title": "一只小猪，五座雪山，和那种“再来一局”的简单快乐：《小猪滑雪》试玩体验",
+    "titleZh": "《小猪滑雪》试玩体验",
+    "summaryZh": "一款休闲跑酷游戏的试玩评测，讲述小猪在雪道中躲避障碍、收集金币的简单玩法，以及带来的\"再来一局\"的上瘾体验，适合休闲游戏开发者参考。",
+    "author": null,
+    "publishedAt": "2026-06-03T13:04:26.000+08:00",
+    "fetchedAt": "2026-06-05T10:33:18.005Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 7,
+      "articleQuality": 8,
+      "timeliness": 6,
+      "uniqueness": 6,
+      "usefulness": 7,
+      "totalScore": 34,
+      "finalScore": 34,
+      "reason": "",
+      "notReason": "信息量有限，评测深度一般",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "w3p6k52biyzwxlfatnelmwho",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215327",
     "title": "一只小猪，五座雪山，和那种“再来一局”的简单快乐：《小猪滑雪》试玩体验",
     "titleZh": "小猪滑雪试玩体验：简单快乐的休闲游戏",
@@ -6518,9 +7095,39 @@
     }
   },
   {
-    "id": "tqvpb3mon5r2x6xlnv4jqw6w",
+    "id": "spdt2f9u69b46ojg1gyfrbwf",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215321",
+    "title": "掏心窝来分享，开发一个游戏到底需要多少费用？",
+    "titleZh": "开发游戏到底需要多少费用？",
+    "summaryZh": "《末日崛起》开发团队分享游戏开发成本，耗时10-12个月，上线前最大支出为工作室运营和硬件投入。透露其美术等素材主要通过Fab平台购买并进行定制化，而非自建团队完成，对小团队有一定参考价值。",
+    "author": null,
+    "publishedAt": "2026-06-03T12:03:48.000+08:00",
+    "fetchedAt": "2026-06-05T10:33:24.294Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 10,
+      "timeliness": 14,
+      "uniqueness": 11,
+      "usefulness": 10,
+      "totalScore": 57,
+      "finalScore": 57,
+      "reason": "",
+      "notReason": "内容较浅，缺少详细成本数据和分析，实用参考价值有限",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "tqvpb3mon5r2x6xlnv4jqw6w",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215321",
     "title": "掏心窝来分享，开发一个游戏到底需要多少费用？",
     "titleZh": "游戏开发成本大揭秘",
@@ -6986,9 +7593,38 @@
     }
   },
   {
-    "id": "gnsyzpc562kjs3sxh1bnmaac",
+    "id": "newhmo8i31evf7jkbo6u4icj",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215305",
+    "title": "十三年后，它依然知道怎么让你“会心一笑”：《雷曼：传奇再叙》试玩体验",
+    "titleZh": "《雷曼：传奇》13年后重评",
+    "summaryZh": "文章评测育碧经典平台跳跃游戏《雷曼：传奇》，探讨其继承前作美学风格、在关卡设计、音乐节奏和多人玩法上的创新表现，认为该作将2D平台跳跃类型推向极致，适合平台跳跃类游戏开发者参考。",
+    "author": null,
+    "publishedAt": "2026-06-03T11:50:58.000+08:00",
+    "fetchedAt": "2026-06-05T10:33:38.015Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 13,
+      "timeliness": 10,
+      "uniqueness": 11,
+      "usefulness": 11,
+      "totalScore": 57,
+      "finalScore": 57,
+      "reason": "",
+      "notReason": "时效性较弱，内容偏向情怀评测而非行业洞察",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "gnsyzpc562kjs3sxh1bnmaac",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215305",
     "title": "十三年后，它依然知道怎么让你“会心一笑”：《雷曼：传奇再叙》试玩体验",
     "titleZh": "十三年后，它依然知道怎么让你会心一笑：雷曼传奇再叙试玩体验",
@@ -8201,9 +8837,38 @@
     }
   },
   {
-    "id": "w4g1ra4zn8g0qbxc4grxv4y6",
+    "id": "5gpg07lkw1ydk8ne1eyqi6h0",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215292",
+    "title": "跑团故事 | 终夏挽歌 I",
+    "titleZh": "跑团故事 | 终夏挽歌 I",
+    "summaryZh": "基于DND龙与地下城原创模组《终夏挽歌》的TRPG跑团游戏记录，讲述角色在路边酒馆相遇的剧情开篇，带有文学性的叙事风格。",
+    "author": null,
+    "publishedAt": "2026-06-02T14:41:21.000+08:00",
+    "fetchedAt": "2026-06-05T10:34:19.262Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 4,
+      "articleQuality": 6,
+      "timeliness": 3,
+      "uniqueness": 5,
+      "usefulness": 2,
+      "totalScore": 20,
+      "finalScore": 20,
+      "reason": "",
+      "notReason": "内容为TRPG跑团故事记录，叙事性强但缺乏行业分析价值和实用信息，对从业者参考意义有限",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "w4g1ra4zn8g0qbxc4grxv4y6",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215292",
     "title": "跑团故事 | 终夏挽歌 I",
     "titleZh": "跑团故事：终夏挽歌",
@@ -8782,9 +9447,49 @@
     }
   },
   {
-    "id": "hikwmn66uppazr2bc8ltuah1",
+    "id": "7ew80smsbqp8tr1ie0jh7piy",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215280",
+    "title": "【超长文】构筑设计指南",
+    "titleZh": "构筑设计指南：跨越品类的Build设计方法论",
+    "summaryZh": "系统探讨游戏设计中“构筑(Build)”的本质定义，涵盖TCG卡组、MOBA出装、MMO配装、Roguelike流派等多种构筑形态，从设计方法论角度分析如何构建合理的游戏构筑体系。",
+    "author": null,
+    "publishedAt": "2026-06-02T13:38:21.000+08:00",
+    "fetchedAt": "2026-06-05T10:34:24.242Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 18,
+      "articleQuality": 17,
+      "timeliness": 12,
+      "uniqueness": 15,
+      "usefulness": 18,
+      "totalScore": 80,
+      "finalScore": 80,
+      "reason": "跨品类系统性设计方法论，对游戏策划有直接参考价值",
+      "notReason": "",
+      "tags": [
+        "干货",
+        "行业"
+      ],
+      "relatedItems": [
+        {
+          "sourceId": "gcores-news",
+          "sourceName": "机核网-资讯",
+          "url": "https://gcores.com/articles/215280",
+          "title": "【超长文】构筑设计指南",
+          "titleZh": "构筑设计指南：游戏Build设计方法论",
+          "publishedAt": "2026-06-02T13:38:21.000+08:00",
+          "totalScore": 74
+        }
+      ]
+    }
+  },
+  {
+    "id": "hikwmn66uppazr2bc8ltuah1",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215280",
     "title": "【超长文】构筑设计指南",
     "titleZh": "构筑设计指南：游戏核心玩法设计方法论",
@@ -8822,7 +9527,7 @@
     "author": null,
     "publishedAt": "2026-06-02T13:38:21.000+08:00",
     "fetchedAt": "2026-06-05T07:42:48.035Z",
-    "isSelected": true,
+    "isSelected": false,
     "score": {
       "relevant": true,
       "importance": 16,
@@ -9591,9 +10296,39 @@
     }
   },
   {
-    "id": "kljnyqtmhtq8du3ol0wwjomr",
+    "id": "km0302qfnbj53roglqx4t7cb",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215274",
+    "title": "Boltray Games｜末日生存、硬核动作、高速跑酷、恐龙冒险，一次玩个够！",
+    "titleZh": "核聚变嘉年华：Boltray Games携四款新游亮相深圳",
+    "summaryZh": "核聚变游戏嘉年华深圳站即将开幕，全球发行新锐Boltray Games将携四款风格多元的游戏亮相，涵盖末日生存、硬核动作、高速跑酷、恐龙冒险等品类。展会将于6月27、28日在深圳国际会展中心举办。",
+    "author": null,
+    "publishedAt": "2026-06-02T11:00:00.000+08:00",
+    "fetchedAt": "2026-06-05T10:35:02.916Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 11,
+      "articleQuality": 11,
+      "timeliness": 13,
+      "uniqueness": 9,
+      "usefulness": 9,
+      "totalScore": 53,
+      "finalScore": 53,
+      "reason": "",
+      "notReason": "展会宣传稿，信息量和深度有限",
+      "tags": [
+        "展会",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "kljnyqtmhtq8du3ol0wwjomr",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215274",
     "title": "Boltray Games｜末日生存、硬核动作、高速跑酷、恐龙冒险，一次玩个够！",
     "titleZh": "Boltray Games携四款新游亮相核聚变嘉年华深圳站",
@@ -10206,9 +10941,38 @@
     }
   },
   {
-    "id": "50r4dgmmz63k174x11l6i20o",
+    "id": "hzc2m8cdi0667e1o6wehf4fu",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215271",
+    "title": "「金融帝国实验室」（Capitalism Lab）2026年官方国区『6·18特卖』",
+    "titleZh": "金融帝国实验室 2026年国区6·18特卖",
+    "summaryZh": "《金融帝国实验室》2026年国区6·18特卖活动，时间6月1日至30日，开发商为香港微启软体，支持微信、支付宝、银联支付，需输入优惠码获取优惠。",
+    "author": null,
+    "publishedAt": "2026-06-02T10:40:28.000+08:00",
+    "fetchedAt": "2026-06-05T10:35:13.976Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 5,
+      "articleQuality": 4,
+      "timeliness": 6,
+      "uniqueness": 3,
+      "usefulness": 4,
+      "totalScore": 22,
+      "finalScore": 22,
+      "reason": "",
+      "notReason": "内容为常规促销公告，信息量较少，对从业者参考价值有限",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "50r4dgmmz63k174x11l6i20o",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215271",
     "title": "「金融帝国实验室」（Capitalism Lab）2026年官方国区『6·18特卖』",
     "titleZh": "金融帝国实验室2026年6·18特卖",
@@ -10878,9 +11642,38 @@
     }
   },
   {
-    "id": "2k9f6txtoyk0ngg6fvyxodfm",
+    "id": "wptq3xzpax6qwdjfdf1cxhek",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215096",
+    "title": "BOOOMJam 评选结果出炉，获奖游戏与您相约深圳核聚变~",
+    "titleZh": "BOOOMJam评选结果揭晓，获奖作品将亮相深圳核聚变",
+    "summaryZh": "BOOOMJam三周开发周期内提交了三百多款游戏，经过线上试玩评选和内部评审会，由骁龙评审团、高校评审团和机核编辑等共同参与，最终评选结果公布，获奖游戏将在深圳核聚变活动亮相。",
+    "author": null,
+    "publishedAt": "2026-06-02T10:00:00.000+08:00",
+    "fetchedAt": "2026-06-05T10:35:33.435Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 10,
+      "timeliness": 11,
+      "uniqueness": 9,
+      "usefulness": 8,
+      "totalScore": 50,
+      "finalScore": 50,
+      "reason": "",
+      "notReason": "内容较水，仅为评选结果公告，缺乏深度分析和行业洞察",
+      "tags": [
+        "展会"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "2k9f6txtoyk0ngg6fvyxodfm",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215096",
     "title": "BOOOMJam 评选结果出炉，获奖游戏与您相约深圳核聚变~",
     "titleZh": "BOOOMJam评选结果揭晓，获奖游戏亮相深圳核聚变",
@@ -11603,9 +12396,39 @@
     }
   },
   {
-    "id": "2evifecsdrs4p4w6j4n2y9xc",
+    "id": "3xrvhztjzqa5455dapknb1wg",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215264",
+    "title": "马拉松前哨地图二阶段控制机制分析",
+    "titleZh": "马拉松前哨地图二阶段控制机制分析",
+    "summaryZh": "分析搜打撤品类游戏中出生点位对玩家信息获取、路线规划及行为策略的影响，探讨不同出生点导致体验两极分化的问题，并结合具体游戏案例进行机制解析。",
+    "author": null,
+    "publishedAt": "2026-06-02T06:46:33.000+08:00",
+    "fetchedAt": "2026-06-05T10:35:53.043Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 16,
+      "timeliness": 12,
+      "uniqueness": 13,
+      "usefulness": 14,
+      "totalScore": 70,
+      "finalScore": 70,
+      "reason": "深度解析搜打撤品类核心机制，对游戏策划有直接参考价值",
+      "notReason": "",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "2evifecsdrs4p4w6j4n2y9xc",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215264",
     "title": "马拉松前哨地图二阶段控制机制分析",
     "titleZh": "搜打撤品类出生点位设计分析",
@@ -12210,9 +13033,49 @@
     }
   },
   {
-    "id": "qp24edo1byd97x6x2urxz9tp",
+    "id": "tq2g5fq2pw0v6wyzq176iol0",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215265",
+    "title": "尝试AI辅助逆向马拉松前哨地图",
+    "titleZh": "AI辅助逆向工程：马拉松前哨地图",
+    "summaryZh": "介绍使用AI辅助工具逆向拆解游戏地图的方法，以马拉松游戏为例，探讨如何通过逆向分析现成地图来学习关卡设计规律，是关卡策划提升技能和训练设计思维的重要途径。",
+    "author": null,
+    "publishedAt": "2026-06-02T04:32:02.000+08:00",
+    "fetchedAt": "2026-06-05T10:36:03.829Z",
+    "isSelected": true,
+    "score": {
+      "relevant": true,
+      "importance": 16,
+      "articleQuality": 14,
+      "timeliness": 15,
+      "uniqueness": 16,
+      "usefulness": 15,
+      "totalScore": 76,
+      "finalScore": 76,
+      "reason": "AI与游戏地图设计的结合视角稀缺，关卡策划可直接借鉴的实用方法论",
+      "notReason": "",
+      "tags": [
+        "AI",
+        "游戏"
+      ],
+      "relatedItems": [
+        {
+          "sourceId": "gcores-news",
+          "sourceName": "机核网-资讯",
+          "url": "https://gcores.com/articles/215265",
+          "title": "尝试AI辅助逆向马拉松前哨地图",
+          "titleZh": "AI辅助逆向工程：马拉松前哨地图拆解",
+          "publishedAt": "2026-06-02T04:32:02.000+08:00",
+          "totalScore": 67
+        }
+      ]
+    }
+  },
+  {
+    "id": "qp24edo1byd97x6x2urxz9tp",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215265",
     "title": "尝试AI辅助逆向马拉松前哨地图",
     "titleZh": "AI辅助逆向游戏地图的方法与实践",
@@ -12780,7 +13643,7 @@
     "author": null,
     "publishedAt": "2026-06-02T04:32:02.000+08:00",
     "fetchedAt": "2026-06-02T13:21:45.299Z",
-    "isSelected": true,
+    "isSelected": false,
     "score": {
       "relevant": true,
       "importance": 14,
@@ -12829,9 +13692,38 @@
     }
   },
   {
-    "id": "1w89y67norvyfpugh6atsfoq",
+    "id": "yrziwp08pdwdmoqax8ce3tuc",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215256",
+    "title": "因为做游戏，我自愿延毕。",
+    "titleZh": "因为做游戏，我自愿延毕",
+    "summaryZh": "一位工科非全日制研三学生分享了他为专心开发游戏而自愿申请延毕的经历，展现了游戏开发者对游戏事业的热爱与投入，引发对追梦与学业平衡的思考。",
+    "author": null,
+    "publishedAt": "2026-06-01T19:06:09.000+08:00",
+    "fetchedAt": "2026-06-05T10:36:07.613Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 6,
+      "uniqueness": 8,
+      "usefulness": 5,
+      "totalScore": 32,
+      "finalScore": 32,
+      "reason": "",
+      "notReason": "内容较水，信息量不足，属于个人随笔而非行业分析",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "1w89y67norvyfpugh6atsfoq",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215256",
     "title": "因为做游戏，我自愿延毕。",
     "titleZh": "因为做游戏，我自愿延毕",
@@ -13408,9 +14300,68 @@
     }
   },
   {
-    "id": "o0uu3dtdea1zpo4o9eaeqa6q",
+    "id": "mgf5ypofp8i49dy9fei7eo0x",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215251",
+    "title": "明明全球势均力敌，为什么国内主机玩家，永远比PC玩家更像小众？",
+    "titleZh": "国内主机玩家为何比PC玩家更小众？",
+    "summaryZh": "文章分析国内主机游戏圈子的特殊性——虽然全球主机与PC分庭抗礼，但在中国主机玩家始终被视为\"小众\"群体，探讨这一现象背后的原因及中国游戏市场的独特格局。",
+    "author": null,
+    "publishedAt": "2026-06-01T19:05:25.000+08:00",
+    "fetchedAt": "2026-06-05T10:36:26.480Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 13,
+      "articleQuality": 14,
+      "timeliness": 10,
+      "uniqueness": 14,
+      "usefulness": 10,
+      "totalScore": 61,
+      "finalScore": 61,
+      "reason": "洞察中国主机游戏市场特殊性，对发行决策有参考价值",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "p80z8yyfqxe1bel45scb819r",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215247",
+    "title": "你不用先知道想表达什么，也可以开始创作——结构主义驱动的世界观设计方法",
+    "titleZh": "结构主义驱动的游戏世界观设计方法",
+    "summaryZh": "探讨商业游戏设计师如何解决世界观与主题表达的难题，提出从结构主义角度出发，通过先构建框架再寻找主题的设计路径，帮助设计师突破创作瓶颈，产出具有大众共鸣的故事内容。",
+    "author": null,
+    "publishedAt": "2026-06-01T19:05:25.000+08:00",
+    "fetchedAt": "2026-06-05T10:36:33.750Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 14,
+      "timeliness": 10,
+      "uniqueness": 16,
+      "usefulness": 13,
+      "totalScore": 68,
+      "finalScore": 68,
+      "reason": "提供独特方法论视角，结构主义设计方法实用性强",
+      "notReason": "",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "o0uu3dtdea1zpo4o9eaeqa6q",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215251",
     "title": "明明全球势均力敌，为什么国内主机玩家，永远比PC玩家更像小众？",
     "titleZh": "国内主机玩家为何比PC玩家更小众",
@@ -13439,8 +14390,8 @@
   },
   {
     "id": "3jatkkrsudb53axsiryh4g59",
-    "sourceId": "gcores-articles",
-    "sourceName": "机核网-文章",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215247",
     "title": "你不用先知道想表达什么，也可以开始创作——结构主义驱动的世界观设计方法",
     "titleZh": "结构主义驱动的游戏世界观设计方法",
@@ -14715,6 +15666,35 @@
     }
   },
   {
+    "id": "b1kar56g0ih2u09mtux9mcd5",
+    "sourceId": "gcores-articles",
+    "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215240",
+    "title": "玩·居·思",
+    "titleZh": "玩居思：游戏本质的哲学探源",
+    "summaryZh": "从人类学视角探讨'玩'的起源与本质，通过百万年前祖先抛石接石的故事，思考游戏活动与人类发展的深层联系，是一篇具有哲学深度的游戏文化随笔。",
+    "author": null,
+    "publishedAt": "2026-06-01T17:30:00.000+08:00",
+    "fetchedAt": "2026-06-05T10:36:40.452Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 16,
+      "timeliness": 4,
+      "uniqueness": 15,
+      "usefulness": 8,
+      "totalScore": 55,
+      "finalScore": 55,
+      "reason": "",
+      "notReason": "文章偏哲学思考，信息密度不足，与游戏行业实际工作关联较弱",
+      "tags": [
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
     "id": "jf4ts6llxeup0jffj4mtjzj6",
     "sourceId": "gcores-news",
     "sourceName": "机核网-资讯",
@@ -15147,9 +16127,38 @@
     }
   },
   {
-    "id": "e2snuufqbnw2ixvn9v2x0o70",
+    "id": "055lhsv4xeqtw4oe0nvnqihx",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215239",
+    "title": "热血梦想之战！电脑报高校电竞赛春季赛南京站晋级战队产生",
+    "titleZh": "2026电脑报高校电竞赛春季赛南京站：主场战队CUCN 2:0晋级决赛",
+    "summaryZh": "2026年5月28日，电脑报高校电竞赛春季赛南京赛区在南京传媒学院举行，CUCN战队主场迎战南京林业大学RGL战队。CUCN凭借精准枪法与灵活战术以2:0轻取对手，成功晋级春季赛决赛。",
+    "author": null,
+    "publishedAt": "2026-06-01T14:36:49.000+08:00",
+    "fetchedAt": "2026-06-05T10:36:48.713Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 6,
+      "articleQuality": 5,
+      "timeliness": 7,
+      "uniqueness": 4,
+      "usefulness": 3,
+      "totalScore": 25,
+      "finalScore": 25,
+      "reason": "",
+      "notReason": "区域性赛事报道，深度有限，实用价值较低",
+      "tags": [
+        "展会"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "e2snuufqbnw2ixvn9v2x0o70",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215239",
     "title": "热血梦想之战！电脑报高校电竞赛春季赛南京站晋级战队产生",
     "titleZh": "2026电脑报高校电竞赛南京站：本土战队CUCN成功晋级",
@@ -15959,9 +16968,39 @@
     }
   },
   {
-    "id": "8c08wm17u1rqjomnrht744fu",
+    "id": "0c68kb90q4m5j6zerbsyv4nl",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214692",
+    "title": "复古的双人太空冒险之旅！｜《轨道双子星》参展2026深圳核聚变！",
+    "titleZh": "复古双人太空冒险《轨道双子星》参展2026深圳核聚变",
+    "summaryZh": "核聚变游戏嘉年华深圳站将于6月27-28日在深圳国际会展中心举行，复古动漫风格新游《Orbitals》参展，玩家可与探险家真希和尾村一起踏上拯救家园的冒险之旅，体验限定周边和沉浸式玩家氛围。",
+    "author": null,
+    "publishedAt": "2026-06-01T10:00:00.000+08:00",
+    "fetchedAt": "2026-06-05T10:36:52.334Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 13,
+      "timeliness": 14,
+      "uniqueness": 11,
+      "usefulness": 10,
+      "totalScore": 60,
+      "finalScore": 60,
+      "reason": "复古风格游戏参展核聚变展会信息，展会党值得关注",
+      "notReason": "",
+      "tags": [
+        "展会",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "8c08wm17u1rqjomnrht744fu",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/214692",
     "title": "复古的双人太空冒险之旅！｜《轨道双子星》参展2026深圳核聚变！",
     "titleZh": "《轨道双子星》参展2026深圳核聚变！复古双人太空冒险",
@@ -16819,9 +17858,39 @@
     }
   },
   {
-    "id": "vdw9za1l8yv2z2pwwkc81mg4",
+    "id": "9mmzzhzvgtkrmikdcfhjbgmu",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215212",
+    "title": "高压生存与自嘲叙事：《三角洲行动》鼠鼠文化的起源、发展与文化逻辑",
+    "titleZh": "《三角洲行动》鼠鼠文化解析",
+    "summaryZh": "分析腾讯琳琅天上工作室研发的跨端战术射击游戏《三角洲行动》玩家社群中自发形成的\"鼠鼠文化\"现象，探讨其起源、发展脉络与文化逻辑，揭示硬核玩法如何催生玩家自嘲亚文化。",
+    "author": null,
+    "publishedAt": "2026-06-01T06:33:02.000+08:00",
+    "fetchedAt": "2026-06-05T10:37:19.755Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 14,
+      "timeliness": 12,
+      "uniqueness": 13,
+      "usefulness": 11,
+      "totalScore": 62,
+      "finalScore": 62,
+      "reason": "深度解析玩家亚文化，对社区运营和产品迭代有参考价值",
+      "notReason": "",
+      "tags": [
+        "行业",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "vdw9za1l8yv2z2pwwkc81mg4",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215212",
     "title": "高压生存与自嘲叙事：《三角洲行动》鼠鼠文化的起源、发展与文化逻辑",
     "titleZh": "高压生存与自嘲叙事：三角洲行动鼠鼠文化解析",
@@ -17473,9 +18542,38 @@
     }
   },
   {
-    "id": "zlbz16eqh49wtzy6pbp9x9mp",
+    "id": "7gs2ysebey1jm162kpsrt7pl",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215213",
+    "title": "跨越20多年的存档",
+    "titleZh": "跨越20多年的存档",
+    "summaryZh": "作者回忆宝可梦宝石版未白镇BGM引发的怀旧情感，描述这段经典旋律如何将其带回童年时光，伴随着GBA模拟器重温当年坐在电脑前的记忆。",
+    "author": null,
+    "publishedAt": "2026-06-01T02:42:00.000+08:00",
+    "fetchedAt": "2026-06-05T10:37:27.203Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 5,
+      "articleQuality": 8,
+      "timeliness": 3,
+      "uniqueness": 4,
+      "usefulness": 2,
+      "totalScore": 22,
+      "finalScore": 22,
+      "reason": "",
+      "notReason": "情感类怀旧文章，信息量和行业价值均不足",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "zlbz16eqh49wtzy6pbp9x9mp",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215213",
     "title": "跨越20多年的存档",
     "titleZh": "跨越20多年的存档",
@@ -17995,8 +19093,8 @@
   },
   {
     "id": "uo8swp5u8eux2bezqtq95gdx",
-    "sourceId": "gcores-articles",
-    "sourceName": "机核网-文章",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215040",
     "title": "相见恨晚（第五章）",
     "titleZh": "相见恨晚（第五章）",
@@ -18076,9 +19174,38 @@
     }
   },
   {
-    "id": "i6yws7xt3l65rs3rjd54frnt",
+    "id": "0iu0aomvyiktvoql0m18km5z",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215209",
+    "title": "空洞死了，会变成罗斯凯利法吗？",
+    "titleZh": "空洞骑士剧情设定分析",
+    "summaryZh": "探讨《空洞骑士》中「初代虚狩」挽昼的存活之谜，以及罗斯凯利法悬浮天空、保留昔日荣光的原因，分析游戏中钟表意象的象征意义。",
+    "author": null,
+    "publishedAt": "2026-05-31T18:02:45.000+08:00",
+    "fetchedAt": "2026-06-05T10:37:54.873Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 6,
+      "articleQuality": 7,
+      "timeliness": 4,
+      "uniqueness": 5,
+      "usefulness": 3,
+      "totalScore": 25,
+      "finalScore": 25,
+      "reason": "",
+      "notReason": "内容偏粉丝向剧情讨论，信息密度和实用性对从业者参考价值有限",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "i6yws7xt3l65rs3rjd54frnt",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215209",
     "title": "空洞死了，会变成罗斯凯利法吗？",
     "titleZh": "空洞骑士中“罗斯凯利法”的设定分析",
@@ -18669,9 +19796,39 @@
     }
   },
   {
-    "id": "7gftma3uxwnisz7kjd74eg2m",
+    "id": "4g3nmx7hlgc949gonbwf6j7g",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214941",
+    "title": "NINJA GAIDEN 4 - 忍者，乃独行于孤途之士也",
+    "titleZh": "《忍者龙剑传4》评测：忍者独行于孤途",
+    "summaryZh": "这是一篇《忍者龙剑传4》的深度评测文章，基于作者实际游玩体验，对游戏的设计目的与实现效果进行主客观结合的评判。文章包含跨专业领域的分析，评测方法论有一定参考价值。",
+    "author": null,
+    "publishedAt": "2026-05-31T10:00:00.000+08:00",
+    "fetchedAt": "2026-06-05T10:38:10.836Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 13,
+      "articleQuality": 12,
+      "timeliness": 12,
+      "uniqueness": 11,
+      "usefulness": 10,
+      "totalScore": 58,
+      "finalScore": 58,
+      "reason": "",
+      "notReason": "内容较偏向个人游戏感受而非行业视角，对从业者实用信息有限",
+      "tags": [
+        "游戏",
+        "AI"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "7gftma3uxwnisz7kjd74eg2m",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/214941",
     "title": "NINJA GAIDEN 4 - 忍者，乃独行于孤途之士也",
     "titleZh": "忍者龙剑传4评测",
@@ -19419,9 +20576,38 @@
     }
   },
   {
-    "id": "38y4hr7ylpzd51lvx319p0hn",
+    "id": "fgahzruz953qng06qzur36ti",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215193",
+    "title": "【PART 1】关于《零~刺青之声~》的Fatal Frame系统研究（一）",
+    "titleZh": "《零~刺青之声~》Fatal Frame系统研究（第一部分）",
+    "summaryZh": "玩家对经典恐怖游戏《零~刺青之声~》噩梦难度下Fatal Frame系统的深度研究分析，属于玩家向攻略性质内容，包含游戏机制探讨与个人游戏感想。",
+    "author": null,
+    "publishedAt": "2026-05-30T19:00:00.000+08:00",
+    "fetchedAt": "2026-06-05T10:38:29.268Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 6,
+      "articleQuality": 10,
+      "timeliness": 4,
+      "uniqueness": 8,
+      "usefulness": 7,
+      "totalScore": 35,
+      "finalScore": 35,
+      "reason": "",
+      "notReason": "内容较水，以玩家感想为主，研究深度不足，与游戏行业关联较弱",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "38y4hr7ylpzd51lvx319p0hn",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215193",
     "title": "【PART 1】关于《零~刺青之声~》的Fatal Frame系统研究（一）",
     "titleZh": "《零~刺青之声~》Fatal Frame系统研究（一）",
@@ -20035,9 +21221,39 @@
     }
   },
   {
-    "id": "7ti7208lerkg438hnsp3m4pc",
+    "id": "5p75esps92pf741md5hlq70m",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215189",
+    "title": "Crpg发展史第一卷：从桌面到荧幕——第一章：机房、终端与 PLATO 社群",
+    "titleZh": "CRPG发展史：从桌面到荧幕·PLATO社群",
+    "summaryZh": "CRPG发展史系列开篇，讲述角色扮演游戏从桌面迈向计算机的历程。首章聚焦早期PLATO系统与机房终端环境，探讨原始CRPG社群如何形成，为后续发展奠定基础。",
+    "author": null,
+    "publishedAt": "2026-05-30T00:05:18.000+08:00",
+    "fetchedAt": "2026-06-05T10:38:39.168Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 15,
+      "articleQuality": 17,
+      "timeliness": 8,
+      "uniqueness": 16,
+      "usefulness": 12,
+      "totalScore": 68,
+      "finalScore": 68,
+      "reason": "CRPG发展史深度好文，对理解RPG品类演变有重要参考价值",
+      "notReason": "",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "7ti7208lerkg438hnsp3m4pc",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215189",
     "title": "Crpg发展史第一卷：从桌面到荧幕——第一章：机房、终端与 PLATO 社群",
     "titleZh": "CRPG发展史：桌面到荧幕·第一章：PLATO社群",
@@ -20194,7 +21410,7 @@
     "author": null,
     "publishedAt": "2026-05-30T00:05:18.000+08:00",
     "fetchedAt": "2026-06-04T15:55:26.137Z",
-    "isSelected": true,
+    "isSelected": false,
     "score": {
       "relevant": true,
       "importance": 12,
@@ -20658,9 +21874,39 @@
     }
   },
   {
-    "id": "gptsibylux9lk97vdh4es542",
+    "id": "cm43u21h3oj23nj1lysdclkt",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215175",
+    "title": "从迷茫到圆梦：一个单人开发者的五年心路",
+    "titleZh": "单人开发者的五年心路历程",
+    "summaryZh": "独立游戏开发者Zeck分享其五年游戏开发经历，从最初仅会PS和AI，逐步掌握建模、材质、UI、后端、C++等全栈技能，最终完成《凯普勒186F》并赴英国高校分享，展现了单人开发者的成长与坚持。",
+    "author": null,
+    "publishedAt": "2026-05-29T22:18:49.000+08:00",
+    "fetchedAt": "2026-06-05T10:38:49.998Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 9,
+      "articleQuality": 8,
+      "timeliness": 7,
+      "uniqueness": 10,
+      "usefulness": 7,
+      "totalScore": 41,
+      "finalScore": 41,
+      "reason": "",
+      "notReason": "内容以个人叙事为主，信息密度有限，实用干货较少，难以直接指导开发工作",
+      "tags": [
+        "行业",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "gptsibylux9lk97vdh4es542",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215175",
     "title": "从迷茫到圆梦：一个单人开发者的五年心路",
     "titleZh": "从迷茫到圆梦：一个单人开发者的五年心路",
@@ -21300,9 +22546,38 @@
     }
   },
   {
-    "id": "40itxm24wldu5xo94wgp2otv",
+    "id": "h7iuhp0809b8bv1bavge9q98",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215183",
+    "title": "什么是RPG的硬功夫？｜机事本5.23-5.29",
+    "titleZh": "RPG的硬功夫是什么？｜机事本周刊",
+    "summaryZh": "机核网编辑周末栏目本周推荐《潘德的预言》mod游戏，探讨RPG游戏中\"硬功夫\"的设计与体验。文章为编辑个人游戏感想分享，题材随意，属于轻便随笔类内容。",
+    "author": null,
+    "publishedAt": "2026-05-29T22:08:00.000+08:00",
+    "fetchedAt": "2026-06-05T10:39:02.737Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 5,
+      "articleQuality": 7,
+      "timeliness": 9,
+      "uniqueness": 10,
+      "usefulness": 4,
+      "totalScore": 35,
+      "finalScore": 35,
+      "reason": "",
+      "notReason": "内容为编辑个人游戏感想，行业参考价值有限",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "40itxm24wldu5xo94wgp2otv",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215183",
     "title": "什么是RPG的硬功夫？｜机事本5.23-5.29",
     "titleZh": "什么是RPG的硬功夫？｜机事本5.23-5.29",
@@ -21932,9 +23207,39 @@
     }
   },
   {
-    "id": "zni9g6xr8fbi2qhm2z3shlbz",
+    "id": "q5bvca172vtem7bkncumjgd9",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215161",
+    "title": "10年布局之后，他们拿出了一款超级“野”的生存对抗游戏",
+    "titleZh": "腾讯十年布局的超级野性生存对抗游戏",
+    "summaryZh": "本文介绍了腾讯游戏发布会上发布的生存对抗游戏《失控进化》，并探讨了其与热门游戏《Rust》之间的玩法授权关系，通过策划专访深入解析游戏设计理念。",
+    "author": null,
+    "publishedAt": "2026-05-29T21:27:32.000+08:00",
+    "fetchedAt": "2026-06-05T10:39:09.993Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 13,
+      "articleQuality": 13,
+      "timeliness": 15,
+      "uniqueness": 12,
+      "usefulness": 10,
+      "totalScore": 63,
+      "finalScore": 63,
+      "reason": "一手策划访谈揭示大厂新品布局，行业参考价值较高",
+      "notReason": "",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "zni9g6xr8fbi2qhm2z3shlbz",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215161",
     "title": "10年布局之后，他们拿出了一款超级“野”的生存对抗游戏",
     "titleZh": "腾讯新游《失控进化》与《Rust》授权背后的故事",
@@ -22612,9 +23917,38 @@
     }
   },
   {
-    "id": "qdled3no3e4fqsj2ynmuscjk",
+    "id": "eu9wa2alvv3n8pr1f2h62xiz",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215169",
+    "title": "《近视战士MYOPIA》开发回顾",
+    "titleZh": "《近视战士MYOPIA》开发回顾",
+    "summaryZh": "声音设计师以主观视角记录参与游戏开发活动的经历，补充黑手老师的复盘内容，分享游戏设计与制作中的思考，并涉及声音相关技术经验。",
+    "author": null,
+    "publishedAt": "2026-05-29T20:08:01.000+08:00",
+    "fetchedAt": "2026-06-05T10:39:14.217Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 10,
+      "articleQuality": 11,
+      "timeliness": 9,
+      "uniqueness": 13,
+      "usefulness": 9,
+      "totalScore": 52,
+      "finalScore": 52,
+      "reason": "",
+      "notReason": "内容偏个人感受，信息密度不足，难以直接应用到实际工作中",
+      "tags": [
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "qdled3no3e4fqsj2ynmuscjk",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215169",
     "title": "《近视战士MYOPIA》开发回顾",
     "titleZh": "《近视战士MYOPIA》开发回顾",
@@ -23257,9 +24591,38 @@
     }
   },
   {
-    "id": "rgmpjqa5x9g8w2wcgxb1e2d7",
+    "id": "3rkq9zcij6t6bfuwzqq5cwqf",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215173",
+    "title": "《墨境》新手避坑指南~美女如云、刀光墨影",
+    "titleZh": "《墨境》新手避坑指南",
+    "summaryZh": "《墨境》是一款国产武侠动作肉鸽游戏，采用泼墨画风，1.0版本刚更新。文章提供新手攻略指南，帮助玩家快速上手游戏，避免被小怪击杀，是面向玩家的入门教程。",
+    "author": null,
+    "publishedAt": "2026-05-29T20:01:23.000+08:00",
+    "fetchedAt": "2026-06-05T10:39:24.038Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 6,
+      "articleQuality": 6,
+      "timeliness": 7,
+      "uniqueness": 5,
+      "usefulness": 6,
+      "totalScore": 30,
+      "finalScore": 30,
+      "reason": "",
+      "notReason": "内容为玩家向攻略，对行业从业者参考价值有限",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "rgmpjqa5x9g8w2wcgxb1e2d7",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215173",
     "title": "《墨境》新手避坑指南~美女如云、刀光墨影",
     "titleZh": "《墨境》新手避坑指南",
@@ -23837,9 +25200,38 @@
     }
   },
   {
-    "id": "9jml0y0aw23b5t2kj4bnb1q4",
+    "id": "bk5v0436xmo8lk8ts19sibna",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215172",
+    "title": "《萌禽争霸》开发日志#2 - 更新特效及UI，增加新的局内养成",
+    "titleZh": "萌禽争霸开发日志#2-特效UI更新与局内养成",
+    "summaryZh": "游戏开发团队分享近一个月开发进展，包括美术制作讨论成果、新游戏机制曝光，以及特效和UI的更新内容，同时预告了局内养成系统的加入。",
+    "author": null,
+    "publishedAt": "2026-05-29T19:19:06.000+08:00",
+    "fetchedAt": "2026-06-05T10:39:34.224Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 9,
+      "articleQuality": 11,
+      "timeliness": 13,
+      "uniqueness": 12,
+      "usefulness": 7,
+      "totalScore": 52,
+      "finalScore": 52,
+      "reason": "",
+      "notReason": "开发日志内容较水，信息密度不足，仅为单一产品进度汇报",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "9jml0y0aw23b5t2kj4bnb1q4",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215172",
     "title": "《萌禽争霸》开发日志#2 - 更新特效及UI，增加新的局内养成",
     "titleZh": "《萌禽争霸》开发日志#2 - 特效UI更新及局内养成",
@@ -24440,9 +25832,38 @@
     }
   },
   {
-    "id": "zrz70j6awqco1c8s82s5ygdj",
+    "id": "d1ou08rsqaa881beazgp92xf",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215174",
+    "title": "【非正经】有关柒幺/战争之子广为人知的100个事实（上）",
+    "titleZh": "游戏角色趣味设定100则",
+    "summaryZh": "围绕游戏角色柒幺与战争之子的非正经设定整理，涵盖角色能力、行为习惯及游戏世界观的趣味性描述，适合对相关游戏IP感兴趣的读者阅读了解。",
+    "author": null,
+    "publishedAt": "2026-05-29T19:18:30.000+08:00",
+    "fetchedAt": "2026-06-05T10:39:44.678Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 4,
+      "articleQuality": 6,
+      "timeliness": 5,
+      "uniqueness": 7,
+      "usefulness": 3,
+      "totalScore": 25,
+      "finalScore": 25,
+      "reason": "",
+      "notReason": "内容属于游戏IP二次创作，信息量和实用度对从业者参考价值较低",
+      "tags": [
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "zrz70j6awqco1c8s82s5ygdj",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215174",
     "title": "【非正经】有关柒幺/战争之子广为人知的100个事实（上）",
     "titleZh": "【非正经】有关柒幺/战争之子广为人知的100个事实（上）",
@@ -24842,9 +26263,39 @@
     }
   },
   {
-    "id": "mbye9yiuzutr5mhr0dxjtvhx",
+    "id": "08g51yc87pufa5ez4hn6yt1t",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215165",
+    "title": "异度系列的开发逸事（二）",
+    "titleZh": "异度系列开发逸事（二）",
+    "summaryZh": "本期聚焦经典RPG《异度传说》的幕后开发故事，讲述KOS-MOS角色设计如何从停滞到突破的过程。田中久仁彦确定初步形象后陷入瓶颈，高桥信夫尝试内部开发未能如愿，最终邀请麦谷兴一参与设计，并透露高桥提出的“狂”要求。",
+    "author": null,
+    "publishedAt": "2026-05-29T19:16:20.000+08:00",
+    "fetchedAt": "2026-06-05T10:39:59.375Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 13,
+      "articleQuality": 12,
+      "timeliness": 8,
+      "uniqueness": 14,
+      "usefulness": 10,
+      "totalScore": 57,
+      "finalScore": 57,
+      "reason": "",
+      "notReason": "时效性较弱，内容偏向闲聊性质，对从业者实用参考有限",
+      "tags": [
+        "游戏",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "mbye9yiuzutr5mhr0dxjtvhx",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215165",
     "title": "异度系列的开发逸事（二）",
     "titleZh": "异度系列的开发逸事（二）",
@@ -25549,9 +27000,39 @@
     }
   },
   {
-    "id": "azj7m5k5xia4731lfay6tamf",
+    "id": "pjahlmnoxfufwylu1f9gsl46",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215039",
+    "title": "关卡设计中的寻路引导",
+    "titleZh": "关卡设计中的寻路引导",
+    "summaryZh": "文章探讨关卡设计中如何通过视觉和环境元素引导玩家找到正确方向，讨论设计者与玩家之间通过游戏物件进行无声沟通的设计理念与实践方法。",
+    "author": null,
+    "publishedAt": "2026-05-29T18:15:20.000+08:00",
+    "fetchedAt": "2026-06-05T10:40:10.859Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 9,
+      "articleQuality": 8,
+      "timeliness": 10,
+      "uniqueness": 6,
+      "usefulness": 9,
+      "totalScore": 42,
+      "finalScore": 42,
+      "reason": "",
+      "notReason": "关卡引导属常见设计话题，内容独特性一般，实用价值有限",
+      "tags": [
+        "干货",
+        "行业"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "azj7m5k5xia4731lfay6tamf",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215039",
     "title": "关卡设计中的寻路引导",
     "titleZh": "关卡设计中的寻路引导",
@@ -26855,9 +28336,39 @@
     }
   },
   {
-    "id": "7jz5vlam1l2db17jgt5psqtz",
+    "id": "svrbmdwy3uimaqgssomk06i4",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/215088",
+    "title": "奇幻战略模拟《幻想大陆战记：深渊》＆以“无人东京”为舞台的冒险游戏《Tokyo Stories》两款新作现场试玩！",
+    "titleZh": "两款新游戏核聚变嘉年华深圳站现场试玩",
+    "summaryZh": "核聚变游戏嘉年华深圳站将于6月27、28日在深圳国际会展中心举办，Happinet集团将带来奇幻战略模拟《幻想大陆战记：深渊》及冒险游戏《Tokyo Stories》两款新作现场试玩，同时提供限定周边收集等玩家互动体验。",
+    "author": null,
+    "publishedAt": "2026-05-29T10:00:00.000+08:00",
+    "fetchedAt": "2026-06-05T10:40:31.638Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 11,
+      "articleQuality": 10,
+      "timeliness": 13,
+      "uniqueness": 8,
+      "usefulness": 9,
+      "totalScore": 51,
+      "finalScore": 51,
+      "reason": "",
+      "notReason": "信息量较水，仅为普通展会预告缺乏深度分析",
+      "tags": [
+        "展会",
+        "游戏"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "7jz5vlam1l2db17jgt5psqtz",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/215088",
     "title": "奇幻战略模拟《幻想大陆战记：深渊》＆以“无人东京”为舞台的冒险游戏《Tokyo Stories》两款新作现场试玩！",
     "titleZh": "两款新作试玩！核聚变游戏嘉年华深圳站",
@@ -27705,9 +29216,39 @@
     }
   },
   {
-    "id": "4uemuourp9db8h0l84dhmy4m",
+    "id": "dcdtrhme3qojfw2xxz16n43y",
     "sourceId": "gcores-articles",
     "sourceName": "机核网-文章",
+    "url": "https://gcores.com/articles/214985",
+    "title": "开发回顾《近视战士MYOPIA》",
+    "titleZh": "近视战士MYOPIA开发回顾",
+    "summaryZh": "作者分享独立游戏《近视战士MYOPIA》的开发过程，讲述如何围绕“视界限”主题进行创意构思，包括单人开发策略、脑暴流程、方案选择等实践经验，对独立游戏开发者有参考意义。",
+    "author": null,
+    "publishedAt": "2026-05-29T07:55:59.000+08:00",
+    "fetchedAt": "2026-06-05T10:40:35.421Z",
+    "isSelected": false,
+    "score": {
+      "relevant": true,
+      "importance": 12,
+      "articleQuality": 11,
+      "timeliness": 8,
+      "uniqueness": 10,
+      "usefulness": 10,
+      "totalScore": 51,
+      "finalScore": 51,
+      "reason": "",
+      "notReason": "内容偏向个人开发流水账，信息密度和行业普适性不足",
+      "tags": [
+        "游戏",
+        "干货"
+      ],
+      "relatedItems": []
+    }
+  },
+  {
+    "id": "4uemuourp9db8h0l84dhmy4m",
+    "sourceId": "gcores-news",
+    "sourceName": "机核网-资讯",
     "url": "https://gcores.com/articles/214985",
     "title": "开发回顾《近视战士MYOPIA》",
     "titleZh": "开发回顾《近视战士MYOPIA》",
